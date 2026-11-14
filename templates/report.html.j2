@@ -130,7 +130,7 @@ section{padding:72px 0 0}
 .srow{display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-size:11.5px;color:var(--ink3)}
 .src{display:inline-flex;align-items:center;gap:6px;padding:3px 9px 3px 4px;border:1px solid var(--line2);border-radius:999px;color:var(--ink2);font-weight:500}
 .src i{width:16px;height:16px;border-radius:50%;display:grid;place-items:center;font:700 9px Inter;font-style:normal;color:#fff}
-.src.g i{background:linear-gradient(135deg,#4285f4,#34a853)} .src.y i{background:#6001d2} .src.b i{background:#111;border:1px solid #444}
+.src.g i{background:linear-gradient(135deg,#4285f4,#34a853)} .src.y i{background:#6001d2} .src.b i{background:#111;border:1px solid #444} .src.o i{background:var(--ink3)}
 .cat{color:var(--gold);letter-spacing:.14em;text-transform:uppercase;font-weight:600;font-size:10.5px}
 .imp{display:inline-flex;gap:3px;margin-left:auto}
 .imp b{width:5px;height:12px;border-radius:2px;background:var(--line2)}
@@ -237,8 +237,8 @@ try{var t=localStorage.getItem("mb-theme");if(t)document.documentElement.setAttr
 <div class="grain" aria-hidden="true"></div>
 
 {% macro srcbadge(name) -%}
-{%- set k = 'g' if 'Google' in name else ('y' if 'Yahoo' in name else 'b') -%}
-<span class="src {{ k }}"><i>{{ k|upper }}</i>{{ name }}</span>
+{%- set k = 'g' if 'Google' in name else ('y' if 'Yahoo' in name else ('b' if 'Bloomberg' in name else 'o')) -%}
+<span class="src {{ k }}"><i>{{ (name[:1] if k == 'o' else k)|upper }}</i>{{ name }}</span>
 {%- endmacro %}
 {% macro chips(tickers) -%}
 {% if tickers %}<div class="chips">{% for t in tickers[:5] %}{% set q = quotes.get(t) %}<span class="chip">{{ t }}{% if q is not none %}<span class="{{ q|tone }}">{{ q|pct(1) }}</span>{% endif %}</span>{% endfor %}</div>{% endif %}

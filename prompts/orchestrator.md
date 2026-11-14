@@ -15,7 +15,7 @@ Do not fetch the news yourself. If one desk fails or returns nothing, carry on w
 Read whichever of these files exist: `news_google.json`, `news_yahoo.json`, `news_bloomberg.json`, `pulse.json`, and `markets.json`. For markets.json, read only the `benchmarks`, `breadth` and `sectors` keys; it is large, so use a limit/offset or skip the heatmap.
 
 Merge the stories:
-- **Deduplicate.** Stories about the same event from different sources become one story, with all of its sources listed in `sources` and every URL kept in `links`. A story covered by more sources is more important.
+- **Deduplicate.** Stories about the same event from different sources become one story, with all of its sources listed in `sources` and every URL kept in `links`. `sources` and each link's `source` must be the desk names exactly: "Google Finance", "Yahoo Finance" or "Bloomberg", never the original publisher (Reuters, WSJ and so on). A story covered by more sources is more important.
 - **Rank** by market impact: importance score, multi-source coverage, then recency.
 - Keep the top **12** stories. Story #1 is the lead.
 - Rewrite each headline so it is sharp, factual and free of hype. Rewrite each summary as 2–3 sentences in a confident, Financial-Times-style voice with no filler. Use only facts from the scout files.
