@@ -1,0 +1,1204 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Morning Brief · 2026-11-11</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300..800;1,9..144,300..700&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#07090d; --bg2:#0c1017; --panel:rgba(255,255,255,.035); --panel-solid:#10151e; --line:rgba(255,255,255,.08); --line2:rgba(255,255,255,.14);
+  --ink:#f3efe6; --ink2:#b9b4a8; --ink3:#7d7a73; --gold:#d6b46a; --gold2:#f1d89c; --goldglow:rgba(214,180,106,.18);
+  --up:#2fd29a; --down:#ff5d6c; --flat:#9aa0aa; --upbg:rgba(47,210,154,.12); --downbg:rgba(255,93,108,.12);
+  --shadow:0 1px 0 rgba(255,255,255,.04) inset, 0 20px 50px -20px rgba(0,0,0,.6);
+  --heat-bg:#05070a; --heat-text:#fff;
+  color-scheme:dark;
+}
+@media (prefers-color-scheme: light){
+  :root:not([data-theme="dark"]){
+    --bg:#f6f2ea; --bg2:#efe9dd; --panel:rgba(255,255,255,.7); --panel-solid:#fffdf8; --line:rgba(20,20,30,.09); --line2:rgba(20,20,30,.16);
+    --ink:#14161c; --ink2:#4a4c55; --ink3:#878580; --gold:#9a7428; --gold2:#7a5a18; --goldglow:rgba(154,116,40,.12);
+    --up:#0b8f62; --down:#d23345; --flat:#6b7079; --upbg:rgba(11,143,98,.1); --downbg:rgba(210,51,69,.1);
+    --shadow:0 1px 0 rgba(255,255,255,.8) inset, 0 18px 40px -24px rgba(60,40,10,.25);
+    --heat-bg:#1a1d24; --heat-text:#fff; color-scheme:light;
+  }
+}
+:root[data-theme="light"]{
+  --bg:#f6f2ea; --bg2:#efe9dd; --panel:rgba(255,255,255,.7); --panel-solid:#fffdf8; --line:rgba(20,20,30,.09); --line2:rgba(20,20,30,.16);
+  --ink:#14161c; --ink2:#4a4c55; --ink3:#878580; --gold:#9a7428; --gold2:#7a5a18; --goldglow:rgba(154,116,40,.12);
+  --up:#0b8f62; --down:#d23345; --flat:#6b7079; --upbg:rgba(11,143,98,.1); --downbg:rgba(210,51,69,.1);
+  --shadow:0 1px 0 rgba(255,255,255,.8) inset, 0 18px 40px -24px rgba(60,40,10,.25);
+  --heat-bg:#1a1d24; --heat-text:#fff; color-scheme:light;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--ink);font:15px/1.6 Inter,system-ui,sans-serif;-webkit-font-smoothing:antialiased;overflow-x:hidden;
+  background-image:radial-gradient(1200px 600px at 85% -10%,var(--goldglow),transparent 60%),radial-gradient(900px 500px at -10% 10%,rgba(80,120,255,.06),transparent 60%);background-attachment:fixed}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:30;background:var(--bg)}
+.grain{position:fixed;inset:0;pointer-events:none;z-index:0;opacity:.035;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E")}
+a{color:inherit;text-decoration:none}
+.mono{font-family:"JetBrains Mono",ui-monospace,monospace;font-feature-settings:"tnum"}
+.serif{font-family:Fraunces,Georgia,serif}
+.up{color:var(--up)} .down{color:var(--down)} .flat{color:var(--flat)}
+.wrap{position:relative;z-index:1;max-width:1320px;margin:0 auto;padding-left:max(32px,env(safe-area-inset-left,0px));padding-right:max(32px,env(safe-area-inset-right,0px))}
+
+/* top bar */
+.topbar{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;backdrop-filter:saturate(1.4) blur(14px);-webkit-backdrop-filter:saturate(1.4) blur(14px);background:color-mix(in srgb,var(--bg) 78%,transparent);border-bottom:1px solid var(--line)}
+.topbar .wrap{display:flex;align-items:center;gap:24px;height:62px}
+.brand{display:flex;align-items:center;gap:12px}
+.mark{width:34px;height:34px;border-radius:9px;display:grid;place-items:center;background:linear-gradient(135deg,var(--gold2),var(--gold) 55%,#8a6a2a);color:#14110a;font:700 15px Fraunces,serif;box-shadow:0 6px 18px -6px var(--gold)}
+.brand b{font:600 17px Fraunces,serif;letter-spacing:.01em}
+.brand small{display:block;font-size:10.5px;letter-spacing:.18em;text-transform:uppercase;color:var(--ink3);margin-top:-3px}
+nav.links{display:flex;gap:4px;margin-left:auto}
+nav.links a{font-size:13px;color:var(--ink2);padding:7px 12px;border-radius:999px;transition:.2s}
+nav.links a:hover{color:var(--ink);background:var(--panel)}
+.toggle{border:1px solid var(--line2);background:var(--panel);color:var(--ink2);width:36px;height:36px;border-radius:999px;cursor:pointer;display:grid;place-items:center}
+.toggle:hover{color:var(--gold)}
+
+/* ticker */
+.ticker{border-bottom:1px solid var(--line);overflow:hidden;background:var(--bg2);position:relative;z-index:1}
+.ticker::before,.ticker::after{content:"";position:absolute;top:0;bottom:0;width:80px;z-index:2;pointer-events:none}
+.ticker::before{left:0;background:linear-gradient(90deg,var(--bg2),transparent)} .ticker::after{right:0;background:linear-gradient(-90deg,var(--bg2),transparent)}
+.track{display:flex;width:max-content;animation:tick 70s linear infinite}
+.ticker:hover .track{animation-play-state:paused}
+.tk-item{display:flex;align-items:baseline;gap:10px;padding:11px 28px;border-right:1px solid var(--line);white-space:nowrap;font-size:13px}
+.tk-item .l{color:var(--ink2);font-weight:500}
+.tk-item .p{color:var(--ink)}
+@keyframes tick{to{transform:translateX(-50%)}}
+
+/* masthead */
+.mast{padding:64px 0 36px;border-bottom:1px solid var(--line)}
+.eyebrow{display:flex;flex-wrap:wrap;gap:10px 22px;align-items:center;font-size:11.5px;letter-spacing:.2em;text-transform:uppercase;color:var(--ink3)}
+.eyebrow .dot{width:6px;height:6px;border-radius:50%;background:var(--gold);box-shadow:0 0 0 4px var(--goldglow)}
+.eyebrow .g{color:var(--gold)}
+.mast h1{font:400 clamp(40px,6.4vw,88px)/1.02 Fraunces,serif;letter-spacing:-.025em;margin:22px 0 0;max-width:15ch;font-variation-settings:"opsz" 144}
+.mast h1 em{font-style:italic;color:var(--gold)}
+.mast .sub{margin-top:22px;color:var(--ink2);font-size:17px;max-width:62ch}
+
+/* KPI */
+.kpis{display:grid;grid-template-columns:repeat(4,1fr) 1.3fr;gap:14px;margin:34px 0 0}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:18px;box-shadow:var(--shadow)}
+.kpi{padding:18px 20px}
+.kpi .n{font-size:12px;color:var(--ink3);letter-spacing:.08em;text-transform:uppercase}
+.kpi .v{font:500 26px "JetBrains Mono",monospace;margin-top:6px;letter-spacing:-.02em}
+.kpi .c{font:600 13px "JetBrains Mono",monospace;margin-top:4px;display:inline-flex;align-items:center;gap:6px;padding:2px 8px;border-radius:999px}
+.kpi .c.up{background:var(--upbg)} .kpi .c.down{background:var(--downbg)}
+.breadth{padding:18px 20px}
+.bar2{display:flex;height:10px;border-radius:999px;overflow:hidden;margin:14px 0 10px;background:var(--line)}
+.bar2 i{display:block}
+.bar2 .a{background:linear-gradient(90deg,var(--up),color-mix(in srgb,var(--up) 70%,#fff))} .bar2 .d{background:linear-gradient(90deg,color-mix(in srgb,var(--down) 70%,#fff),var(--down))}
+.legend{display:flex;justify-content:space-between;font-size:12.5px;color:var(--ink2)}
+
+/* sections */
+section{padding:72px 0 0}
+.sh{display:flex;align-items:end;justify-content:space-between;gap:20px;margin-bottom:26px;padding-bottom:16px;border-bottom:1px solid var(--line)}
+.sh h2{font:400 clamp(28px,3.2vw,40px)/1.1 Fraunces,serif;letter-spacing:-.02em}
+.sh h2 span{color:var(--gold);font-style:italic}
+.sh .k{font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--ink3);display:block;margin-bottom:10px}
+.sh .meta{font-size:12.5px;color:var(--ink3);text-align:right}
+
+.bigpic{display:grid;grid-template-columns:1.55fr 1fr;gap:20px}
+.bigpic .txt{padding:34px 36px;font:400 21px/1.65 Fraunces,serif;color:var(--ink);font-variation-settings:"opsz" 30}
+.bigpic .txt::first-letter{float:left;font-size:74px;line-height:.86;padding:6px 12px 0 0;color:var(--gold);font-weight:500}
+.three{padding:28px 30px}
+.three h3{font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:var(--gold);margin-bottom:12px}
+.three ol{list-style:none;counter-reset:t}
+.three li{counter-increment:t;display:grid;grid-template-columns:44px 1fr;padding:16px 0;border-top:1px solid var(--line);font-size:15.5px;color:var(--ink)}
+.three li:first-child{border-top:0}
+.three li::before{content:"0" counter(t);font:500 22px Fraunces,serif;color:var(--ink3)}
+
+/* stories */
+.lead{display:grid;grid-template-columns:1.2fr 1fr;gap:0;overflow:hidden;margin-bottom:20px}
+.lead .art{position:relative;min-height:340px;background:
+  radial-gradient(500px 300px at 20% 30%,color-mix(in srgb,var(--gold) 40%,transparent),transparent 70%),
+  radial-gradient(400px 300px at 80% 80%,rgba(70,110,255,.28),transparent 70%),linear-gradient(135deg,#141a26,#07090d);overflow:hidden}
+.lead .art svg{position:absolute;inset:0;width:100%;height:100%;opacity:.9}
+.lead .art .tag{position:absolute;left:28px;top:26px;font-size:11px;letter-spacing:.22em;text-transform:uppercase;color:#f1d89c;border:1px solid rgba(241,216,156,.4);padding:6px 12px;border-radius:999px;backdrop-filter:blur(6px)}
+.lead .body{padding:38px 40px;display:flex;flex-direction:column;gap:16px}
+.lead h3{font:400 clamp(26px,2.6vw,36px)/1.15 Fraunces,serif;letter-spacing:-.015em}
+.lead p{color:var(--ink2);font-size:16.5px}
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.story{min-width:0;padding:24px 24px 20px;display:flex;flex-direction:column;gap:12px;transition:transform .25s,border-color .25s,background .25s}
+.story:hover{transform:translateY(-3px);border-color:color-mix(in srgb,var(--gold) 45%,transparent)}
+.story h4{font:500 19px/1.3 Fraunces,serif;letter-spacing:-.005em}
+.story p{color:var(--ink2);font-size:14px;flex:1}
+.srow{display:flex;align-items:center;gap:8px;flex-wrap:wrap;font-size:11.5px;color:var(--ink3)}
+.src{display:inline-flex;align-items:center;gap:6px;padding:3px 9px 3px 4px;border:1px solid var(--line2);border-radius:999px;color:var(--ink2);font-weight:500}
+.src i{width:16px;height:16px;border-radius:50%;display:grid;place-items:center;font:700 9px Inter;font-style:normal;color:#fff}
+.src.g i{background:linear-gradient(135deg,#4285f4,#34a853)} .src.y i{background:#6001d2} .src.b i{background:#111;border:1px solid #444}
+.cat{color:var(--gold);letter-spacing:.14em;text-transform:uppercase;font-weight:600;font-size:10.5px}
+.imp{display:inline-flex;gap:3px;margin-left:auto}
+.imp b{width:5px;height:12px;border-radius:2px;background:var(--line2)}
+.imp b.on{background:var(--gold)}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{font:500 11.5px "JetBrains Mono",monospace;padding:4px 9px;border-radius:7px;background:var(--panel-solid);border:1px solid var(--line)}
+.chip span{margin-left:6px}
+.multi{font-size:10.5px;letter-spacing:.12em;text-transform:uppercase;color:var(--gold);border:1px solid color-mix(in srgb,var(--gold) 40%,transparent);padding:2px 8px;border-radius:999px}
+.more{font-size:12.5px;color:var(--ink3);display:flex;gap:14px}
+.more a:hover{color:var(--gold)}
+
+/* pulse */
+.pulse{display:grid;grid-template-columns:1fr 1.2fr;gap:20px}
+.pulse .txt{padding:30px 32px;font-size:16.5px;color:var(--ink2)}
+.pulse .txt strong{display:block;font:400 26px Fraunces,serif;color:var(--ink);margin-bottom:12px}
+.stand{padding:10px 0}
+.stand div{display:grid;grid-template-columns:90px 80px 1fr;gap:14px;align-items:center;padding:14px 26px;border-top:1px solid var(--line);font-size:14px}
+.stand div:first-child{border-top:0}
+.stand .t{font:600 15px "JetBrains Mono",monospace}
+
+/* heatmap */
+.heatwrap{padding:14px;background:var(--heat-bg);border-radius:20px;border:1px solid var(--line);box-shadow:var(--shadow)}
+.heatmap{display:block;width:100%;height:auto;aspect-ratio:1200/680;border-radius:10px}
+.heatmap .sec-bg{fill:#0b0d12}
+.heatmap .sec-label{font:700 10px Inter;letter-spacing:.08em;fill:#cfd3da}
+.heatmap .sec-label .up{fill:#4fe3b0} .heatmap .sec-label .down{fill:#ff8a95} .heatmap .sec-label .flat{fill:#aaa}
+.heatmap .tk{font-family:Inter;font-weight:700;fill:var(--heat-text);text-anchor:middle;pointer-events:none}
+.heatmap .tp{font-family:"JetBrains Mono";font-weight:500;fill:rgba(255,255,255,.85);text-anchor:middle;pointer-events:none}
+.heatmap .cell rect{transition:filter .15s}
+.heatmap .cell:hover rect{filter:brightness(1.25);stroke:#fff;stroke-width:1.5}
+.scale{display:flex;align-items:center;gap:10px;justify-content:flex-end;margin-top:14px;font:500 11px "JetBrains Mono";color:var(--ink3)}
+.scale i{width:220px;height:8px;border-radius:999px;background:linear-gradient(90deg,rgb(226,60,72),rgb(58,63,76),rgb(16,160,116))}
+.tip{position:fixed;z-index:50;pointer-events:none;background:var(--panel-solid);border:1px solid var(--line2);color:var(--ink);padding:10px 14px;border-radius:12px;font-size:12.5px;white-space:pre;box-shadow:0 20px 40px -10px rgba(0,0,0,.5);opacity:0;transition:opacity .12s}
+
+/* sectors */
+.sectors{display:grid;grid-template-columns:1fr 1fr;gap:6px 48px;padding:26px 32px}
+.srow2{display:grid;grid-template-columns:180px 1fr 70px;gap:14px;align-items:center;padding:9px 0;border-bottom:1px solid var(--line);font-size:13.5px}
+.srow2 .nm{color:var(--ink2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.dbar{position:relative;height:8px}
+.dbar::before{content:"";position:absolute;left:50%;top:-4px;bottom:-4px;width:1px;background:var(--line2)}
+.dbar i{position:absolute;top:0;height:100%;border-radius:4px}
+.dbar i.up{left:50%;background:linear-gradient(90deg,color-mix(in srgb,var(--up) 50%,transparent),var(--up))}
+.dbar i.down{right:50%;background:linear-gradient(-90deg,color-mix(in srgb,var(--down) 50%,transparent),var(--down))}
+.srow2 .v{text-align:right;font:600 13px "JetBrains Mono"}
+
+.watch{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:18px;margin-top:20px}
+.wcard{padding:22px 24px}
+.wcard h4{display:flex;justify-content:space-between;align-items:baseline;font:500 18px Fraunces,serif;margin-bottom:12px}
+.wcard h4 span{font:600 12.5px "JetBrains Mono"}
+.wrow{display:grid;grid-template-columns:60px 1fr auto 74px;gap:10px;align-items:center;padding:9px 0;border-top:1px solid var(--line);font-size:13px}
+.wrow .t{font:600 13.5px "JetBrains Mono"}
+.wrow .nm{color:var(--ink3);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-size:12px}
+.wrow .p{font:400 13px "JetBrains Mono";color:var(--ink2);text-align:right}
+.pill{font:600 12px "JetBrains Mono";text-align:center;padding:4px 0;border-radius:7px}
+.pill.up{background:var(--upbg)} .pill.down{background:var(--downbg)} .pill.flat{background:var(--line)}
+
+/* movers */
+.movers{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.mv{padding:22px 0 8px}
+.mv h4{padding:0 24px 12px;font:500 19px Fraunces,serif;display:flex;justify-content:space-between;align-items:baseline}
+.mv h4 small{font:500 11px Inter;letter-spacing:.16em;text-transform:uppercase;color:var(--ink3)}
+.mrow{display:grid;grid-template-columns:22px 62px 1fr auto 74px;gap:10px;align-items:center;padding:10px 24px;border-top:1px solid var(--line);font-size:13px}
+.mrow .r{color:var(--ink3);font:500 11px "JetBrains Mono"}
+.mrow .t{font:600 13px "JetBrains Mono"}
+.mrow .nm{color:var(--ink3);font-size:12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.mrow .p{font:400 12.5px "JetBrains Mono";color:var(--ink2)}
+
+/* calendar */
+.cal{padding:6px 0}
+.crow{display:grid;grid-template-columns:120px 110px 1fr;gap:20px;align-items:center;padding:15px 28px;border-top:1px solid var(--line)}
+.crow:first-child{border-top:0}
+.crow .w{font:600 14px "JetBrains Mono";color:var(--gold)}
+.crow .ty{font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;color:var(--ink3);border:1px solid var(--line2);border-radius:999px;padding:3px 10px;justify-self:start}
+.empty{padding:28px;color:var(--ink3);font-style:italic}
+
+.banner{margin-top:28px;padding:14px 20px;border-radius:14px;border:1px solid color-mix(in srgb,var(--down) 40%,transparent);background:var(--downbg);color:var(--ink);font-size:14px}
+
+footer{margin-top:96px;border-top:1px solid var(--line);padding:40px 0 60px;color:var(--ink3);font-size:12.5px}
+footer .wrap{display:grid;grid-template-columns:1fr auto;gap:24px;align-items:start}
+.arch{display:flex;gap:10px}
+.arch a,.arch span{border:1px solid var(--line2);padding:9px 16px;border-radius:999px;color:var(--ink2);font-size:13px}
+.arch a:hover{border-color:var(--gold);color:var(--gold)}
+.arch span{opacity:.35}
+footer .fine{max-width:70ch;line-height:1.7}
+footer .sig{font:italic 400 22px Fraunces,serif;color:var(--ink2);margin-bottom:10px}
+
+/* motion */
+.mast.rv,.kpis .rv{animation:rise .9s cubic-bezier(.2,.7,.2,1) backwards}
+.kpis .rv:nth-child(2){animation-delay:.08s}.kpis .rv:nth-child(3){animation-delay:.16s}.kpis .rv:nth-child(4){animation-delay:.24s}.kpis .rv:nth-child(5){animation-delay:.32s}
+@keyframes rise{from{opacity:.001;transform:translateY(14px)}}
+@media (prefers-reduced-motion: reduce){.rv{animation:none!important}.track{animation:none}}
+
+/* responsive */
+@media (max-width:1100px){.kpis{grid-template-columns:repeat(2,1fr)}.kpis .breadth{grid-column:1/-1}.grid{grid-template-columns:repeat(2,1fr)}.movers{grid-template-columns:1fr}.bigpic,.pulse,.lead{grid-template-columns:1fr}.lead .art{min-height:200px}.sectors{grid-template-columns:1fr}}
+@media (max-width:720px){.wrap{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}nav.links{display:none}.toggle{margin-left:auto}.grid{grid-template-columns:1fr}.mast{padding-top:40px}.bigpic .txt{padding:24px;font-size:18px}.lead .body{padding:26px 22px}
+  .srow2{grid-template-columns:120px 1fr 60px}.crow{grid-template-columns:80px 1fr;padding:14px 18px}.crow .ty{display:none}.stand div{grid-template-columns:70px 70px 1fr;padding:12px 18px}.mrow{padding:10px 16px;grid-template-columns:18px 54px 1fr 68px}.mrow .p{display:none}.sectors{padding:18px}footer .wrap{grid-template-columns:1fr}.heatwrap{padding:6px;overflow-x:auto}.heatmap{min-width:720px}}
+@media print{.topbar,.ticker,.toggle,.tip{display:none}body{background:#fff;color:#000}.card{box-shadow:none}section{break-inside:avoid}}
+</style>
+<script>
+try{var t=localStorage.getItem("mb-theme");if(t)document.documentElement.setAttribute("data-theme",t)}catch(e){}
+</script>
+</head>
+<body>
+<div class="grain" aria-hidden="true"></div>
+
+
+
+
+
+<header class="topbar">
+  <div class="wrap">
+    <a class="brand" href="#top"><span class="mark">M</span><span><b>The Morning Brief</b><small>Markets · Intelligence</small></span></a>
+    <nav class="links">
+      <a href="#brief">Brief</a><a href="#stories">Stories</a><a href="#heatmap">Heatmap</a><a href="#sectors">Sectors</a><a href="#movers">Movers</a><a href="#today">Today</a>
+    </nav>
+    <button class="toggle" id="themeBtn" aria-label="Toggle theme">
+      <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+    </button>
+  </div>
+</header>
+
+
+<div class="ticker" aria-label="Market ticker"><div class="track">
+
+  <div class="tk-item"><span class="l">S&amp;P 500</span><span class="p mono">7,520.93</span><span class="mono down">▼ -0.38%</span></div>
+
+  <div class="tk-item"><span class="l">Nasdaq 100</span><span class="p mono">27,741</span><span class="mono down">▼ -0.60%</span></div>
+
+  <div class="tk-item"><span class="l">Dow Jones</span><span class="p mono">52,232</span><span class="mono down">▼ -0.30%</span></div>
+
+  <div class="tk-item"><span class="l">Russell 2000</span><span class="p mono">2,821.38</span><span class="mono down">▼ -0.68%</span></div>
+
+  <div class="tk-item"><span class="l">S&amp;P Futures</span><span class="p mono">7,591.25</span><span class="mono up">▲ +0.62%</span></div>
+
+  <div class="tk-item"><span class="l">Nasdaq Futures</span><span class="p mono">28,206</span><span class="mono up">▲ +1.33%</span></div>
+
+  <div class="tk-item"><span class="l">VIX</span><span class="p mono">19.46</span><span class="mono down">▼ -2.31%</span></div>
+
+  <div class="tk-item"><span class="l">US 10Y</span><span class="p mono">5.00%</span><span class="mono up">▲ +2.38%</span></div>
+
+  <div class="tk-item"><span class="l">Dollar (DXY)</span><span class="p mono">102.24</span><span class="mono up">▲ +0.02%</span></div>
+
+  <div class="tk-item"><span class="l">WTI Crude</span><span class="p mono">86.49</span><span class="mono up">▲ +0.52%</span></div>
+
+  <div class="tk-item"><span class="l">Gold</span><span class="p mono">4,058.03</span><span class="mono up">▲ +0.63%</span></div>
+
+  <div class="tk-item"><span class="l">Bitcoin</span><span class="p mono">73,681</span><span class="mono down">▼ -0.04%</span></div>
+
+  <div class="tk-item"><span class="l">S&amp;P 500</span><span class="p mono">7,520.93</span><span class="mono down">▼ -0.38%</span></div>
+
+  <div class="tk-item"><span class="l">Nasdaq 100</span><span class="p mono">27,741</span><span class="mono down">▼ -0.60%</span></div>
+
+  <div class="tk-item"><span class="l">Dow Jones</span><span class="p mono">52,232</span><span class="mono down">▼ -0.30%</span></div>
+
+  <div class="tk-item"><span class="l">Russell 2000</span><span class="p mono">2,821.38</span><span class="mono down">▼ -0.68%</span></div>
+
+  <div class="tk-item"><span class="l">S&amp;P Futures</span><span class="p mono">7,591.25</span><span class="mono up">▲ +0.62%</span></div>
+
+  <div class="tk-item"><span class="l">Nasdaq Futures</span><span class="p mono">28,206</span><span class="mono up">▲ +1.33%</span></div>
+
+  <div class="tk-item"><span class="l">VIX</span><span class="p mono">19.46</span><span class="mono down">▼ -2.31%</span></div>
+
+  <div class="tk-item"><span class="l">US 10Y</span><span class="p mono">5.00%</span><span class="mono up">▲ +2.38%</span></div>
+
+  <div class="tk-item"><span class="l">Dollar (DXY)</span><span class="p mono">102.24</span><span class="mono up">▲ +0.02%</span></div>
+
+  <div class="tk-item"><span class="l">WTI Crude</span><span class="p mono">86.49</span><span class="mono up">▲ +0.52%</span></div>
+
+  <div class="tk-item"><span class="l">Gold</span><span class="p mono">4,058.03</span><span class="mono up">▲ +0.63%</span></div>
+
+  <div class="tk-item"><span class="l">Bitcoin</span><span class="p mono">73,681</span><span class="mono down">▼ -0.04%</span></div>
+
+</div></div>
+
+
+<main class="wrap" id="top">
+  <div class="mast rv">
+    <div class="eyebrow"><span class="dot"></span><span class="g">Vol. I · No. 315</span><span>Wednesday, November 11, 2026</span><span>Edition 19:39</span></div>
+    
+    <h1>The market, distilled.</h1>
+    
+
+    <div class="banner">News desks were unavailable for this edition. Market data is shown below; headlines are partial or missing.</div>
+
+    <div class="kpis">
+      
+      <div class="card kpi rv"><div class="n">S&amp;P 500</div><div class="v">7,520.93</div><div class="c down">▼ -0.38%</div></div>
+      
+      <div class="card kpi rv"><div class="n">Nasdaq 100</div><div class="v">27,741</div><div class="c down">▼ -0.60%</div></div>
+      
+      <div class="card kpi rv"><div class="n">Dow Jones</div><div class="v">52,232</div><div class="c down">▼ -0.30%</div></div>
+      
+      <div class="card kpi rv"><div class="n">Russell 2000</div><div class="v">2,821.38</div><div class="c down">▼ -0.68%</div></div>
+      
+      
+      <div class="card breadth rv">
+        <div class="kpi" style="padding:0"><div class="n">S&amp;P 500 Breadth</div></div>
+        <div class="bar2"><i class="a" style="width:49.1%"></i><i style="flex:1"></i><i class="d" style="width:49.7%"></i></div>
+        <div class="legend"><span><b class="up mono">247</b> advancing</span><span><b class="down mono">250</b> declining</span></div>
+      </div>
+    </div>
+  </div>
+
+  
+  <section id="brief">
+    <div class="sh rv"><div><span class="k">01 — Executive summary</span><h2>The <span>big picture</span></h2></div><div class="meta">Synthesized from Bloomberg,<br>Yahoo Finance &amp; Google Finance</div></div>
+    <div class="bigpic">
+      <div class="card txt rv">Benchmarks closed lower and breadth was roughly split, with the S&amp;P 500 off 0.38% to 7520.93, the Nasdaq 100 down 0.60% to 27740.80, the Dow down 0.30% to 52231.89, and the small-cap Russell 2000 the laggard at -0.68%; decliners (250) edged out advancers (247) across the 503-name S&amp;P universe. Sector performance was mixed: Health Services (+1.60%) and Distribution Services (+0.96%) led, while Non-Energy Minerals (-1.37%), Electronic Technology (-1.14%) and Technology Services (-0.78%) lagged as chipmakers sold off. The VIX fell 2.31% to 19.46 even as the market dipped, the 10-year yield jumped 2.38% to 5.00%, the dollar (DXY) was flat at 102.24 (+0.02%), WTI crude rose 0.52% to 86.49, gold gained 0.63% to 4058.03, and bitcoin was little changed at 73681.03 (-0.04%). Among the most-active names, NVIDIA was the standout decliner, down 5.47% to 168.89 on heavy volume of about 429.27 million shares, while Broadcom bucked the chip selloff with a 3.91% gain to 331.98 and Microsoft slipped 2.20% to 533.16; on the broader tape, AAON led gainers at +19.31% and Hims &amp; Hers was the heaviest-volume loser at -16.61%.</div>
+      
+    </div>
+  </section>
+  
+
+  
+  <section id="stories">
+    <div class="sh rv"><div><span class="k">02 — The news</span><h2>Top <span>stories</span></h2></div><div class="meta">12 stories · ranked by market impact</div></div>
+
+    <article class="card lead rv">
+      <div class="art">
+        <svg viewBox="0 0 600 340" preserveAspectRatio="none" aria-hidden="true">
+          <defs><linearGradient id="lg" x1="0" x2="0" y1="0" y2="1"><stop offset="0" stop-color="#f1d89c" stop-opacity=".45"/><stop offset="1" stop-color="#f1d89c" stop-opacity="0"/></linearGradient></defs>
+          <line x1="0" x2="600" y1="40" y2="40" stroke="rgba(255,255,255,.05)"/><line x1="0" x2="600" y1="74" y2="74" stroke="rgba(255,255,255,.05)"/><line x1="0" x2="600" y1="108" y2="108" stroke="rgba(255,255,255,.05)"/><line x1="0" x2="600" y1="142" y2="142" stroke="rgba(255,255,255,.05)"/><line x1="0" x2="600" y1="176" y2="176" stroke="rgba(255,255,255,.05)"/><line x1="0" x2="600" y1="210" y2="210" stroke="rgba(255,255,255,.05)"/><line x1="0" x2="600" y1="244" y2="244" stroke="rgba(255,255,255,.05)"/><line x1="0" x2="600" y1="278" y2="278" stroke="rgba(255,255,255,.05)"/><line x1="0" x2="600" y1="312" y2="312" stroke="rgba(255,255,255,.05)"/>
+          
+          
+          <path d="M0 70 C60 60 90 110 140 100 S220 150 270 140 S350 200 400 185 S490 240 540 250 S590 270 600 275 L600 340 L0 340Z" fill="url(#lg)"/>
+          <path d="M0 70 C60 60 90 110 140 100 S220 150 270 140 S350 200 400 185 S490 240 540 250 S590 270 600 275" fill="none" stroke="#f1d89c" stroke-width="2"/>
+          <circle cx="600" cy="275" r="5" fill="#f1d89c"/>
+        </svg>
+        <span class="tag">Lead story · Macro</span>
+      </div>
+      <div class="body">
+        <div class="srow"><span class="src b"><i>B</i>Bloomberg</span><span>4d ago</span><span class="imp" title="Importance 5/5"><b class="on"></b><b class="on"></b><b class="on"></b><b class="on"></b><b class="on"></b></span></div>
+        <h3>US Core CPI Tops Forecasts, Cementing Case for Fed Rate Hike</h3>
+        <p>October core CPI rose 0.3%, more than forecast, strengthening the case for the Federal Reserve to raise rates next month. Fed&#39;s Christopher Waller backed a December hike and said he&#39;s open to a larger move, while Chicago Fed President Austan Goolsbee called the report &#34;borderline disturbing.&#34; Dallas Fed&#39;s Lorie Logan said at least two more quarter-point hikes are needed and the pace could quicken.</p>
+        
+        <div class="more"><a href="https://www.bloomberg.com/news/articles/2026-11-10/us-core-cpi-rises-more-than-forecast-0-3-supporting-rate-hike" target="_blank" rel="noopener">Read on Bloomberg →</a></div>
+      </div>
+    </article>
+
+    <div class="grid">
+      
+      <article class="card story rv">
+        <div class="srow"><span class="cat">Tech</span><span class="imp" title="Importance 5/5"><b class="on"></b><b class="on"></b><b class="on"></b><b class="on"></b><b class="on"></b></span></div>
+        <h4>SoftBank Posts $7 Billion Loss After US Data-Center Writedown</h4>
+        <p>SoftBank Group booked its first net loss in nearly two years after a $3.7 billion writedown on US data-center investments, sending shares down as much as 10%. The hit deepened concerns about AI infrastructure valuations and dragged down power-turbine and equipment stocks on fears of waning data-center demand.</p>
+        
+        <div class="srow"><a href="https://www.bloomberg.com/news/articles/2026-11-10/softbank-group-earnings-loss-after-ai-worries-hit-tech-stocks-masayoshi-son" target="_blank" rel="noopener"><span class="src b"><i>B</i>Bloomberg</span></a><span style="margin-left:auto">4d ago</span></div>
+      </article>
+      
+      <article class="card story rv">
+        <div class="srow"><span class="cat">Deals</span><span class="imp" title="Importance 5/5"><b class="on"></b><b class="on"></b><b class="on"></b><b class="on"></b><b class="on"></b></span></div>
+        <h4>Anthropic Weighs IPO Valuation of Up to $1.5 Trillion</h4>
+        <p>Bankers are reportedly considering raising Anthropic&#39;s IPO valuation target to $1.5 trillion or more amid strong investor demand, which would approach SpaceX&#39;s record private valuation. Early investors are already shopping portions of their IPO allocations at a premium ahead of what could be one of the largest public listings on record.</p>
+        
+        <div class="srow"><a href="https://www.bloomberg.com/news/articles/2026-11-10/anthropic-targets-64-4-billion-ipo-nearing-spacex-s-record" target="_blank" rel="noopener"><span class="src b"><i>B</i>Bloomberg</span></a><span style="margin-left:auto">4d ago</span></div>
+      </article>
+      
+      <article class="card story rv">
+        <div class="srow"><span class="cat">Tech</span><span class="imp" title="Importance 5/5"><b class="on"></b><b class="on"></b><b class="on"></b><b class="on"></b><b class="on"></b></span></div>
+        <h4>Nvidia shares tumble as company probes CEO Jensen Huang&#39;s ties to alleged Chinese intelligence operative</h4>
+        <p>Nvidia fell roughly 4-5% over two sessions after Huang admitted in a memo to an extramarital affair with a woman U.S. intelligence officials suspect may have links to Chinese intelligence; reports allege about $7.5 billion in Nvidia chips may have been diverted to Chinese firms since 2023. Nvidia&#39;s board has launched an independent investigation, and analysts flagged elevated &#39;key-person risk&#39; given how closely tied the company&#39;s AI strategy is to Huang. The selloff was largely isolated to Nvidia, while rival chipmakers rallied on the news.</p>
+        <div class="chips"><span class="chip">NVDA<span class="down">-5.5%</span></span></div>
+        <div class="srow"><a href="https://finance.yahoo.com/markets/article/nvidia-stock-drops-3-extending-decline-on-report-alleged-chinese-spy-linked-to-nvidia-ceo-aided-75-billion-in-china-chip-shipments-152654028.html" target="_blank" rel="noopener"><span class="src y"><i>Y</i>Yahoo Finance</span></a><span style="margin-left:auto">4d ago</span></div>
+      </article>
+      
+      <article class="card story rv">
+        <div class="srow"><span class="cat">Macro</span><span class="imp" title="Importance 5/5"><b class="on"></b><b class="on"></b><b class="on"></b><b class="on"></b><b class="on"></b></span></div>
+        <h4>Hotter-than-expected October CPI sends Treasury yields surging, lifts odds of a December Fed rate hike</h4>
+        <p>October core CPI rose 0.3% month-over-month versus the 0.2% expected, pushing the 2-year Treasury yield up 17 basis points (its biggest one-day jump since April 2025) and the 10-year yield up 10 basis points to 4.98%, briefly touching 5%. Fed Governor Chris Waller said he would consider backing a 50-basis-point &#39;jumbo&#39; hike in December if core inflation keeps printing at 0.3% or higher, and traders now price a 91% chance of a quarter-point hike (9% odds of a half-point move), up from 77% a week earlier. The Dow, S&amp;P 500 and Nasdaq all slipped on the report, with the Nasdaq down about 0.7-0.75%.</p>
+        
+        <div class="srow"><a href="https://finance.yahoo.com/economy/policy/articles/bond-yields-surge-most-19-221447570.html" target="_blank" rel="noopener"><span class="src y"><i>Y</i>Yahoo Finance</span></a><span style="margin-left:auto">4d ago</span></div>
+      </article>
+      
+      <article class="card story rv">
+        <div class="srow"><span class="cat">Earnings</span><span class="imp" title="Importance 4/5"><b class="on"></b><b class="on"></b><b class="on"></b><b class="on"></b><b class=""></b></span></div>
+        <h4>CoreWeave Raises Annual Forecast, Easing AI Slowdown Fears</h4>
+        <p>CoreWeave boosted its annual guidance after beating quarterly sales estimates, and its CEO said there&#39;s &#34;no reason&#34; its Nvidia partnership would change despite industry controversy. The upbeat results helped calm investor worries about a slowdown in AI infrastructure spending.</p>
+        <div class="chips"><span class="chip">CRWV</span><span class="chip">NVDA<span class="down">-5.5%</span></span></div>
+        <div class="srow"><a href="https://www.bloomberg.com/news/articles/2026-11-10/coreweave-boosts-annual-forecast-easing-concerns-about-slowdown" target="_blank" rel="noopener"><span class="src b"><i>B</i>Bloomberg</span></a><span style="margin-left:auto">3d ago</span></div>
+      </article>
+      
+      <article class="card story rv">
+        <div class="srow"><span class="cat">Markets</span><span class="imp" title="Importance 4/5"><b class="on"></b><b class="on"></b><b class="on"></b><b class="on"></b><b class=""></b></span></div>
+        <h4>Gold Holds Loss Near $4,000 as Hot Inflation Fuels Fed Hike Bets</h4>
+        <p>Gold prices held near $4,000 an ounce after hotter-than-expected October US inflation data and hawkish Fed commentary reinforced expectations of further rate increases. Higher-for-longer rate expectations are pressuring the non-yielding metal.</p>
+        
+        <div class="srow"><a href="https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-loss-near-4-000-on-hot-us-inflation-fed-remarks" target="_blank" rel="noopener"><span class="src b"><i>B</i>Bloomberg</span></a><span style="margin-left:auto">3d ago</span></div>
+      </article>
+      
+      <article class="card story rv">
+        <div class="srow"><span class="cat">Markets</span><span class="imp" title="Importance 4/5"><b class="on"></b><b class="on"></b><b class="on"></b><b class="on"></b><b class=""></b></span></div>
+        <h4>Asian Stocks Rally for Third Day as AI Optimism Offsets Rate Fears; Bonds Slump</h4>
+        <p>Asian equities extended gains for a third session on continued AI-trade optimism even as hot US inflation data raised the odds of further Fed rate increases. Bonds sold off sharply as traders repriced the rate-hike path, with Morgan Stanley noting the largest hedge-fund risk retreat in a decade.</p>
+        
+        <div class="srow"><a href="https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates" target="_blank" rel="noopener"><span class="src b"><i>B</i>Bloomberg</span></a><span style="margin-left:auto">3d ago</span></div>
+      </article>
+      
+      <article class="card story rv">
+        <div class="srow"><span class="cat">Policy</span><span class="imp" title="Importance 4/5"><b class="on"></b><b class="on"></b><b class="on"></b><b class="on"></b><b class=""></b></span></div>
+        <h4>Fed&#39;s Bowman Warns of Stock Correction Risk if AI Bets Disappoint</h4>
+        <p>Federal Reserve Governor Michelle Bowman flagged financial-stability risks, warning of a potential sharp stock market correction if returns on massive AI investments fail to materialize. The remarks add to a growing chorus of Fed officials weighing in on both sticky inflation and AI-driven market froth.</p>
+        
+        <div class="srow"><a href="https://www.bloomberg.com/news/articles/2026-11-10/fed-s-bowman-warns-of-stock-correction-if-ai-bets-don-t-pan-out" target="_blank" rel="noopener"><span class="src b"><i>B</i>Bloomberg</span></a><span style="margin-left:auto">3d ago</span></div>
+      </article>
+      
+      <article class="card story rv">
+        <div class="srow"><span class="cat">Earnings</span><span class="imp" title="Importance 4/5"><b class="on"></b><b class="on"></b><b class="on"></b><b class="on"></b><b class=""></b></span></div>
+        <h4>OpenAI Q3 Revenue Jumps Nearly 50% to $10 Billion</h4>
+        <p>OpenAI&#39;s third-quarter revenue surged almost 50% to surpass $10 billion for the first time, driven by strong demand for its latest AI software products. The results underscore continued rapid growth in commercial AI demand even as some investors question the sustainability of related infrastructure spending.</p>
+        
+        <div class="srow"><a href="https://www.bloomberg.com/news/articles/2026-11-10/openai-third-quarter-revenue-soars-nearly-50-to-10-billion" target="_blank" rel="noopener"><span class="src b"><i>B</i>Bloomberg</span></a><span style="margin-left:auto">3d ago</span></div>
+      </article>
+      
+      <article class="card story rv">
+        <div class="srow"><span class="cat">Markets</span><span class="imp" title="Importance 4/5"><b class="on"></b><b class="on"></b><b class="on"></b><b class="on"></b><b class=""></b></span></div>
+        <h4>Chip stocks ex-Nvidia rally hard as sector rebounds from its steepest one-day drop in 19 months</h4>
+        <p>AMD surged about 13%, Broadcom rose 8%, Intel climbed 5%, and Taiwan Semiconductor gained nearly 4%, while equipment maker ASML added 6% and memory makers Micron and SK Hynix each rose over 5%. The rally came as traders rotated out of Nvidia-specific concerns and bought the broader semiconductor complex, which had been hit by a 21% one-month decline in the Philadelphia Semiconductor Index tied to post-election uncertainty over AI datacenter buildout timelines.</p>
+        <div class="chips"><span class="chip">AMD<span class="up">+1.3%</span></span><span class="chip">AVGO<span class="up">+3.9%</span></span><span class="chip">INTC<span class="down">-2.1%</span></span><span class="chip">TSM</span><span class="chip">ASML</span></div>
+        <div class="srow"><a href="https://finance.yahoo.com/markets/stocks/articles/amtech-intel-applied-materials-amd-023736161.html" target="_blank" rel="noopener"><span class="src y"><i>Y</i>Yahoo Finance</span></a><span style="margin-left:auto">4d ago</span></div>
+      </article>
+      
+      <article class="card story rv">
+        <div class="srow"><span class="cat">Markets</span><span class="imp" title="Importance 4/5"><b class="on"></b><b class="on"></b><b class="on"></b><b class="on"></b><b class=""></b></span></div>
+        <h4>Goldman Sachs calls semiconductor stocks &#39;oversold,&#39; names Nvidia, Broadcom and AMD as top buys</h4>
+        <p>Goldman analyst James Schneider said chip stocks are &#39;now clearly in oversold territory&#39; after the Philly Semiconductor Index fell 21% over the past month and the S&amp;P 500 lost 4.3% (about $3 trillion in value) on November 5 amid worries over AI datacenter buildout timelines. Schneider argued Nvidia and Broadcom look attractive even under conservative growth assumptions, trading at roughly 12x and 13x respectively, while AMD is a buy despite less favorable valuation metrics.</p>
+        <div class="chips"><span class="chip">NVDA<span class="down">-5.5%</span></span><span class="chip">AVGO<span class="up">+3.9%</span></span><span class="chip">AMD<span class="up">+1.3%</span></span></div>
+        <div class="srow"><a href="https://finance.yahoo.com/markets/article/goldman-sachs-calls-chip-stocks-oversold-here-are-the-names-it-says-to-buy-165654250.html" target="_blank" rel="noopener"><span class="src y"><i>Y</i>Yahoo Finance</span></a><span style="margin-left:auto">4d ago</span></div>
+      </article>
+      
+    </div>
+  </section>
+  
+
+  
+  <section id="pulse">
+    <div class="sh rv"><div><span class="k">03 — The tape</span><h2>Market <span>pulse</span></h2></div></div>
+    <div class="pulse">
+      <div class="card txt rv"><strong>Read of the session</strong>Benchmarks closed lower and breadth was roughly split, with the S&amp;P 500 off 0.38% to 7520.93, the Nasdaq 100 down 0.60% to 27740.80, the Dow down 0.30% to 52231.89, and the small-cap Russell 2000 the laggard at -0.68%; decliners (250) edged out advancers (247) across the 503-name S&amp;P universe. Sector performance was mixed: Health Services (+1.60%) and Distribution Services (+0.96%) led, while Non-Energy Minerals (-1.37%), Electronic Technology (-1.14%) and Technology Services (-0.78%) lagged as chipmakers sold off. The VIX fell 2.31% to 19.46 even as the market dipped, the 10-year yield jumped 2.38% to 5.00%, the dollar (DXY) was flat at 102.24 (+0.02%), WTI crude rose 0.52% to 86.49, gold gained 0.63% to 4058.03, and bitcoin was little changed at 73681.03 (-0.04%). Among the most-active names, NVIDIA was the standout decliner, down 5.47% to 168.89 on heavy volume of about 429.27 million shares, while Broadcom bucked the chip selloff with a 3.91% gain to 331.98 and Microsoft slipped 2.20% to 533.16; on the broader tape, AAON led gainers at +19.31% and Hims &amp; Hers was the heaviest-volume loser at -16.61%.</div>
+      <div class="card stand rv"><div><span class="t">NVDA</span><span class="pill down">-5.5%</span><span style="color:var(--ink2)">-5.47% to $168.89, top of most-active list on ~429.27M shares traded (rel. volume 2.48x)</span></div><div><span class="t">AVGO</span><span class="pill up">+3.9%</span><span style="color:var(--ink2)">+3.91% to $331.98, bucking the Electronic Technology sector&#39;s -1.14% drop</span></div><div><span class="t">MSFT</span><span class="pill down">-2.2%</span><span style="color:var(--ink2)">-2.20% to $533.16 on $14.36B traded, weighing on Technology Services (-0.78%)</span></div><div><span class="t">AAON</span><span class="pill up">+19.3%</span><span style="color:var(--ink2)">+19.31% to $75.01, top S&amp;P gainer, rel. volume 3.15x</span></div><div><span class="t">HIMS</span><span class="pill down">-16.6%</span><span style="color:var(--ink2)">-16.61% to $19.13, top-volume decliner (~58.76M shares, rel. volume 3.95x)</span></div><div><span class="t">TTWO</span><span class="pill up">+8.3%</span><span style="color:var(--ink2)">+8.31% to $224.64, among the day&#39;s biggest Technology Services movers</span></div></div>
+    </div>
+  </section>
+  
+
+  
+  <section id="heatmap">
+    <div class="sh rv"><div><span class="k">04 — Where the money moved</span><h2>S&amp;P 500 <span>heatmap</span></h2></div><div class="meta">Grouped by sector · sized by market cap<br>Colored by daily change · Source: TradingView</div></div>
+    <div class="heatwrap rv"><svg class="heatmap" viewBox="0 0 1200 680" preserveAspectRatio="none" role="img" aria-label="S&amp;P 500 heatmap by sector, sized by market cap, colored by daily change"><g class="sec"><rect class="sec-bg" x="0.0" y="0.0" width="563.1" height="353.7"/><text class="sec-label" x="6.0" y="12.5">ELECTRONIC TECHNOLOGY<tspan class="down" dx="6">-1.14%</tspan></text><g class="cell"><title>AAPL · Apple Inc.
+-0.62%  ·  $348.51  ·  $5.06T</title><rect x="2.0" y="19.0" width="289.1" height="184.0" fill="rgb(106,62,75)"/><text class="tk" x="146.6" y="104.5" font-size="26.0">AAPL</text><text class="tp" x="146.6" y="129.2" font-size="16.1">-0.62%</text></g><g class="cell"><title>NVDA · NVIDIA Corporation
+-5.47%  ·  $168.89  ·  $4.07T</title><rect x="2.0" y="204.0" width="289.1" height="147.7" fill="rgb(226,60,72)"/><text class="tk" x="146.6" y="271.4" font-size="26.0">NVDA</text><text class="tp" x="146.6" y="296.1" font-size="16.1">-5.47%</text></g><g class="cell"><title>AVGO · Broadcom Inc.
++3.91%  ·  $331.98  ·  $1.58T</title><rect x="292.1" y="19.0" width="175.1" height="94.4" fill="rgb(16,160,116)"/><text class="tk" x="379.7" y="59.7" font-size="26.0">AVGO</text><text class="tp" x="379.7" y="84.4" font-size="16.1">+3.91%</text></g><g class="cell"><title>AMD · Advanced Micro Devices, Inc.
++1.30%  ·  $515.21  ·  $845.0B</title><rect x="468.2" y="19.0" width="92.9" height="94.4" fill="rgb(36,113,97)"/><text class="tk" x="514.7" y="60.6" font-size="22.5">AMD</text><text class="tp" x="514.7" y="82.0" font-size="14.0">+1.30%</text></g><g class="cell"><title>MU · Micron Technology, Inc.
+-1.10%  ·  $725.11  ·  $820.4B</title><rect x="292.1" y="114.4" width="68.2" height="124.7" fill="rgb(133,62,74)"/><text class="tk" x="326.2" y="171.2" font-size="22.2">MU</text><text class="tp" x="326.2" y="192.3" font-size="13.8">-1.10%</text></g><g class="cell"><title>CSCO · Cisco Systems, Inc.
+-0.51%  ·  $98.15  ·  $386.4B</title><rect x="292.1" y="240.1" width="68.2" height="58.2" fill="rgb(99,62,75)"/><text class="tk" x="326.2" y="265.4" font-size="15.2">CSCO</text><text class="tp" x="326.2" y="279.8" font-size="9.4">-0.51%</text></g><g class="cell"><title>GE · GE Aerospace
++0.71%  ·  $337.91  ·  $349.2B</title><rect x="292.1" y="299.3" width="68.2" height="52.5" fill="rgb(45,93,89)"/><text class="tk" x="326.2" y="321.9" font-size="14.5">GE</text><text class="tp" x="326.2" y="335.6" font-size="9.0">+0.71%</text></g><g class="cell"><title>INTC · Intel Corporation
+-2.09%  ·  $58.13  ·  $309.0B</title><rect x="361.4" y="114.4" width="56.0" height="56.4" fill="rgb(184,61,73)"/><text class="tk" x="389.4" y="139.2" font-size="13.6">INTC</text><text class="tp" x="389.4" y="152.2" font-size="8.4">-2.09%</text></g><g class="cell"><title>TXN · Texas Instruments Incorporated
++1.62%  ·  $300.52  ·  $274.6B</title><rect x="418.4" y="114.4" width="49.7" height="56.4" fill="rgb(32,122,100)"/><text class="tk" x="443.2" y="139.4" font-size="12.8">TXN</text><text class="tp" x="443.2" y="151.6" font-size="8.0">+1.62%</text></g><g class="cell"><title>RTX · RTX Corporation
++2.02%  ·  $200.27  ·  $270.3B</title><rect x="469.1" y="114.4" width="48.9" height="56.4" fill="rgb(27,134,105)"/><text class="tk" x="493.5" y="139.4" font-size="12.7">RTX</text><text class="tp" x="493.5" y="151.5" font-size="7.9">+2.02%</text></g><g class="cell"><title>ANET · Arista Networks Inc
+-0.62%  ·  $185.02  ·  $233.8B</title><rect x="518.9" y="114.4" width="42.1" height="56.4" fill="rgb(105,62,75)"/><text class="tk" x="540.0" y="139.7" font-size="11.9">ANET</text><text class="tp" x="540.0" y="150.9" font-size="7.3">-0.62%</text></g><g class="cell"><title>DELL · Dell Technologies, Inc. Class C
+-3.44%  ·  $334.38  ·  $212.6B</title><rect x="361.4" y="171.8" width="45.9" height="47.1" fill="rgb(226,60,72)"/><text class="tk" x="384.3" y="192.6" font-size="11.3">DELL</text><text class="tp" x="384.3" y="203.3" font-size="7.0">-3.44%</text></g><g class="cell"><title>KLAC · KLA Corporation
++1.06%  ·  $152.99  ·  $199.3B</title><rect x="361.4" y="219.9" width="45.9" height="44.1" fill="rgb(40,105,93)"/><text class="tk" x="384.3" y="239.2" font-size="10.9">KLAC</text><text class="tp" x="384.3" y="249.6" font-size="6.8">+1.06%</text></g><g class="cell"><title>APH · Amphenol Corporation Class A
+-0.94%  ·  $79.95  ·  $197.4B</title><rect x="361.4" y="265.0" width="45.9" height="43.6" fill="rgb(124,62,74)"/><text class="tk" x="384.3" y="284.1" font-size="10.9">APH</text><text class="tp" x="384.3" y="294.4" font-size="6.8">-0.94%</text></g><g class="cell"><title>ADI · Analog Devices, Inc.
+-0.34%  ·  $393.30  ·  $190.6B</title><rect x="361.4" y="309.6" width="45.9" height="42.1" fill="rgb(88,62,75)"/><text class="tk" x="384.3" y="328.0" font-size="10.7">ADI</text><text class="tp" x="384.3" y="338.2" font-size="6.6">-0.34%</text></g><g class="cell"><title>QCOM · QUALCOMM Incorporated
++1.20%  ·  $173.53  ·  $185.7B</title><rect x="408.2" y="171.8" width="46.8" height="40.2" fill="rgb(38,110,95)"/><text class="tk" x="431.6" y="189.3" font-size="10.6">QCOM</text><text class="tp" x="431.6" y="199.3" font-size="6.5">+1.20%</text></g><g class="cell"><title>LMT · Lockheed Martin Corporation
++2.54%  ·  $603.12  ·  $139.3B</title><rect x="456.0" y="171.8" width="34.9" height="40.2" fill="rgb(21,148,111)"/><text class="tk" x="473.5" y="189.6" font-size="9.2">LMT</text><text class="tp" x="473.5" y="198.3" font-size="5.7">+2.54%</text></g><g class="cell"><title>BA · Boeing Company
++0.58%  ·  $173.38  ·  $137.4B</title><rect x="491.9" y="171.8" width="34.4" height="40.2" fill="rgb(47,89,87)"/><text class="tk" x="509.1" y="189.7" font-size="9.1">BA</text><text class="tp" x="509.1" y="198.3" font-size="5.6">+0.58%</text></g><g class="cell"><title>MRVL · Marvell Technology, Inc.
+-0.14%  ·  $154.39  ·  $135.4B</title><rect x="527.2" y="171.8" width="33.8" height="40.2" fill="rgb(72,63,76)"/><text class="tk" x="544.2" y="189.7" font-size="9.0">MRVL</text><text class="tp" x="544.2" y="198.2" font-size="5.6">-0.14%</text></g><g class="cell"><title>SNDK · Sandisk Corporation
+-2.99%  ·  $859.99  ·  $122.4B</title><rect x="408.2" y="213.0" width="32.8" height="37.4" fill="rgb(226,60,72)"/><text class="tk" x="424.6" y="229.5" font-size="9.0">SNDK</text><text class="tp" x="424.6" y="238.0" font-size="5.6">-2.99%</text></g><g class="cell"><title>STX · Seagate Technology Holdings PLC
+-0.89%  ·  $501.62  ·  $115.2B</title><rect x="408.2" y="251.4" width="32.8" height="35.1" fill="rgb(122,62,74)"/><text class="tk" x="424.6" y="266.8" font-size="9.0">STX</text><text class="tp" x="424.6" y="275.3" font-size="5.6">-0.89%</text></g><g class="cell"><title>WDC · Western Digital Corporation
+-0.20%  ·  $289.20  ·  $108.3B</title><rect x="408.2" y="287.6" width="32.8" height="33.0" fill="rgb(77,63,76)"/><text class="tk" x="424.6" y="301.8" font-size="9.0">WDC</text><text class="tp" x="424.6" y="310.4" font-size="5.6">-0.20%</text></g><g class="cell"><title>GD · General Dynamics Corporation
++1.48%  ·  $367.44  ·  $99.3B</title><rect x="408.2" y="321.6" width="32.8" height="30.2" fill="rgb(34,118,99)"/><text class="tk" x="424.6" y="334.4" font-size="9.0">GD</text><text class="tp" x="424.6" y="343.0" font-size="5.6">+1.48%</text></g><g class="cell"><title>GLW · Corning Inc
+-3.29%  ·  $112.13  ·  $96.6B</title><rect x="442.0" y="213.0" width="30.8" height="31.2" fill="rgb(226,60,72)"/><text class="tk" x="457.4" y="226.4" font-size="9.0">GLW</text><text class="tp" x="457.4" y="234.9" font-size="5.6">-3.29%</text></g><g class="cell"><title>EMR · Emerson Electric Co.
+-1.17%  ·  $167.54  ·  $93.5B</title><rect x="473.8" y="213.0" width="29.8" height="31.2" fill="rgb(137,62,74)"/><text class="tk" x="488.7" y="226.4" font-size="9.0">EMR</text><text class="tp" x="488.7" y="234.9" font-size="5.6">-1.17%</text></g><g class="cell"><title>MSI · Motorola Solutions, Inc.
+-0.11%  ·  $527.38  ·  $87.2B</title><rect x="504.6" y="213.0" width="27.7" height="31.2" fill="rgb(70,63,76)"/></g><g class="cell"><title>HWM · Howmet Aerospace Inc.
++1.30%  ·  $219.05  ·  $87.1B</title><rect x="533.4" y="213.0" width="27.7" height="31.2" fill="rgb(36,113,96)"/></g><g class="cell"><title>NOC · Northrop Grumman Corp.
++1.77%  ·  $548.61  ·  $77.9B</title><rect x="442.0" y="245.2" width="27.3" height="28.2" fill="rgb(30,127,102)"/></g><g class="cell"><title>VRT · Vertiv Holdings Co. Class A
+-3.12%  ·  $194.22  ·  $74.8B</title><rect x="442.0" y="274.4" width="27.3" height="27.1" fill="rgb(226,60,72)"/></g><g class="cell"><title>TDG · TransDigm Group Incorporated
++0.55%  ·  $1,225.54  ·  $67.7B</title><rect x="442.0" y="302.5" width="27.3" height="24.4" fill="rgb(47,88,86)"/></g><g class="cell"><title>MPWR · Monolithic Power Systems, Inc.
+-2.19%  ·  $1,357.60  ·  $66.2B</title><rect x="442.0" y="327.9" width="27.3" height="23.8" fill="rgb(189,61,73)"/></g><g class="cell"><title>NXPI · NXP Semiconductors NV
++2.00%  ·  $261.56  ·  $65.9B</title><rect x="470.2" y="245.2" width="23.4" height="27.6" fill="rgb(28,133,105)"/></g><g class="cell"><title>HPE · Hewlett Packard Enterprise Co.
++0.82%  ·  $47.93  ·  $63.6B</title><rect x="494.7" y="245.2" width="22.6" height="27.6" fill="rgb(43,97,90)"/></g><g class="cell"><title>TEL · TE Connectivity plc
+-0.45%  ·  $217.76  ·  $62.6B</title><rect x="518.3" y="245.2" width="22.2" height="27.6" fill="rgb(95,62,75)"/></g><g class="cell"><title>GRMN · Garmin Ltd.
+-1.08%  ·  $288.66  ·  $55.6B</title><rect x="541.5" y="245.2" width="19.6" height="27.6" fill="rgb(132,62,74)"/></g><g class="cell"><title>BE · Bloom Energy Corporation Class A
+-4.36%  ·  $185.42  ·  $54.8B</title><rect x="470.2" y="273.8" width="20.3" height="26.2" fill="rgb(226,60,72)"/></g><g class="cell"><title>HONA · Honeywell Aerospace Inc
++1.03%  ·  $166.47  ·  $52.8B</title><rect x="470.2" y="301.0" width="20.3" height="25.2" fill="rgb(40,104,93)"/></g><g class="cell"><title>LHX · L3Harris Technologies Inc
++1.67%  ·  $275.96  ·  $51.4B</title><rect x="470.2" y="327.2" width="20.3" height="24.5" fill="rgb(32,124,101)"/></g><g class="cell"><title>KEYS · Keysight Technologies Inc
++0.86%  ·  $291.46  ·  $49.6B</title><rect x="491.6" y="273.8" width="25.8" height="18.6" fill="rgb(43,99,91)"/></g><g class="cell"><title>COHR · Coherent Corp.
+-4.68%  ·  $214.66  ·  $42.3B</title><rect x="518.4" y="273.8" width="21.8" height="18.6" fill="rgb(226,60,72)"/></g><g class="cell"><title>CIEN · Ciena Corporation
++1.03%  ·  $272.10  ·  $38.6B</title><rect x="541.2" y="273.8" width="19.8" height="18.6" fill="rgb(40,104,93)"/></g><g class="cell"><title>TER · Teradyne, Inc.
+-0.24%  ·  $245.40  ·  $38.3B</title><rect x="491.6" y="293.4" width="18.1" height="20.3" fill="rgb(81,63,75)"/></g><g class="cell"><title>NTAP · NetApp, Inc.
+-0.05%  ·  $175.99  ·  $34.6B</title><rect x="491.6" y="314.7" width="18.1" height="18.2" fill="rgb(64,63,76)"/></g><g class="cell"><title>P · Everpure, Inc. Class A
+-0.84%  ·  $101.98  ·  $34.0B</title><rect x="491.6" y="333.9" width="18.1" height="17.9" fill="rgb(118,62,75)"/></g><g class="cell"><title>MCHP · Microchip Technology Incorporated
+-1.89%  ·  $60.33  ·  $32.8B</title><rect x="510.7" y="293.4" width="17.6" height="17.7" fill="rgb(174,61,73)"/></g><g class="cell"><title>TDY · Teledyne Technologies Incorporated
++0.43%  ·  $646.13  ·  $29.7B</title><rect x="529.3" y="293.4" width="15.9" height="17.7" fill="rgb(49,84,85)"/></g><g class="cell"><title>FLEX · Flex Ltd
+-2.66%  ·  $76.09  ·  $28.1B</title><rect x="546.2" y="293.4" width="14.9" height="17.7" fill="rgb(211,60,72)"/></g><g class="cell"><title>ON · ON Semiconductor Corporation
++0.72%  ·  $69.61  ·  $27.1B</title><rect x="510.7" y="312.1" width="12.8" height="19.8" fill="rgb(45,94,89)"/></g><g class="cell"><title>Q · Qnity Electronics, Inc.
+-1.16%  ·  $123.64  ·  $25.8B</title><rect x="510.7" y="332.9" width="12.8" height="18.8" fill="rgb(137,62,74)"/></g><g class="cell"><title>AXON · Axon Enterprise Inc
+-0.21%  ·  $302.54  ·  $24.6B</title><rect x="524.5" y="312.1" width="13.4" height="17.1" fill="rgb(78,63,76)"/></g><g class="cell"><title>FTV · Fortive Corp.
++0.94%  ·  $67.73  ·  $20.2B</title><rect x="538.9" y="312.1" width="10.8" height="17.1" fill="rgb(41,101,92)"/></g><g class="cell"><title>FSLR · First Solar, Inc.
+-5.55%  ·  $180.98  ·  $19.5B</title><rect x="550.7" y="312.1" width="10.4" height="17.1" fill="rgb(226,60,72)"/></g><g class="cell"><title>SWKS · Skyworks Solutions, Inc.
+-0.14%  ·  $82.71  ·  $19.5B</title><rect x="524.5" y="330.2" width="16.8" height="10.6" fill="rgb(73,63,76)"/></g><g class="cell"><title>SMCI · Super Micro Computer, Inc.
+-2.83%  ·  $27.79  ·  $18.3B</title><rect x="524.5" y="341.8" width="16.8" height="9.9" fill="rgb(218,60,72)"/></g><g class="cell"><title>ZBRA · Zebra Technologies Corporation Class A
+-1.63%  ·  $321.38  ·  $15.1B</title><rect x="542.2" y="330.2" width="9.1" height="14.9" fill="rgb(161,61,74)"/></g><g class="cell"><title>TXT · Textron Inc.
++1.65%  ·  $86.82  ·  $14.7B</title><rect x="552.3" y="330.2" width="8.8" height="14.9" fill="rgb(32,123,101)"/></g><g class="cell"><title>HII · Huntington Ingalls Industries, Inc.
++3.03%  ·  $313.57  ·  $12.4B</title><rect x="542.2" y="346.1" width="18.8" height="5.6" fill="rgb(16,160,116)"/></g></g><g class="sec"><rect class="sec-bg" x="0.0" y="353.7" width="563.1" height="326.3"/><text class="sec-label" x="6.0" y="366.2">TECHNOLOGY SERVICES<tspan class="down" dx="6">-0.78%</tspan></text><g class="cell"><title>MSFT · Microsoft Corporation
+-2.20%  ·  $533.16  ·  $3.96T</title><rect x="2.0" y="372.7" width="255.9" height="161.5" fill="rgb(189,61,73)"/><text class="tk" x="130.0" y="447.0" font-size="26.0">MSFT</text><text class="tp" x="130.0" y="471.7" font-size="16.1">-2.20%</text></g><g class="cell"><title>GOOGL · Alphabet Inc. Class A
+-0.27%  ·  $287.38  ·  $3.50T</title><rect x="2.0" y="535.3" width="255.9" height="142.7" fill="rgb(82,63,75)"/><text class="tk" x="130.0" y="600.1" font-size="26.0">GOOGL</text><text class="tp" x="130.0" y="624.8" font-size="16.1">-0.27%</text></g><g class="cell"><title>GOOG · Alphabet Inc. Class C
+-0.38%  ·  $284.92  ·  $3.50T</title><rect x="258.9" y="372.7" width="205.4" height="177.7" fill="rgb(90,62,75)"/><text class="tk" x="361.6" y="455.1" font-size="26.0">GOOG</text><text class="tp" x="361.6" y="479.8" font-size="16.1">-0.38%</text></g><g class="cell"><title>META · Meta Platforms Inc Class A
++0.00%  ·  $641.39  ·  $1.64T</title><rect x="465.3" y="372.7" width="95.8" height="177.7" fill="rgb(58,63,76)"/><text class="tk" x="513.2" y="455.1" font-size="26.0">META</text><text class="tp" x="513.2" y="479.8" font-size="16.1">+0.00%</text></g><g class="cell"><title>PLTR · Palantir Technologies Inc. Class A
+-0.22%  ·  $168.82  ·  $406.8B</title><rect x="258.9" y="551.4" width="62.1" height="67.0" fill="rgb(79,63,75)"/><text class="tk" x="290.0" y="581.0" font-size="15.6">PLTR</text><text class="tp" x="290.0" y="595.8" font-size="9.7">-0.22%</text></g><g class="cell"><title>ORCL · Oracle Corporation
+-1.51%  ·  $117.98  ·  $356.7B</title><rect x="258.9" y="619.4" width="62.1" height="58.6" fill="rgb(155,61,74)"/><text class="tk" x="290.0" y="645.0" font-size="14.6">ORCL</text><text class="tp" x="290.0" y="658.9" font-size="9.1">-1.51%</text></g><g class="cell"><title>PANW · Palo Alto Networks, Inc.
+-1.37%  ·  $326.36  ·  $267.2B</title><rect x="322.0" y="551.4" width="42.6" height="63.7" fill="rgb(148,61,74)"/><text class="tk" x="343.3" y="580.1" font-size="12.6">PANW</text><text class="tp" x="343.3" y="592.1" font-size="7.8">-1.37%</text></g><g class="cell"><title>NFLX · Netflix, Inc.
+-1.08%  ·  $63.26  ·  $259.8B</title><rect x="322.0" y="616.1" width="42.6" height="61.9" fill="rgb(132,62,74)"/><text class="tk" x="343.3" y="643.9" font-size="12.5">NFLX</text><text class="tp" x="343.3" y="655.8" font-size="7.7">-1.08%</text></g><g class="cell"><title>CRWD · CrowdStrike Holdings, Inc. Class A
+-1.23%  ·  $225.76  ·  $231.2B</title><rect x="365.6" y="551.4" width="51.7" height="45.2" fill="rgb(141,62,74)"/><text class="tk" x="391.5" y="571.1" font-size="11.8">CRWD</text><text class="tp" x="391.5" y="582.3" font-size="7.3">-1.23%</text></g><g class="cell"><title>IBM · International Business Machines Corporation
+-0.64%  ·  $244.53  ·  $231.1B</title><rect x="365.6" y="597.7" width="51.7" height="45.2" fill="rgb(107,62,75)"/><text class="tk" x="391.5" y="617.3" font-size="11.8">IBM</text><text class="tp" x="391.5" y="628.5" font-size="7.3">-0.64%</text></g><g class="cell"><title>CRM · Salesforce, Inc.
+-0.68%  ·  $213.48  ·  $175.7B</title><rect x="365.6" y="643.9" width="51.7" height="34.1" fill="rgb(109,62,75)"/><text class="tk" x="391.5" y="658.4" font-size="10.2">CRM</text><text class="tp" x="391.5" y="668.1" font-size="6.4">-0.68%</text></g><g class="cell"><title>ACN · Accenture Plc Class A
++1.63%  ·  $258.51  ·  $152.8B</title><rect x="418.4" y="551.4" width="32.4" height="47.2" fill="rgb(32,122,101)"/><text class="tk" x="434.6" y="572.6" font-size="9.6">ACN</text><text class="tp" x="434.6" y="581.7" font-size="5.9">+1.63%</text></g><g class="cell"><title>APP · AppLovin Corp. Class A
+-3.53%  ·  $395.51  ·  $131.0B</title><rect x="418.4" y="599.6" width="32.4" height="40.3" fill="rgb(226,60,72)"/><text class="tk" x="434.6" y="617.5" font-size="9.0">APP</text><text class="tp" x="434.6" y="626.1" font-size="5.6">-3.53%</text></g><g class="cell"><title>ADP · Automatic Data Processing, Inc.
++1.12%  ·  $305.44  ·  $120.6B</title><rect x="418.4" y="641.0" width="32.4" height="37.0" fill="rgb(39,107,94)"/><text class="tk" x="434.6" y="657.2" font-size="9.0">ADP</text><text class="tp" x="434.6" y="665.8" font-size="5.6">+1.12%</text></g><g class="cell"><title>NOW · ServiceNow, Inc.
+-3.07%  ·  $99.61  ·  $103.4B</title><rect x="451.8" y="551.4" width="29.2" height="35.1" fill="rgb(226,60,72)"/><text class="tk" x="466.4" y="566.7" font-size="9.0">NOW</text><text class="tp" x="466.4" y="575.3" font-size="5.6">-3.07%</text></g><g class="cell"><title>ADBE · Adobe Inc.
+-0.26%  ·  $236.70  ·  $92.1B</title><rect x="482.0" y="551.4" width="25.9" height="35.1" fill="rgb(82,63,75)"/></g><g class="cell"><title>CDNS · Cadence Design Systems, Inc.
+-1.45%  ·  $331.64  ·  $91.0B</title><rect x="508.9" y="551.4" width="25.6" height="35.1" fill="rgb(152,61,74)"/></g><g class="cell"><title>INTU · Intuit Inc.
++0.65%  ·  $340.44  ·  $91.0B</title><rect x="535.5" y="551.4" width="25.6" height="35.1" fill="rgb(46,92,88)"/></g><g class="cell"><title>FTNT · Fortinet, Inc.
++0.90%  ·  $123.57  ·  $90.8B</title><rect x="451.8" y="587.5" width="27.1" height="33.1" fill="rgb(42,100,91)"/></g><g class="cell"><title>SNPS · Synopsys, Inc.
+-1.50%  ·  $459.95  ·  $88.1B</title><rect x="451.8" y="621.7" width="27.1" height="32.1" fill="rgb(155,61,74)"/></g><g class="cell"><title>DDOG · Datadog, Inc. Class A
+-0.68%  ·  $178.40  ·  $64.4B</title><rect x="451.8" y="654.8" width="27.1" height="23.2" fill="rgb(109,62,75)"/></g><g class="cell"><title>ADSK · Autodesk, Inc.
+-1.23%  ·  $260.11  ·  $54.4B</title><rect x="479.9" y="587.5" width="21.8" height="24.2" fill="rgb(140,62,74)"/></g><g class="cell"><title>VEEV · Veeva Systems Inc. Class A
+-0.28%  ·  $305.55  ·  $49.5B</title><rect x="502.6" y="587.5" width="19.7" height="24.2" fill="rgb(83,63,75)"/></g><g class="cell"><title>ROP · Roper Technologies, Inc.
++0.60%  ·  $474.47  ·  $47.0B</title><rect x="523.4" y="587.5" width="18.7" height="24.2" fill="rgb(46,90,87)"/></g><g class="cell"><title>WDAY · Workday, Inc. Class A
+-0.69%  ·  $188.89  ·  $45.5B</title><rect x="543.0" y="587.5" width="18.1" height="24.2" fill="rgb(110,62,75)"/></g><g class="cell"><title>TTWO · Take-Two Interactive Software, Inc.
++8.31%  ·  $224.64  ·  $42.0B</title><rect x="479.9" y="612.7" width="17.5" height="22.9" fill="rgb(16,160,116)"/></g><g class="cell"><title>PAYX · Paychex, Inc.
++1.25%  ·  $116.20  ·  $41.4B</title><rect x="479.9" y="636.6" width="17.5" height="22.5" fill="rgb(37,111,96)"/></g><g class="cell"><title>TWLO · Twilio, Inc. Class A
++3.66%  ·  $214.21  ·  $33.1B</title><rect x="479.9" y="660.1" width="17.5" height="17.9" fill="rgb(16,160,116)"/></g><g class="cell"><title>OKTA · Okta, Inc. Class A
++0.44%  ·  $178.36  ·  $31.2B</title><rect x="498.4" y="612.7" width="16.4" height="17.9" fill="rgb(49,84,85)"/></g><g class="cell"><title>CTSH · Cognizant Technology Solutions Corporation Class A
++2.20%  ·  $65.00  ·  $29.1B</title><rect x="515.8" y="612.7" width="15.2" height="17.9" fill="rgb(25,139,107)"/></g><g class="cell"><title>VRSN · VeriSign, Inc.
++1.72%  ·  $311.12  ·  $27.9B</title><rect x="532.0" y="612.7" width="14.5" height="17.9" fill="rgb(31,125,102)"/></g><g class="cell"><title>VRSK · Verisk Analytics, Inc.
++1.70%  ·  $204.02  ·  $26.2B</title><rect x="547.5" y="612.7" width="13.6" height="17.9" fill="rgb(31,125,101)"/></g><g class="cell"><title>HPQ · HP Inc.
++0.60%  ·  $28.42  ·  $25.6B</title><rect x="498.4" y="631.6" width="14.3" height="16.6" fill="rgb(46,90,87)"/></g><g class="cell"><title>BR · Broadridge Financial Solutions, Inc.
++0.32%  ·  $192.96  ·  $21.8B</title><rect x="498.4" y="649.3" width="14.3" height="14.0" fill="rgb(51,79,83)"/></g><g class="cell"><title>PTC · PTC Inc.
++0.35%  ·  $196.55  ·  $21.4B</title><rect x="498.4" y="664.3" width="14.3" height="13.7" fill="rgb(51,80,83)"/></g><g class="cell"><title>CDW · CDW Corporation
++2.89%  ·  $169.36  ·  $21.1B</title><rect x="513.7" y="631.6" width="12.0" height="16.1" fill="rgb(17,157,115)"/></g><g class="cell"><title>RDDT · Reddit, Inc. Class A
+-2.10%  ·  $98.67  ·  $19.1B</title><rect x="513.7" y="648.7" width="12.0" height="14.4" fill="rgb(184,61,73)"/></g><g class="cell"><title>J · Jacobs Solutions Inc.
++0.46%  ·  $157.11  ·  $18.4B</title><rect x="513.7" y="664.1" width="12.0" height="13.9" fill="rgb(49,85,85)"/></g><g class="cell"><title>FFIV · F5, Inc.
+-0.14%  ·  $317.31  ·  $18.0B</title><rect x="526.8" y="631.6" width="11.1" height="14.7" fill="rgb(72,63,76)"/></g><g class="cell"><title>GEN · Gen Digital Inc.
++0.70%  ·  $30.01  ·  $17.8B</title><rect x="538.9" y="631.6" width="11.0" height="14.7" fill="rgb(45,93,89)"/></g><g class="cell"><title>TYL · Tyler Technologies, Inc.
++0.83%  ·  $421.66  ·  $16.8B</title><rect x="550.8" y="631.6" width="10.3" height="14.7" fill="rgb(43,98,90)"/></g><g class="cell"><title>LDOS · Leidos Holdings, Inc.
++1.09%  ·  $137.24  ·  $16.7B</title><rect x="526.8" y="647.4" width="14.0" height="10.8" fill="rgb(39,106,94)"/></g><g class="cell"><title>FIS · Fidelity National Information Services, Inc.
+-0.11%  ·  $28.31  ·  $14.6B</title><rect x="526.8" y="659.1" width="14.0" height="9.3" fill="rgb(70,63,76)"/></g><g class="cell"><title>GDDY · GoDaddy, Inc. Class A
++1.27%  ·  $113.13  ·  $13.7B</title><rect x="526.8" y="669.4" width="14.0" height="8.6" fill="rgb(37,112,96)"/></g><g class="cell"><title>TRMB · Trimble Inc.
++0.13%  ·  $54.75  ·  $12.6B</title><rect x="541.8" y="647.4" width="9.3" height="11.9" fill="rgb(55,71,79)"/></g><g class="cell"><title>CSGP · CoStar Group, Inc.
+-2.91%  ·  $30.33  ·  $12.2B</title><rect x="552.1" y="647.4" width="9.0" height="11.9" fill="rgb(222,60,72)"/></g><g class="cell"><title>JKHY · Jack Henry &amp; Associates, Inc.
++2.33%  ·  $175.19  ·  $12.2B</title><rect x="541.8" y="660.2" width="12.6" height="8.4" fill="rgb(24,142,109)"/></g><g class="cell"><title>AKAM · Akamai Technologies, Inc.
++4.26%  ·  $83.71  ·  $12.1B</title><rect x="541.8" y="669.7" width="12.6" height="8.3" fill="rgb(16,160,116)"/></g><g class="cell"><title>IT · Gartner, Inc.
+-1.10%  ·  $188.92  ·  $11.9B</title><rect x="555.4" y="660.2" width="5.7" height="17.8" fill="rgb(133,62,74)"/></g></g><g class="sec"><rect class="sec-bg" x="563.1" y="0.0" width="397.6" height="276.3"/><text class="sec-label" x="569.1" y="12.5">FINANCE<tspan class="up" dx="6">+0.44%</tspan></text><g class="cell"><title>BRK.B · Berkshire Hathaway Inc. Class B
++1.41%  ·  $583.34  ·  $1.24T</title><rect x="565.1" y="19.0" width="93.3" height="147.2" fill="rgb(35,116,98)"/><text class="tk" x="611.7" y="86.1" font-size="26.0">BRK.B</text><text class="tp" x="611.7" y="110.8" font-size="16.1">+1.41%</text></g><g class="cell"><title>JPM · JPMorgan Chase &amp; Co.
+-0.00%  ·  $342.07  ·  $908.4B</title><rect x="565.1" y="167.2" width="93.3" height="107.2" fill="rgb(59,63,76)"/><text class="tk" x="611.7" y="214.7" font-size="24.0">JPM</text><text class="tp" x="611.7" y="237.6" font-size="14.9">-0.00%</text></g><g class="cell"><title>V · Visa Inc. Class A
++0.20%  ·  $423.00  ·  $784.6B</title><rect x="659.3" y="19.0" width="73.8" height="116.7" fill="rgb(53,74,81)"/><text class="tk" x="696.2" y="71.8" font-size="22.3">V</text><text class="tp" x="696.2" y="93.0" font-size="13.9">+0.20%</text></g><g class="cell"><title>MA · Mastercard Incorporated Class A
++0.46%  ·  $658.84  ·  $574.0B</title><rect x="659.3" y="136.7" width="73.8" height="85.1" fill="rgb(49,85,85)"/><text class="tk" x="696.2" y="174.5" font-size="19.1">MA</text><text class="tp" x="696.2" y="192.7" font-size="11.8">+0.46%</text></g><g class="cell"><title>BAC · Bank of America Corp
++0.26%  ·  $50.68  ·  $349.7B</title><rect x="659.3" y="222.9" width="73.8" height="51.5" fill="rgb(52,77,82)"/><text class="tk" x="696.2" y="244.9" font-size="14.9">BAC</text><text class="tp" x="696.2" y="259.0" font-size="9.2">+0.26%</text></g><g class="cell"><title>MS · Morgan Stanley
++0.25%  ·  $187.56  ·  $293.2B</title><rect x="734.1" y="19.0" width="63.2" height="50.3" fill="rgb(52,76,81)"/><text class="tk" x="765.7" y="40.7" font-size="13.7">MS</text><text class="tp" x="765.7" y="53.7" font-size="8.5">+0.25%</text></g><g class="cell"><title>GS · Goldman Sachs Group, Inc.
++0.44%  ·  $910.19  ·  $262.5B</title><rect x="798.3" y="19.0" width="56.5" height="50.3" fill="rgb(49,84,85)"/><text class="tk" x="826.6" y="40.9" font-size="12.9">GS</text><text class="tp" x="826.6" y="53.2" font-size="8.0">+0.44%</text></g><g class="cell"><title>WFC · Wells Fargo &amp; Company
++0.32%  ·  $85.76  ·  $257.4B</title><rect x="855.8" y="19.0" width="55.4" height="50.3" fill="rgb(51,79,83)"/><text class="tk" x="883.5" y="40.9" font-size="12.8">WFC</text><text class="tp" x="883.5" y="53.1" font-size="7.9">+0.32%</text></g><g class="cell"><title>AXP · American Express Company
+-0.26%  ·  $323.46  ·  $216.9B</title><rect x="912.2" y="19.0" width="46.5" height="50.3" fill="rgb(82,63,75)"/><text class="tk" x="935.5" y="41.2" font-size="11.7">AXP</text><text class="tp" x="935.5" y="52.3" font-size="7.3">-0.26%</text></g><g class="cell"><title>C · Citigroup Inc.
++0.25%  ·  $122.27  ·  $205.1B</title><rect x="734.1" y="70.3" width="39.8" height="55.4" fill="rgb(52,76,81)"/><text class="tk" x="754.0" y="95.1" font-size="11.4">C</text><text class="tp" x="754.0" y="106.0" font-size="7.1">+0.25%</text></g><g class="cell"><title>BLK · BlackRock, Inc.
++0.61%  ·  $1,222.15  ·  $198.0B</title><rect x="734.1" y="126.7" width="39.8" height="53.5" fill="rgb(46,90,87)"/><text class="tk" x="754.0" y="150.6" font-size="11.2">BLK</text><text class="tp" x="754.0" y="161.3" font-size="7.0">+0.61%</text></g><g class="cell"><title>WELL · Welltower Inc.
++0.13%  ·  $247.66  ·  $181.7B</title><rect x="734.1" y="181.2" width="39.8" height="49.0" fill="rgb(55,71,79)"/><text class="tk" x="754.0" y="203.0" font-size="10.8">WELL</text><text class="tp" x="754.0" y="213.2" font-size="6.7">+0.13%</text></g><g class="cell"><title>SCHW · Charles Schwab Corp
++0.32%  ·  $93.03  ·  $160.6B</title><rect x="734.1" y="231.1" width="39.8" height="43.2" fill="rgb(51,79,83)"/><text class="tk" x="754.0" y="250.2" font-size="10.1">SCHW</text><text class="tp" x="754.0" y="259.8" font-size="6.3">+0.32%</text></g><g class="cell"><title>BX · Blackstone Inc.
+-1.23%  ·  $122.53  ·  $151.2B</title><rect x="774.9" y="70.3" width="39.8" height="40.6" fill="rgb(140,62,74)"/><text class="tk" x="794.8" y="88.1" font-size="9.8">BX</text><text class="tp" x="794.8" y="97.4" font-size="6.1">-1.23%</text></g><g class="cell"><title>CB · Chubb Limited
++1.56%  ·  $369.11  ·  $141.0B</title><rect x="815.8" y="70.3" width="37.1" height="40.6" fill="rgb(33,120,100)"/><text class="tk" x="834.3" y="88.2" font-size="9.5">CB</text><text class="tp" x="834.3" y="97.2" font-size="5.9">+1.56%</text></g><g class="cell"><title>PGR · Progressive Corporation
++1.86%  ·  $231.75  ·  $134.3B</title><rect x="853.8" y="70.3" width="35.2" height="40.6" fill="rgb(29,129,103)"/><text class="tk" x="871.4" y="88.2" font-size="9.2">PGR</text><text class="tp" x="871.4" y="97.0" font-size="5.7">+1.86%</text></g><g class="cell"><title>IBKR · Interactive Brokers Group, Inc. Class A
++0.03%  ·  $77.59  ·  $132.0B</title><rect x="890.0" y="70.3" width="34.6" height="40.6" fill="rgb(57,65,77)"/><text class="tk" x="907.4" y="88.3" font-size="9.2">IBKR</text><text class="tp" x="907.4" y="97.0" font-size="5.7">+0.03%</text></g><g class="cell"><title>PLD · Prologis, Inc.
+-0.34%  ·  $130.10  ·  $126.1B</title><rect x="925.7" y="70.3" width="33.0" height="40.6" fill="rgb(88,62,75)"/><text class="tk" x="942.2" y="88.3" font-size="9.0">PLD</text><text class="tp" x="942.2" y="96.8" font-size="5.6">-0.34%</text></g><g class="cell"><title>COF · Capital One Financial Corp
+-1.38%  ·  $195.84  ·  $117.8B</title><rect x="774.9" y="111.8" width="35.6" height="35.2" fill="rgb(148,61,74)"/><text class="tk" x="792.7" y="127.2" font-size="9.0">COF</text><text class="tp" x="792.7" y="135.7" font-size="5.6">-1.38%</text></g><g class="cell"><title>CME · CME Group Inc. Class A
++1.50%  ·  $309.09  ·  $110.6B</title><rect x="774.9" y="148.0" width="35.6" height="33.0" fill="rgb(34,119,99)"/><text class="tk" x="792.7" y="162.2" font-size="9.0">CME</text><text class="tp" x="792.7" y="170.8" font-size="5.6">+1.50%</text></g><g class="cell"><title>EQIX · Equinix, Inc.
+-0.43%  ·  $1,050.00  ·  $103.9B</title><rect x="774.9" y="182.0" width="35.6" height="30.9" fill="rgb(93,62,75)"/><text class="tk" x="792.7" y="195.2" font-size="9.0">EQIX</text><text class="tp" x="792.7" y="203.7" font-size="5.6">-0.43%</text></g><g class="cell"><title>BNY · Bank of New York Mellon Corp
+-0.06%  ·  $151.14  ·  $101.7B</title><rect x="774.9" y="213.9" width="35.6" height="30.2" fill="rgb(65,63,76)"/><text class="tk" x="792.7" y="226.7" font-size="9.0">BNY</text><text class="tp" x="792.7" y="235.3" font-size="5.6">-0.06%</text></g><g class="cell"><title>ICE · Intercontinental Exchange, Inc.
++1.34%  ·  $176.36  ·  $98.6B</title><rect x="774.9" y="245.1" width="35.6" height="29.3" fill="rgb(36,114,97)"/><text class="tk" x="792.7" y="257.5" font-size="9.0">ICE</text><text class="tp" x="792.7" y="266.0" font-size="5.6">+1.34%</text></g><g class="cell"><title>MRSH · Marsh &amp; McLennan Companies, Inc.
++1.26%  ·  $206.94  ·  $98.4B</title><rect x="811.5" y="111.8" width="30.5" height="34.1" fill="rgb(37,111,96)"/><text class="tk" x="826.7" y="126.6" font-size="9.0">MRSH</text><text class="tp" x="826.7" y="135.2" font-size="5.6">+1.26%</text></g><g class="cell"><title>USB · U.S. Bancorp
+-0.33%  ·  $60.75  ·  $94.7B</title><rect x="843.0" y="111.8" width="29.3" height="34.1" fill="rgb(87,62,75)"/><text class="tk" x="857.6" y="126.6" font-size="9.0">USB</text><text class="tp" x="857.6" y="135.2" font-size="5.6">-0.33%</text></g><g class="cell"><title>PNC · PNC Financial Services Group, Inc.
+0.00%  ·  $231.30  ·  $91.8B</title><rect x="873.2" y="111.8" width="28.3" height="34.1" fill="rgb(58,63,76)"/></g><g class="cell"><title>KKR · KKR &amp; Co Inc
++2.81%  ·  $100.85  ·  $90.5B</title><rect x="902.6" y="111.8" width="27.9" height="34.1" fill="rgb(18,155,114)"/></g><g class="cell"><title>AMT · American Tower Corporation
++0.72%  ·  $190.37  ·  $88.3B</title><rect x="931.5" y="111.8" width="27.2" height="34.1" fill="rgb(45,94,89)"/></g><g class="cell"><title>TRV · Travelers Companies, Inc.
++1.41%  ·  $400.78  ·  $82.1B</title><rect x="811.5" y="147.0" width="25.6" height="33.7" fill="rgb(35,116,98)"/></g><g class="cell"><title>SPG · Simon Property Group, Inc.
++0.63%  ·  $234.48  ·  $75.9B</title><rect x="811.5" y="181.7" width="25.6" height="31.1" fill="rgb(46,91,87)"/></g><g class="cell"><title>HOOD · Robinhood Markets, Inc. Class A
+-2.39%  ·  $81.33  ·  $73.2B</title><rect x="811.5" y="213.7" width="25.6" height="30.0" fill="rgb(198,61,73)"/></g><g class="cell"><title>AJG · Arthur J. Gallagher &amp; Co.
++0.73%  ·  $282.65  ·  $72.5B</title><rect x="811.5" y="244.7" width="25.6" height="29.6" fill="rgb(44,94,89)"/></g><g class="cell"><title>APO · Apollo Global Management Inc
++0.44%  ·  $122.74  ·  $72.5B</title><rect x="838.1" y="147.0" width="30.4" height="24.9" fill="rgb(49,84,85)"/><text class="tk" x="853.3" y="157.2" font-size="9.0">APO</text><text class="tp" x="853.3" y="165.7" font-size="5.6">+0.44%</text></g><g class="cell"><title>AON · Aon Plc Class A
++0.17%  ·  $336.34  ·  $71.4B</title><rect x="869.5" y="147.0" width="29.9" height="24.9" fill="rgb(54,73,80)"/><text class="tk" x="884.4" y="157.2" font-size="9.0">AON</text><text class="tp" x="884.4" y="165.7" font-size="5.6">+0.17%</text></g><g class="cell"><title>DLR · Digital Realty Trust, Inc.
++0.43%  ·  $180.88  ·  $68.4B</title><rect x="900.4" y="147.0" width="28.7" height="24.9" fill="rgb(49,84,85)"/></g><g class="cell"><title>URI · United Rentals, Inc.
+-2.06%  ·  $1,104.94  ·  $68.4B</title><rect x="930.1" y="147.0" width="28.7" height="24.9" fill="rgb(182,61,73)"/></g><g class="cell"><title>ALL · Allstate Corporation
++2.89%  ·  $261.12  ·  $64.6B</title><rect x="838.1" y="172.9" width="26.9" height="25.0" fill="rgb(17,157,115)"/></g><g class="cell"><title>MET · MetLife, Inc.
++0.76%  ·  $102.44  ·  $64.4B</title><rect x="838.1" y="198.9" width="26.9" height="24.9" fill="rgb(44,95,89)"/></g><g class="cell"><title>PSA · Public Storage
+-0.66%  ·  $335.93  ·  $62.8B</title><rect x="838.1" y="224.8" width="26.9" height="24.3" fill="rgb(108,62,75)"/></g><g class="cell"><title>AFL · Aflac Incorporated
++1.13%  ·  $126.64  ·  $62.6B</title><rect x="838.1" y="250.1" width="26.9" height="24.2" fill="rgb(39,108,94)"/></g><g class="cell"><title>NDAQ · Nasdaq, Inc.
++1.40%  ·  $110.02  ·  $61.1B</title><rect x="865.9" y="172.9" width="24.0" height="26.4" fill="rgb(35,116,98)"/></g><g class="cell"><title>TFC · Truist Financial Corporation
+-0.14%  ·  $50.26  ·  $60.2B</title><rect x="891.0" y="172.9" width="23.7" height="26.4" fill="rgb(72,63,76)"/></g><g class="cell"><title>O · Realty Income Corporation
++0.07%  ·  $59.54  ·  $56.6B</title><rect x="915.6" y="172.9" width="22.2" height="26.4" fill="rgb(56,68,78)"/></g><g class="cell"><title>VMRK · Vivmark Residential
+-0.59%  ·  $65.75  ·  $50.9B</title><rect x="938.9" y="172.9" width="19.9" height="26.4" fill="rgb(104,62,75)"/></g><g class="cell"><title>FITB · Fifth Third Bancorp
+-0.31%  ·  $54.19  ·  $49.0B</title><rect x="865.9" y="200.2" width="20.6" height="24.5" fill="rgb(86,63,75)"/></g><g class="cell"><title>VTR · Ventas, Inc.
++0.95%  ·  $90.34  ·  $48.8B</title><rect x="865.9" y="225.7" width="20.6" height="24.4" fill="rgb(41,102,92)"/></g><g class="cell"><title>STT · State Street Corporation
++0.43%  ·  $171.62  ·  $46.7B</title><rect x="865.9" y="251.1" width="20.6" height="23.3" fill="rgb(49,84,85)"/></g><g class="cell"><title>AMP · Ameriprise Financial, Inc.
++0.32%  ·  $519.96  ·  $45.1B</title><rect x="887.5" y="200.2" width="24.0" height="19.2" fill="rgb(51,79,83)"/></g><g class="cell"><title>AIG · American International Group, Inc.
++3.38%  ·  $82.32  ·  $42.7B</title><rect x="912.6" y="200.2" width="22.7" height="19.2" fill="rgb(16,160,116)"/></g><g class="cell"><title>PRU · Prudential Financial, Inc.
++1.02%  ·  $123.30  ·  $42.3B</title><rect x="936.2" y="200.2" width="22.5" height="19.2" fill="rgb(40,104,93)"/></g><g class="cell"><title>CBRE · CBRE Group, Inc. Class A
+-2.45%  ·  $134.79  ·  $38.8B</title><rect x="887.5" y="220.5" width="22.5" height="17.5" fill="rgb(201,60,73)"/></g><g class="cell"><title>CBOE · Cboe Global Markets Inc
++3.41%  ·  $364.81  ·  $38.1B</title><rect x="887.5" y="239.0" width="22.5" height="17.2" fill="rgb(16,160,116)"/></g><g class="cell"><title>CCI · Crown Castle Inc.
++1.73%  ·  $89.35  ·  $38.0B</title><rect x="887.5" y="257.2" width="22.5" height="17.2" fill="rgb(31,125,102)"/></g><g class="cell"><title>HIG · Hartford Insurance Group, Inc.
++2.18%  ·  $137.80  ·  $36.8B</title><rect x="911.0" y="220.5" width="23.8" height="15.7" fill="rgb(25,138,107)"/></g><g class="cell"><title>ACGL · Arch Capital Group Ltd.
++0.94%  ·  $109.14  ·  $35.5B</title><rect x="935.8" y="220.5" width="22.9" height="15.7" fill="rgb(41,101,92)"/></g><g class="cell"><title>COIN · Coinbase Global, Inc. Class A
+-2.92%  ·  $132.13  ·  $35.0B</title><rect x="911.0" y="237.1" width="19.0" height="18.6" fill="rgb(222,60,72)"/></g><g class="cell"><title>EXR · Extra Space Storage Inc.
+-0.76%  ·  $158.95  ·  $33.2B</title><rect x="911.0" y="256.7" width="19.0" height="17.6" fill="rgb(114,62,75)"/></g><g class="cell"><title>IRM · Iron Mountain, Inc.
+-0.06%  ·  $110.78  ·  $33.0B</title><rect x="931.1" y="237.1" width="13.5" height="24.6" fill="rgb(66,63,76)"/></g><g class="cell"><title>RJF · Raymond James Financial, Inc.
++0.18%  ·  $168.11  ·  $32.3B</title><rect x="945.5" y="237.1" width="13.2" height="24.6" fill="rgb(53,73,80)"/></g><g class="cell"><title>NTRS · Northern Trust Corporation
++0.14%  ·  $177.89  ·  $32.2B</title><rect x="931.1" y="262.7" width="27.7" height="11.6" fill="rgb(54,71,79)"/></g></g><g class="sec"><rect class="sec-bg" x="960.7" y="0.0" width="239.3" height="276.3"/><text class="sec-label" x="966.7" y="12.5">HEALTH TECHNOLOGY<tspan class="up" dx="6">+0.01%</tspan></text><g class="cell"><title>LLY · Eli Lilly and Company
++1.44%  ·  $1,432.29  ·  $1.35T</title><rect x="962.7" y="19.0" width="156.4" height="87.6" fill="rgb(35,117,98)"/><text class="tk" x="1040.9" y="56.3" font-size="26.0">LLY</text><text class="tp" x="1040.9" y="81.0" font-size="16.1">+1.44%</text></g><g class="cell"><title>JNJ · Johnson &amp; Johnson
+-0.47%  ·  $280.78  ·  $675.9B</title><rect x="1120.1" y="19.0" width="77.9" height="87.6" fill="rgb(96,62,75)"/><text class="tk" x="1159.0" y="57.8" font-size="19.9">JNJ</text><text class="tp" x="1159.0" y="76.7" font-size="12.3">-0.47%</text></g><g class="cell"><title>ABBV · AbbVie, Inc.
++0.20%  ·  $293.89  ·  $519.5B</title><rect x="962.7" y="107.6" width="53.6" height="97.5" fill="rgb(53,74,81)"/><text class="tk" x="989.5" y="152.0" font-size="17.5">ABBV</text><text class="tp" x="989.5" y="168.6" font-size="10.8">+0.20%</text></g><g class="cell"><title>MRK · Merck &amp; Co., Inc.
+-0.48%  ·  $148.05  ·  $365.0B</title><rect x="962.7" y="206.1" width="53.6" height="68.2" fill="rgb(97,62,75)"/><text class="tk" x="989.5" y="236.6" font-size="14.6">MRK</text><text class="tp" x="989.5" y="250.5" font-size="9.1">-0.48%</text></g><g class="cell"><title>TMO · Thermo Fisher Scientific Inc.
+-0.48%  ·  $718.20  ·  $266.1B</title><rect x="1017.3" y="107.6" width="44.0" height="60.2" fill="rgb(96,62,75)"/><text class="tk" x="1039.3" y="134.6" font-size="12.5">TMO</text><text class="tp" x="1039.3" y="146.4" font-size="7.7">-0.48%</text></g><g class="cell"><title>AMGN · Amgen Inc.
+0.00%  ·  $465.23  ·  $251.6B</title><rect x="1017.3" y="168.8" width="44.0" height="56.8" fill="rgb(58,63,76)"/><text class="tk" x="1039.3" y="194.2" font-size="12.1">AMGN</text><text class="tp" x="1039.3" y="205.7" font-size="7.5">0.00%</text></g><g class="cell"><title>GILD · Gilead Sciences, Inc.
++0.92%  ·  $170.87  ·  $211.9B</title><rect x="1017.3" y="226.6" width="44.0" height="47.7" fill="rgb(42,101,91)"/><text class="tk" x="1039.3" y="247.7" font-size="11.1">GILD</text><text class="tp" x="1039.3" y="258.3" font-size="6.9">+0.92%</text></g><g class="cell"><title>ABT · Abbott Laboratories
+-0.05%  ·  $110.46  ·  $191.3B</title><rect x="1062.3" y="107.6" width="48.8" height="38.7" fill="rgb(64,63,76)"/><text class="tk" x="1086.7" y="124.3" font-size="10.6">ABT</text><text class="tp" x="1086.7" y="134.4" font-size="6.6">-0.05%</text></g><g class="cell"><title>PFE · Pfizer Inc.
++0.44%  ·  $29.36  ·  $167.3B</title><rect x="1112.1" y="107.6" width="42.6" height="38.7" fill="rgb(49,84,85)"/><text class="tk" x="1133.4" y="124.5" font-size="9.9">PFE</text><text class="tp" x="1133.4" y="133.9" font-size="6.1">+0.44%</text></g><g class="cell"><title>DHR · Danaher Corporation
++0.42%  ·  $236.11  ·  $166.1B</title><rect x="1155.7" y="107.6" width="42.3" height="38.7" fill="rgb(49,83,84)"/><text class="tk" x="1176.9" y="124.5" font-size="9.9">DHR</text><text class="tp" x="1176.9" y="133.9" font-size="6.1">+0.42%</text></g><g class="cell"><title>ISRG · Intuitive Surgical, Inc.
+-2.28%  ·  $450.04  ·  $156.0B</title><rect x="1062.3" y="147.3" width="33.3" height="46.0" fill="rgb(193,61,73)"/><text class="tk" x="1079.0" y="167.9" font-size="9.6">ISRG</text><text class="tp" x="1079.0" y="177.0" font-size="5.9">-2.28%</text></g><g class="cell"><title>VRTX · Vertex Pharmaceuticals Incorporated
+-0.54%  ·  $547.89  ·  $138.9B</title><rect x="1062.3" y="194.3" width="33.3" height="40.9" fill="rgb(101,62,75)"/><text class="tk" x="1079.0" y="212.5" font-size="9.0">VRTX</text><text class="tp" x="1079.0" y="221.1" font-size="5.6">-0.54%</text></g><g class="cell"><title>MDT · Medtronic Plc
+-1.17%  ·  $101.59  ·  $130.0B</title><rect x="1062.3" y="236.2" width="33.3" height="38.2" fill="rgb(137,62,74)"/><text class="tk" x="1079.0" y="253.0" font-size="9.0">MDT</text><text class="tp" x="1079.0" y="261.5" font-size="5.6">-1.17%</text></g><g class="cell"><title>BMY · Bristol-Myers Squibb Company
++1.06%  ·  $62.80  ·  $128.4B</title><rect x="1096.6" y="147.3" width="36.2" height="34.7" fill="rgb(40,105,93)"/><text class="tk" x="1114.7" y="162.4" font-size="9.0">BMY</text><text class="tp" x="1114.7" y="171.0" font-size="5.6">+1.06%</text></g><g class="cell"><title>SYK · Stryker Corporation
+-0.44%  ·  $324.29  ·  $123.5B</title><rect x="1133.8" y="147.3" width="34.8" height="34.7" fill="rgb(94,62,75)"/><text class="tk" x="1151.2" y="162.4" font-size="9.0">SYK</text><text class="tp" x="1151.2" y="171.0" font-size="5.6">-0.44%</text></g><g class="cell"><title>MRNA · Moderna, Inc.
+-6.75%  ·  $250.83  ·  $101.5B</title><rect x="1169.6" y="147.3" width="28.4" height="34.7" fill="rgb(226,60,72)"/></g><g class="cell"><title>REGN · Regeneron Pharmaceuticals, Inc.
+-0.42%  ·  $916.06  ·  $94.7B</title><rect x="1096.6" y="183.0" width="30.1" height="30.5" fill="rgb(93,62,75)"/><text class="tk" x="1111.7" y="196.1" font-size="9.0">REGN</text><text class="tp" x="1111.7" y="204.6" font-size="5.6">-0.42%</text></g><g class="cell"><title>BSX · Boston Scientific Corporation
++1.54%  ·  $44.70  ·  $64.8B</title><rect x="1096.6" y="214.6" width="30.1" height="20.6" fill="rgb(33,120,100)"/><text class="tk" x="1111.7" y="228.0" font-size="9.0">BSX</text></g><g class="cell"><title>EW · Edwards Lifesciences Corporation
+-0.67%  ·  $104.01  ·  $59.8B</title><rect x="1096.6" y="236.1" width="30.1" height="18.9" fill="rgb(109,62,75)"/><text class="tk" x="1111.7" y="248.7" font-size="9.0">EW</text></g><g class="cell"><title>BDX · Becton, Dickinson and Company
+-1.23%  ·  $212.61  ·  $57.9B</title><rect x="1096.6" y="256.0" width="30.1" height="18.3" fill="rgb(140,62,74)"/><text class="tk" x="1111.7" y="268.3" font-size="9.0">BDX</text></g><g class="cell"><title>IDXX · IDEXX Laboratories, Inc.
+-1.42%  ·  $696.64  ·  $54.9B</title><rect x="1127.7" y="183.0" width="24.8" height="21.0" fill="rgb(150,61,74)"/></g><g class="cell"><title>A · Agilent Technologies, Inc.
+-1.27%  ·  $177.88  ·  $50.1B</title><rect x="1153.5" y="183.0" width="22.6" height="21.0" fill="rgb(143,61,74)"/></g><g class="cell"><title>WAT · Waters Corporation
+-0.25%  ·  $475.52  ·  $46.7B</title><rect x="1177.1" y="183.0" width="20.9" height="21.0" fill="rgb(81,63,75)"/></g><g class="cell"><title>IQV · IQVIA Holdings Inc
+-1.32%  ·  $275.15  ·  $45.3B</title><rect x="1127.7" y="205.1" width="21.9" height="19.5" fill="rgb(145,61,74)"/></g><g class="cell"><title>GEHC · GE Healthcare Technologies Inc.
+-0.45%  ·  $83.65  ·  $37.8B</title><rect x="1127.7" y="225.6" width="21.9" height="16.1" fill="rgb(95,62,75)"/></g><g class="cell"><title>BIIB · Biogen Inc.
+-0.64%  ·  $253.25  ·  $37.4B</title><rect x="1127.7" y="242.7" width="21.9" height="15.9" fill="rgb(107,62,75)"/></g><g class="cell"><title>MTD · Mettler-Toledo International Inc.
+-0.62%  ·  $1,751.38  ·  $34.8B</title><rect x="1127.7" y="259.6" width="21.9" height="14.7" fill="rgb(105,62,75)"/></g><g class="cell"><title>ZTS · Zoetis, Inc. Class A
++0.17%  ·  $82.46  ·  $33.5B</title><rect x="1150.6" y="205.1" width="15.4" height="20.2" fill="rgb(54,73,80)"/></g><g class="cell"><title>RMD · ResMed Inc.
+-0.69%  ·  $234.11  ·  $32.9B</title><rect x="1167.0" y="205.1" width="15.1" height="20.2" fill="rgb(110,62,75)"/></g><g class="cell"><title>ILMN · Illumina, Inc.
+-2.66%  ·  $214.91  ·  $32.5B</title><rect x="1183.1" y="205.1" width="14.9" height="20.2" fill="rgb(211,60,72)"/></g><g class="cell"><title>DXCM · DexCom, Inc.
+-1.42%  ·  $79.92  ·  $29.8B</title><rect x="1150.6" y="226.2" width="16.3" height="16.9" fill="rgb(150,61,74)"/></g><g class="cell"><title>WST · West Pharmaceutical Services, Inc.
+-0.13%  ·  $412.55  ·  $28.7B</title><rect x="1167.9" y="226.2" width="15.7" height="16.9" fill="rgb(72,63,76)"/></g><g class="cell"><title>STE · STERIS plc
++0.07%  ·  $257.12  ·  $25.0B</title><rect x="1184.5" y="226.2" width="13.5" height="16.9" fill="rgb(56,68,78)"/></g><g class="cell"><title>INCY · Incyte Corporation
+-1.30%  ·  $120.30  ·  $24.5B</title><rect x="1150.6" y="244.1" width="15.0" height="14.8" fill="rgb(144,61,74)"/></g><g class="cell"><title>VTRS · Viatris, Inc.
++1.76%  ·  $20.85  ·  $23.9B</title><rect x="1150.6" y="259.9" width="15.0" height="14.4" fill="rgb(31,126,102)"/></g><g class="cell"><title>ZBH · Zimmer Biomet Holdings, Inc.
+-0.93%  ·  $107.32  ·  $20.3B</title><rect x="1166.6" y="244.1" width="11.6" height="15.7" fill="rgb(124,62,74)"/></g><g class="cell"><title>RVTY · Revvity, Inc.
+-1.01%  ·  $159.10  ·  $17.8B</title><rect x="1166.6" y="260.7" width="11.6" height="13.6" fill="rgb(128,62,74)"/></g><g class="cell"><title>BAX · Baxter International Inc.
++0.04%  ·  $26.42  ·  $13.7B</title><rect x="1179.2" y="244.1" width="9.4" height="12.6" fill="rgb(57,66,77)"/></g><g class="cell"><title>ALGN · Align Technology, Inc.
+0.00%  ·  $174.26  ·  $12.3B</title><rect x="1189.6" y="244.1" width="8.4" height="12.6" fill="rgb(58,63,76)"/></g><g class="cell"><title>COO · Cooper Companies, Inc.
+-0.56%  ·  $63.57  ·  $12.1B</title><rect x="1179.2" y="257.6" width="12.8" height="8.1" fill="rgb(102,62,75)"/></g><g class="cell"><title>TECH · Bio-Techne Corporation
+-0.01%  ·  $72.82  ·  $11.4B</title><rect x="1179.2" y="266.7" width="12.8" height="7.6" fill="rgb(60,63,76)"/></g><g class="cell"><title>PODD · Insulet Corporation
+-1.17%  ·  $148.06  ·  $10.3B</title><rect x="1193.0" y="257.6" width="5.0" height="16.7" fill="rgb(137,62,74)"/></g></g><g class="sec"><rect class="sec-bg" x="563.1" y="276.3" width="234.6" height="280.7"/><text class="sec-label" x="569.1" y="288.8">RETAIL TRADE<tspan class="up" dx="6">+0.68%</tspan></text><g class="cell"><title>AMZN · Amazon.com, Inc.
++1.48%  ·  $270.87  ·  $2.93T</title><rect x="565.1" y="295.3" width="230.6" height="130.0" fill="rgb(34,118,99)"/><text class="tk" x="680.4" y="353.8" font-size="26.0">AMZN</text><text class="tp" x="680.4" y="378.5" font-size="16.1">+1.48%</text></g><g class="cell"><title>WMT · Walmart Inc.
+-0.09%  ·  $125.55  ·  $996.1B</title><rect x="565.1" y="426.3" width="78.5" height="128.7" fill="rgb(68,63,76)"/><text class="tk" x="604.4" y="484.6" font-size="24.2">WMT</text><text class="tp" x="604.4" y="507.6" font-size="15.0">-0.09%</text></g><g class="cell"><title>COST · Costco Wholesale Corporation
+-0.00%  ·  $1,066.14  ·  $472.4B</title><rect x="644.6" y="426.3" width="64.7" height="73.5" fill="rgb(59,63,76)"/><text class="tk" x="676.9" y="458.9" font-size="16.7">COST</text><text class="tp" x="676.9" y="474.7" font-size="10.3">-0.00%</text></g><g class="cell"><title>HD · Home Depot, Inc.
+-0.68%  ·  $351.00  ·  $350.2B</title><rect x="644.6" y="500.8" width="64.7" height="54.2" fill="rgb(110,62,75)"/><text class="tk" x="676.9" y="524.3" font-size="14.3">HD</text><text class="tp" x="676.9" y="538.0" font-size="8.9">-0.68%</text></g><g class="cell"><title>TJX · TJX Companies Inc
+-0.88%  ·  $136.92  ·  $150.6B</title><rect x="710.3" y="426.3" width="45.4" height="32.6" fill="rgb(121,62,75)"/><text class="tk" x="733.0" y="440.3" font-size="9.4">TJX</text><text class="tp" x="733.0" y="449.2" font-size="5.8">-0.88%</text></g><g class="cell"><title>LOW · Lowe&#x27;s Companies, Inc.
+-0.10%  ·  $231.87  ·  $130.1B</title><rect x="756.6" y="426.3" width="39.1" height="32.6" fill="rgb(69,63,76)"/><text class="tk" x="776.2" y="440.4" font-size="9.0">LOW</text><text class="tp" x="776.2" y="448.9" font-size="5.6">-0.10%</text></g><g class="cell"><title>CVS · CVS Health Corporation
++4.41%  ·  $89.01  ·  $113.9B</title><rect x="710.3" y="459.9" width="35.4" height="31.4" fill="rgb(16,160,116)"/><text class="tk" x="727.9" y="473.4" font-size="9.0">CVS</text><text class="tp" x="727.9" y="482.0" font-size="5.6">+4.41%</text></g><g class="cell"><title>CVNA · Carvana Co. Class A
+-4.25%  ·  $73.02  ·  $80.6B</title><rect x="746.6" y="459.9" width="24.7" height="31.4" fill="rgb(226,60,72)"/></g><g class="cell"><title>ROST · Ross Stores, Inc.
++0.82%  ·  $238.95  ·  $76.3B</title><rect x="772.3" y="459.9" width="23.4" height="31.4" fill="rgb(43,97,90)"/></g><g class="cell"><title>TGT · Target Corporation
+-2.48%  ·  $161.78  ·  $73.5B</title><rect x="710.3" y="492.4" width="22.6" height="31.2" fill="rgb(202,60,73)"/></g><g class="cell"><title>ORLY · O&#x27;Reilly Automotive, Inc.
+-0.45%  ·  $89.39  ·  $71.7B</title><rect x="710.3" y="524.6" width="22.6" height="30.4" fill="rgb(95,62,75)"/></g><g class="cell"><title>EBAY · eBay Inc.
++2.11%  ·  $123.52  ·  $54.2B</title><rect x="733.9" y="492.4" width="22.2" height="23.2" fill="rgb(26,136,106)"/></g><g class="cell"><title>AZO · AutoZone, Inc.
+-1.04%  ·  $3,217.44  ·  $51.8B</title><rect x="757.1" y="492.4" width="21.2" height="23.2" fill="rgb(130,62,74)"/></g><g class="cell"><title>KR · Kroger Co.
++0.87%  ·  $68.60  ·  $40.5B</title><rect x="779.3" y="492.4" width="16.4" height="23.2" fill="rgb(42,99,91)"/></g><g class="cell"><title>WSM · Williams-Sonoma, Inc.
+-0.05%  ·  $261.55  ·  $30.8B</title><rect x="733.9" y="516.5" width="15.0" height="18.9" fill="rgb(64,63,76)"/></g><g class="cell"><title>DG · Dollar General Corporation
++0.46%  ·  $137.31  ·  $30.3B</title><rect x="733.9" y="536.5" width="15.0" height="18.6" fill="rgb(49,85,85)"/></g><g class="cell"><title>CPRT · Copart, Inc.
+-0.46%  ·  $32.30  ·  $29.9B</title><rect x="749.9" y="516.5" width="14.3" height="19.3" fill="rgb(96,62,75)"/></g><g class="cell"><title>ULTA · Ulta Beauty Inc.
+-0.11%  ·  $664.41  ·  $28.4B</title><rect x="749.9" y="536.8" width="14.3" height="18.2" fill="rgb(70,63,76)"/></g><g class="cell"><title>TPR · Tapestry, Inc.
+-0.33%  ·  $135.62  ·  $26.7B</title><rect x="765.2" y="516.5" width="14.8" height="16.4" fill="rgb(87,62,75)"/></g><g class="cell"><title>DLTR · Dollar Tree, Inc.
++2.62%  ·  $140.83  ·  $26.4B</title><rect x="781.0" y="516.5" width="14.7" height="16.4" fill="rgb(20,150,112)"/></g><g class="cell"><title>CASY · Casey&#x27;s General Stores, Inc.
++0.92%  ·  $698.48  ·  $25.8B</title><rect x="765.2" y="534.0" width="11.1" height="21.1" fill="rgb(42,101,92)"/></g><g class="cell"><title>BBY · Best Buy Co., Inc.
+-2.05%  ·  $104.10  ·  $21.8B</title><rect x="777.3" y="534.0" width="18.4" height="10.7" fill="rgb(182,61,73)"/></g><g class="cell"><title>TSCO · Tractor Supply Company
++0.27%  ·  $37.50  ·  $19.4B</title><rect x="777.3" y="545.7" width="18.4" height="9.4" fill="rgb(52,77,82)"/></g></g><g class="sec"><rect class="sec-bg" x="563.1" y="557.1" width="234.6" height="122.9"/><text class="sec-label" x="569.1" y="569.6">PRODUCER MANUFACTURING<tspan class="down" dx="6">-0.65%</tspan></text><g class="cell"><title>AMAT · Applied Materials, Inc.
++0.53%  ·  $372.53  ·  $295.6B</title><rect x="565.1" y="576.1" width="51.0" height="52.1" fill="rgb(47,87,86)"/><text class="tk" x="590.6" y="599.0" font-size="12.5">AMAT</text><text class="tp" x="590.6" y="610.8" font-size="7.8">+0.53%</text></g><g class="cell"><title>LRCX · Lam Research Corporation
++0.49%  ·  $222.39  ·  $277.8B</title><rect x="565.1" y="629.1" width="51.0" height="48.9" fill="rgb(48,86,85)"/><text class="tk" x="590.6" y="650.5" font-size="12.1">LRCX</text><text class="tp" x="590.6" y="662.1" font-size="7.5">+0.49%</text></g><g class="cell"><title>CAT · Caterpillar Inc.
+-2.39%  ·  $584.57  ·  $267.5B</title><rect x="617.1" y="576.1" width="42.4" height="56.6" fill="rgb(198,60,73)"/><text class="tk" x="638.3" y="601.4" font-size="11.9">CAT</text><text class="tp" x="638.3" y="612.7" font-size="7.4">-2.39%</text></g><g class="cell"><title>GEV · GE Vernova Inc.
+-3.89%  ·  $797.04  ·  $211.0B</title><rect x="617.1" y="633.6" width="42.4" height="44.4" fill="rgb(226,60,72)"/><text class="tk" x="638.3" y="653.2" font-size="10.6">GEV</text><text class="tp" x="638.3" y="663.2" font-size="6.6">-3.89%</text></g><g class="cell"><title>DE · Deere &amp; Company
+-0.53%  ·  $687.64  ·  $185.4B</title><rect x="660.5" y="576.1" width="39.3" height="41.9" fill="rgb(100,62,75)"/><text class="tk" x="680.2" y="594.5" font-size="9.9">DE</text><text class="tp" x="680.2" y="603.9" font-size="6.1">-0.53%</text></g><g class="cell"><title>ETN · Eaton Corp. Plc
+-1.41%  ·  $354.22  ·  $137.6B</title><rect x="660.5" y="619.0" width="39.3" height="30.9" fill="rgb(150,61,74)"/><text class="tk" x="680.2" y="632.1" font-size="9.0">ETN</text><text class="tp" x="680.2" y="640.7" font-size="5.6">-1.41%</text></g><g class="cell"><title>PH · Parker-Hannifin Corporation
++0.90%  ·  $965.17  ·  $121.7B</title><rect x="660.5" y="650.8" width="39.3" height="27.2" fill="rgb(42,100,91)"/><text class="tk" x="680.2" y="662.2" font-size="9.0">PH</text><text class="tp" x="680.2" y="670.7" font-size="5.6">+0.90%</text></g><g class="cell"><title>MMM · 3M Company
++0.39%  ·  $189.37  ·  $97.9B</title><rect x="700.8" y="576.1" width="33.1" height="25.8" fill="rgb(50,82,84)"/><text class="tk" x="717.4" y="586.7" font-size="9.0">MMM</text><text class="tp" x="717.4" y="595.3" font-size="5.6">+0.39%</text></g><g class="cell"><title>TT · Trane Technologies plc
++0.06%  ·  $420.82  ·  $92.1B</title><rect x="734.9" y="576.1" width="31.1" height="25.8" fill="rgb(56,67,78)"/><text class="tk" x="750.4" y="586.7" font-size="9.0">TT</text><text class="tp" x="750.4" y="595.3" font-size="5.6">+0.06%</text></g><g class="cell"><title>JCI · Johnson Controls International plc
+-0.26%  ·  $141.12  ·  $85.5B</title><rect x="767.0" y="576.1" width="28.8" height="25.8" fill="rgb(82,63,75)"/></g><g class="cell"><title>ITW · Illinois Tool Works Inc.
++0.46%  ·  $288.05  ·  $81.9B</title><rect x="700.8" y="602.9" width="25.6" height="27.8" fill="rgb(49,85,85)"/></g><g class="cell"><title>HON · Honeywell International Inc.
+-0.34%  ·  $228.22  ·  $72.4B</title><rect x="700.8" y="631.7" width="25.6" height="24.5" fill="rgb(87,62,75)"/></g><g class="cell"><title>CMI · Cummins Inc.
+-2.63%  ·  $454.18  ·  $62.3B</title><rect x="700.8" y="657.1" width="25.6" height="20.9" fill="rgb(209,60,72)"/></g><g class="cell"><title>PCAR · PACCAR Inc
+-0.15%  ·  $105.57  ·  $55.6B</title><rect x="727.4" y="602.9" width="22.6" height="21.0" fill="rgb(73,63,76)"/></g><g class="cell"><title>AME · AMETEK, Inc.
++0.03%  ·  $238.31  ·  $54.6B</title><rect x="751.0" y="602.9" width="22.2" height="21.0" fill="rgb(57,65,77)"/></g><g class="cell"><title>LITE · Lumentum Holdings, Inc.
+-1.78%  ·  $585.57  ·  $53.1B</title><rect x="774.2" y="602.9" width="21.5" height="21.0" fill="rgb(168,61,73)"/></g><g class="cell"><title>WAB · Westinghouse Air Brake Technologies Corporation
++1.78%  ·  $303.49  ·  $50.9B</title><rect x="727.4" y="624.9" width="22.9" height="18.9" fill="rgb(30,127,102)"/></g><g class="cell"><title>ROK · Rockwell Automation, Inc.
++2.00%  ·  $397.16  ·  $44.1B</title><rect x="727.4" y="644.8" width="22.9" height="16.2" fill="rgb(28,133,105)"/></g><g class="cell"><title>CARR · Carrier Global Corp.
+-0.60%  ·  $53.01  ·  $43.4B</title><rect x="727.4" y="662.0" width="22.9" height="16.0" fill="rgb(104,62,75)"/></g><g class="cell"><title>IR · Ingersoll Rand Inc.
+-1.17%  ·  $85.86  ·  $33.0B</title><rect x="751.3" y="624.9" width="15.7" height="17.5" fill="rgb(137,62,74)"/></g><g class="cell"><title>VLTO · Veralto Corporation
++0.13%  ·  $118.21  ·  $28.7B</title><rect x="767.9" y="624.9" width="13.5" height="17.5" fill="rgb(55,71,79)"/></g><g class="cell"><title>DOV · Dover Corporation
+-0.46%  ·  $212.00  ·  $28.2B</title><rect x="782.5" y="624.9" width="13.2" height="17.5" fill="rgb(95,62,75)"/></g><g class="cell"><title>JBL · Jabil Inc.
+-1.08%  ·  $249.82  ·  $25.7B</title><rect x="751.3" y="643.4" width="11.8" height="17.8" fill="rgb(132,62,74)"/></g><g class="cell"><title>HUBB · Hubbell Incorporated
+-0.86%  ·  $437.79  ·  $23.1B</title><rect x="751.3" y="662.1" width="11.8" height="15.9" fill="rgb(120,62,75)"/></g><g class="cell"><title>XYL · Xylem Inc.
+-2.44%  ·  $96.84  ·  $22.2B</title><rect x="764.1" y="643.4" width="17.0" height="10.5" fill="rgb(200,60,73)"/></g><g class="cell"><title>NDSN · Nordson Corporation
++0.39%  ·  $325.10  ·  $18.1B</title><rect x="782.1" y="643.4" width="13.7" height="10.5" fill="rgb(50,82,84)"/></g><g class="cell"><title>IEX · IDEX Corporation
++0.41%  ·  $236.90  ·  $17.4B</title><rect x="764.1" y="654.9" width="12.1" height="11.4" fill="rgb(49,83,84)"/></g><g class="cell"><title>MAS · Masco Corporation
+-1.30%  ·  $84.80  ·  $16.3B</title><rect x="764.1" y="667.3" width="12.1" height="10.7" fill="rgb(144,61,74)"/></g><g class="cell"><title>LII · Lennox International Inc.
+-0.44%  ·  $347.93  ·  $11.9B</title><rect x="777.2" y="654.9" width="9.1" height="10.0" fill="rgb(94,62,75)"/></g><g class="cell"><title>PNR · Pentair plc
+-0.81%  ·  $69.63  ·  $11.1B</title><rect x="787.3" y="654.9" width="8.4" height="10.0" fill="rgb(117,62,75)"/></g><g class="cell"><title>GNRC · Generac Holdings Inc.
+-3.69%  ·  $181.78  ·  $10.7B</title><rect x="777.2" y="665.9" width="6.7" height="12.1" fill="rgb(226,60,72)"/></g><g class="cell"><title>AOS · A. O. Smith Corporation
+-1.29%  ·  $64.36  ·  $8.6B</title><rect x="784.8" y="665.9" width="10.9" height="5.8" fill="rgb(143,61,74)"/></g><g class="cell"><title>APTV · Aptiv PLC
+-0.85%  ·  $39.57  ·  $8.0B</title><rect x="784.8" y="672.7" width="10.9" height="5.3" fill="rgb(119,62,75)"/></g></g><g class="sec"><rect class="sec-bg" x="797.7" y="276.3" width="151.0" height="163.9"/><text class="sec-label" x="803.7" y="288.8">CONSUMER NON-DU…<tspan class="up" dx="6">+0.33%</tspan></text><g class="cell"><title>KO · Coca-Cola Company
++0.92%  ·  $96.91  ·  $416.9B</title><rect x="799.7" y="295.3" width="53.6" height="73.3" fill="rgb(42,101,91)"/><text class="tk" x="826.5" y="328.2" font-size="15.2">KO</text><text class="tp" x="826.5" y="342.6" font-size="9.4">+0.92%</text></g><g class="cell"><title>PG · Procter &amp; Gamble Company
++0.20%  ·  $168.66  ·  $390.9B</title><rect x="799.7" y="369.6" width="53.6" height="68.6" fill="rgb(53,74,81)"/><text class="tk" x="826.5" y="400.3" font-size="14.7">PG</text><text class="tp" x="826.5" y="414.2" font-size="9.1">+0.20%</text></g><g class="cell"><title>PM · Philip Morris International Inc.
++0.59%  ·  $194.25  ·  $302.8B</title><rect x="854.3" y="295.3" width="55.8" height="50.8" fill="rgb(47,89,87)"/><text class="tk" x="882.1" y="317.5" font-size="12.9">PM</text><text class="tp" x="882.1" y="329.8" font-size="8.0">+0.59%</text></g><g class="cell"><title>PEP · PepsiCo, Inc.
++1.22%  ·  $143.61  ·  $195.7B</title><rect x="911.0" y="295.3" width="35.7" height="50.8" fill="rgb(38,110,95)"/><text class="tk" x="928.9" y="318.2" font-size="10.4">PEP</text><text class="tp" x="928.9" y="328.0" font-size="6.4">+1.22%</text></g><g class="cell"><title>MO · Altria Group, Inc.
++0.70%  ·  $76.34  ·  $127.0B</title><rect x="854.3" y="347.2" width="30.7" height="38.0" fill="rgb(45,93,88)"/><text class="tk" x="869.6" y="363.9" font-size="9.0">MO</text><text class="tp" x="869.6" y="372.5" font-size="5.6">+0.70%</text></g><g class="cell"><title>MNST · Monster Beverage Corporation
+-0.66%  ·  $45.34  ·  $88.8B</title><rect x="854.3" y="386.2" width="30.7" height="26.2" fill="rgb(108,62,75)"/><text class="tk" x="869.6" y="397.0" font-size="9.0">MNST</text><text class="tp" x="869.6" y="405.6" font-size="5.6">-0.66%</text></g><g class="cell"><title>MDLZ · Mondelez International, Inc. Class A
++0.15%  ·  $66.54  ·  $84.2B</title><rect x="854.3" y="413.4" width="30.7" height="24.9" fill="rgb(54,72,80)"/><text class="tk" x="869.6" y="423.6" font-size="9.0">MDLZ</text><text class="tp" x="869.6" y="432.1" font-size="5.6">+0.15%</text></g><g class="cell"><title>CL · Colgate-Palmolive Company
++0.15%  ·  $98.09  ·  $78.0B</title><rect x="885.9" y="347.2" width="32.0" height="22.0" fill="rgb(54,72,80)"/><text class="tk" x="901.9" y="355.9" font-size="9.0">CL</text><text class="tp" x="901.9" y="364.5" font-size="5.6">+0.15%</text></g><g class="cell"><title>KMB · Kimberly-Clark Corporation
+-1.05%  ·  $110.76  ·  $68.0B</title><rect x="918.9" y="347.2" width="27.8" height="22.0" fill="rgb(130,62,74)"/></g><g class="cell"><title>NKE · NIKE, Inc. Class B
+-3.03%  ·  $38.67  ·  $57.4B</title><rect x="885.9" y="370.1" width="22.7" height="22.6" fill="rgb(226,60,72)"/></g><g class="cell"><title>KDP · Keurig Dr Pepper Inc.
++1.76%  ·  $37.59  ·  $51.2B</title><rect x="909.6" y="370.1" width="20.1" height="22.6" fill="rgb(31,126,102)"/></g><g class="cell"><title>EL · Estee Lauder Companies Inc. Class A
++0.24%  ·  $113.43  ·  $41.1B</title><rect x="930.8" y="370.1" width="16.0" height="22.6" fill="rgb(52,76,81)"/></g><g class="cell"><title>HSY · Hershey Company
++0.27%  ·  $173.95  ·  $35.0B</title><rect x="885.9" y="393.7" width="18.2" height="16.7" fill="rgb(52,77,82)"/></g><g class="cell"><title>KHC · Kraft Heinz Company
+-0.74%  ·  $24.24  ·  $28.7B</title><rect x="885.9" y="411.4" width="18.2" height="13.5" fill="rgb(113,62,75)"/></g><g class="cell"><title>CHD · Church &amp; Dwight Co., Inc.
++0.40%  ·  $111.76  ·  $26.4B</title><rect x="885.9" y="425.9" width="18.2" height="12.3" fill="rgb(50,83,84)"/></g><g class="cell"><title>STZ · Constellation Brands, Inc. Class A
+0.00%  ·  $145.51  ·  $24.6B</title><rect x="905.1" y="393.7" width="14.1" height="14.8" fill="rgb(58,63,76)"/></g><g class="cell"><title>RL · Ralph Lauren Corporation Class A
++0.27%  ·  $399.61  ·  $23.8B</title><rect x="920.3" y="393.7" width="13.6" height="14.8" fill="rgb(52,77,82)"/></g><g class="cell"><title>IFF · International Flavors &amp; Fragrances Inc.
+-1.49%  ·  $83.17  ·  $20.8B</title><rect x="934.9" y="393.7" width="11.8" height="14.8" fill="rgb(154,61,74)"/></g><g class="cell"><title>TSN · Tyson Foods, Inc. Class A
++0.70%  ·  $60.29  ·  $20.8B</title><rect x="905.1" y="409.5" width="11.8" height="14.7" fill="rgb(45,93,89)"/></g><g class="cell"><title>GIS · General Mills, Inc.
+-0.80%  ·  $34.60  ·  $18.5B</title><rect x="905.1" y="425.2" width="11.8" height="13.0" fill="rgb(117,62,75)"/></g><g class="cell"><title>BF.B · Brown-Forman Corporation Class B
++1.48%  ·  $30.82  ·  $14.3B</title><rect x="918.0" y="409.5" width="9.3" height="12.6" fill="rgb(34,118,99)"/></g><g class="cell"><title>SJM · J.M. Smucker Company
++0.26%  ·  $133.60  ·  $14.3B</title><rect x="928.2" y="409.5" width="9.2" height="12.6" fill="rgb(52,77,82)"/></g><g class="cell"><title>CLX · Clorox Company
++1.01%  ·  $106.60  ·  $12.9B</title><rect x="938.5" y="409.5" width="8.3" height="12.6" fill="rgb(40,104,93)"/></g><g class="cell"><title>LULU · lululemon athletica inc.
+-1.92%  ·  $110.37  ·  $12.8B</title><rect x="918.0" y="423.1" width="14.2" height="7.2" fill="rgb(176,61,73)"/></g><g class="cell"><title>MKC · McCormick &amp; Company, Incorporated
+-2.42%  ·  $46.72  ·  $12.6B</title><rect x="918.0" y="431.2" width="14.2" height="7.0" fill="rgb(200,60,73)"/></g><g class="cell"><title>HRL · Hormel Foods Corporation
+-0.22%  ·  $22.21  ·  $12.2B</title><rect x="933.2" y="423.1" width="13.5" height="7.2" fill="rgb(79,63,75)"/></g><g class="cell"><title>DECK · Deckers Outdoor Corporation
+-0.71%  ·  $89.79  ·  $12.0B</title><rect x="933.2" y="431.2" width="13.5" height="7.0" fill="rgb(111,62,75)"/></g></g><g class="sec"><rect class="sec-bg" x="948.7" y="276.3" width="127.5" height="163.9"/><text class="sec-label" x="954.7" y="288.8">ENERGY MINE…<tspan class="up" dx="6">+0.24%</tspan></text><g class="cell"><title>XOM · Exxonmobil Holdings Corporation
+-0.16%  ·  $164.47  ·  $670.9B</title><rect x="950.7" y="295.3" width="75.9" height="83.5" fill="rgb(74,63,76)"/><text class="tk" x="988.7" y="332.3" font-size="19.2">XOM</text><text class="tp" x="988.7" y="350.5" font-size="11.9">-0.16%</text></g><g class="cell"><title>CVX · Chevron Corporation
++0.21%  ·  $211.22  ·  $415.1B</title><rect x="1027.6" y="295.3" width="46.6" height="83.5" fill="rgb(53,75,81)"/><text class="tk" x="1050.9" y="333.3" font-size="15.1">CVX</text><text class="tp" x="1050.9" y="347.6" font-size="9.4">+0.21%</text></g><g class="cell"><title>COP · ConocoPhillips
++0.83%  ·  $135.59  ·  $160.3B</title><rect x="950.7" y="379.8" width="42.4" height="34.8" fill="rgb(43,98,90)"/><text class="tk" x="971.9" y="394.8" font-size="9.4">COP</text><text class="tp" x="971.9" y="403.7" font-size="5.8">+0.83%</text></g><g class="cell"><title>MPC · Marathon Petroleum Corporation
+-0.08%  ·  $389.55  ·  $106.1B</title><rect x="950.7" y="415.6" width="42.4" height="22.7" fill="rgb(68,63,76)"/><text class="tk" x="971.9" y="424.7" font-size="9.0">MPC</text><text class="tp" x="971.9" y="433.2" font-size="5.6">-0.08%</text></g><g class="cell"><title>VLO · Valero Energy Corporation
+-1.69%  ·  $350.71  ·  $97.8B</title><rect x="994.1" y="379.8" width="30.9" height="28.7" fill="rgb(164,61,73)"/><text class="tk" x="1009.5" y="391.9" font-size="9.0">VLO</text><text class="tp" x="1009.5" y="400.5" font-size="5.6">-1.69%</text></g><g class="cell"><title>PSX · Phillips 66
+-0.92%  ·  $250.70  ·  $97.8B</title><rect x="994.1" y="409.5" width="30.9" height="28.7" fill="rgb(123,62,74)"/><text class="tk" x="1009.5" y="421.6" font-size="9.0">PSX</text><text class="tp" x="1009.5" y="430.2" font-size="5.6">-0.92%</text></g><g class="cell"><title>EOG · EOG Resources, Inc.
++2.08%  ·  $151.51  ·  $78.6B</title><rect x="1026.0" y="379.8" width="27.6" height="25.6" fill="rgb(27,135,106)"/></g><g class="cell"><title>OXY · Occidental Petroleum Corporation
++2.04%  ·  $56.90  ·  $56.9B</title><rect x="1054.6" y="379.8" width="19.7" height="25.6" fill="rgb(27,134,105)"/></g><g class="cell"><title>FANG · Diamondback Energy, Inc.
+-0.05%  ·  $178.08  ·  $49.7B</title><rect x="1026.0" y="406.4" width="28.2" height="15.5" fill="rgb(64,63,76)"/></g><g class="cell"><title>DVN · Devon Energy Corporation
++2.38%  ·  $43.41  ·  $49.5B</title><rect x="1026.0" y="422.9" width="28.2" height="15.4" fill="rgb(23,144,109)"/></g><g class="cell"><title>EQT · EQT Corporation
++4.19%  ·  $52.00  ·  $32.5B</title><rect x="1055.2" y="406.4" width="19.0" height="14.7" fill="rgb(16,160,116)"/></g><g class="cell"><title>EXE · Expand Energy Corporation
++2.30%  ·  $87.94  ·  $20.3B</title><rect x="1055.2" y="422.1" width="10.5" height="16.1" fill="rgb(24,142,108)"/></g><g class="cell"><title>APA · APA Corporation
++1.28%  ·  $45.12  ·  $15.1B</title><rect x="1066.7" y="422.1" width="7.6" height="16.1" fill="rgb(37,112,96)"/></g></g><g class="sec"><rect class="sec-bg" x="1076.2" y="276.3" width="123.8" height="163.9"/><text class="sec-label" x="1082.2" y="288.8">CONSUMER D…<tspan class="up" dx="6">+0.03%</tspan></text><g class="cell"><title>TSLA · Tesla, Inc.
++0.46%  ·  $379.78  ·  $1.50T</title><rect x="1078.2" y="295.3" width="119.8" height="119.3" fill="rgb(49,85,85)"/><text class="tk" x="1138.1" y="348.5" font-size="26.0">TSLA</text><text class="tp" x="1138.1" y="373.2" font-size="16.1">+0.46%</text></g><g class="cell"><title>GM · General Motors Company
+-1.07%  ·  $88.69  ·  $74.8B</title><rect x="1078.2" y="415.6" width="29.7" height="22.6" fill="rgb(132,62,74)"/><text class="tk" x="1093.1" y="424.7" font-size="9.0">GM</text><text class="tp" x="1093.1" y="433.2" font-size="5.6">-1.07%</text></g><g class="cell"><title>F · Ford Motor Company
+-1.92%  ·  $12.28  ·  $49.0B</title><rect x="1108.9" y="415.6" width="19.1" height="22.6" fill="rgb(175,61,73)"/></g><g class="cell"><title>DHI · D.R. Horton, Inc.
+-3.80%  ·  $149.70  ·  $40.6B</title><rect x="1129.0" y="415.6" width="15.7" height="22.6" fill="rgb(226,60,72)"/></g><g class="cell"><title>PHM · PulteGroup, Inc.
+-3.89%  ·  $130.60  ·  $24.0B</title><rect x="1145.7" y="415.6" width="17.3" height="11.7" fill="rgb(226,60,72)"/></g><g class="cell"><title>LEN · Lennar Corporation Class A
+-5.37%  ·  $86.66  ·  $20.6B</title><rect x="1145.7" y="428.4" width="17.3" height="9.9" fill="rgb(226,60,72)"/></g><g class="cell"><title>SNA · Snap-on Incorporated
+-0.14%  ·  $373.28  ·  $19.3B</title><rect x="1163.9" y="415.6" width="14.0" height="11.4" fill="rgb(73,63,76)"/></g><g class="cell"><title>SWK · Stanley Black &amp; Decker, Inc.
+-1.41%  ·  $116.44  ·  $17.3B</title><rect x="1163.9" y="428.1" width="14.0" height="10.2" fill="rgb(150,61,74)"/></g><g class="cell"><title>HAS · Hasbro, Inc.
++0.74%  ·  $121.82  ·  $17.0B</title><rect x="1178.9" y="415.6" width="9.4" height="14.9" fill="rgb(44,95,89)"/></g><g class="cell"><title>ALLE · Allegion Public Limited Company
+-0.54%  ·  $189.49  ·  $16.0B</title><rect x="1189.3" y="415.6" width="8.7" height="14.9" fill="rgb(101,62,75)"/></g><g class="cell"><title>NVR · NVR, Inc.
+-4.76%  ·  $6,036.42  ·  $16.0B</title><rect x="1178.9" y="431.6" width="19.1" height="6.7" fill="rgb(226,60,72)"/></g></g><g class="sec"><rect class="sec-bg" x="797.7" y="440.3" width="146.6" height="123.9"/><text class="sec-label" x="803.7" y="452.8">CONSUMER SERVI…<tspan class="up" dx="6">+0.10%</tspan></text><g class="cell"><title>DIS · Walt Disney Company
++0.08%  ·  $119.21  ·  $205.8B</title><rect x="799.7" y="459.3" width="35.2" height="51.8" fill="rgb(56,68,78)"/><text class="tk" x="817.3" y="482.6" font-size="10.4">DIS</text><text class="tp" x="817.3" y="492.4" font-size="6.5">+0.08%</text></g><g class="cell"><title>MCD · McDonald&#x27;s Corporation
++0.26%  ·  $282.17  ·  $199.2B</title><rect x="799.7" y="512.1" width="35.2" height="50.1" fill="rgb(52,77,82)"/><text class="tk" x="817.3" y="534.6" font-size="10.2">MCD</text><text class="tp" x="817.3" y="544.3" font-size="6.3">+0.26%</text></g><g class="cell"><title>SBUX · Starbucks Corporation
++0.47%  ·  $109.95  ·  $125.4B</title><rect x="835.9" y="459.3" width="30.6" height="35.8" fill="rgb(49,85,85)"/><text class="tk" x="851.2" y="474.9" font-size="9.0">SBUX</text><text class="tp" x="851.2" y="483.4" font-size="5.6">+0.47%</text></g><g class="cell"><title>BKNG · Booking Holdings Inc.
+-2.59%  ·  $159.26  ·  $118.4B</title><rect x="835.9" y="496.0" width="30.6" height="33.7" fill="rgb(207,60,72)"/><text class="tk" x="851.2" y="510.6" font-size="9.0">BKNG</text><text class="tp" x="851.2" y="519.2" font-size="5.6">-2.59%</text></g><g class="cell"><title>ABNB · Airbnb, Inc. Class A
+-1.78%  ·  $186.90  ·  $110.6B</title><rect x="835.9" y="530.7" width="30.6" height="31.4" fill="rgb(169,61,73)"/><text class="tk" x="851.2" y="544.2" font-size="9.0">ABNB</text><text class="tp" x="851.2" y="552.7" font-size="5.6">-1.78%</text></g><g class="cell"><title>MAR · Marriott International, Inc. Class A
++2.66%  ·  $428.26  ·  $110.3B</title><rect x="867.5" y="459.3" width="27.9" height="34.4" fill="rgb(20,151,112)"/></g><g class="cell"><title>RCL · Royal Caribbean Group
++0.85%  ·  $339.85  ·  $90.9B</title><rect x="896.4" y="459.3" width="22.8" height="34.4" fill="rgb(43,98,91)"/></g><g class="cell"><title>CMCSA · Comcast Corporation Class A
++0.98%  ·  $24.75  ·  $87.9B</title><rect x="920.3" y="459.3" width="22.1" height="34.4" fill="rgb(41,103,92)"/></g><g class="cell"><title>HLT · Hilton Worldwide Holdings Inc.
++1.75%  ·  $379.76  ·  $84.5B</title><rect x="867.5" y="494.6" width="22.4" height="32.5" fill="rgb(31,126,102)"/></g><g class="cell"><title>CMG · Chipotle Mexican Grill, Inc.
++0.50%  ·  $35.92  ·  $45.4B</title><rect x="867.5" y="528.1" width="22.4" height="17.0" fill="rgb(48,86,86)"/></g><g class="cell"><title>YUM · Yum! Brands, Inc.
+-0.42%  ·  $160.21  ·  $43.0B</title><rect x="867.5" y="546.1" width="22.4" height="16.0" fill="rgb(93,62,75)"/></g><g class="cell"><title>LYV · Live Nation Entertainment, Inc.
++0.91%  ·  $178.25  ·  $42.0B</title><rect x="890.9" y="494.6" width="16.8" height="20.9" fill="rgb(42,100,91)"/></g><g class="cell"><title>CCL · Carnival Corporation Ltd.
+-0.23%  ·  $30.74  ·  $41.3B</title><rect x="908.7" y="494.6" width="16.5" height="20.9" fill="rgb(79,63,75)"/></g><g class="cell"><title>SKYD · Skydance Corporation Class B
+-7.59%  ·  $8.04  ·  $40.5B</title><rect x="926.2" y="494.6" width="16.2" height="20.9" fill="rgb(226,60,72)"/></g><g class="cell"><title>TKO · TKO Group Holdings, Inc. Class A
+-0.22%  ·  $199.22  ·  $37.6B</title><rect x="890.9" y="516.5" width="17.9" height="17.5" fill="rgb(78,63,76)"/></g><g class="cell"><title>EXPE · Expedia Group, Inc.
+-2.08%  ·  $253.77  ·  $30.5B</title><rect x="890.9" y="535.0" width="17.9" height="14.0" fill="rgb(183,61,73)"/></g><g class="cell"><title>FOX · Fox Corporation Class B
+-0.43%  ·  $60.25  ·  $26.9B</title><rect x="890.9" y="550.0" width="17.9" height="12.2" fill="rgb(93,62,75)"/></g><g class="cell"><title>FOXA · Fox Corporation Class A
+-0.47%  ·  $67.37  ·  $26.8B</title><rect x="909.8" y="516.5" width="16.1" height="13.6" fill="rgb(96,62,75)"/></g><g class="cell"><title>DRI · Darden Restaurants, Inc.
+-0.48%  ·  $228.66  ·  $25.9B</title><rect x="926.9" y="516.5" width="15.5" height="13.6" fill="rgb(97,62,75)"/></g><g class="cell"><title>LVS · Las Vegas Sands Corp.
++1.59%  ·  $40.82  ·  $25.6B</title><rect x="909.8" y="531.1" width="13.2" height="15.7" fill="rgb(33,121,100)"/></g><g class="cell"><title>CHTR · Charter Communications, Inc. Class A
++10.61%  ·  $134.06  ·  $23.5B</title><rect x="909.8" y="547.8" width="13.2" height="14.3" fill="rgb(16,160,116)"/></g><g class="cell"><title>NWS · News Corporation Class B
++1.64%  ·  $29.81  ·  $15.1B</title><rect x="924.0" y="531.1" width="8.7" height="13.4" fill="rgb(32,123,101)"/></g><g class="cell"><title>NWSA · News Corporation Class A
++0.15%  ·  $26.61  ·  $14.9B</title><rect x="933.8" y="531.1" width="8.6" height="13.4" fill="rgb(54,72,80)"/></g><g class="cell"><title>DPZ · Domino&#x27;s Pizza, Inc.
+-1.23%  ·  $330.06  ·  $10.9B</title><rect x="924.0" y="545.5" width="9.4" height="8.7" fill="rgb(140,62,74)"/></g><g class="cell"><title>WYNN · Wynn Resorts, Limited
++0.69%  ·  $87.30  ·  $9.0B</title><rect x="924.0" y="555.2" width="9.4" height="7.0" fill="rgb(45,93,88)"/></g><g class="cell"><title>NCLH · Norwegian Cruise Line Holdings Ltd.
++0.43%  ·  $18.51  ·  $8.5B</title><rect x="934.5" y="545.5" width="7.9" height="7.9" fill="rgb(49,84,85)"/></g><g class="cell"><title>MGM · MGM Resorts International
++0.46%  ·  $33.06  ·  $8.4B</title><rect x="934.5" y="554.4" width="7.9" height="7.7" fill="rgb(49,84,85)"/></g></g><g class="sec"><rect class="sec-bg" x="797.7" y="564.2" width="146.6" height="115.8"/><text class="sec-label" x="803.7" y="576.7">UTILITIES<tspan class="down" dx="6">-0.05%</tspan></text><g class="cell"><title>NEE · NextEra Energy, Inc.
+-0.68%  ·  $86.27  ·  $180.9B</title><rect x="799.7" y="583.2" width="36.2" height="43.6" fill="rgb(109,62,75)"/><text class="tk" x="817.8" y="602.5" font-size="9.7">NEE</text><text class="tp" x="817.8" y="611.7" font-size="6.0">-0.68%</text></g><g class="cell"><title>SO · Southern Company
++0.09%  ·  $93.65  ·  $107.7B</title><rect x="799.7" y="627.7" width="36.2" height="25.5" fill="rgb(56,69,78)"/><text class="tk" x="817.8" y="638.2" font-size="9.0">SO</text><text class="tp" x="817.8" y="646.8" font-size="5.6">+0.09%</text></g><g class="cell"><title>DUK · Duke Energy Corporation
++0.66%  ·  $128.94  ·  $100.5B</title><rect x="799.7" y="654.2" width="36.2" height="23.8" fill="rgb(46,92,88)"/><text class="tk" x="817.8" y="663.9" font-size="9.0">DUK</text><text class="tp" x="817.8" y="672.4" font-size="5.6">+0.66%</text></g><g class="cell"><title>CEG · Constellation Energy Corporation
+-3.02%  ·  $267.76  ·  $94.9B</title><rect x="836.9" y="583.2" width="26.2" height="30.9" fill="rgb(226,60,72)"/></g><g class="cell"><title>AEP · American Electric Power Company, Inc.
+-0.38%  ·  $127.84  ·  $69.6B</title><rect x="836.9" y="615.1" width="26.2" height="22.4" fill="rgb(90,62,75)"/></g><g class="cell"><title>TRGP · Targa Resources Corp.
++2.81%  ·  $281.32  ·  $60.4B</title><rect x="836.9" y="638.5" width="26.2" height="19.3" fill="rgb(18,155,114)"/></g><g class="cell"><title>D · Dominion Energy Inc
++0.19%  ·  $68.37  ·  $60.1B</title><rect x="836.9" y="658.8" width="26.2" height="19.2" fill="rgb(53,74,80)"/></g><g class="cell"><title>OKE · ONEOK, Inc.
++1.62%  ·  $87.37  ·  $55.1B</title><rect x="864.1" y="583.2" width="19.7" height="23.4" fill="rgb(32,122,100)"/></g><g class="cell"><title>ETR · Entergy Corporation
+-0.07%  ·  $111.71  ·  $53.4B</title><rect x="884.8" y="583.2" width="19.0" height="23.4" fill="rgb(66,63,76)"/></g><g class="cell"><title>XEL · Xcel Energy Inc.
+-0.06%  ·  $80.12  ·  $51.4B</title><rect x="904.8" y="583.2" width="18.3" height="23.4" fill="rgb(66,63,76)"/></g><g class="cell"><title>SRE · Sempra
+-0.50%  ·  $78.38  ·  $51.3B</title><rect x="924.1" y="583.2" width="18.2" height="23.4" fill="rgb(98,62,75)"/></g><g class="cell"><title>EXC · Exelon Corporation
+-0.26%  ·  $45.53  ·  $47.1B</title><rect x="864.1" y="607.6" width="21.3" height="18.3" fill="rgb(82,63,75)"/></g><g class="cell"><title>VST · Vistra Corp.
+-2.05%  ·  $131.18  ·  $44.5B</title><rect x="864.1" y="626.9" width="21.3" height="17.2" fill="rgb(182,61,73)"/></g><g class="cell"><title>ED · Consolidated Edison, Inc.
++0.75%  ·  $119.28  ·  $44.3B</title><rect x="864.1" y="645.1" width="21.3" height="17.1" fill="rgb(44,95,89)"/></g><g class="cell"><title>WEC · WEC Energy Group Inc
+-0.12%  ·  $117.01  ·  $38.5B</title><rect x="864.1" y="663.2" width="21.3" height="14.8" fill="rgb(71,63,76)"/></g><g class="cell"><title>PEG · Public Service Enterprise Group Inc
+-0.47%  ·  $74.68  ·  $37.2B</title><rect x="886.4" y="607.6" width="20.5" height="14.9" fill="rgb(96,62,75)"/></g><g class="cell"><title>AEE · Ameren Corporation
+-0.30%  ·  $113.68  ·  $31.5B</title><rect x="907.9" y="607.6" width="17.2" height="14.9" fill="rgb(84,63,75)"/></g><g class="cell"><title>AWK · American Water Works Company, Inc.
++0.76%  ·  $150.36  ·  $29.9B</title><rect x="926.1" y="607.6" width="16.3" height="14.9" fill="rgb(44,95,89)"/></g><g class="cell"><title>ATO · Atmos Energy Corporation
++1.17%  ·  $175.37  ·  $29.6B</title><rect x="886.4" y="623.4" width="13.4" height="17.8" fill="rgb(38,109,95)"/></g><g class="cell"><title>PCG · PG&amp;E Corporation
++0.68%  ·  $13.23  ·  $29.1B</title><rect x="886.4" y="642.2" width="13.4" height="17.5" fill="rgb(45,93,88)"/></g><g class="cell"><title>DTE · DTE Energy Company
++0.46%  ·  $138.99  ·  $28.9B</title><rect x="886.4" y="660.7" width="13.4" height="17.3" fill="rgb(49,85,85)"/></g><g class="cell"><title>CNP · CenterPoint Energy, Inc.
++1.05%  ·  $41.24  ·  $27.3B</title><rect x="900.9" y="623.4" width="13.3" height="16.5" fill="rgb(40,105,93)"/></g><g class="cell"><title>FE · FirstEnergy Corp.
+-0.30%  ·  $46.48  ·  $26.9B</title><rect x="915.2" y="623.4" width="13.1" height="16.5" fill="rgb(85,63,75)"/></g><g class="cell"><title>PPL · PPL Corporation
++0.06%  ·  $35.72  ·  $26.9B</title><rect x="929.3" y="623.4" width="13.1" height="16.5" fill="rgb(56,67,78)"/></g><g class="cell"><title>ES · Eversource Energy
++0.19%  ·  $69.62  ·  $26.2B</title><rect x="900.9" y="640.9" width="16.1" height="13.0" fill="rgb(53,74,80)"/></g><g class="cell"><title>EIX · Edison International
++0.10%  ·  $60.20  ·  $23.2B</title><rect x="900.9" y="654.9" width="16.1" height="11.4" fill="rgb(55,69,79)"/></g><g class="cell"><title>CMS · CMS Energy Corporation
++0.33%  ·  $69.78  ·  $21.9B</title><rect x="900.9" y="667.3" width="16.1" height="10.7" fill="rgb(51,80,83)"/></g><g class="cell"><title>NI · NiSource Inc
++0.51%  ·  $45.29  ·  $21.7B</title><rect x="918.0" y="640.9" width="12.0" height="14.3" fill="rgb(48,87,86)"/></g><g class="cell"><title>EVRG · Evergy, Inc.
++0.51%  ·  $88.44  ·  $20.7B</title><rect x="931.0" y="640.9" width="11.4" height="14.3" fill="rgb(48,87,86)"/></g><g class="cell"><title>NRG · NRG Energy, Inc.
+-0.30%  ·  $97.11  ·  $20.4B</title><rect x="918.0" y="656.3" width="14.9" height="10.8" fill="rgb(84,63,75)"/></g><g class="cell"><title>LNT · Alliant Energy Corporation
+-0.30%  ·  $73.24  ·  $19.0B</title><rect x="918.0" y="668.0" width="14.9" height="10.0" fill="rgb(85,63,75)"/></g><g class="cell"><title>PNW · Pinnacle West Capital Corp
++0.67%  ·  $105.96  ·  $12.8B</title><rect x="933.9" y="656.3" width="8.5" height="11.4" fill="rgb(45,92,88)"/></g><g class="cell"><title>AES · AES Corporation
++0.13%  ·  $14.92  ·  $10.6B</title><rect x="933.9" y="668.7" width="8.5" height="9.3" fill="rgb(55,71,79)"/></g></g><g class="sec"><rect class="sec-bg" x="944.3" y="440.3" width="84.7" height="129.8"/><text class="sec-label" x="950.3" y="452.8">TRAN…<tspan class="up" dx="6">+0.06%</tspan></text><g class="cell"><title>UNP · Union Pacific Corporation
++1.22%  ·  $300.62  ·  $178.6B</title><rect x="946.3" y="459.3" width="44.4" height="35.3" fill="rgb(38,110,95)"/><text class="tk" x="968.5" y="474.5" font-size="9.7">UNP</text><text class="tp" x="968.5" y="483.6" font-size="6.0">+1.22%</text></g><g class="cell"><title>UBER · Uber Technologies, Inc.
+-1.57%  ·  $70.05  ·  $143.0B</title><rect x="991.7" y="459.3" width="35.3" height="35.3" fill="rgb(158,61,74)"/><text class="tk" x="1009.4" y="474.6" font-size="9.0">UBER</text><text class="tp" x="1009.4" y="483.2" font-size="5.6">-1.57%</text></g><g class="cell"><title>UPS · United Parcel Service, Inc. Class B
++0.08%  ·  $111.05  ·  $94.6B</title><rect x="946.3" y="495.5" width="22.7" height="35.8" fill="rgb(56,68,78)"/></g><g class="cell"><title>CSX · CSX Corporation
++1.19%  ·  $51.08  ·  $94.2B</title><rect x="946.3" y="532.3" width="22.7" height="35.7" fill="rgb(38,109,95)"/></g><g class="cell"><title>DASH · DoorDash, Inc. Class A
+-1.50%  ·  $178.25  ·  $77.7B</title><rect x="970.0" y="495.5" width="28.6" height="23.2" fill="rgb(154,61,74)"/></g><g class="cell"><title>FDX · FedEx Corporation
++0.20%  ·  $319.48  ·  $74.8B</title><rect x="999.6" y="495.5" width="27.5" height="23.2" fill="rgb(53,74,81)"/></g><g class="cell"><title>NSC · Norfolk Southern Corporation
++0.65%  ·  $327.93  ·  $73.7B</title><rect x="970.0" y="519.7" width="24.1" height="26.0" fill="rgb(46,91,88)"/></g><g class="cell"><title>DAL · Delta Air Lines, Inc.
++0.44%  ·  $92.20  ·  $60.7B</title><rect x="970.0" y="546.8" width="24.1" height="21.3" fill="rgb(49,84,85)"/></g><g class="cell"><title>UAL · United Airlines Holdings, Inc.
++0.15%  ·  $120.56  ·  $39.2B</title><rect x="995.1" y="519.7" width="16.5" height="19.6" fill="rgb(54,72,80)"/></g><g class="cell"><title>ODFL · Old Dominion Freight Line, Inc.
+-1.68%  ·  $168.02  ·  $34.6B</title><rect x="1012.6" y="519.7" width="14.5" height="19.6" fill="rgb(164,61,73)"/></g><g class="cell"><title>EXPD · Expeditors International of Washington, Inc.
+-0.21%  ·  $189.19  ·  $24.4B</title><rect x="995.1" y="540.4" width="14.1" height="13.9" fill="rgb(78,63,76)"/></g><g class="cell"><title>LUV · Southwest Airlines Co.
++0.04%  ·  $46.32  ·  $22.7B</title><rect x="995.1" y="555.2" width="14.1" height="12.8" fill="rgb(57,66,77)"/></g><g class="cell"><title>JBHT · J.B. Hunt Transport Services, Inc.
++0.87%  ·  $226.27  ·  $21.1B</title><rect x="1010.3" y="540.4" width="16.8" height="9.9" fill="rgb(42,99,91)"/></g><g class="cell"><title>FDXF · FedEx Freight Holding Company, Inc.
++0.60%  ·  $129.83  ·  $19.4B</title><rect x="1010.3" y="551.3" width="9.1" height="16.8" fill="rgb(46,90,87)"/></g><g class="cell"><title>CHRW · C.H. Robinson Worldwide, Inc.
+0.00%  ·  $128.99  ·  $15.0B</title><rect x="1020.3" y="551.3" width="6.8" height="16.8" fill="rgb(58,63,76)"/></g></g><g class="sec"><rect class="sec-bg" x="944.3" y="570.0" width="84.7" height="110.0"/><text class="sec-label" x="950.3" y="582.5">HEAL…<tspan class="up" dx="6">+1.60%</tspan></text><g class="cell"><title>UNH · UnitedHealth Group Incorporated
++1.89%  ·  $405.12  ·  $363.0B</title><rect x="946.3" y="589.0" width="80.7" height="38.6" fill="rgb(29,130,104)"/><text class="tk" x="986.7" y="604.9" font-size="13.5">UNH</text><text class="tp" x="986.7" y="617.8" font-size="8.4">+1.89%</text></g><g class="cell"><title>HCA · HCA Healthcare Inc
+-0.09%  ·  $504.42  ·  $105.4B</title><rect x="946.3" y="628.6" width="34.1" height="25.8" fill="rgb(68,63,76)"/><text class="tk" x="963.4" y="639.3" font-size="9.0">HCA</text><text class="tp" x="963.4" y="647.8" font-size="5.6">-0.09%</text></g><g class="cell"><title>ELV · Elevance Health, Inc.
++2.73%  ·  $429.65  ·  $92.8B</title><rect x="946.3" y="655.4" width="34.1" height="22.6" fill="rgb(19,153,113)"/><text class="tk" x="963.4" y="664.4" font-size="9.0">ELV</text><text class="tp" x="963.4" y="673.0" font-size="5.6">+2.73%</text></g><g class="cell"><title>CI · Cigna Group
++2.55%  ·  $303.13  ·  $79.9B</title><rect x="981.4" y="628.6" width="27.1" height="24.3" fill="rgb(21,148,111)"/></g><g class="cell"><title>HUM · Humana Inc.
++3.51%  ·  $438.06  ·  $52.6B</title><rect x="1009.6" y="628.6" width="17.5" height="24.3" fill="rgb(16,160,116)"/></g><g class="cell"><title>CNC · Centene Corporation
++2.41%  ·  $70.19  ·  $34.7B</title><rect x="981.4" y="653.9" width="22.0" height="12.4" fill="rgb(23,144,110)"/></g><g class="cell"><title>LH · Labcorp Holdings Inc.
+-0.26%  ·  $370.88  ·  $30.1B</title><rect x="981.4" y="667.4" width="22.0" height="10.6" fill="rgb(81,63,75)"/></g><g class="cell"><title>DGX · Quest Diagnostics Incorporated
+-0.47%  ·  $258.44  ·  $28.4B</title><rect x="1004.5" y="653.9" width="14.4" height="15.5" fill="rgb(96,62,75)"/></g><g class="cell"><title>SOLV · Solventum Corporation
+-0.39%  ·  $90.08  ·  $15.3B</title><rect x="1019.8" y="653.9" width="7.3" height="15.5" fill="rgb(91,62,75)"/></g><g class="cell"><title>UHS · Universal Health Services, Inc. Class B
+-0.89%  ·  $195.41  ·  $11.5B</title><rect x="1004.5" y="670.4" width="10.9" height="7.6" fill="rgb(121,62,74)"/></g><g class="cell"><title>DVA · DaVita Inc.
+-3.37%  ·  $179.28  ·  $11.3B</title><rect x="1016.4" y="670.4" width="10.7" height="7.6" fill="rgb(226,60,72)"/></g></g><g class="sec"><rect class="sec-bg" x="1029.1" y="440.3" width="91.0" height="96.4"/><text class="sec-label" x="1035.1" y="452.8">PROCE…<tspan class="up" dx="6">+0.04%</tspan></text><g class="cell"><title>LIN · Linde plc
++0.28%  ·  $521.78  ·  $239.5B</title><rect x="1031.1" y="459.3" width="35.9" height="55.3" fill="rgb(52,77,82)"/><text class="tk" x="1049.0" y="484.2" font-size="10.8">LIN</text><text class="tp" x="1049.0" y="494.5" font-size="6.7">+0.28%</text></g><g class="cell"><title>SHW · Sherwin-Williams Company
+-0.72%  ·  $355.34  ·  $85.8B</title><rect x="1031.1" y="515.5" width="35.9" height="19.2" fill="rgb(112,62,75)"/><text class="tk" x="1049.0" y="528.2" font-size="9.0">SHW</text></g><g class="cell"><title>ECL · Ecolab Inc.
+-0.23%  ·  $306.03  ·  $85.8B</title><rect x="1068.0" y="459.3" width="27.3" height="25.3" fill="rgb(80,63,75)"/></g><g class="cell"><title>APD · Air Products and Chemicals, Inc.
++0.38%  ·  $312.25  ·  $69.5B</title><rect x="1096.2" y="459.3" width="21.9" height="25.3" fill="rgb(50,81,84)"/></g><g class="cell"><title>ADM · Archer-Daniels-Midland Company
+-0.77%  ·  $69.30  ·  $33.0B</title><rect x="1068.0" y="485.6" width="13.4" height="18.8" fill="rgb(115,62,75)"/></g><g class="cell"><title>PPG · PPG Industries, Inc.
+-0.71%  ·  $124.42  ·  $27.5B</title><rect x="1068.0" y="505.3" width="13.4" height="15.5" fill="rgb(111,62,75)"/></g><g class="cell"><title>SW · Smurfit Westrock PLC
++0.38%  ·  $44.36  ·  $23.2B</title><rect x="1068.0" y="521.8" width="13.4" height="12.9" fill="rgb(50,82,84)"/></g><g class="cell"><title>DOW · Dow, Inc.
++1.68%  ·  $31.48  ·  $22.8B</title><rect x="1082.4" y="485.6" width="11.6" height="14.6" fill="rgb(32,124,101)"/></g><g class="cell"><title>PKG · Packaging Corporation of America
+-0.07%  ·  $254.23  ·  $22.7B</title><rect x="1095.0" y="485.6" width="11.5" height="14.6" fill="rgb(66,63,76)"/></g><g class="cell"><title>AMCR · Amcor PLC
++0.11%  ·  $45.19  ·  $20.9B</title><rect x="1107.5" y="485.6" width="10.6" height="14.6" fill="rgb(55,70,79)"/></g><g class="cell"><title>DD · DuPont de Nemours, Inc.
++1.12%  ·  $156.88  ·  $20.8B</title><rect x="1082.4" y="501.2" width="13.9" height="11.1" fill="rgb(39,107,94)"/></g><g class="cell"><title>LYB · LyondellBasell Industries NV
++1.85%  ·  $60.60  ·  $19.6B</title><rect x="1082.4" y="513.3" width="13.9" height="10.4" fill="rgb(29,129,103)"/></g><g class="cell"><title>BG · Bunge Global SA
+-1.74%  ·  $99.42  ·  $19.1B</title><rect x="1082.4" y="524.6" width="13.9" height="10.1" fill="rgb(167,61,73)"/></g><g class="cell"><title>IP · International Paper Company
+-1.13%  ·  $35.13  ·  $18.6B</title><rect x="1097.3" y="501.2" width="10.1" height="13.5" fill="rgb(135,62,74)"/></g><g class="cell"><title>CF · CF Industries Holdings, Inc.
++2.58%  ·  $122.36  ·  $17.9B</title><rect x="1108.4" y="501.2" width="9.7" height="13.5" fill="rgb(21,149,111)"/></g><g class="cell"><title>BALL · Ball Corporation
+-0.03%  ·  $66.79  ·  $17.4B</title><rect x="1097.3" y="515.7" width="12.7" height="10.0" fill="rgb(62,63,76)"/></g><g class="cell"><title>AVY · Avery Dennison Corporation
++0.53%  ·  $189.04  ·  $14.3B</title><rect x="1097.3" y="526.7" width="12.7" height="8.0" fill="rgb(48,87,86)"/></g><g class="cell"><title>ALB · Albemarle Corporation
+-4.23%  ·  $94.93  ·  $11.2B</title><rect x="1111.1" y="515.7" width="7.0" height="11.1" fill="rgb(226,60,72)"/></g><g class="cell"><title>MOS · Mosaic Company
++0.97%  ·  $22.99  ·  $7.3B</title><rect x="1111.1" y="527.8" width="7.0" height="6.9" fill="rgb(41,102,92)"/></g></g><g class="sec"><rect class="sec-bg" x="1120.1" y="440.3" width="79.9" height="96.4"/><text class="sec-label" x="1126.1" y="452.8">COM…<tspan class="down" dx="6">-0.13%</tspan></text><g class="cell"><title>SPGI · S&amp;P Global, Inc.
++0.49%  ·  $473.38  ·  $137.2B</title><rect x="1122.1" y="459.3" width="34.5" height="32.3" fill="rgb(48,86,85)"/><text class="tk" x="1139.3" y="473.2" font-size="9.0">SPGI</text><text class="tp" x="1139.3" y="481.7" font-size="5.6">+0.49%</text></g><g class="cell"><title>CTAS · Cintas Corporation
++0.95%  ·  $225.28  ·  $89.5B</title><rect x="1122.1" y="492.6" width="34.5" height="20.7" fill="rgb(41,102,92)"/><text class="tk" x="1139.3" y="500.7" font-size="9.0">CTAS</text><text class="tp" x="1139.3" y="509.2" font-size="5.6">+0.95%</text></g><g class="cell"><title>MCO · Moody&#x27;s Corporation
+-0.07%  ·  $510.71  ·  $88.0B</title><rect x="1122.1" y="514.3" width="34.5" height="20.4" fill="rgb(67,63,76)"/><text class="tk" x="1139.3" y="527.6" font-size="9.0">MCO</text></g><g class="cell"><title>XYZ · Block, Inc. Class A
+-3.36%  ·  $85.58  ·  $51.7B</title><rect x="1157.6" y="459.3" width="20.3" height="19.9" fill="rgb(226,60,72)"/></g><g class="cell"><title>PYPL · PayPal Holdings, Inc.
+-2.11%  ·  $58.78  ·  $48.8B</title><rect x="1178.9" y="459.3" width="19.1" height="19.9" fill="rgb(185,61,73)"/></g><g class="cell"><title>VYLR · Vylor Inc
+0.00%  ·  $72.53  ·  $48.4B</title><rect x="1157.6" y="480.2" width="20.0" height="18.8" fill="rgb(58,63,76)"/></g><g class="cell"><title>MSCI · MSCI Inc. Class A
++1.61%  ·  $656.86  ·  $47.0B</title><rect x="1178.6" y="480.2" width="19.4" height="18.8" fill="rgb(32,122,100)"/></g><g class="cell"><title>FISV · Fiserv, Inc.
+-0.31%  ·  $63.32  ·  $33.7B</title><rect x="1157.6" y="500.0" width="14.2" height="18.0" fill="rgb(86,63,75)"/></g><g class="cell"><title>CPAY · Corpay, Inc.
++0.36%  ·  $459.64  ·  $29.4B</title><rect x="1157.6" y="519.1" width="14.2" height="15.6" fill="rgb(50,81,83)"/></g><g class="cell"><title>OMC · Omnicom Group Inc
++0.38%  ·  $88.84  ·  $24.2B</title><rect x="1172.8" y="500.0" width="12.7" height="14.2" fill="rgb(50,82,84)"/></g><g class="cell"><title>EFX · Equifax Inc.
+-0.05%  ·  $188.23  ·  $22.0B</title><rect x="1186.5" y="500.0" width="11.5" height="14.2" fill="rgb(65,63,76)"/></g><g class="cell"><title>ROL · Rollins, Inc.
+-0.83%  ·  $38.42  ·  $18.4B</title><rect x="1172.8" y="515.3" width="13.7" height="9.7" fill="rgb(118,62,75)"/></g><g class="cell"><title>CRL · Charles River Laboratories International, Inc.
+-2.13%  ·  $345.80  ·  $16.6B</title><rect x="1172.8" y="526.0" width="13.7" height="8.7" fill="rgb(186,61,73)"/></g><g class="cell"><title>FICO · Fair Isaac Corporation
++0.95%  ·  $730.66  ·  $15.6B</title><rect x="1187.6" y="515.3" width="10.4" height="10.8" fill="rgb(41,102,92)"/></g><g class="cell"><title>FDS · FactSet Research Systems Inc.
+-0.23%  ·  $325.98  ·  $11.5B</title><rect x="1187.6" y="527.0" width="10.4" height="7.7" fill="rgb(79,63,75)"/></g></g><g class="sec"><rect class="sec-bg" x="1029.1" y="536.7" width="95.0" height="78.0"/><text class="sec-label" x="1035.1" y="549.2">INDUST…<tspan class="down" dx="6">-0.03%</tspan></text><g class="cell"><title>WM · Waste Management, Inc.
++0.33%  ·  $237.38  ·  $94.4B</title><rect x="1031.1" y="555.7" width="24.6" height="29.0" fill="rgb(51,79,83)"/></g><g class="cell"><title>PWR · Quanta Services, Inc.
+-1.41%  ·  $583.14  ·  $87.9B</title><rect x="1031.1" y="585.7" width="24.6" height="27.0" fill="rgb(150,61,74)"/></g><g class="cell"><title>WMB · Williams Companies, Inc.
++1.52%  ·  $67.46  ·  $84.3B</title><rect x="1056.7" y="555.7" width="21.4" height="29.6" fill="rgb(34,119,99)"/></g><g class="cell"><title>RSG · Republic Services, Inc.
++0.34%  ·  $247.62  ·  $75.4B</title><rect x="1056.7" y="586.3" width="21.4" height="26.4" fill="rgb(51,80,83)"/></g><g class="cell"><title>SLB · SLB Limited
+-0.95%  ·  $49.90  ·  $73.7B</title><rect x="1079.1" y="555.7" width="21.6" height="25.5" fill="rgb(125,62,74)"/></g><g class="cell"><title>KMI · Kinder Morgan Inc Class P
++2.03%  ·  $31.19  ·  $69.5B</title><rect x="1101.7" y="555.7" width="20.4" height="25.5" fill="rgb(27,134,105)"/></g><g class="cell"><title>BKR · Baker Hughes Company Class A
+-1.40%  ·  $47.77  ·  $47.4B</title><rect x="1079.1" y="582.1" width="21.2" height="16.4" fill="rgb(149,61,74)"/></g><g class="cell"><title>FIX · Comfort Systems USA, Inc.
+-0.66%  ·  $1,105.93  ·  $38.7B</title><rect x="1079.1" y="599.5" width="21.2" height="13.2" fill="rgb(108,62,75)"/></g><g class="cell"><title>OTIS · Otis Worldwide Corporation
+-0.81%  ·  $78.13  ·  $29.7B</title><rect x="1101.3" y="582.1" width="20.8" height="10.1" fill="rgb(117,62,75)"/></g><g class="cell"><title>EME · EMCOR Group, Inc.
+-1.15%  ·  $645.39  ·  $28.3B</title><rect x="1101.3" y="593.3" width="10.3" height="19.4" fill="rgb(136,62,74)"/></g><g class="cell"><title>HAL · Halliburton Company
+-0.06%  ·  $31.86  ·  $26.4B</title><rect x="1112.6" y="593.3" width="9.5" height="19.4" fill="rgb(66,63,76)"/></g></g><g class="sec"><rect class="sec-bg" x="1029.1" y="614.7" width="95.0" height="65.3"/><text class="sec-label" x="1035.1" y="627.2">COMMUN…<tspan class="up" dx="6">+0.60%</tspan></text><g class="cell"><title>VZ · Verizon Communications Inc.
++0.54%  ·  $46.31  ·  $191.9B</title><rect x="1031.1" y="633.7" width="31.1" height="44.3" fill="rgb(47,88,86)"/><text class="tk" x="1046.7" y="653.6" font-size="9.1">VZ</text><text class="tp" x="1046.7" y="662.2" font-size="5.6">+0.54%</text></g><g class="cell"><title>TMUS · T-Mobile US, Inc.
++0.22%  ·  $169.08  ·  $179.1B</title><rect x="1063.2" y="633.7" width="29.0" height="44.3" fill="rgb(53,75,81)"/></g><g class="cell"><title>T · AT&amp;T Inc
++0.64%  ·  $21.94  ·  $147.8B</title><rect x="1093.2" y="633.7" width="28.8" height="36.6" fill="rgb(46,91,88)"/></g><g class="cell"><title>ECHO · EchoStar Corporation Class A
++2.94%  ·  $104.16  ·  $30.3B</title><rect x="1093.2" y="671.3" width="28.8" height="6.7" fill="rgb(17,158,115)"/></g></g><g class="sec"><rect class="sec-bg" x="1124.1" y="536.7" width="75.9" height="74.8"/><text class="sec-label" x="1130.1" y="549.2">DIS…<tspan class="up" dx="6">+0.96%</tspan></text><g class="cell"><title>MCK · McKesson Corporation
++2.19%  ·  $1,082.59  ·  $125.0B</title><rect x="1126.1" y="555.7" width="27.1" height="34.3" fill="rgb(25,138,107)"/></g><g class="cell"><title>GWW · W.W. Grainger, Inc.
++1.74%  ·  $1,472.91  ·  $69.0B</title><rect x="1126.1" y="591.0" width="27.1" height="18.5" fill="rgb(31,126,102)"/></g><g class="cell"><title>COR · Cencora, Inc.
++0.85%  ·  $348.71  ·  $66.5B</title><rect x="1154.2" y="555.7" width="21.8" height="22.2" fill="rgb(43,98,91)"/></g><g class="cell"><title>CAH · Cardinal Health, Inc.
++0.91%  ·  $276.79  ·  $64.0B</title><rect x="1177.0" y="555.7" width="21.0" height="22.2" fill="rgb(42,100,91)"/></g><g class="cell"><title>FAST · Fastenal Company
++0.49%  ·  $54.84  ·  $62.9B</title><rect x="1154.2" y="578.8" width="14.8" height="30.6" fill="rgb(48,86,85)"/></g><g class="cell"><title>FERG · Ferguson Enterprises Inc.
+-0.19%  ·  $259.44  ·  $50.2B</title><rect x="1170.0" y="578.8" width="15.5" height="23.2" fill="rgb(76,63,76)"/></g><g class="cell"><title>SYY · Sysco Corporation
+-0.96%  ·  $77.63  ·  $38.2B</title><rect x="1186.5" y="578.8" width="11.5" height="23.2" fill="rgb(125,62,74)"/></g><g class="cell"><title>GPC · Genuine Parts Company
+-0.75%  ·  $124.71  ·  $17.2B</title><rect x="1170.0" y="603.1" width="17.5" height="6.4" fill="rgb(113,62,75)"/></g><g class="cell"><title>HSIC · Henry Schein, Inc.
++0.37%  ·  $88.74  ·  $9.8B</title><rect x="1188.5" y="603.1" width="9.5" height="6.4" fill="rgb(50,81,84)"/></g></g><g class="sec"><rect class="sec-bg" x="1124.1" y="611.5" width="72.8" height="68.5"/><text class="sec-label" x="1130.1" y="624.0">NON…<tspan class="down" dx="6">-1.37%</tspan></text><g class="cell"><title>NEM · Newmont Corporation
+-4.15%  ·  $119.96  ·  $124.7B</title><rect x="1126.1" y="630.5" width="32.4" height="27.6" fill="rgb(226,60,72)"/><text class="tk" x="1142.2" y="642.0" font-size="9.0">NEM</text><text class="tp" x="1142.2" y="650.6" font-size="5.6">-4.15%</text></g><g class="cell"><title>FCX · Freeport-McMoRan, Inc.
+-3.24%  ·  $60.31  ·  $86.5B</title><rect x="1126.1" y="659.1" width="32.4" height="18.9" fill="rgb(226,60,72)"/><text class="tk" x="1142.2" y="671.7" font-size="9.0">FCX</text></g><g class="cell"><title>CRH · CRH public limited company
+-0.89%  ·  $96.86  ·  $64.4B</title><rect x="1159.4" y="630.5" width="18.2" height="24.8" fill="rgb(122,62,74)"/></g><g class="cell"><title>NUE · Nucor Corporation
++2.90%  ·  $256.47  ·  $58.2B</title><rect x="1178.6" y="630.5" width="16.3" height="24.8" fill="rgb(17,157,115)"/></g><g class="cell"><title>MLM · Martin Marietta Materials, Inc.
+-0.52%  ·  $528.21  ·  $37.6B</title><rect x="1159.4" y="656.3" width="11.7" height="21.7" fill="rgb(99,62,75)"/></g><g class="cell"><title>VMC · Vulcan Materials Company
+-0.74%  ·  $287.31  ·  $36.9B</title><rect x="1172.1" y="656.3" width="11.4" height="21.7" fill="rgb(113,62,75)"/></g><g class="cell"><title>STLD · Steel Dynamics, Inc.
++3.76%  ·  $236.12  ·  $33.6B</title><rect x="1184.5" y="656.3" width="10.3" height="21.7" fill="rgb(16,160,116)"/></g></g><g class="sec"><rect class="sec-bg" x="1196.9" y="611.5" width="3.1" height="68.5"/></g></svg></div>
+    <div class="scale"><span>−3%</span><i></i><span>+3%</span></div>
+  </section>
+  
+
+  
+  <section id="sectors">
+    <div class="sh rv"><div><span class="k">05 — Rotation</span><h2>Sector <span>scorecard</span></h2></div><div class="meta">Cap-weighted daily change</div></div>
+    <div class="card sectors rv">
+      
+      <div class="srow2"><span class="nm">Health Services</span><span class="dbar"><i class="up" style="width:50.0%"></i></span><span class="v up">+1.60%</span></div>
+      
+      <div class="srow2"><span class="nm">Distribution Services</span><span class="dbar"><i class="up" style="width:30.1%"></i></span><span class="v up">+0.96%</span></div>
+      
+      <div class="srow2"><span class="nm">Retail Trade</span><span class="dbar"><i class="up" style="width:21.3%"></i></span><span class="v up">+0.68%</span></div>
+      
+      <div class="srow2"><span class="nm">Communications</span><span class="dbar"><i class="up" style="width:18.6%"></i></span><span class="v up">+0.60%</span></div>
+      
+      <div class="srow2"><span class="nm">Finance</span><span class="dbar"><i class="up" style="width:13.7%"></i></span><span class="v up">+0.44%</span></div>
+      
+      <div class="srow2"><span class="nm">Consumer Non-Durables</span><span class="dbar"><i class="up" style="width:10.4%"></i></span><span class="v up">+0.33%</span></div>
+      
+      <div class="srow2"><span class="nm">Energy Minerals</span><span class="dbar"><i class="up" style="width:7.5%"></i></span><span class="v up">+0.24%</span></div>
+      
+      <div class="srow2"><span class="nm">Consumer Services</span><span class="dbar"><i class="up" style="width:3.1%"></i></span><span class="v up">+0.10%</span></div>
+      
+      <div class="srow2"><span class="nm">Transportation</span><span class="dbar"><i class="up" style="width:1.9%"></i></span><span class="v up">+0.06%</span></div>
+      
+      <div class="srow2"><span class="nm">Process Industries</span><span class="dbar"><i class="up" style="width:1.3%"></i></span><span class="v up">+0.04%</span></div>
+      
+      <div class="srow2"><span class="nm">Consumer Durables</span><span class="dbar"><i class="up" style="width:1.0%"></i></span><span class="v up">+0.03%</span></div>
+      
+      <div class="srow2"><span class="nm">Health Technology</span><span class="dbar"><i class="up" style="width:0.3%"></i></span><span class="v up">+0.01%</span></div>
+      
+      <div class="srow2"><span class="nm">Industrial Services</span><span class="dbar"><i class="down" style="width:0.9%"></i></span><span class="v down">-0.03%</span></div>
+      
+      <div class="srow2"><span class="nm">Utilities</span><span class="dbar"><i class="down" style="width:1.6%"></i></span><span class="v down">-0.05%</span></div>
+      
+      <div class="srow2"><span class="nm">Commercial Services</span><span class="dbar"><i class="down" style="width:3.9%"></i></span><span class="v down">-0.13%</span></div>
+      
+      <div class="srow2"><span class="nm">Producer Manufacturing</span><span class="dbar"><i class="down" style="width:20.2%"></i></span><span class="v down">-0.65%</span></div>
+      
+      <div class="srow2"><span class="nm">Technology Services</span><span class="dbar"><i class="down" style="width:24.2%"></i></span><span class="v down">-0.78%</span></div>
+      
+      <div class="srow2"><span class="nm">Electronic Technology</span><span class="dbar"><i class="down" style="width:35.7%"></i></span><span class="v down">-1.14%</span></div>
+      
+      <div class="srow2"><span class="nm">Miscellaneous</span><span class="dbar"><i class="down" style="width:40.9%"></i></span><span class="v down">-1.31%</span></div>
+      
+      <div class="srow2"><span class="nm">Non-Energy Minerals</span><span class="dbar"><i class="down" style="width:42.8%"></i></span><span class="v down">-1.37%</span></div>
+      
+    </div>
+
+    <div class="watch">
+      
+      <div class="card wcard rv">
+        <h4>Electronic Technology<span class="down">-1.14%</span></h4>
+        
+        <div class="wrow"><span class="t">AAPL</span><span class="nm">Apple Inc.</span><span class="p">348.51</span><span class="pill down">-0.62%</span></div>
+        
+        <div class="wrow"><span class="t">NVDA</span><span class="nm">NVIDIA Corporation</span><span class="p">168.89</span><span class="pill down">-5.47%</span></div>
+        
+        <div class="wrow"><span class="t">AVGO</span><span class="nm">Broadcom Inc.</span><span class="p">331.98</span><span class="pill up">+3.91%</span></div>
+        
+        <div class="wrow"><span class="t">AMD</span><span class="nm">Advanced Micro Devices, Inc.</span><span class="p">515.21</span><span class="pill up">+1.30%</span></div>
+        
+      </div>
+      
+      <div class="card wcard rv">
+        <h4>Technology Services<span class="down">-0.78%</span></h4>
+        
+        <div class="wrow"><span class="t">MSFT</span><span class="nm">Microsoft Corporation</span><span class="p">533.16</span><span class="pill down">-2.20%</span></div>
+        
+        <div class="wrow"><span class="t">GOOGL</span><span class="nm">Alphabet Inc. Class A</span><span class="p">287.38</span><span class="pill down">-0.27%</span></div>
+        
+        <div class="wrow"><span class="t">META</span><span class="nm">Meta Platforms Inc Class A</span><span class="p">641.39</span><span class="pill flat">+0.00%</span></div>
+        
+        <div class="wrow"><span class="t">ORCL</span><span class="nm">Oracle Corporation</span><span class="p">117.98</span><span class="pill down">-1.51%</span></div>
+        
+      </div>
+      
+      <div class="card wcard rv">
+        <h4>Finance<span class="up">+0.44%</span></h4>
+        
+        <div class="wrow"><span class="t">JPM</span><span class="nm">JPMorgan Chase &amp; Co.</span><span class="p">342.07</span><span class="pill flat">-0.00%</span></div>
+        
+        <div class="wrow"><span class="t">BAC</span><span class="nm">Bank of America Corp</span><span class="p">50.68</span><span class="pill up">+0.26%</span></div>
+        
+        <div class="wrow"><span class="t">GS</span><span class="nm">Goldman Sachs Group, Inc.</span><span class="p">910.19</span><span class="pill up">+0.44%</span></div>
+        
+        <div class="wrow"><span class="t">V</span><span class="nm">Visa Inc. Class A</span><span class="p">423.00</span><span class="pill up">+0.20%</span></div>
+        
+      </div>
+      
+      <div class="card wcard rv">
+        <h4>Retail Trade<span class="up">+0.68%</span></h4>
+        
+        <div class="wrow"><span class="t">AMZN</span><span class="nm">Amazon.com, Inc.</span><span class="p">270.87</span><span class="pill up">+1.48%</span></div>
+        
+        <div class="wrow"><span class="t">WMT</span><span class="nm">Walmart Inc.</span><span class="p">125.55</span><span class="pill down">-0.09%</span></div>
+        
+        <div class="wrow"><span class="t">COST</span><span class="nm">Costco Wholesale Corporation</span><span class="p">1,066.14</span><span class="pill flat">-0.00%</span></div>
+        
+        <div class="wrow"><span class="t">HD</span><span class="nm">Home Depot, Inc.</span><span class="p">351.00</span><span class="pill down">-0.68%</span></div>
+        
+      </div>
+      
+      <div class="card wcard rv">
+        <h4>Health Technology<span class="up">+0.01%</span></h4>
+        
+        <div class="wrow"><span class="t">LLY</span><span class="nm">Eli Lilly and Company</span><span class="p">1,432.29</span><span class="pill up">+1.44%</span></div>
+        
+        <div class="wrow"><span class="t">JNJ</span><span class="nm">Johnson &amp; Johnson</span><span class="p">280.78</span><span class="pill down">-0.47%</span></div>
+        
+        <div class="wrow"><span class="t">MRK</span><span class="nm">Merck &amp; Co., Inc.</span><span class="p">148.05</span><span class="pill down">-0.48%</span></div>
+        
+      </div>
+      
+      <div class="card wcard rv">
+        <h4>Energy Minerals<span class="up">+0.24%</span></h4>
+        
+        <div class="wrow"><span class="t">XOM</span><span class="nm">Exxonmobil Holdings Corporation</span><span class="p">164.47</span><span class="pill down">-0.16%</span></div>
+        
+        <div class="wrow"><span class="t">CVX</span><span class="nm">Chevron Corporation</span><span class="p">211.22</span><span class="pill up">+0.21%</span></div>
+        
+      </div>
+      
+      <div class="card wcard rv">
+        <h4>Consumer Durables<span class="up">+0.03%</span></h4>
+        
+        <div class="wrow"><span class="t">TSLA</span><span class="nm">Tesla, Inc.</span><span class="p">379.78</span><span class="pill up">+0.46%</span></div>
+        
+      </div>
+      
+    </div>
+  </section>
+  
+
+  
+  <section id="movers">
+    <div class="sh rv"><div><span class="k">06 — Order flow</span><h2>Market <span>movers</span></h2></div><div class="meta">US stocks · market cap &gt; $2B</div></div>
+    <div class="movers">
+      
+      <div class="card mv rv"><h4>Most active<small>by $ volume</small></h4>
+        
+        <div class="mrow"><span class="r">1</span><span class="t">NVDA</span><span class="nm">NVIDIA Corporation</span><span class="p">$72.5B</span><span class="pill down">-5.47%</span></div>
+        
+        <div class="mrow"><span class="r">2</span><span class="t">AMD</span><span class="nm">Advanced Micro Devices, Inc.</span><span class="p">$24.3B</span><span class="pill up">+1.30%</span></div>
+        
+        <div class="mrow"><span class="r">3</span><span class="t">MU</span><span class="nm">Micron Technology, Inc.</span><span class="p">$20.6B</span><span class="pill down">-1.10%</span></div>
+        
+        <div class="mrow"><span class="r">4</span><span class="t">MSFT</span><span class="nm">Microsoft Corporation</span><span class="p">$14.4B</span><span class="pill down">-2.20%</span></div>
+        
+        <div class="mrow"><span class="r">5</span><span class="t">SNDK</span><span class="nm">Sandisk Corporation</span><span class="p">$11.9B</span><span class="pill down">-2.99%</span></div>
+        
+        <div class="mrow"><span class="r">6</span><span class="t">SPCX</span><span class="nm">Space Exploration Technologies Corp</span><span class="p">$11.8B</span><span class="pill up">+0.72%</span></div>
+        
+        <div class="mrow"><span class="r">7</span><span class="t">AMZN</span><span class="nm">Amazon.com, Inc.</span><span class="p">$10.6B</span><span class="pill up">+1.48%</span></div>
+        
+        <div class="mrow"><span class="r">8</span><span class="t">AAPL</span><span class="nm">Apple Inc.</span><span class="p">$10.4B</span><span class="pill down">-0.62%</span></div>
+        
+        <div class="mrow"><span class="r">9</span><span class="t">AVGO</span><span class="nm">Broadcom Inc.</span><span class="p">$9.4B</span><span class="pill up">+3.91%</span></div>
+        
+        <div class="mrow"><span class="r">10</span><span class="t">TSLA</span><span class="nm">Tesla, Inc.</span><span class="p">$9.1B</span><span class="pill up">+0.46%</span></div>
+        
+      </div>
+      
+      <div class="card mv rv"><h4>Top gainers<small>session</small></h4>
+        
+        <div class="mrow"><span class="r">1</span><span class="t">AAON</span><span class="nm">AAON, Inc.</span><span class="p">75.01</span><span class="pill up">+19.31%</span></div>
+        
+        <div class="mrow"><span class="r">2</span><span class="t">CSQR</span><span class="nm">Csquare, Inc.</span><span class="p">17.52</span><span class="pill up">+14.73%</span></div>
+        
+        <div class="mrow"><span class="r">3</span><span class="t">ACAD</span><span class="nm">ACADIA Pharmaceuticals Inc.</span><span class="p">18.28</span><span class="pill up">+10.79%</span></div>
+        
+        <div class="mrow"><span class="r">4</span><span class="t">CHTR</span><span class="nm">Charter Communications, Inc. Class A</span><span class="p">134.06</span><span class="pill up">+10.61%</span></div>
+        
+        <div class="mrow"><span class="r">5</span><span class="t">MARA</span><span class="nm">MARA Holdings, Inc.</span><span class="p">7.34</span><span class="pill up">+10.54%</span></div>
+        
+        <div class="mrow"><span class="r">6</span><span class="t">LUMN</span><span class="nm">Lumen Technologies, Inc.</span><span class="p">4.71</span><span class="pill up">+9.03%</span></div>
+        
+        <div class="mrow"><span class="r">7</span><span class="t">TTWO</span><span class="nm">Take-Two Interactive Software, Inc.</span><span class="p">224.64</span><span class="pill up">+8.31%</span></div>
+        
+        <div class="mrow"><span class="r">8</span><span class="t">ZETA</span><span class="nm">Zeta Global Holdings Corp. Class A</span><span class="p">35.07</span><span class="pill up">+8.17%</span></div>
+        
+        <div class="mrow"><span class="r">9</span><span class="t">QNT</span><span class="nm">Quantinuum Inc. Class A</span><span class="p">43.00</span><span class="pill up">+7.39%</span></div>
+        
+        <div class="mrow"><span class="r">10</span><span class="t">LQDA</span><span class="nm">Liquidia Corporation</span><span class="p">51.40</span><span class="pill up">+7.37%</span></div>
+        
+      </div>
+      
+      <div class="card mv rv"><h4>Top losers<small>session</small></h4>
+        
+        <div class="mrow"><span class="r">1</span><span class="t">WBHC</span><span class="nm">Wilson Bank Holding Company</span><span class="p">200.00</span><span class="pill down">-47.09%</span></div>
+        
+        <div class="mrow"><span class="r">2</span><span class="t">SWDR</span><span class="nm">Starwood Real Estate Income Trust, Inc. Class I</span><span class="p">12.35</span><span class="pill down">-19.02%</span></div>
+        
+        <div class="mrow"><span class="r">3</span><span class="t">HIMS</span><span class="nm">Hims &amp; Hers Health, Inc. Class A</span><span class="p">19.13</span><span class="pill down">-16.61%</span></div>
+        
+        <div class="mrow"><span class="r">4</span><span class="t">EQPT</span><span class="nm">EquipmentShare.com, Inc. Class A</span><span class="p">13.54</span><span class="pill down">-16.50%</span></div>
+        
+        <div class="mrow"><span class="r">5</span><span class="t">NOVT</span><span class="nm">Novanta Inc</span><span class="p">123.71</span><span class="pill down">-15.26%</span></div>
+        
+        <div class="mrow"><span class="r">6</span><span class="t">PS</span><span class="nm">Pershing Square Inc.</span><span class="p">44.20</span><span class="pill down">-14.92%</span></div>
+        
+        <div class="mrow"><span class="r">7</span><span class="t">QLYS</span><span class="nm">Qualys, Inc.</span><span class="p">175.11</span><span class="pill down">-13.51%</span></div>
+        
+        <div class="mrow"><span class="r">8</span><span class="t">LINE</span><span class="nm">Lineage, Inc.</span><span class="p">34.88</span><span class="pill down">-12.05%</span></div>
+        
+        <div class="mrow"><span class="r">9</span><span class="t">RUN</span><span class="nm">Sunrun Inc.</span><span class="p">8.71</span><span class="pill down">-10.57%</span></div>
+        
+        <div class="mrow"><span class="r">10</span><span class="t">CRSP</span><span class="nm">CRISPR Therapeutics AG</span><span class="p">45.15</span><span class="pill down">-9.77%</span></div>
+        
+      </div>
+      
+    </div>
+  </section>
+  
+
+  <section id="today">
+    <div class="sh rv"><div><span class="k">07 — On the radar</span><h2>What to <span>watch today</span></h2></div></div>
+    <div class="card cal rv">
+      
+      <div class="empty">No scheduled events were flagged by the desks this morning.</div>
+      
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div>
+      <div class="sig">The Morning Brief</div>
+      <p class="fine">Compiled 19:39 on Wednesday, November 11, 2026 by Claude news desks (Bloomberg, Yahoo Finance, Google Finance) and TradingView market data. Prices may be delayed. Summaries are AI-generated from public headlines and may contain errors; verify before acting. Not investment advice.</p>
+    </div>
+    <div class="arch">
+      <a href="2026-11-10.html">← 2026-11-10</a>
+      <span>Later →</span>
+    </div>
+  </div>
+</footer>
+
+<div class="tip" id="tip"></div>
+<script>
+(function(){
+  var root=document.documentElement;
+  document.getElementById("themeBtn").addEventListener("click",function(){
+    var cur=root.getAttribute("data-theme")||(matchMedia("(prefers-color-scheme: light)").matches?"light":"dark");
+    var nxt=cur==="light"?"dark":"light"; root.setAttribute("data-theme",nxt);
+    try{localStorage.setItem("mb-theme",nxt)}catch(e){}
+  });
+  var tip=document.getElementById("tip");
+  document.querySelectorAll(".heatmap .cell").forEach(function(c){
+    var t=c.querySelector("title"); var txt=t?t.textContent:""; if(t)t.remove();
+    c.addEventListener("mousemove",function(e){tip.textContent=txt;tip.style.opacity=1;
+      var x=e.clientX+16,y=e.clientY+16; if(x+240>innerWidth)x=e.clientX-250; tip.style.left=x+"px";tip.style.top=y+"px"});
+    c.addEventListener("mouseleave",function(){tip.style.opacity=0});
+  });
+})();
+</script>
+</body>
+</html>

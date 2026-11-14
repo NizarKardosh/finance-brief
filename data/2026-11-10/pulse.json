@@ -1,0 +1,11 @@
+{
+  "pulse": "Equities rallied broadly: the S&P 500 rose 2.35% to 7549.94, the Nasdaq 100 jumped 3.40% to 27907.63, the Dow added 2.15% to 52389.75, and the Russell 2000 gained 3.15% to 2840.81, with breadth firmly positive at 423 advancers vs 78 decliners. Producer Manufacturing was the strongest sector (+6.10%, led by AMAT +11.37% and LRCX +10.41%), while Energy Minerals was the laggard, barely positive at +0.06% as XOM (-0.69%) and CVX (-0.86%) slipped. Risk appetite was evident off the tape too: the VIX collapsed 22.31% to 19.92, the 10Y yield eased 0.37% to 4.87%, the dollar (DXY) softened 0.05% to 101.62, and WTI crude fell 1.26% to $85.76, while gold slipped 0.35% and Bitcoin dropped 0.88%. Among the most-active names, NVDA was the standout decliner at -4.27% on a massive 462.72M shares ($82.67B traded) even as chip peers AMD (+13.26%) and MU (+6.25%) surged, while FRVO (+26.09%) and WBHC (-47.09%) topped the broader gainers and losers lists.",
+  "standouts": [
+    {"ticker": "AMD", "note": "+13.26% on $26.07B traded (51.26M shares), top chip gainer among most-actives"},
+    {"ticker": "NVDA", "note": "-4.27% despite leading most-active volume: 462.72M shares, $82.67B traded"},
+    {"ticker": "AMAT", "note": "+11.37%, pacing Producer Manufacturing, the day's strongest sector (+6.10%)"},
+    {"ticker": "FRVO", "note": "+26.09%, top overall market gainer on 23.98M shares"},
+    {"ticker": "WBHC", "note": "-47.09%, top overall market loser, though on very thin volume (4 shares)"},
+    {"ticker": "ACAD", "note": "-22.28% on heavy volume (12.15M shares), biggest liquid decliner"}
+  ]
+}

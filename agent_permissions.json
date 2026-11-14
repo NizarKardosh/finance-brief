@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Agent",
+      "Task",
+      "WebFetch",
+      "WebSearch",
+      "Read",
+      "Glob",
+      "Grep",
+      "Edit(data/**)",
+      "Bash(python fetch_markets.py:*)"
+    ],
+    "deny": [
+      "Edit(./*.py)",
+      "Edit(.claude/**)",
+      "Edit(templates/**)"
+    ]
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "source": "Yahoo Finance",
+  "fetched_at": "2026-11-11T09:30:00-05:00",
+  "stories": [
+    {
+      "headline": "Nvidia shares tumble as company probes CEO Jensen Huang's ties to alleged Chinese intelligence operative",
+      "summary": "Nvidia fell roughly 4-5% over two sessions after Huang admitted in a memo to an extramarital affair with a woman U.S. intelligence officials suspect may have links to Chinese intelligence; reports allege about $7.5 billion in Nvidia chips may have been diverted to Chinese firms since 2023. Nvidia's board has launched an independent investigation, and analysts flagged elevated 'key-person risk' given how closely tied the company's AI strategy is to Huang. The selloff was largely isolated to Nvidia, while rival chipmakers rallied on the news.",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-drops-3-extending-decline-on-report-alleged-chinese-spy-linked-to-nvidia-ceo-aided-75-billion-in-china-chip-shipments-152654028.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-10",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Hotter-than-expected October CPI sends Treasury yields surging, lifts odds of a December Fed rate hike",
+      "summary": "October core CPI rose 0.3% month-over-month versus the 0.2% expected, pushing the 2-year Treasury yield up 17 basis points (its biggest one-day jump since April 2025) and the 10-year yield up 10 basis points to 4.98%, briefly touching 5%. Fed Governor Chris Waller said he would consider backing a 50-basis-point 'jumbo' hike in December if core inflation keeps printing at 0.3% or higher, and traders now price a 91% chance of a quarter-point hike (9% odds of a half-point move), up from 77% a week earlier. The Dow, S&P 500 and Nasdaq all slipped on the report, with the Nasdaq down about 0.7-0.75%.",
+      "url": "https://finance.yahoo.com/economy/policy/articles/bond-yields-surge-most-19-221447570.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-10",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Chip stocks ex-Nvidia rally hard as sector rebounds from its steepest one-day drop in 19 months",
+      "summary": "AMD surged about 13%, Broadcom rose 8%, Intel climbed 5%, and Taiwan Semiconductor gained nearly 4%, while equipment maker ASML added 6% and memory makers Micron and SK Hynix each rose over 5%. The rally came as traders rotated out of Nvidia-specific concerns and bought the broader semiconductor complex, which had been hit by a 21% one-month decline in the Philadelphia Semiconductor Index tied to post-election uncertainty over AI datacenter buildout timelines.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amtech-intel-applied-materials-amd-023736161.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-10",
+      "tickers": ["AMD", "AVGO", "INTC", "TSM", "ASML", "MU"],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Goldman Sachs calls semiconductor stocks 'oversold,' names Nvidia, Broadcom and AMD as top buys",
+      "summary": "Goldman analyst James Schneider said chip stocks are 'now clearly in oversold territory' after the Philly Semiconductor Index fell 21% over the past month and the S&P 500 lost 4.3% (about $3 trillion in value) on November 5 amid worries over AI datacenter buildout timelines. Schneider argued Nvidia and Broadcom look attractive even under conservative growth assumptions, trading at roughly 12x and 13x respectively, while AMD is a buy despite less favorable valuation metrics.",
+      "url": "https://finance.yahoo.com/markets/article/goldman-sachs-calls-chip-stocks-oversold-here-are-the-names-it-says-to-buy-165654250.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-10",
+      "tickers": ["NVDA", "AVGO", "AMD"],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Anthropic prices IPO at $70-$78/share for ~$1.4 trillion valuation, discloses key AI safety threshold has been triggered",
+      "summary": "Anthropic began its IPO roadshow after setting a price range of $70-$78 per share, valuing the company around $1.4 trillion including all potential shares; trading could begin as soon as November 19. The offering is accompanied by a $26 billion private placement, with Nvidia and Google each committing $10 billion. Separately, Anthropic disclosed that a safety threshold in its Responsible Scaling Policy has been crossed because AI is now accelerating its own R&D enough to roughly double the pace of model improvement, triggering additional internal safeguards rather than halting operations.",
+      "url": "https://finance.yahoo.com/markets/article/anthropic-says-a-key-ai-safety-alarm-has-been-triggered-days-before-its-ipo-171519615.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-10",
+      "tickers": ["NVDA", "GOOGL"],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "OpenAI's CFO calls Q3 a 'blockbuster quarter' as revenue jumps 50% to $10 billion",
+      "summary": "OpenAI CFO Sarah Friar said Q3 revenue hit $10 billion, up 50% quarter-over-quarter (versus 18% growth in Q2), putting the company on an annualized run rate near $50 billion. Enterprise revenue doubled sequentially on products like Coding, Cyber and the Dots agent platform, consumer sales grew 20%, subscribers topped 100 million, and weekly active users reached 1.2 billion; OpenAI still trails rival Anthropic in total revenue, underscoring intensifying competition in AI.",
+      "url": "https://finance.yahoo.com/technology/article/openai-cfo-q3-was-a-blockbuster-quarter-revenue-jumped-50-225023234.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-10",
+      "tickers": [],
+      "category": "Tech",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Alphabet gains on new AI chip systems announcement, seen as alternative to Nvidia",
+      "summary": "Alphabet shares rose more than 1% after the company unveiled new AI chip systems, which analysts flagged as a sign of emerging competitive alternatives in the semiconductor/AI-accelerator market just as Nvidia faces company-specific turmoil over its CEO.",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-sinks-as-chipmaker-investigates-ceo-jensen-huangs-relationship-with-alleged-chinese-spy-130346548.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-10",
+      "tickers": ["GOOGL"],
+      "category": "Tech",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Zacks highlights beaten-down value picks after AI stock plunge: Micron, SanDisk, Sanmina, Sterling, Comfort Systems",
+      "summary": "Zacks' Value Investor column notes that AI-linked stocks have plunged despite strong earnings and rising forecasts, and flags five names trading at attractive valuations after the pullback: Micron (MU), SanDisk (SNDK), Sanmina (SANM), Sterling Infrastructure (STRL) and Comfort Systems USA (FIX).",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-value-investor-highlights-mu-090700409.html",
+      "publisher": "Zacks via Yahoo Finance",
+      "published": "2026-11-11",
+      "tickers": ["MU", "SNDK", "SANM", "STRL", "FIX"],
+      "category": "Markets",
+      "importance": 2,
+      "sentiment": "neutral"
+    }
+  ],
+  "calendar": [
+    {"when": "All day", "event": "Veterans Day holiday - bond market closed; stock market open as normal; no major U.S. economic data releases scheduled", "type": "economic"},
+    {"when": "Before the open", "event": "~28 companies report earnings, including Rumble (RUM), Riskified (RSKD), Sigmatron (SGML), CGI Inc (GIB), and ICL Group (ICL)", "type": "earnings"},
+    {"when": "After the close", "event": "~37 companies report earnings, including Digi International (DGII), Franco-Nevada (FNV), Osisko Gold Royalties (OR), and Plug Power-related names; CoreWeave, D-Wave Quantum, and Rigetti Computing also among this week's after-close reporters", "type": "earnings"},
+    {"when": "On or before Nov 19", "event": "Anthropic IPO expected to price and begin trading (roadshow underway, range set at $70-$78/share)", "type": "other"}
+  ]
+}

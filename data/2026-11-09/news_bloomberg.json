@@ -1,0 +1,95 @@
+{
+  "source": "Bloomberg",
+  "fetched_at": "2026-11-09T20:00:00Z",
+  "stories": [
+    {
+      "headline": "Nvidia CEO Huang's Admitted Affair With Alleged Chinese Spy Draws National Security Scrutiny",
+      "summary": "Nvidia CEO Jensen Huang admitted to an affair with an alleged Chinese spy, prompting Washington scrutiny and raising national-security questions tied to US-China AI competition. Nvidia shares fell on the news, and investors and strategists said corporate governance concerns are now factoring into the stock's valuation, though some expect Huang to keep his job.",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-faces-a-national-security-reckoning-video",
+      "publisher": "Bloomberg",
+      "published": "2026-11-09T17:11:43Z",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "US Stocks Rally to Best Day Since April as Dip Buyers Step In Despite Nvidia Slide",
+      "summary": "A renewed wave of dip buying drove US stocks toward their best day since April, rebounding from a technology-led selloff even as Nvidia shares fell on the Huang affair news. Easing Iran-related oil tensions also lifted risk appetite, pushing S&P 500 futures higher.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates",
+      "publisher": "Bloomberg",
+      "published": "2026-11-08T22:20:51Z",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Nasdaq 100's $2.3 Trillion Wipeout Seen Stopping Short of a Bear Market",
+      "summary": "A violent selloff in technology stocks has erased roughly $2.3 trillion from the Nasdaq 100, but strategists see the rout stopping short of a 20% drawdown that would mark a bear market. The pullback follows heavy concentration in a handful of mega-cap tech names, a risk flagged by investor Rob Arnott.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/violent-tech-rout-will-avoid-a-20-drawdown-markets-pulse",
+      "publisher": "Bloomberg",
+      "published": "2026-11-09T19:23:56Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "China Extends Pause on 24% US Tariffs to January, Keeps 10% Rate",
+      "summary": "China will suspend retaliatory measures, including an additional 24% tariff on US goods, for another two months, extending a trade truce with Washington into January. The move removes a near-term escalation risk for markets exposed to US-China trade.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/china-extends-pause-on-24-us-tariffs-to-january-keeps-10-rate",
+      "publisher": "Bloomberg",
+      "published": "2026-11-09T04:36:35Z",
+      "tickers": [],
+      "category": "Policy",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Fed's Goolsbee and Barkin Signal Rates May Need to Go Higher Amid Inflation Concerns",
+      "summary": "Chicago Fed's Goolsbee said officials must address an inflation 'failure,' warning about overheating risks tied to AI-driven investment, while Richmond Fed's Barkin said robust demand and stubbornly high inflation mean rates will likely need to rise further, albeit at a careful pace. A separate NY Fed survey showed inflation expectations steady but unemployment outlook at its worst since 2020.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/fed-s-goolsbee-says-officials-must-address-inflation-failure",
+      "publisher": "Bloomberg",
+      "published": "2026-11-09T16:06:43Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "BLS Will Not Publish 12-Month CPI, Core CPI Figures for October",
+      "summary": "The Bureau of Labor Statistics said this week's closely watched CPI report will be missing key year-over-year inflation figures, an unusual data gap that complicates the Fed's and investors' read on price trends ahead of upcoming policy decisions.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/bls-will-not-publish-12-month-cpi-core-cpi-figures-for-october",
+      "publisher": "Bloomberg",
+      "published": "2026-11-09T19:05:51Z",
+      "tickers": [],
+      "category": "Policy",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "US Natural Gas Jumps as Much as 8% on Short Covering, Cooler Forecasts",
+      "summary": "US natural gas futures surged up to 8%, the biggest move in six weeks, triggering a short squeeze after forecasts pointed to cooler weather boosting heating demand.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/us-natural-gas-jumps-as-cooler-forecasts-trigger-short-covering",
+      "publisher": "Bloomberg",
+      "published": "2026-11-09T14:47:05Z",
+      "tickers": [],
+      "category": "Energy",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Berkshire Hathaway Boosts Buybacks to $9.6 Billion as Operating Income Slips",
+      "summary": "Berkshire Hathaway increased share repurchases to $9.6 billion even as insurance underwriting profitability declined, pointing to a softer operating income picture for the conglomerate.",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-09/berkshire-boosts-buybacks-as-operating-income-slips-video",
+      "publisher": "Bloomberg",
+      "published": "2026-11-09T17:34:07Z",
+      "tickers": ["BRK.B"],
+      "category": "Earnings",
+      "importance": 3,
+      "sentiment": "neutral"
+    }
+  ],
+  "calendar": []
+}

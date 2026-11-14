@@ -1,0 +1,80 @@
+{
+  "source": "Bloomberg",
+  "fetched_at": "2026-11-11T06:00:00-05:00",
+  "stories": [
+    {
+      "headline": "US Core CPI Tops Forecasts, Cementing Case for Fed Rate Hike",
+      "summary": "October core CPI rose 0.3%, more than forecast, strengthening the case for the Federal Reserve to raise rates next month. Fed's Christopher Waller backed a December hike and said he's open to a larger move, while Chicago Fed President Austan Goolsbee called the report \"borderline disturbing.\" Dallas Fed's Lorie Logan said at least two more quarter-point hikes are needed and the pace could quicken.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/us-core-cpi-rises-more-than-forecast-0-3-supporting-rate-hike",
+      "published": "2026-11-10T13:31:00Z",
+      "category": "Macro",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "SoftBank Posts $7 Billion Loss After US Data-Center Writedown",
+      "summary": "SoftBank Group booked its first net loss in nearly two years after a $3.7 billion writedown on US data-center investments, sending shares down as much as 10%. The hit deepened concerns about AI infrastructure valuations and dragged down power-turbine and equipment stocks on fears of waning data-center demand.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/softbank-group-earnings-loss-after-ai-worries-hit-tech-stocks-masayoshi-son",
+      "published": "2026-11-10T06:35:00Z",
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Anthropic Weighs IPO Valuation of Up to $1.5 Trillion",
+      "summary": "Bankers are reportedly considering raising Anthropic's IPO valuation target to $1.5 trillion or more amid strong investor demand, which would approach SpaceX's record private valuation. Early investors are already shopping portions of their IPO allocations at a premium ahead of what could be one of the largest public listings on record.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-targets-64-4-billion-ipo-nearing-spacex-s-record",
+      "published": "2026-11-10T11:40:00Z",
+      "category": "Deals",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "CoreWeave Raises Annual Forecast, Easing AI Slowdown Fears",
+      "summary": "CoreWeave boosted its annual guidance after beating quarterly sales estimates, and its CEO said there's \"no reason\" its Nvidia partnership would change despite industry controversy. The upbeat results helped calm investor worries about a slowdown in AI infrastructure spending.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/coreweave-boosts-annual-forecast-easing-concerns-about-slowdown",
+      "published": "2026-11-10T21:13:00Z",
+      "tickers": ["CRWV", "NVDA"],
+      "category": "Earnings",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Gold Holds Loss Near $4,000 as Hot Inflation Fuels Fed Hike Bets",
+      "summary": "Gold prices held near $4,000 an ounce after hotter-than-expected October US inflation data and hawkish Fed commentary reinforced expectations of further rate increases. Higher-for-longer rate expectations are pressuring the non-yielding metal.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/gold-holds-loss-near-4-000-on-hot-us-inflation-fed-remarks",
+      "published": "2026-11-10T23:33:00Z",
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Asian Stocks Rally for Third Day as AI Optimism Offsets Rate Fears; Bonds Slump",
+      "summary": "Asian equities extended gains for a third session on continued AI-trade optimism even as hot US inflation data raised the odds of further Fed rate increases. Bonds sold off sharply as traders repriced the rate-hike path, with Morgan Stanley noting the largest hedge-fund risk retreat in a decade.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
+      "published": "2026-11-10T22:32:00Z",
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Fed's Bowman Warns of Stock Correction Risk if AI Bets Disappoint",
+      "summary": "Federal Reserve Governor Michelle Bowman flagged financial-stability risks, warning of a potential sharp stock market correction if returns on massive AI investments fail to materialize. The remarks add to a growing chorus of Fed officials weighing in on both sticky inflation and AI-driven market froth.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/fed-s-bowman-warns-of-stock-correction-if-ai-bets-don-t-pan-out",
+      "published": "2026-11-10T20:30:00Z",
+      "category": "Policy",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "OpenAI Q3 Revenue Jumps Nearly 50% to $10 Billion",
+      "summary": "OpenAI's third-quarter revenue surged almost 50% to surpass $10 billion for the first time, driven by strong demand for its latest AI software products. The results underscore continued rapid growth in commercial AI demand even as some investors question the sustainability of related infrastructure spending.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/openai-third-quarter-revenue-soars-nearly-50-to-10-billion",
+      "published": "2026-11-10T22:33:00Z",
+      "category": "Earnings",
+      "importance": 4,
+      "sentiment": "bullish"
+    }
+  ],
+  "calendar": []
+}

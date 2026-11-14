@@ -1,0 +1,31 @@
+{
+  "stories_per_source": 8,
+  "top_stories": 12,
+  "movers_count": 10,
+  "leaders_per_sector": 3,
+  "generate_time": "07:30",
+  "open_time": "08:00",
+  "benchmarks": [
+    {"label": "S&P 500", "symbol": "SP:SPX"},
+    {"label": "Nasdaq 100", "symbol": "NASDAQ:NDX"},
+    {"label": "Dow Jones", "symbol": "DJ:DJI"},
+    {"label": "Russell 2000", "symbol": "TVC:RUT"},
+    {"label": "S&P Futures", "symbol": "CME_MINI:ES1!", "kind": "future"},
+    {"label": "Nasdaq Futures", "symbol": "CME_MINI:NQ1!", "kind": "future"},
+    {"label": "VIX", "symbol": "CBOE:VIX", "kind": "vol"},
+    {"label": "US 10Y", "symbol": "TVC:US10Y", "kind": "yield"},
+    {"label": "Dollar (DXY)", "symbol": "TVC:DXY", "kind": "fx"},
+    {"label": "WTI Crude", "symbol": "NYMEX:CL1!", "kind": "commodity"},
+    {"label": "Gold", "symbol": "TVC:GOLD", "kind": "commodity"},
+    {"label": "Bitcoin", "symbol": "BITSTAMP:BTCUSD", "kind": "crypto"}
+  ],
+  "watchlist": [
+    {"sector": "Electronic Technology", "tickers": ["AAPL", "NVDA", "AVGO", "AMD"]},
+    {"sector": "Technology Services", "tickers": ["MSFT", "GOOGL", "META", "ORCL"]},
+    {"sector": "Finance", "tickers": ["JPM", "BAC", "GS", "V"]},
+    {"sector": "Retail Trade", "tickers": ["AMZN", "WMT", "COST", "HD"]},
+    {"sector": "Health Technology", "tickers": ["LLY", "JNJ", "MRK"]},
+    {"sector": "Energy Minerals", "tickers": ["XOM", "CVX"]},
+    {"sector": "Consumer Durables", "tickers": ["TSLA"]}
+  ]
+}

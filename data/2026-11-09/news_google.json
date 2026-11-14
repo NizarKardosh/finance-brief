@@ -1,0 +1,105 @@
+{
+  "source": "Google Finance",
+  "fetched_at": "2026-11-09T19:30:00Z",
+  "stories": [
+    {
+      "headline": "Dow jumps 1,000 points as S&P 500 and Nasdaq surge",
+      "summary": "US stocks rallied sharply, with the Dow Jones Industrial Average gaining roughly 1,000 points and both the S&P 500 and Nasdaq posting strong advances. The broad-based rally lifted sentiment ahead of Tuesday's October CPI release.",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTFg5Q2xEWDJCeTk2QjVmSDFkNm10T0tfUDJEM29Lci1JZzR0clR1YmpVeFRESVowdlhRTTNCM1RlSkR6bXVyVkpJVUF0VTFRMWtPTzlEdE40SV9iWUQ5UU0zVktyS2stLUstZ2pZeUo1ZFhNUmtDVDRZVG1JUm5TVTc2c2laRUNta1pSNmVTZnR4RldMNFlYM2xzeFZSRG1wM0tiRkNQbWZESDgxUU0yRGhsOUl0OFA1NWVUeFVWYkN1U01EVGwzMlpZS2l2RmN6MU4w",
+      "publisher": "MarketWatch",
+      "published": "2026-11-09T19:10:00Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Nvidia stock falls 5% as board investigates CEO's personal conduct",
+      "summary": "Nvidia shares dropped about 5% after the company's board opened an investigation into CEO Jensen Huang over an alleged relationship with a Chinese national described as a suspected intelligence operative. The news raises governance and national-security concerns for the AI chip leader.",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWldTaHlFa1FDMTZiZldtdUlEVFkybDRmU3BUWms1eXNTR21qc1owdUVmSVAya1VBMnFwOTFBTUNlb001WU1kdDFBd0JUcVUwTWYta2RDZjRNRjNhQS13dElEY2Y4aXpNaGJDV1ZHWmp1SVdjMUpuekdNQ0hKX0paRkJENGtHSDNpQnZaZEMzeDJ5YnczVk1jUG93MEJRT05zN1FQbklPVklhR0FVa0ZCVFBiSHN3SGlzTUt4OER2RWIxaDhTMzJ5RVA4NmFXWXQyU2hjQnpKbFY0YU8tTmRzN1BoZmpmbDZmRnVMLVZsX2tpNXc",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-09T19:06:41Z",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Anthropic releases new frontier AI models as IPO speculation builds",
+      "summary": "Anthropic launched its first new frontier models since CEO Dario Amodei's earlier call for the industry to slow down, fueling fresh speculation about a potential IPO. The release underscores continued competitive pressure in the generative-AI race.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EZ19OSTNSY1dhR3hRS1h5MWdBMnQtbDBZRG9lNUl6c2Z3Sy1hYlh2LUY2elVFd1BzbUVrYkdHcC1XQVBuTFZ3d2p3ME9uTkRRb0k5NE1OdjB1eU5XNFFWb3pTcTd1OUw0cTF2Ynd4M25tSGFQaHdhVFFoZVZyR1U",
+      "publisher": "CNBC",
+      "published": "2026-11-09T19:00:01Z",
+      "tickers": [],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Google unveils new AI chip variants as cloud demand surges",
+      "summary": "Google announced new variants of its custom AI chips to meet surging demand for cloud AI compute, intensifying competition with Nvidia and other chipmakers. The move highlights hyperscalers' push toward in-house silicon.",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1JDNDVNcnh0MU5wSzdrUVhVY3FpSklfazJZVWEtbGwyUkxydzhTcUVhV2F5aHdHV29OUE9Ea1JkZm93d2xVcU1VMEdEZE1xamt3RlktMVlqLUNGRVlIalpNd3ZRS2Z2LVN3b24yNUcyV1lkQm01MmJ3eHJLZVk3a3ZDSkhHcllvVHVxX1c1d3YtRHV3Q1g5d241UGNpLXJpSXRwTUYzcEdPcUhmN2FqdnBRNVZUYlM1WmJF",
+      "publisher": "Reuters",
+      "published": "2026-11-09T15:24:44Z",
+      "tickers": ["GOOGL", "NVDA"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Boeing to cut 5% of commercial airplane workforce",
+      "summary": "Boeing announced plans to reduce its commercial airplane division headcount by 5%, part of broader cost-cutting efforts at the aerospace manufacturer. The cuts come as Boeing continues working through production and delivery challenges.",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGM0bEkzbG9oUUpaRTZ6bTlBVmdfXzFuTFh2ZmZnSThOY2dZSVlJa0lqM09SZ3JNckVpdVJQY2FsUGYwcThhODNMcC1faDI0YlZtaXBkUHJ4QkowSDUzUUEtb3VLYWFIWFNCblNlYWVmLUJpNDQtNmZKcHd5d1FCM1BEZEdkMk83U1ZRU09jX2Y5SlI3d0s0WWxVczhTeTgzbGtLa01XTXczTmt1SHRj",
+      "publisher": "The Seattle Times",
+      "published": "2026-11-09T17:30:00Z",
+      "tickers": ["BA"],
+      "category": "Deals",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Musk says Tesla will refund some Cybertruck deposits, defends ending production",
+      "summary": "Elon Musk said Tesla will refund deposits for some Cybertruck reservation holders and defended the decision to end production of the model, following weaker-than-expected demand. The move signals a strategic pivot away from the niche vehicle line.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2VoUWdELTFfMjBiZWV3Q1U1UHpaekhjV21CQkk3WjQzOU53b3FzY3ZWaDVwdTdTX1NpZlpoajZUTmZmYWdlNlVJaEVMS2FTZXI0RjA2aXpfTmFpV0gzeXRwX1NKQ2NPTFdOUXhZMWd3Q3VZX2dRRGdxOWVCSGZGYlhkSC0yNTBHMDNQRjdxVHlfd3EzVjVTcmVPV3FJanNrS1FXSEhyaFN4aVo5RThPQjV3dzRmM3ByaENDalp6RQ",
+      "publisher": "TechCrunch",
+      "published": "2026-11-09T13:43:28Z",
+      "tickers": ["TSLA"],
+      "category": "Consumer",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "US regulator orders weight-loss drug makers to add blindness-risk warning",
+      "summary": "US regulators ordered manufacturers of popular weight-loss drugs to include a warning about a potential blindness risk, affecting major pharmaceutical players in the GLP-1 drug category. The decision could weigh on sentiment toward the fast-growing weight-loss drug market.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVZsTFdFc2FxSEQzeGgxRUpNbXdUUTNZa1V0aTQ5dlhoRnRLQ1M5bGthNV9SSXhFekF6WkhrX0lvdUtDcVF6aVVBdEZRM1I4MmJtdkFmNFl2Mk0wZmJmbmdOcUNkS0E5elIxY0dQam51NTFvZDNjY1duc2R2dkVTLUxrTmM",
+      "publisher": "Financial Times",
+      "published": "2026-11-09T17:20:45Z",
+      "tickers": [],
+      "category": "Policy",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Gasoline prices set to drop below $4 for first time since July",
+      "summary": "National average gasoline prices are expected to fall below $4 per gallon for the first time since July, easing pressure on consumer budgets. Lower energy costs could provide a modest tailwind for consumer spending heading into the holiday season.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jWlZEbFdQaTZmZW5NVXRQd0VyU3hGcF9HT3Fyb0RKLTE2alhwMTFVQThjaEtzM1JmMWd4NjJSdmIxVnh4LVAxODh5a0lLc3VabVJ6dktuSkU5NldtV1lXQU00Tk5qUDQ3RWlwTlYzX3AyNnVhR0dN",
+      "publisher": "CNN",
+      "published": "2026-11-09T13:38:30Z",
+      "tickers": [],
+      "category": "Energy",
+      "importance": 2,
+      "sentiment": "bullish"
+    }
+  ],
+  "calendar": [
+    {"when": "10:00 ET", "event": "CB Employment Trends Index (Oct)", "type": "economic"},
+    {"when": "10:00 ET", "event": "Wholesale Inventories MoM (Sep)", "type": "economic"},
+    {"when": "10:00 ET", "event": "Wholesale Sales MoM (Sep)", "type": "economic"},
+    {"when": "11:00 ET", "event": "Atlanta Fed GDPNow (Q4)", "type": "economic"},
+    {"when": "11:00 ET", "event": "Consumer Inflation Expectations (Oct)", "type": "economic"},
+    {"when": "Before open", "event": "Constellation Energy (CEG) earnings", "type": "earnings"},
+    {"when": "After close", "event": "Occidental Petroleum (OXY) earnings", "type": "earnings"},
+    {"when": "After close", "event": "Take-Two Interactive (TTWO) earnings", "type": "earnings"},
+    {"when": "After close", "event": "Rocket Lab (RKLB) earnings", "type": "earnings"}
+  ]
+}

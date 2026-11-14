@@ -1,0 +1,7 @@
+logs/
+__pycache__/
+*.pyc
+reports/artifact/
+data/*/.opened
+data/*/previous-run/
+.claude/settings.local.json

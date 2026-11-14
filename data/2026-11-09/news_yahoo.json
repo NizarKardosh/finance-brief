@@ -1,0 +1,94 @@
+{
+  "source": "Yahoo Finance",
+  "fetched_at": "2026-11-09T15:30:00-05:00",
+  "stories": [
+    {
+      "headline": "Nvidia board investigates CEO Jensen Huang over relationship with alleged Chinese spy",
+      "summary": "Nvidia's board launched an independent investigation, led by a committee of outside directors, after Huang told employees in a Sunday memo that he had a romantic relationship with a woman U.S. intelligence believes was recruited by China's Ministry of State Security. NVDA shares fell as much as 8-8.8% intraday, briefly erasing nearly $400 billion in market value, before paring losses; the board said it has no reason to believe trade secrets were compromised and that Huang will remain CEO during the probe.",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-sinks-as-chipmaker-investigates-ceo-jensen-huangs-relationship-with-alleged-chinese-spy-130346548.html",
+      "published": "2026-11-09T09:03:46-05:00",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Dip buyers return: S&P 500, Dow and Nasdaq surge despite Nvidia slide",
+      "summary": "Major U.S. indexes rallied Monday, rebounding from last week's AI-driven selloff: the S&P 500 rose about 2.3-2.5% to roughly 7,559, the Dow gained about 2.2-2.3% (over 1,200 points) to near 52,495, and the Nasdaq climbed about 2.6-2.8%, adding roughly $1 trillion in market value at the open. Gains were broad-based in chip and AI-related names even as Nvidia itself fell on the Huang investigation news.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html",
+      "published": "2026-11-09T09:05:35-05:00",
+      "tickers": ["NVDA", "AMD", "AVGO", "INTC", "TSLA"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "AMD jumps about 9-13% after Oppenheimer upgrade to Outperform, $600 price target",
+      "summary": "Oppenheimer upgraded AMD from Market Perform to Outperform with a $600 price target, citing an expected 135% surge in data-center revenue by 2027 on strength in EPYC CPUs and the new MI450/Helios GPU lineup. AMD's data-center revenue hit a record $8.5 billion last quarter, up 97% year-over-year, fueling the stock's rally alongside other chip names on Monday.",
+      "url": "https://www.cnbc.com/2026/11/09/amd-oppenheimer-upgrade-outperform.html",
+      "publisher": "CNBC",
+      "published": "2026-11-09T07:45:00-05:00",
+      "tickers": ["AMD"],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Anthropic launches Claude Fable 5.2 and Mythos 5.2, cuts prices ahead of expected IPO",
+      "summary": "Anthropic released two upgraded frontier models, Claude Fable 5.2 and Claude Mythos 5.2, touting faster output (about 30% quicker than prior versions) and gains in coding, reasoning and vision, while cutting Fable's API pricing roughly 20% to $8/$40 per million input/output tokens. The release lands as Anthropic reportedly targets a $1-1.5 trillion valuation for an IPO that could come as soon as next week.",
+      "url": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html",
+      "publisher": "CNBC",
+      "published": "2026-11-09T00:00:00-05:00",
+      "tickers": [],
+      "category": "Tech",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "SpaceX, Blue Origin, Lockheed and other contractors jump on NASA's $10 billion lunar deal",
+      "summary": "NASA named eight companies - including SpaceX, Blue Origin, Firefly Aerospace, Intuitive Machines, ispace-U.S., Lockheed Martin, Northrop Grumman and Voyager Technologies - as eligible providers under a new 10-year Commercial Lunar Payload Services (CLPS 2) contract with a combined ceiling of $10 billion; NASA separately raised the ceiling on its existing CLPS 1.0 contract to $4.2 billion from $2.6 billion. Aerospace and defense shares, including Rocket Lab, rose on the announcement even though Rocket Lab itself was not named among the eight awardees.",
+      "url": "https://finance.yahoo.com/markets/article/spacex-rocket-lab-blast-higher-as-nasa-hands-out-10-billion-in-moon-base-awards-164320855.html",
+      "published": "2026-11-09T11:43:20-05:00",
+      "tickers": ["LMT", "NOC", "RKLB"],
+      "category": "Deals",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Musk says Tesla will refund Cybertruck deposits as production winds down",
+      "summary": "Elon Musk said Tesla will wind down Cybertruck production over roughly the next eight months to prioritize the autonomous Cybercab, and will refund $1,000 deposits to a large number of customers whose orders cannot be fulfilled before the line shuts because order demand exceeds production capacity. Industry estimates put cumulative Cybertruck sales around 71,000 units since deliveries began in late 2023, well short of the roughly 250,000-per-year target Tesla once floated.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/musk-says-tesla-on-the-hook-for-cybertruck-deposits-after-cancellation-162604829.html",
+      "published": "2026-11-09T11:26:04-05:00",
+      "tickers": ["TSLA"],
+      "category": "Consumer",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Hims & Hers shares drop about 9-10% ahead of Q3 earnings",
+      "summary": "Hims & Hers Health fell sharply Monday as investors positioned ahead of its Q3 2026 report, due after Monday's close, with analysts looking for roughly $0.06 EPS on about $893 million in revenue. The stock's slide comes as the company works to integrate newly added Eli Lilly GLP-1 obesity drugs onto its platform, raising investor questions about margins and per-prescription economics.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-hims-hers-health-inc-214502007.html",
+      "published": "2026-11-09T16:45:02-05:00",
+      "tickers": ["HIMS"],
+      "category": "Earnings",
+      "importance": 2,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Ionis Pharmaceuticals shares plunge roughly 23-27% on slashed Tryngolza sales forecast",
+      "summary": "Ionis Pharmaceuticals stock tumbled to a new 52-week low after the company cut its full-year 2026 sales guidance for cholesterol drug Tryngolza (olezarsen) to about $50 million on a slower-than-expected launch, and pushed back its target for sustained positive cash flow to 2029 from 2028. The guidance cut overshadowed a Q3 revenue beat of $243 million, up 55% year-over-year excluding a prior-year one-time payment.",
+      "url": "https://finance.yahoo.com/healthcare/articles/ionis-pharmaceuticals-ions-said-q3-171459831.html",
+      "published": "2026-11-09T12:14:59-05:00",
+      "tickers": ["IONS"],
+      "category": "Earnings",
+      "importance": 2,
+      "sentiment": "bearish"
+    }
+  ],
+  "calendar": [
+    {"when": "10:00 ET", "event": "Wholesale Trade (Sep)", "type": "economic"},
+    {"when": "After market close", "event": "Hims & Hers Health (HIMS) Q3 2026 earnings", "type": "earnings"},
+    {"when": "Today", "event": "Rocket Lab (RKLB) Q3 2026 earnings", "type": "earnings"},
+    {"when": "This week", "event": "October CPI report (date TBD) - inflation data investors are watching for Fed rate guidance", "type": "economic"}
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "date": "2026-11-10",
+  "headline_of_day": "Nvidia's spy scandal rattles markets; Wall Street rallies anyway",
+  "dek": "Jensen Huang's board probe erased $190 billion in Nvidia value even as the Dow surged 1,104 points on an oil-price crash.",
+  "big_picture": "Nvidia's board has launched an independent investigation into CEO Jensen Huang after he admitted to an affair with a woman US intelligence allege is tied to Chinese intelligence, a scandal that erased roughly $190 billion in market value even as the broader market rallied. The S&P 500 jumped 2.35% to 7,549.94, the Nasdaq Composite gained 2.74%, and the Dow added about 1,104 points, fueled by a roughly 7% plunge in Brent crude and a rotation into AI-chip peers such as AMD (+13%). Anthropic is pressing ahead with its Nasdaq IPO, seeking to raise about $69.3 billion at a valuation trimmed to $1.1-1.3 trillion from an earlier $2 trillion target. China's trade surplus topped $1 trillion for the year, powered by booming AI hardware exports. Today's October CPI print at 8:30 ET is the last inflation read before the Fed's December meeting, with markets pricing an 84% chance of a quarter-point cut even as some Fed officials warn inflation risks could force rates higher.",
+  "three_things": [
+    "Nvidia's Huang scandal erased roughly $190 billion in market value even as the broader market rallied to multi-month highs.",
+    "Oil's ~7% plunge and an AI-chip rotation (AMD +13%) drove the Dow's best session in months.",
+    "Anthropic is pressing ahead with a ~$69.3 billion IPO, but at a valuation trimmed to $1.1-1.3 trillion."
+  ],
+  "market_pulse": "Equities rallied broadly Monday: the S&P 500 rose 2.35% to 7,549.94, the Nasdaq 100 jumped 3.40%, the Dow added 2.15%, and the Russell 2000 gained 3.15%, with breadth strongly positive (423 advancers vs. 78 decliners). Producer Manufacturing led sectors (+6.10%, AMAT +11.37%, LRCX +10.41%) while Energy Minerals lagged (+0.06%). The VIX collapsed 22.3% to 19.92, the 10-year yield eased to 4.87%, and WTI crude fell to $85.76, even as NVDA shares dropped 4.27% on $82.67bn of traded volume.",
+  "standouts": [
+    {"ticker": "AMD", "note": "+13.26% on $26.07B traded, top chip gainer among most-actives as capital rotated out of NVDA"},
+    {"ticker": "NVDA", "note": "-4.27% despite leading most-active volume: 462.72M shares, $82.67B traded, on the Huang investigation"},
+    {"ticker": "AMAT", "note": "+11.37%, pacing Producer Manufacturing, the day's strongest sector (+6.10%)"},
+    {"ticker": "FRVO", "note": "+26.09%, top overall market gainer on 23.98M shares"},
+    {"ticker": "ACAD", "note": "-22.28% on heavy volume (12.15M shares), biggest liquid decliner"}
+  ],
+  "stories": [
+    {
+      "headline": "Nvidia board investigates CEO Jensen Huang over alleged links to Chinese intelligence",
+      "summary": "Nvidia's board formed a committee of independent directors and outside counsel to examine national-security concerns after Huang admitted to an affair with a woman US intelligence allege is an agent of China's Ministry of State Security. The stock fell more than 4%, erasing close to $190-200 billion in market value, though Nvidia says Huang remains CEO 'without interruption.' President Trump said the FBI is reviewing the matter and called Huang 'honorable,' while Republican lawmakers have asked him to testify before Congress on November 18.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-slumps-amid-board-141523990.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity"}
+      ],
+      "published": "2026-11-09T14:15:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Anthropic presses ahead with ~$69 billion IPO as valuation talk slips toward $1.1-1.3 trillion",
+      "summary": "Anthropic is moving forward with its Nasdaq listing under the ticker ANT, aiming to begin formal marketing this week after a late filing snafu briefly unsettled the process. Reuters reports the company is seeking to raise about $69.3 billion, with institutional investors pushing the valuation down from an earlier $2 trillion target to a range of $1.1-1.3 trillion. CEO Dario Amodei plans a livestreamed event with JPMorgan's Jamie Dimon to discuss the offering.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2hKNTcydHJDZGEzRlA2V3Bs"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-reportedly-plans-move-forward-012712359.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says"}
+      ],
+      "published": "2026-11-10T01:43:10Z",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Wall Street posts best session in months as oil craters and chip stocks rotate",
+      "summary": "US equities rallied sharply Monday: the Dow gained about 1,104 points (+2.15%), the S&P 500 rose 2.35% to 7,549.94, and the Nasdaq Composite climbed 2.74%, as a slide in oil prices eased inflation worries. Nvidia fell more than 4% on the Huang investigation, but AI-trade rotation lifted peers, with AMD up 13% and Intel, Broadcom and Micron rallying 6%-10%. Bloomberg put global equities on track for their best two-day gain in more than three months.",
+      "sources": ["Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/dow-adds-1-104-points-211123350.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates"}
+      ],
+      "published": "2026-11-09T16:11:00-05:00",
+      "tickers": ["NVDA", "AMD", "INTC", "AVGO", "MU"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "October CPI, due today, is the last inflation read before the Fed's December decision",
+      "summary": "Tuesday's CPI report is the final inflation data point before the Federal Reserve's December meeting, with economists expecting headline inflation at +0.3% month-over-month and core CPI easing to +0.2%, down from September's 0.6% and 0.3% prints. Fed funds futures imply roughly an 84% probability of a 25-basis-point rate cut in December. Dow futures were up about 197 points and S&P 500 futures added 0.16% ahead of the release.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html"}
+      ],
+      "published": "2026-11-10T01:00:46-05:00",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "China's trade surplus tops $1 trillion for the year, powered by AI hardware exports",
+      "summary": "China's cumulative trade surplus crossed $1 trillion for a second straight year, reaching about $1.04 trillion in the January-October period and hitting the milestone a month earlier than in 2025. October exports rose 35.2% year-on-year to $412.3 billion and imports grew 41.6% to $307.1 billion, though the month's $105.3 billion surplus came in below the roughly $125.8 billion analysts expected. Bloomberg noted the EU accounts for nearly a third of the overall imbalance.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERk"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/economy/articles/chinas-trade-booms-focus-turns-035434900.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-10/chinese-trade-surplus-surpasses-1-trillion-for-second-time-ever"}
+      ],
+      "published": "2026-11-10T06:00:00-05:00",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Marvell's $115 billion bid for Lumentum draws coin-flip odds from arbitrage investors",
+      "summary": "Marvell Technology's $115 billion acquisition of Lumentum Holdings, a bet aimed at deepening its position in AI optical networking, is getting a lukewarm early verdict from merger-arbitrage investors. The tepid reaction reflects broader skepticism toward AI-linked dealmaking as the sector's rally shows cracks.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-09/marvell-lumentum-deal-odds-near-coin-flip-as-ai-trade-shudders"}
+      ],
+      "published": "2026-11-09T19:49:59Z",
+      "tickers": ["MRVL", "LITE"],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BLS to omit 12-month CPI and core CPI figures from October report",
+      "summary": "The Bureau of Labor Statistics said this week's October consumer price index release will not include the 12-month and core 12-month percent-change figures. The gap complicates the inflation picture that investors and the Fed rely on heading into the December policy decision.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-09/bls-will-not-publish-12-month-cpi-core-cpi-figures-for-october"}
+      ],
+      "published": "2026-11-09T19:05:51Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Brent crude slumps about 7% on Iran peace hopes despite fresh Saudi pipeline attack",
+      "summary": "Brent crude fell roughly 7% as hopes for an Iran-related peace deal outweighed news of a fresh attack on a Saudi pipeline. The sharp drop is easing broader inflation worries heading into Tuesday's CPI report and helped fuel Monday's equity rally.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMVkwSk8xdlE0dTF6dGk0Rnp3"}
+      ],
+      "published": "2026-11-09T15:10:55-05:00",
+      "tickers": [],
+      "category": "Energy",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Tesla to wind down Cybertruck production, refund buyer deposits",
+      "summary": "Tesla plans to end Cybertruck production at its Texas plant by mid-2027 to make room for more Cybercab robotaxi output, and Elon Musk said the company will refund deposits to many reservation holders. Musk said demand 'far exceeds' production capacity and denied the vehicle is unprofitable, framing the move as an opportunity-cost decision; Tesla shares rose on the day despite the news.",
+      "sources": ["Google Finance", "Yahoo Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPck80ZDlJeDJSd3lwemNEWkF"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/article/musk-says-tesla-on-the-hook-for-cybertruck-deposits-after-cancellation-162604829.html"}
+      ],
+      "published": "2026-11-09T15:30:00-05:00",
+      "tickers": ["TSLA"],
+      "category": "Consumer",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BOJ signals good chance of a December rate hike",
+      "summary": "The Bank of Japan's summary of opinions from its latest policy meeting showed many board members view a near-term rate increase as necessary, reinforcing expectations for a move in December. The signal came in a week that also saw weak demand at Japan's 30-year bond auction.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-10/boj-summary-suggests-good-chance-of-near-term-interest-rate-hike"}
+      ],
+      "published": "2026-11-10T00:29:44Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Wyden signals JPMorgan, Bank of America and Deutsche Bank are top targets in Epstein-ties probe",
+      "summary": "Incoming Senate Finance Committee chairman Ron Wyden signaled that JPMorgan, Bank of America and Deutsche Bank will be top investigative targets over their handling of Jeffrey Epstein's accounts. A committee report found the banks waited until 2019, after Epstein's arrest, to retroactively flag more than $1.4 billion in questionable transactions moved over nearly two decades, and several Senate Democrats are pushing for hearings with JPMorgan CEO Jamie Dimon.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/news/trump-epstein-fiasco-takes-darker-100000547.html"}
+      ],
+      "published": "2026-11-09T19:00:00-05:00",
+      "tickers": ["JPM", "BAC"],
+      "category": "Policy",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Fed's Goolsbee and Barkin warn inflation risks may require rates to rise further",
+      "summary": "Chicago Fed President Austan Goolsbee said policymakers must guard against an inflation failure tied to AI-driven overheating and broadening price pressures, while Richmond Fed's Tom Barkin said robust demand and sticky inflation mean rates may need to go higher, albeit gradually. The comments stand in tension with market pricing, which implies an 84% probability of a December rate cut.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-09/fed-s-goolsbee-says-officials-must-address-inflation-failure"}
+      ],
+      "published": "2026-11-09T16:06:43Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 3,
+      "sentiment": "bearish"
+    }
+  ],
+  "watch_today": [
+    {"when": "08:30 ET", "event": "October CPI report (headline consensus +0.3% m/m / ~3.6% YoY; core +0.2% m/m / ~2.6-2.7% YoY)", "type": "economic"},
+    {"when": "Today", "event": "145 companies scheduled to report earnings (57 before the open, 88 after close), including ONON, RGTI, NLST, FLY", "type": "earnings"},
+    {"when": "After close", "event": "CoreWeave (CRWV) Q3 earnings, revenue expected ~$3.54B", "type": "earnings"}
+  ],
+  "desk_status": {"google": "ok", "yahoo": "ok", "bloomberg": "ok", "markets": "ok"}
+}

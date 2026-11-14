@@ -1,0 +1,108 @@
+{
+  "source": "Google Finance",
+  "fetched_at": "2026-11-10T07:30:00-05:00",
+  "stories": [
+    {
+      "headline": "Nvidia board launches independent probe into Jensen Huang after CEO admits affair with alleged Chinese spy",
+      "summary": "Nvidia's board formed a committee of independent directors and outside counsel to investigate national-security and spying allegations tied to CEO Jensen Huang's disclosed romantic relationship. Shares fell about 4.3% on Monday, erasing roughly $200 billion in market value, though Nvidia says Huang remains CEO 'without interruption.' Republican lawmakers have called for Huang to testify before Congress on November 18.",
+      "url": "https://www.cnbc.com/2026/11/09/nvidia-jensen-huang-chinese-spy-investigation.html",
+      "publisher": "CNBC",
+      "published": "2026-11-09T00:00:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "S&P 500 futures flat, Dow futures up as traders await October CPI report",
+      "summary": "Dow futures rose about 197 points (0.38%) and S&P 500 futures added 0.16%, while Nasdaq-100 futures were little changed ahead of Tuesday's October CPI release, the last inflation print before the Fed's December meeting. Consensus expects headline CPI at +0.3% month-over-month and core CPI easing to +0.2%, down from September's 0.6% and 0.3% readings. Fed funds futures imply roughly an 84% probability of a 25bp rate cut in December.",
+      "url": "https://www.cnbc.com/2026/11/09/stock-market-today-live-updates.html",
+      "publisher": "CNBC",
+      "published": "2026-11-10T01:00:46-05:00",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "China's trade surplus surpasses $1 trillion at record pace",
+      "summary": "China's cumulative trade surplus has crossed the $1 trillion mark faster than in any prior year, underscoring persistent export strength even as global trade tensions simmer. The milestone highlights the widening imbalance between China's exports and imports, a recurring flashpoint in US-China trade relations.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOR3p6ZVB0VVFMcEYtamViZXlQRERk",
+      "publisher": "The New York Times",
+      "published": "2026-11-09T22:11:39-05:00",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Boeing to cut 5% of commercial airplane workforce as production ramp-up slips",
+      "summary": "Boeing is cutting roughly 5% of its commercial airplanes division workforce after delays in ramping up production rates. The move signals continued operational strain in Boeing's commercial jet business even as order backlogs remain large.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE04SmhLWm81WTdGX3dQRHVtQVRZ",
+      "publisher": "CNBC",
+      "published": "2026-11-09T12:47:05-05:00",
+      "tickers": ["BA"],
+      "category": "Earnings",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Reuters: Anthropic's nearly $70 billion IPO plan briefly circulated to banks, then pulled back",
+      "summary": "Anthropic reportedly circulated an IPO proposal valuing the AI company at close to $70 billion to banks before retracting it, according to a Reuters exclusive. The episode suggests Anthropic is weighing public-market options but has not committed to a near-term listing.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQU2hKNTcydHJDZGEzRlA2V3Bs",
+      "publisher": "Reuters",
+      "published": "2026-11-09T20:22:00-05:00",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Honda to invest $3 billion in new Ohio vehicle assembly plant",
+      "summary": "Honda announced a $3 billion investment in a new vehicle assembly plant in Ohio, part of its push to expand US manufacturing capacity. The investment adds to a wave of automaker reshoring commitments in North America.",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT1UxU0FxYmJ6WnFEeEIxYzNv",
+      "publisher": "CNBC",
+      "published": "2026-11-09T11:10:33-05:00",
+      "tickers": ["HMC"],
+      "category": "Deals",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "PepsiCo cutting around 1,000 jobs across North America",
+      "summary": "PepsiCo is eliminating roughly 1,000 jobs across its North American operations as part of a broader cost-cutting effort. The cuts come as consumer packaged-goods companies face pressure on margins and softer demand.",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOYVJ6RHF4cDRiTmNWU3Fj",
+      "publisher": "WSJ",
+      "published": "2026-11-09T14:33:08-05:00",
+      "tickers": ["PEP"],
+      "category": "Consumer",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Brent crude slumps 7% on Iran peace hopes despite fresh Saudi pipeline attack",
+      "summary": "Brent crude fell roughly 7% as hopes for an Iran-related peace deal outweighed news of a fresh attack on a Saudi pipeline. The sharp drop in oil prices is easing broader inflation worries ahead of Tuesday's CPI report.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMVkwSk8xdlE0dTF6dGk0Rnp3",
+      "publisher": "OilPrice.com",
+      "published": "2026-11-09T15:10:55-05:00",
+      "tickers": [],
+      "category": "Energy",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Tesla to end Cybertruck production; Musk says many buyers will get deposits refunded",
+      "summary": "Tesla is preparing to discontinue the Cybertruck, with CEO Elon Musk saying many reservation holders will have their deposits refunded. The move marks a retreat from one of Tesla's most high-profile recent product launches amid weak sales.",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPck80ZDlJeDJSd3lwemNEWkF",
+      "publisher": "Fortune",
+      "published": "2026-11-09T15:30:00-05:00",
+      "tickers": ["TSLA"],
+      "category": "Consumer",
+      "importance": 3,
+      "sentiment": "bearish"
+    }
+  ],
+  "calendar": [
+    {"when": "08:30 ET", "event": "October CPI report (headline consensus +0.3% m/m, core +0.2% m/m)", "type": "economic"}
+  ]
+}

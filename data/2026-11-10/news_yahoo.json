@@ -1,0 +1,99 @@
+{
+  "source": "Yahoo Finance",
+  "fetched_at": "2026-11-10T08:00:00-05:00",
+  "stories": [
+    {
+      "headline": "Nvidia board opens investigation into CEO Jensen Huang over alleged ties to Chinese intelligence agent",
+      "summary": "Nvidia's board launched an independent investigation, with outside counsel, after media reports citing US intelligence that a woman CEO Jensen Huang had an affair with, identified as Alice Huang, a former executive at Singapore-based Megaspeed, was allegedly working for China's Ministry of State Security. Huang has admitted to the affair and said he had no idea of any alleged spying. Nvidia shares fell more than 4% and the stock has lost roughly $190 billion in market value since the news broke, while the company now faces shareholder class-action lawsuits.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-stock-slumps-amid-board-141523990.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-09T14:15:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Dow surges 1,104 points as oil prices crash and AI-chip rotation lifts Nvidia peers",
+      "summary": "US stocks posted their best session in months as Brent crude plunged roughly 5.7%: the Dow jumped about 1,104 points, the S&P 500 gained 2.35% to 7,549.94, and the Nasdaq Composite climbed 2.74% to 25,253.14. Nvidia fell more than 4% on the Jensen Huang investigation, but rivals rallied hard on rotation within the AI trade, with AMD up 13% and Intel, Broadcom, Micron, SanDisk and Western Digital gaining 6%-10%.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-adds-1-104-points-211123350.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-09T16:11:00-05:00",
+      "tickers": ["NVDA", "AMD", "INTC", "AVGO", "MU", "SNDK", "WDC"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Trump says FBI is reviewing Jensen Huang's affair, calls Nvidia CEO 'honorable'",
+      "summary": "President Trump said the FBI has begun looking into Nvidia CEO Jensen Huang's relationship with Alice Huang, a Singapore-based former Megaspeed executive accused by US intelligence of working for China's Ministry of State Security. Trump said he called Huang to check on him, described him as a 'very honorable man,' and said Huang told him he had 'absolutely no idea' the woman was an alleged agent; Democratic Senator Chris Coons has separately called for an investigation into whether national security was compromised.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/trump-says-fbi-investigating-nvidia-035047356.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-10T00:00:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Policy",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Anthropic presses ahead with IPO despite AI stock selloff, valuation talk slips toward $1.1-1.3 trillion",
+      "summary": "Anthropic is moving forward with its Nasdaq listing (ticker 'ANT'), reportedly planning to set a valuation range this week and begin trading as early as next Thursday or Friday, according to the Wall Street Journal. Some institutional investors are now pushing for a valuation below the $1.5 trillion level discussed last week, itself down from an earlier $2 trillion target, with some talks now in the $1.1-1.3 trillion range; the offering is proceeding despite a sharp Nasdaq selloff and the Nvidia/Jensen Huang controversy.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-reportedly-plans-move-forward-012712359.html",
+      "publisher": "TechCrunch",
+      "published": "2026-11-09T20:27:00-05:00",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "China's trade surplus tops $1 trillion for second straight year as AI hardware exports surge",
+      "summary": "China's January-October trade surplus reached about $1.04 trillion, crossing the trillion-dollar mark a month earlier than in 2025, driven by booming global demand for AI hardware. October exports rose 35.2% year-on-year to $412.3 billion and imports grew 41.6% to $307.1 billion, per the General Administration of Customs, though the month's $105.3 billion surplus came in below the roughly $125.8 billion analysts expected and down from September's $133.5 billion.",
+      "url": "https://finance.yahoo.com/economy/articles/chinas-trade-booms-focus-turns-035434900.html",
+      "publisher": "CNN Business",
+      "published": "2026-11-10T06:00:00-05:00",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Top Senate Democrat Ron Wyden takes aim at JPMorgan, Bank of America and Deutsche Bank over Epstein ties",
+      "summary": "Senator Ron Wyden, incoming chairman of the Senate Finance Committee under new Democratic Senate control, signaled JPMorgan, Bank of America and Deutsche Bank will be top investigative targets over their handling of Jeffrey Epstein's accounts. A Senate Finance Committee report found the banks waited until 2019, after Epstein's arrest, to retroactively flag thousands of questionable transactions totaling more than $1.4 billion moved over nearly two decades; several Senate Democrats are also pushing for hearings on JPMorgan CEO Jamie Dimon.",
+      "url": "https://finance.yahoo.com/news/trump-epstein-fiasco-takes-darker-100000547.html",
+      "publisher": "Bloomberg",
+      "published": "2026-11-09T19:00:00-05:00",
+      "tickers": ["JPM", "BAC"],
+      "category": "Policy",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Musk says Tesla will have to refund Cybertruck deposits as production winds down",
+      "summary": "Elon Musk said Tesla will refund deposits to 'a lot of people' who reserved a Cybertruck, as the company plans to stop production at its Texas factory by mid-2027 to make room for more Cybercab robotaxi output. Musk said order demand 'far exceeds' production capacity and denied the vehicle is unprofitable, framing the wind-down as an opportunity-cost decision; Tesla shares rose on the day.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/musk-says-tesla-on-the-hook-for-cybertruck-deposits-after-cancellation-162604829.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-09T11:26:00-05:00",
+      "tickers": ["TSLA"],
+      "category": "Consumer",
+      "importance": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nvidia has a 'deep bench' if Jensen Huang steps aside, tech investor says",
+      "summary": "As questions mount over Jensen Huang's future at Nvidia amid the board's investigation, a tech investor argued the company has strong internal leadership depth that could manage a transition if Huang were to leave. Analysts have been pricing in roughly a 15% chance Huang departs, versus an 85% probability he remains CEO, underscoring how much investor trust now hinges on the outcome of the inquiry.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/nvidia-has-a-deep-bench-if-jensen-huang-steps-aside-tech-investor-says.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-09T20:00:00-05:00",
+      "tickers": ["NVDA", "AAPL"],
+      "category": "Tech",
+      "importance": 2,
+      "sentiment": "neutral"
+    }
+  ],
+  "calendar": [
+    {"when": "08:30 ET", "event": "CPI (Oct) - headline inflation forecast ~3.6% YoY, core ~2.6%-2.7% YoY", "type": "economic"},
+    {"when": "After close", "event": "CoreWeave (CRWV) Q3 earnings - revenue expected ~$3.54B", "type": "earnings"},
+    {"when": "Today", "event": "145 companies scheduled to report earnings (57 before the open, 88 after close), including ONON, RGTI, NLST, FLY", "type": "earnings"}
+  ]
+}

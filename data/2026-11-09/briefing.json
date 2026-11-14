@@ -1,0 +1,198 @@
+{
+  "date": "2026-11-09",
+  "headline_of_day": "Wall Street's Best Day Since April Masks Nvidia's Huang Scandal",
+  "dek": "Stocks surged 2.5% in their best session since April as Nvidia shares fell nearly 5% amid a board probe into CEO Jensen Huang's alleged ties to a Chinese intelligence operative.",
+  "big_picture": "US stocks staged their best session since April, with the S&P 500 up 2.5% to 7,558.80, the Nasdaq 100 up 3.7% and the Dow adding over 1,200 points, as dip buyers overwhelmed last week's AI-driven selloff and breadth turned sharply positive at 441 advancers versus 61 decliners. The rally came even as Nvidia fell nearly 5% after its board opened an investigation into CEO Jensen Huang's alleged relationship with a suspected Chinese intelligence operative, a story that dominated the tape alongside a broader $2.3 trillion tech-sector drawdown that strategists say will stop short of a bear market. Chipmakers AMD and Broadcom surged 14% and 9% respectively, AMD on an Oppenheimer upgrade, helping offset Nvidia's slide. Washington and Beijing extended their tariff truce into January, removing a near-term trade risk, even as Fed officials Goolsbee and Barkin warned inflation may force rates higher and the BLS disclosed it will omit key year-over-year CPI figures this week. Gold rose 1.6% to $4,132.82 and the VIX collapsed 23% to 19.71, underscoring the shift back toward risk appetite.",
+  "three_things": [
+    "Nvidia's board is investigating CEO Jensen Huang over an alleged relationship with a suspected Chinese spy",
+    "Stocks posted their best day since April, erasing last week's AI-selloff losses",
+    "AMD and Broadcom surged on chip optimism even as Nvidia slid nearly 5%"
+  ],
+  "market_pulse": "A broad risk-on rally lifted the tape: S&P 500 +2.47% to 7,558.80, Nasdaq 100 +3.70% to 27,988.30, Dow +2.36% to 52,496.68, Russell 2000 +3.36% to 2,846.65, with breadth overwhelmingly positive at 441 advancers vs 61 decliners (503 names). Producer Manufacturing (+6.53%) and Consumer Durables (+5.88%) led sectors, while Energy Minerals (-0.89%) was the lone decliner as crude sold off. The VIX collapsed 23.13% to 19.71, the 10Y yield rose to 4.86%, the dollar (DXY) slipped 0.61% to 101.66, WTI crude dropped 5.42% to $85.91, and gold gained 1.55% to $4,132.82. NVIDIA was the standout decliner at -4.98% on the heaviest volume of any most-active name, even as AMD (+13.91%) and Broadcom (+9.42%) surged.",
+  "standouts": [
+    {"ticker": "NVDA", "note": "-4.98% to $177.34 on 353.9M shares, heaviest volume of any most-active name despite the broad rally"},
+    {"ticker": "AMD", "note": "+13.91% to $511.48 after Oppenheimer upgrade to Outperform, $600 price target"},
+    {"ticker": "AVGO", "note": "+9.42% to $321.37, led Electronic Technology sector gains"},
+    {"ticker": "COHR", "note": "+18.32% to $228.14, among top overall gainers"},
+    {"ticker": "CECO", "note": "+23.23% to $53.87, top overall gainer"},
+    {"ticker": "IONS", "note": "-22.12% to $30.70, top overall loser after slashed Tryngolza sales forecast"}
+  ],
+  "stories": [
+    {
+      "headline": "Wall Street Stages Best Rally Since April, S&P 500 Jumps 2.5%",
+      "summary": "US equities posted their strongest session since April, with the S&P 500 up 2.5% to 7,558.80, the Nasdaq 100 up 3.7% to 27,988.30 and the Dow adding roughly 1,200 points to 52,496.68. Breadth was overwhelmingly positive at 441 advancers versus 61 decliners, while the VIX fell 23% to 19.71 as dip buyers absorbed last week's AI-led selloff.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPTFg5Q2xEWDJCeTk2QjVmSDFkNm10T0tfUDJEM29Lci1JZzR0clR1YmpVeFRESVowdlhRTTNCM1RlSkR6bXVyVkpJVUF0VTFRMWtPTzlEdE40SV9iWUQ5UU0zVktyS2stLUstZ2pZeUo1ZFhNUmtDVDRZVG1JUm5TVTc2c2laRUNta1pSNmVTZnR4RldMNFlYM2xzeFZSRG1wM0tiRkNQbWZESDgxUU0yRGhsOUl0OFA1NWVUeFVWYkN1U01EVGwzMlpZS2l2RmN6MU4w"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-9-dow-sp-500-nasdaq-nvidia-090535419.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-08/stock-market-today-dow-s-p-live-updates"}
+      ],
+      "published": "2026-11-09T19:10:00Z",
+      "tickers": ["NVDA", "AMD", "AVGO"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Nvidia Board Probes CEO Huang Over Alleged Ties to Chinese Intelligence Operative",
+      "summary": "Nvidia's board opened an independent investigation after CEO Jensen Huang told staff he had a relationship with a woman US intelligence suspects was recruited by China's Ministry of State Security. Shares fell as much as 8-8.8% intraday, erasing nearly $400 billion in value before paring losses to close down about 5%. The board said it has no evidence trade secrets were compromised and that Huang will remain CEO during the probe.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPWldTaHlFa1FDMTZiZldtdUlEVFkybDRmU3BUWms1eXNTR21qc1owdUVmSVAya1VBMnFwOTFBTUNlb001WU1kdDFBd0JUcVUwTWYta2RDZjRNRjNhQS13dElEY2Y4aXpNaGJDV1ZHWmp1SVdjMUpuekdNQ0hKX0paRkJENGtHSDNpQnZaZEMzeDJ5YnczVk1jUG93MEJRT05zN1FQbklPVklhR0FVa0ZCVFBiSHN3SGlzTUt4OER2RWIxaDhTMzJ5RVA4NmFXWXQyU2hjQnpKbFY0YU8tTmRzN1BoZmpmbDZmRnVMLVZsX2tpNXc"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/article/nvidia-stock-sinks-as-chipmaker-investigates-ceo-jensen-huangs-relationship-with-alleged-chinese-spy-130346548.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-faces-a-national-security-reckoning-video"}
+      ],
+      "published": "2026-11-09T19:06:41Z",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Anthropic Unveils Claude Fable 5.2 and Mythos 5.2, Cuts Prices Ahead of Expected IPO",
+      "summary": "Anthropic released two upgraded frontier models, Claude Fable 5.2 and Mythos 5.2, with roughly 30% faster output and gains in coding, reasoning and vision, while cutting Fable's API pricing about 20% to $8/$40 per million input/output tokens. The launch lands as the company reportedly targets a $1-1.5 trillion valuation for an IPO that could come as soon as next week.",
+      "sources": ["Google Finance", "Yahoo Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1EZ19OSTNSY1dhR3hRS1h5MWdBMnQtbDBZRG9lNUl6c2Z3Sy1hYlh2LUY2elVFd1BzbUVrYkdHcC1XQVBuTFZ3d2p3ME9uTkRRb0k5NE1OdjB1eU5XNFFWb3pTcTd1OUw0cTF2Ynd4M25tSGFQaHdhVFFoZVZyR1U"},
+        {"source": "Yahoo Finance", "url": "https://www.cnbc.com/2026/11/09/anthropic-claude-fable-5-2-mythos-5-2.html"}
+      ],
+      "published": "2026-11-09T19:00:01Z",
+      "tickers": [],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Nasdaq 100's $2.3 Trillion Tech Rout Seen Stopping Short of Bear Market",
+      "summary": "A sharp selloff in technology stocks has wiped out roughly $2.3 trillion in Nasdaq 100 value, but strategists say the rout is likely to stop short of the 20% drawdown that defines a bear market. The pullback reflects heavy concentration risk in a handful of mega-cap AI names, a vulnerability flagged by investor Rob Arnott.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-09/violent-tech-rout-will-avoid-a-20-drawdown-markets-pulse"}
+      ],
+      "published": "2026-11-09T19:23:56Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Google Unveils New AI Chip Variants as Cloud Demand Surges",
+      "summary": "Google introduced new variants of its custom AI chips to meet surging demand for cloud AI compute, sharpening competition with Nvidia and other chipmakers. The move underscores hyperscalers' continued push toward in-house silicon.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOd1JDNDVNcnh0MU5wSzdrUVhVY3FpSklfazJZVWEtbGwyUkxydzhTcUVhV2F5aHdHV29OUE9Ea1JkZm93d2xVcU1VMEdEZE1xamt3RlktMVlqLUNGRVlIalpNd3ZRS2Z2LVN3b24yNUcyV1lkQm01MmJ3eHJLZVk3a3ZDSkhHcllvVHVxX1c1d3YtRHV3Q1g5d241UGNpLXJpSXRwTUYzcEdPcUhmN2FqdnBRNVZUYlM1WmJF"}
+      ],
+      "published": "2026-11-09T15:24:44Z",
+      "tickers": ["GOOGL", "NVDA"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "AMD Jumps 14% After Oppenheimer Upgrade, $600 Price Target",
+      "summary": "Oppenheimer upgraded AMD to Outperform from Market Perform with a $600 price target, citing an expected 135% surge in data-center revenue by 2027 on strength in EPYC CPUs and the new MI450/Helios GPU lineup. AMD shares rose nearly 14% to $511.48, with data-center revenue having already hit a record $8.5 billion last quarter, up 97% year-over-year.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://www.cnbc.com/2026/11/09/amd-oppenheimer-upgrade-outperform.html"}
+      ],
+      "published": "2026-11-09T12:45:00Z",
+      "tickers": ["AMD"],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "China Extends Pause on 24% US Tariffs to January",
+      "summary": "China will suspend retaliatory tariffs, including an additional 24% levy on US goods, for another two months, extending the trade truce with Washington into January and keeping the rate at 10%. The move removes a near-term escalation risk for markets exposed to US-China trade.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-09/china-extends-pause-on-24-us-tariffs-to-january-keeps-10-rate"}
+      ],
+      "published": "2026-11-09T04:36:35Z",
+      "tickers": [],
+      "category": "Policy",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Musk Says Tesla Will Refund Cybertruck Deposits as Production Winds Down",
+      "summary": "Elon Musk said Tesla will wind down Cybertruck production over roughly the next eight months to prioritize the autonomous Cybercab, refunding $1,000 deposits to customers whose orders cannot be fulfilled. Cumulative Cybertruck sales stand at about 71,000 units since late-2023 deliveries began, well short of the roughly 250,000-per-year target Tesla once floated.",
+      "sources": ["Google Finance", "Yahoo Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQb2VoUWdELTFfMjBiZWV3Q1U1UHpaekhjV21CQkk3WjQzOU53b3FzY3ZWaDVwdTdTX1NpZlpoajZUTmZmYWdlNlVJaEVMS2FTZXI0RjA2aXpfTmFpV0gzeXRwX1NKQ2NPTFdOUXhZMWd3Q3VZX2dRRGdxOWVCSGZGYlhkSC0yNTBHMDNQRjdxVHlfd3EzVjVTcmVPV3FJanNrS1FXSEhyaFN4aVo5RThPQjV3dzRmM3ByaENDalp6RQ"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/article/musk-says-tesla-on-the-hook-for-cybertruck-deposits-after-cancellation-162604829.html"}
+      ],
+      "published": "2026-11-09T16:26:04Z",
+      "tickers": ["TSLA"],
+      "category": "Consumer",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BLS Will Not Publish Year-on-Year CPI Figures for October",
+      "summary": "The Bureau of Labor Statistics said this week's CPI report will omit the closely watched 12-month headline and core inflation figures, an unusual data gap that complicates the Fed's read on price trends ahead of upcoming policy decisions.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-09/bls-will-not-publish-12-month-cpi-core-cpi-figures-for-october"}
+      ],
+      "published": "2026-11-09T19:05:51Z",
+      "tickers": [],
+      "category": "Policy",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Berkshire Hathaway Lifts Buybacks to $9.6 Billion as Operating Income Slips",
+      "summary": "Berkshire Hathaway increased share repurchases to $9.6 billion even as insurance underwriting profitability declined, pointing to a softer operating income picture for the conglomerate.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/videos/2026-11-09/berkshire-boosts-buybacks-as-operating-income-slips-video"}
+      ],
+      "published": "2026-11-09T17:34:07Z",
+      "tickers": ["BRK.B"],
+      "category": "Earnings",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Boeing to Cut 5% of Commercial Airplane Workforce",
+      "summary": "Boeing announced plans to reduce headcount in its commercial airplane division by 5% as part of broader cost-cutting efforts. The cuts come as the aerospace manufacturer continues working through production and delivery challenges.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOGM0bEkzbG9oUUpaRTZ6bTlBVmdfXzFuTFh2ZmZnSThOY2dZSVlJa0lqM09SZ3JNckVpdVJQY2FsUGYwcThhODNMcC1faDI0YlZtaXBkUHJ4QkowSDUzUUEtb3VLYWFIWFNCblNlYWVmLUJpNDQtNmZKcHd5d1FCM1BEZEdkMk83U1ZRU09jX2Y5SlI3d0s0WWxVczhTeTgzbGtLa01XTXczTmt1SHRj"}
+      ],
+      "published": "2026-11-09T17:30:00Z",
+      "tickers": ["BA"],
+      "category": "Deals",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "US Regulator Orders Weight-Loss Drug Makers to Add Blindness-Risk Warning",
+      "summary": "US regulators ordered manufacturers of popular GLP-1 weight-loss drugs to add a warning about a potential blindness risk. The decision could weigh on sentiment toward the fast-growing weight-loss drug category.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQVZsTFdFc2FxSEQzeGgxRUpNbXdUUTNZa1V0aTQ5dlhoRnRLQ1M5bGthNV9SSXhFekF6WkhrX0lvdUtDcVF6aVVBdEZRM1I4MmJtdkFmNFl2Mk0wZmJmbmdOcUNkS0E5elIxY0dQam51NTFvZDNjY1duc2R2dkVTLUxrTmM"}
+      ],
+      "published": "2026-11-09T17:20:45Z",
+      "tickers": [],
+      "category": "Policy",
+      "importance": 3,
+      "sentiment": "bearish"
+    }
+  ],
+  "watch_today": [
+    {"when": "Before open", "event": "Constellation Energy (CEG) earnings", "type": "earnings"},
+    {"when": "10:00 ET", "event": "CB Employment Trends Index (Oct)", "type": "economic"},
+    {"when": "10:00 ET", "event": "Wholesale Inventories MoM (Sep)", "type": "economic"},
+    {"when": "10:00 ET", "event": "Wholesale Sales MoM (Sep)", "type": "economic"},
+    {"when": "11:00 ET", "event": "Atlanta Fed GDPNow (Q4)", "type": "economic"},
+    {"when": "11:00 ET", "event": "Consumer Inflation Expectations (Oct)", "type": "economic"},
+    {"when": "After close", "event": "Occidental Petroleum (OXY) earnings", "type": "earnings"},
+    {"when": "After close", "event": "Take-Two Interactive (TTWO) earnings", "type": "earnings"},
+    {"when": "After close", "event": "Rocket Lab (RKLB) earnings", "type": "earnings"},
+    {"when": "After market close", "event": "Hims & Hers Health (HIMS) Q3 2026 earnings", "type": "earnings"},
+    {"when": "This week", "event": "October CPI report (date TBD), missing year-over-year figures", "type": "economic"}
+  ],
+  "desk_status": {"google": "ok", "yahoo": "ok", "bloomberg": "ok", "markets": "ok"}
+}

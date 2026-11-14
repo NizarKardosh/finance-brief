@@ -1,0 +1,88 @@
+{
+  "source": "Bloomberg",
+  "fetched_at": "2026-11-10T07:30:00-05:00",
+  "stories": [
+    {
+      "headline": "Nvidia Board to Probe CEO Jensen Huang's Alleged Spy Affair as Lawmakers Demand Answers",
+      "summary": "Nvidia's board is investigating whether CEO Jensen Huang was targeted by a foreign agent after he admitted to an affair with an alleged Chinese spy, raising succession concerns. US lawmakers from both parties are demanding details on potential national-security fallout, and the stock has fallen on the news.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-08/nvidia-board-to-probe-spying-case-after-ceo-jensen-huang-admits-infidelity",
+      "published": "2026-11-08T20:00:02Z",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Anthropic Readies Mega IPO Marketing Amid Filing Snafu and AI Jitters",
+      "summary": "Anthropic is set to begin formal marketing of its blockbuster IPO as early as Tuesday despite a last-minute filing document snafu that added drama to an already nervous market; Reuters reported the company is seeking to raise roughly $69.3 billion via the listing. CEO Dario Amodei is also planning a live-streamed event with JPMorgan CEO Jamie Dimon to discuss the offering.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/anthropic-seeks-to-raise-69-3-billion-via-its-ipo-reuters-says",
+      "publisher": "Bloomberg/Reuters",
+      "published": "2026-11-10T01:43:10Z",
+      "tickers": [],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Global Stocks Extend Tech-Led Rally as Oil Retreats",
+      "summary": "Global equities were on track for their best two-day gain in more than three months as a tech-fueled rally continued, even as oil prices extended declines from their lowest close since August. The move suggests investors are shrugging off recent AI-related turbulence for now.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
+      "published": "2026-11-09T22:16:53Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Marvell's $115 Billion Lumentum Deal Faces Coin-Flip Odds as AI Trade Wobbles",
+      "summary": "Marvell Technology's plan to double down on AI with a $115 billion acquisition of Lumentum Holdings is getting a lukewarm early verdict from merger-arbitrage investors, reflecting broader skepticism toward AI-linked deals as the sector's rally shows cracks.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/marvell-lumentum-deal-odds-near-coin-flip-as-ai-trade-shudders",
+      "published": "2026-11-09T19:49:59Z",
+      "tickers": ["MRVL", "LITE"],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BLS Will Not Publish 12-Month CPI and Core CPI Figures for October",
+      "summary": "The Bureau of Labor Statistics said this week's closely watched October consumer price index report will omit the 12-month and core 12-month percent-change figures, a gap that complicates the inflation picture investors and the Fed rely on for policy decisions.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/bls-will-not-publish-12-month-cpi-core-cpi-figures-for-october",
+      "published": "2026-11-09T19:05:51Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Fed's Goolsbee and Barkin Flag Inflation Risks, Signal Rates May Need to Rise Further",
+      "summary": "Chicago Fed President Austan Goolsbee said policymakers must address a potential inflation failure tied to AI-driven overheating and broadening price pressures, while Richmond Fed's Tom Barkin said robust demand and stubborn inflation mean rates may need to go higher, albeit at a careful pace.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/fed-s-goolsbee-says-officials-must-address-inflation-failure",
+      "published": "2026-11-09T16:06:43Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "China's Trade Surplus Tops $1 Trillion for Second Time Ever",
+      "summary": "China's trade surplus ballooned past $1 trillion for the year despite the biggest surge in imports since 2021, with an increasingly lopsided trade relationship with the European Union accounting for nearly a third of the overall imbalance.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/chinese-trade-surplus-surpasses-1-trillion-for-second-time-ever",
+      "published": "2026-11-10T02:40:43Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BOJ Policy Summary Suggests Good Chance of December Rate Hike",
+      "summary": "The Bank of Japan's summary of opinions from its latest policy meeting showed many board members view a near-term interest-rate hike as necessary, strengthening expectations for a move in December, a week that also saw weak demand at Japan's 30-year bond auction.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-10/boj-summary-suggests-good-chance-of-near-term-interest-rate-hike",
+      "published": "2026-11-10T00:29:44Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 3,
+      "sentiment": "neutral"
+    }
+  ],
+  "calendar": []
+}

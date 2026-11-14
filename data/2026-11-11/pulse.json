@@ -1,0 +1,11 @@
+{
+  "pulse": "Benchmarks closed lower and breadth was roughly split, with the S&P 500 off 0.38% to 7520.93, the Nasdaq 100 down 0.60% to 27740.80, the Dow down 0.30% to 52231.89, and the small-cap Russell 2000 the laggard at -0.68%; decliners (250) edged out advancers (247) across the 503-name S&P universe. Sector performance was mixed: Health Services (+1.60%) and Distribution Services (+0.96%) led, while Non-Energy Minerals (-1.37%), Electronic Technology (-1.14%) and Technology Services (-0.78%) lagged as chipmakers sold off. The VIX fell 2.31% to 19.46 even as the market dipped, the 10-year yield jumped 2.38% to 5.00%, the dollar (DXY) was flat at 102.24 (+0.02%), WTI crude rose 0.52% to 86.49, gold gained 0.63% to 4058.03, and bitcoin was little changed at 73681.03 (-0.04%). Among the most-active names, NVIDIA was the standout decliner, down 5.47% to 168.89 on heavy volume of about 429.27 million shares, while Broadcom bucked the chip selloff with a 3.91% gain to 331.98 and Microsoft slipped 2.20% to 533.16; on the broader tape, AAON led gainers at +19.31% and Hims & Hers was the heaviest-volume loser at -16.61%.",
+  "standouts": [
+    {"ticker": "NVDA", "note": "-5.47% to $168.89, top of most-active list on ~429.27M shares traded (rel. volume 2.48x)"},
+    {"ticker": "AVGO", "note": "+3.91% to $331.98, bucking the Electronic Technology sector's -1.14% drop"},
+    {"ticker": "MSFT", "note": "-2.20% to $533.16 on $14.36B traded, weighing on Technology Services (-0.78%)"},
+    {"ticker": "AAON", "note": "+19.31% to $75.01, top S&P gainer, rel. volume 3.15x"},
+    {"ticker": "HIMS", "note": "-16.61% to $19.13, top-volume decliner (~58.76M shares, rel. volume 3.95x)"},
+    {"ticker": "TTWO", "note": "+8.31% to $224.64, among the day's biggest Technology Services movers"}
+  ]
+}

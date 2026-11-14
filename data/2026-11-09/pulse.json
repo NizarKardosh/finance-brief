@@ -1,0 +1,11 @@
+{
+  "pulse": "A broad risk-on rally lifted the tape: S&P 500 +2.47% to 7558.80, Nasdaq 100 +3.70% to 27988.30, Dow +2.36% to 52496.68, and Russell 2000 +3.36% to 2846.65, with breadth overwhelmingly positive at 441 advancers vs just 61 decliners (503 names). Producer Manufacturing (+6.53%) and Consumer Durables (+5.88%) led all sectors, while Energy Minerals (-0.89%) was the lone sector in the red as crude sold off. The VIX collapsed 23.13% to 19.71, the 10Y yield ticked up 0.10% to 4.86%, the dollar (DXY) slipped 0.61% to 101.66, WTI crude dropped 5.42% to 85.91, and Gold gained 1.55% to 4132.82. Among the most-active names, NVIDIA was the standout decliner at -4.98% on by far the heaviest volume (353.9M shares) even as peers AMD (+13.91%) and Broadcom (+9.42%) ripped higher; outside the mega-caps, Coherent (+18.32%) and CECO Environmental (+23.23%) topped the gainers list while Ionis Pharmaceuticals (-22.12%) led decliners on heavy volume.",
+  "standouts": [
+    {"ticker": "NVDA", "note": "-4.98% to $177.34 on 353.9M shares, heaviest volume of any most-active name despite the broad rally"},
+    {"ticker": "AMD", "note": "+13.91% to $511.48, top mover among most-active names, value traded $18.06B"},
+    {"ticker": "AVGO", "note": "+9.42% to $321.37, led Electronic Technology sector gains"},
+    {"ticker": "COHR", "note": "+18.32% to $228.14 on 11.3M shares, among top overall gainers"},
+    {"ticker": "CECO", "note": "+23.23% to $53.87, top overall gainer, premarket +34.98%"},
+    {"ticker": "IONS", "note": "-22.12% to $30.70 on 14.0M shares (rel volume 5.16x), top overall loser"}
+  ]
+}
