@@ -1,0 +1,97 @@
+{
+  "source": "Google Finance",
+  "fetched_at": "2026-11-14T18:30:00-05:00",
+  "stories": [
+    {
+      "headline": "Wall Street gains for the week, snapping four-week losing streak",
+      "summary": "The S&P 500 gained 2.5%, the Nasdaq advanced 2.3%, and the Dow climbed 2.1% this week, with all eleven sectors finishing positive. Energy led the rebound, with industrials and communications also participating after several weeks of broad market declines.",
+      "url": "https://philippinelli.substack.com/p/weekly-market-brief-november-14th",
+      "publisher": "Stock Talk",
+      "published": "2026-11-14T00:00:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Nvidia set to report Q3 earnings Tuesday as first test for interim CEO Colette Kress",
+      "summary": "Nvidia reports earnings on November 17 after market close, with analysts expecting revenue of about $108.8 billion (up roughly 98% year-over-year) and adjusted EPS of $2.47, nearly double last year. Options markets are pricing a +/-10.8% stock move, above the historical average, making the report one of the most consequential catalysts remaining for the broader market this year.",
+      "url": "https://www.fool.com/investing/2026/11/10/prediction-nov-17-will-be-a-huge-day-for-the-stock-market/",
+      "publisher": "The Motley Fool",
+      "published": "2026-11-14T00:00:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Earnings",
+      "importance": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nvidia governance scandal escalates into political fight after Jensen Huang's resignation",
+      "summary": "Following Jensen Huang's November 12 resignation as CEO, president and board member over a personal relationship investigated as a possible Chinese intelligence matter, the fallout is now colliding with US politics, adding pressure on the Trump administration after Democratic election gains. Colette Kress is serving as interim CEO heading into the company's pivotal November 17 earnings report.",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONV9KTEtTalpUbDZVME91ak1OQzR5SDZaTS1CLTA1Uk1iZ1VTRU9DMDM1RjdnUkZ0YkQxQ2V3QlVsSzY3SkRzRWVTa3JKUlgxMEI5M3N0Y1BPLXVMTjVjNFhBakJXZk9ibEV6Y3p2U3JHb3dpSzFsM1V3eXc0RFhsRnZaNk16YjVCa3lyeDh5MVlBZVU0Yks1VHpfMW4wUl9DdEI5THA5UndPczZtSUhoV1pYUW5nZ3ZLS2xDcVhBREFPTHhkRVE?oc=5",
+      "publisher": "The Washington Post",
+      "published": "2026-11-14T17:32:10Z",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Wall Street banks pitch for role in Anthropic's expected IPO",
+      "summary": "Investment banks are competing for lead roles on a potential Anthropic initial public offering, as the AI lab weighs a path to the public markets amid enormous investor demand for AI exposure. A listing would be one of the largest and most closely watched tech IPOs in years.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pZEk3aEVERVZjMlBZYkI0WC11RjNlbVNaaUlya3A3dFFXWjNGbVlLQW1iZjU5R1E3WlY2blpERFl0MjNzSWdzQmpSc0JqWDhsOXJDYWhybjNiYWdjQ2RhQmF3VExyZGl5bVU1cHpMSGtSSThnRFpWdUJldw?oc=5",
+      "publisher": "The New York Times",
+      "published": "2026-11-14T17:25:00Z",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Soros Fund Management boosts Intel stake, trims Apple holdings",
+      "summary": "Soros Fund Management increased its Intel position to roughly $340 million in the latest reporting period while cutting its Apple stake, according to regulatory filings. The move signals a bet on Intel's turnaround relative to Apple among a prominent institutional investor.",
+      "url": "https://philippinelli.substack.com/p/weekly-market-brief-november-14th",
+      "publisher": "Stock Talk",
+      "published": "2026-11-14T00:00:00-05:00",
+      "tickers": ["INTC", "AAPL"],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Microsoft says global cloud services fully restored after outage hit government agencies",
+      "summary": "Microsoft confirmed its services were fully restored after a global outage disrupted operations for governments and businesses. The incident renewed scrutiny of cloud-infrastructure concentration risk among hyperscalers.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcVpSTUpTQVVaR0dJSEFmSzNEQWduRC1WRVNmOGt1cms0VFRjR3VvaC1GVTNaUjdmcW9LRWd4ZzJaaEpIU29kVjB0NzZGNko1UjIzdVlIQWlzdzF6Zk0xeVk4bVhUdDI0Z3d0UFlsMXVkTUhaNjZ4NXI2SldiU1JYS0R1NjJVRlBDYmt5cjdGbVV0UVkzQ3dZdEp2TWVjNm15WTcxQ3A2LW0zc0ZWX3c?oc=5",
+      "publisher": "The Guardian",
+      "published": "2026-11-14T10:52:00Z",
+      "tickers": ["MSFT"],
+      "category": "Tech",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Thousands of flights canceled following Friday's nationwide FAA ground stop",
+      "summary": "Airlines continued to cancel thousands of flights into Saturday after a nationwide FAA ground stop disrupted US air travel on Friday. The disruption adds operational and reputational pressure on carriers heading into the holiday travel season.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTRaYmRMM2tYYnJxcUpmYjNRQXpXdzd4Sjl0ZVNXNkRFWTBmTjJQUEFlVTdvWGNrN2FsVnotSnJXZ0RQbE13c1FjLWV6algtb3FmWTI1MGdqZ1d5Q1JFY3A0WnU1U2U1ZnFBRnFXQTVkRGY1eFBrSmZPSGlrd2RLdzA5NA?oc=5",
+      "publisher": "The New York Times",
+      "published": "2026-11-14T17:46:55Z",
+      "tickers": [],
+      "category": "Consumer",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "SpaceX conducts unprecedented Starship test flight, targets ship catch",
+      "summary": "SpaceX launched a Starship test flight aiming for an unprecedented in-flight ship catch maneuver, with the vehicle reaching orbit. A successful test would mark a major milestone for the program's reusability goals, with implications for satellite and launch-services competitors.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcGhfR3lVM2ZfMmw3dHhUdms0VlU4d2JVTGpBTzdiV2FpVTAxLUFtSW5JNXZSMEFkS0pXM1gtNEdvVzY0TDdzUlVNaWNpTk5qdHFkR0R5WHlBOE53ZGZMRW9hdkUtSHBFa3ZmcU16VFVnNElhV24wRHdCYk9DbWtMMEV0SVlYSjRHcjVrLVJ3?oc=5",
+      "publisher": "CNN",
+      "published": "2026-11-14T16:31:00Z",
+      "tickers": [],
+      "category": "Tech",
+      "importance": 2,
+      "sentiment": "neutral"
+    }
+  ],
+  "calendar": [
+    {"when": "Nov 17 after close", "event": "Nvidia (NVDA) Q3 FY2026 earnings", "type": "earnings"}
+  ]
+}

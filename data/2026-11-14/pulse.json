@@ -1,0 +1,11 @@
+{
+  "pulse": "A split tape on 2026-11-14: the S&P 500 slipped 0.40% to 7561.67 and the Nasdaq 100 dropped 1.22% to 27943.74 on chip weakness, while the Dow eked out a 0.10% gain and the Russell 2000 fell 0.31%; breadth was actually positive with 315 advancers versus 185 decliners out of 503 names, showing the index drag was concentrated in mega-cap tech. Sector-wise, Electronic Technology (-2.11%), Consumer Durables (-1.51%) and Producer Manufacturing (-1.41%) lagged, while Consumer Non-Durables (+1.45%), Distribution Services (+1.07%) and Commercial Services (+1.01%) led the advance. Volatility jumped as the VIX rose 3.21% to 19.30, the 10-year yield ticked up 0.12% to 5.14%, the dollar (DXY) gained 0.23% to 103.41, WTI crude eased 0.20% to $88.56, gold added 0.18%, and Bitcoin tumbled 3.65% to $65,743.19. Among the most-active names, AMD was the standout decliner at -8.75% on $26.38B traded, Broadcom fell 4.76%, Micron dropped 2.52% and Nvidia slid 2.01%, while Meta Platforms bucked the chip selloff with a 2.90% gain and Apple added 0.39%.",
+  "standouts": [
+    {"ticker": "AMD", "note": "-8.75% to $534.06, heaviest-hit most-active name with $26.38B traded"},
+    {"ticker": "AVGO", "note": "-4.76% to $347.01 as Electronic Technology sector led decliners at -2.11%"},
+    {"ticker": "META", "note": "+2.90% to $641.69, the lone major most-active gainer"},
+    {"ticker": "MU", "note": "-2.52% to $778.31 on $21.73B traded"},
+    {"ticker": "NVDA", "note": "-2.01% to $162.85, top most-active by volume at 365.8M shares / $59.57B traded"},
+    {"ticker": "NU", "note": "+11.75% to $13.22 among the day's broad-market gainers, 2.1x relative volume"}
+  ]
+}

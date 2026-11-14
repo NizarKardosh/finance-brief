@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-14",
+  "headline_of_day": "Nvidia's Leadership Crisis Shakes Chips as Fed Hike Bets Surge",
+  "dek": "Jensen Huang's resignation and a $650 billion chip selloff collide with near-certain December Fed hike odds.",
+  "big_picture": "Nvidia's board is navigating its most severe crisis in decades after Jensen Huang's resignation over an alleged espionage-linked personal scandal, with CFO Colette Kress now running the company into a pivotal November 17 earnings report. The fallout has hit the whole AI trade: semiconductor stocks have shed over $650 billion in two days, and Friday's session saw AMD fall 8.75%, Broadcom 4.76% and Nvidia 2.01%, dragging the Nasdaq 100 down 1.22% to 27,943.74 even as the Dow eked out a 0.10% gain. Bond markets compounded the pressure, with the 10-year yield climbing to 5.14% and December Fed-hike odds near 98% after a firm October CPI print. Elsewhere, Wall Street banks are circling a potential Anthropic IPO, Musk is pitching a SpaceX-Tesla merger as a backdoor into the S&P 500, and a separate FAA network failure stranded nearly 10,000 flights. Breadth told a calmer story than the headlines: 315 of 503 names advanced, with Meta (+2.90%) and Apple (+0.39%) bucking the chip-led slide.",
+  "three_things": [
+    "Nvidia loses its CEO to scandal days before make-or-break earnings",
+    "Chip stocks have shed $650B in two days as bond yields turn against the AI trade",
+    "December Fed hike odds jump to 98% after a firm CPI print"
+  ],
+  "market_pulse": "A split tape on 2026-11-14: the S&P 500 slipped 0.40% to 7561.67 and the Nasdaq 100 dropped 1.22% to 27943.74 on chip weakness, while the Dow eked out a 0.10% gain and the Russell 2000 fell 0.31%; breadth was actually positive with 315 advancers versus 185 decliners out of 503 names, showing the index drag was concentrated in mega-cap tech. Sector-wise, Electronic Technology (-2.11%), Consumer Durables (-1.51%) and Producer Manufacturing (-1.41%) lagged, while Consumer Non-Durables (+1.45%), Distribution Services (+1.07%) and Commercial Services (+1.01%) led the advance. Volatility jumped as the VIX rose 3.21% to 19.30, the 10-year yield ticked up to 5.14%, the dollar (DXY) gained 0.23% to 103.41, WTI crude eased to $88.56, gold added 0.18%, and Bitcoin tumbled 3.65% to $65,743.19.",
+  "standouts": [
+    {"ticker": "AMD", "note": "-8.75% to $534.06, heaviest-hit most-active name with $26.38B traded"},
+    {"ticker": "AVGO", "note": "-4.76% to $347.01 as Electronic Technology sector led decliners at -2.11%"},
+    {"ticker": "META", "note": "+2.90% to $641.69, the lone major most-active gainer"},
+    {"ticker": "MU", "note": "-2.52% to $778.31 on $21.73B traded"},
+    {"ticker": "NVDA", "note": "-2.01% to $162.85, top most-active by volume at 365.8M shares / $59.57B traded"},
+    {"ticker": "NU", "note": "+11.75% to $13.22 among the day's broad-market gainers, 2.1x relative volume"}
+  ],
+  "stories": [
+    {
+      "headline": "Jensen Huang Resigns as Nvidia CEO Amid Espionage Probe, Kress Named Interim Chief",
+      "summary": "Jensen Huang resigned as Nvidia's chairman, CEO and president after revelations of an extramarital affair, one of which is under federal investigation over alleged help smuggling Nvidia chips in violation of export controls. CFO Colette Kress, with Nvidia since 2013, was named interim CEO as the company heads into its November 17 earnings report. Huang, Nvidia's CEO for 33 years, has agreed to testify before Congress before Thanksgiving, and Wall Street is now framing the transition as a 'key man risk' event with national-security implications for chip export policy.",
+      "sources": ["Washington Post", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Washington Post", "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONV9KTEtTalpUbDZVME91ak1OQzR5SDZaTS1CLTA1Uk1iZ1VTRU9DMDM1RjdnUkZ0YkQxQ2V3QlVsSzY3SkRzRWVTa3JKUlgxMEI5M3N0Y1BPLXVMTjVjNFhBakJXZk9ibEV6Y3p2U3JHb3dpSzFsM1V3eXc0RFhsRnZaNk16YjVCa3lyeDh5MVlBZVU0Yks1VHpfMW4wUl9DdEI5THA5UndPczZtSUhoV1pYUW5nZ3ZLS2xDcVhBREFPTHhkRVE?oc=5"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/technology/article/nvidia-and-jensen-huang-fallout-heres-everything-we-know-after-a-momentous-week-110000323.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-14/how-wall-street-is-bracing-for-the-post-jensen-huang-nvidia-era"}
+      ],
+      "published": "2026-11-14T17:32:10Z",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Chip Stocks Shed $650 Billion in Two Days as Bond Market Turns on the AI Trade",
+      "summary": "A basket of 62 semiconductor stocks lost more than $650 billion in market value from Wednesday through Friday, with Nvidia alone falling 13% on the week, its worst stretch since April 2025. Treasury yields rose instead of falling alongside the selloff, with the 10-year up roughly 30 basis points to 5.15% on the week, as December rate-hike odds jumped from 66% to near 98%. Friday extended the pain: AMD dropped 8.75%, Broadcom 4.76%, Micron 2.52% and Nvidia 2.01%, even as S&P 500 breadth stayed positive with 315 advancers against 185 decliners.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/article/the-bond-market-just-turned-on-the-ai-trade--and-chip-stocks-lost-more-than-650-billion-in-two-days-chart-of-the-day-131855807.html"}
+      ],
+      "published": "2026-11-13T13:18:00-05:00",
+      "tickers": ["NVDA", "AMD", "AVGO", "MU", "CRWV", "NBIS"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "October CPI Firms Up Fed's Case for a December Rate Hike",
+      "summary": "U.S. consumer prices rose firmly again in October, reinforcing the case for the Federal Reserve to raise rates at next month's meeting. Fed Vice Chair Philip Jefferson said inflation has become the Fed's most important gauge right now, with the broader policy debate already shifting toward the January meeting. The reading adds to a week of hawkish repricing across rates markets.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-14/world-economy-latest-us-inflation-report-supports-fed-rate-hike"}
+      ],
+      "published": "2026-11-14T10:00:00Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Nvidia's November 17 Earnings Loom as First Test for Interim CEO Kress",
+      "summary": "Nvidia reports fiscal third-quarter results after the close on November 17, with analysts expecting revenue near $108.8 billion, up roughly 98% year-over-year, and adjusted EPS of $2.47. Options markets are pricing a stock swing of about plus-or-minus 10.8%, well above the historical average, making the print one of the market's most consequential catalysts of the year. The report doubles as the first major test for interim CEO Colette Kress following Jensen Huang's resignation.",
+      "sources": ["The Motley Fool"],
+      "links": [
+        {"source": "The Motley Fool", "url": "https://www.fool.com/investing/2026/11/10/prediction-nov-17-will-be-a-huge-day-for-the-stock-market/"}
+      ],
+      "published": "2026-11-14T00:00:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Earnings",
+      "importance": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bessent and Lutnick Clash Over Nvidia China Chip Export Curbs",
+      "summary": "Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick are reported to be at odds within the Trump administration over how far to restrict advanced Nvidia chip exports to China. The dispute surfaces as Nvidia's own export-control oversight faces fresh scrutiny amid its leadership crisis. The disagreement adds policy uncertainty to a chip sector already reeling from Huang's resignation.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/videos/2026-11-14/bessent-lutnick-clash-over-nvidia-china-curbs-video"}
+      ],
+      "published": "2026-11-14T14:30:24Z",
+      "tickers": ["NVDA"],
+      "category": "Policy",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "SpaceX's S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
+      "summary": "SpaceX may find a backdoor route into the S&P 500 through a potential merger with Tesla, according to people familiar with Elon Musk's pitch. The combination would resolve SpaceX's prior hurdles to index inclusion while adding complexity to Tesla's corporate structure. Markets are watching for details given Tesla's existing index weight and SpaceX's rapidly growing valuation.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-s-s-p-500-bid-gets-new-life-as-musk-pitches-tesla-merger"}
+      ],
+      "published": "2026-11-14T14:00:00Z",
+      "tickers": ["TSLA"],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "China and US Hold First Meeting of New Trade Tariff Council",
+      "summary": "China and the United States held the inaugural session of a new trade council by video on Friday, discussing tariffs under their economic and trade consultation mechanism. The talks precede President Trump's trip to China for discussions with Xi Jinping and Vladimir Putin. Markets see the meeting as a signal that trade de-escalation remains on the table despite other tensions.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-14/china-the-us-discuss-tariffs-in-first-meeting-of-trade-council"}
+      ],
+      "published": "2026-11-14T07:46:24Z",
+      "tickers": [],
+      "category": "Policy",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Wall Street Banks Compete for Lead Roles on Expected Anthropic IPO",
+      "summary": "Investment banks are jockeying for lead underwriting roles on a potential Anthropic initial public offering as the AI lab weighs a path to public markets. Investor demand for AI exposure remains enormous even as chip stocks wobble. A listing would rank among the largest and most closely watched tech IPOs of the past several years.",
+      "sources": ["The New York Times"],
+      "links": [
+        {"source": "The New York Times", "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pZEk3aEVERVZjMlBZYkI0WC11RjNlbVNaaUlya3A3dFFXWjNGbVlLQW1iZjU5R1E3WlY2blpERFl0MjNzSWdzQmpSc0JqWDhsOXJDYWhybjNiYWdjQ2RhQmF3VExyZGl5bVU1cHpMSGtSSThnRFpWdUJldw?oc=5"}
+      ],
+      "published": "2026-11-14T17:25:00Z",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "S&P 500 Claws Back $1 Trillion in 90 Minutes Amid Volatile Week",
+      "summary": "The S&P 500 recovered roughly $1 trillion in market value within about 90 minutes during a session marked by a sharp intraday selloff and rapid rebound. Buyers stepped in on the dip even as the broader week stayed volatile on Nvidia's leadership crisis and shifting Fed rate-hike expectations. The swing underscores how fast sentiment is moving in both directions this week.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-recovered-1-trillion-211443065.html"}
+      ],
+      "published": "2026-11-13T16:14:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "FAA Network Failure Triggers Nearly 10,000 Flight Cancellations",
+      "summary": "A communications network failure at the FAA, caused by switches and routers overloaded during a copper-to-fiber infrastructure conversion by contractor L3Harris, disrupted air traffic control on Friday, leading to nearly 10,000 cancellations and over 7,000 delays, with more disruptions into Saturday. Delta, United, American and JetBlue were hit hardest, with JetBlue canceling 40% of Saturday's schedule; airline shares fell 1-3% in after-hours trading and L3Harris dropped about 3%. Transportation Secretary Sean Duffy ruled out a cyberattack and is requesting $50 billion to modernize aging air-traffic-control infrastructure.",
+      "sources": ["Reuters", "The New York Times"],
+      "links": [
+        {"source": "Reuters", "url": "https://finance.yahoo.com/news/thousands-us-flights-canceled-delayed-155615998.html"},
+        {"source": "The New York Times", "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTRaYmRMM2tYYnJxcUpmYjNRQXpXdzd4Sjl0ZVNXNkRFWTBmTjJQUEFlVTdvWGNrN2FsVnotSnJXZ0RQbE13c1FjLWV6algtb3FmWTI1MGdqZ1d5Q1JFY3A0WnU1U2U1ZnFBRnFXQTVkRGY1eFBrSmZPSGlrd2RLdzA5NA?oc=5"}
+      ],
+      "published": "2026-11-14T15:56:00-05:00",
+      "tickers": ["DAL", "UAL", "AAL", "JBLU", "LHX"],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Microsoft Says Cloud Services Fully Restored After Global Outage",
+      "summary": "Microsoft confirmed its cloud services were fully restored after an outage disrupted government agencies, traders and businesses worldwide. The incident renewed scrutiny of concentration risk among hyperscale cloud providers. The FBI is separately investigating whether a related software update, rather than a cyberattack, also triggered Friday's mass FAA air-traffic communications failure.",
+      "sources": ["The Guardian", "Bloomberg"],
+      "links": [
+        {"source": "The Guardian", "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcVpSTUpTQVVaR0dJSEFmSzNEQWduRC1WRVNmOGt1cms0VFRjR3VvaC1GVTNaUjdmcW9LRWd4ZzJaaEpIU29kVjB0NzZGNko1UjIzdVlIQWlzdzF6Zk0xeVk4bVhUdDI0Z3d0UFlsMXVkTUhaNjZ4NXI2SldiU1JYS0R1NjJVRlBDYmt5cjdGbVV0UVkzQ3dZdEp2TWVjNm15WTcxQ3A2LW0zc0ZWX3c?oc=5"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages"}
+      ],
+      "published": "2026-11-14T10:52:00Z",
+      "tickers": ["MSFT"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Italy Fines Meta €805 Million Over Unauthorized Access to User Photos",
+      "summary": "Italy's Data Protection Authority fined Meta Platforms €805 million, about $887 million, for accessing Android users' photo and video galleries without explicit consent. The penalty adds to a growing list of regulatory fines Meta has faced in Europe over data-privacy practices. It underscores intensifying EU scrutiny of how U.S. tech platforms handle user data.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-14/italy-fines-meta-805-million-over-access-to-users-photos"}
+      ],
+      "published": "2026-11-14T14:53:25Z",
+      "tickers": ["META"],
+      "category": "Policy",
+      "importance": 3,
+      "sentiment": "bearish"
+    }
+  ],
+  "watch_today": [
+    {"when": "Nov 17 after close", "event": "Nvidia (NVDA) Q3 FY2026 earnings", "type": "earnings"},
+    {"when": "Before Thanksgiving (TBD)", "event": "Jensen Huang scheduled to testify before Congress on Nvidia leadership transition", "type": "other"},
+    {"when": "Dec 9", "event": "FOMC rate decision; Polymarket odds of a hike near 98%", "type": "fed"},
+    {"when": "Dec 10", "event": "Commerce Secretary Howard Lutnick scheduled to testify before Congress", "type": "other"}
+  ],
+  "desk_status": {"google": "ok", "yahoo": "ok", "bloomberg": "ok", "markets": "ok"}
+}
