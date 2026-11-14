@@ -1,97 +1,97 @@
 {
   "source": "Google Finance",
-  "fetched_at": "2026-11-14T18:30:00-05:00",
+  "fetched_at": "2026-11-14T18:30:00Z",
   "stories": [
     {
-      "headline": "Wall Street gains for the week, snapping four-week losing streak",
-      "summary": "The S&P 500 gained 2.5%, the Nasdaq advanced 2.3%, and the Dow climbed 2.1% this week, with all eleven sectors finishing positive. Energy led the rebound, with industrials and communications also participating after several weeks of broad market declines.",
-      "url": "https://philippinelli.substack.com/p/weekly-market-brief-november-14th",
-      "publisher": "Stock Talk",
-      "published": "2026-11-14T00:00:00-05:00",
-      "tickers": [],
-      "category": "Markets",
-      "importance": 4,
-      "sentiment": "bullish"
-    },
-    {
-      "headline": "Nvidia set to report Q3 earnings Tuesday as first test for interim CEO Colette Kress",
-      "summary": "Nvidia reports earnings on November 17 after market close, with analysts expecting revenue of about $108.8 billion (up roughly 98% year-over-year) and adjusted EPS of $2.47, nearly double last year. Options markets are pricing a +/-10.8% stock move, above the historical average, making the report one of the most consequential catalysts remaining for the broader market this year.",
-      "url": "https://www.fool.com/investing/2026/11/10/prediction-nov-17-will-be-a-huge-day-for-the-stock-market/",
+      "headline": "Nvidia CEO Jensen Huang resigns amid espionage allegations, stock plunges and employees push for his return",
+      "summary": "Nvidia co-founder and CEO Jensen Huang resigned after reports he misled senior executives about his ties to a relative under investigation for potential espionage links to China. Nvidia shares fell to around $163, shedding roughly $573 billion in market value over the past week, with CFO Colette Kress serving as interim CEO. Thousands of employees and major shareholders are reportedly pushing for Huang's return, while Nvidia has approached Arm's CEO as a possible replacement; the company's next earnings report, due November 17, is now seen as a major test of investor confidence in the AI trade.",
+      "url": "https://www.fool.com/investing/2026/11/14/buy-nvidia-stock-ceo-jensen-huang-exit-wall-street-answer/",
       "publisher": "The Motley Fool",
-      "published": "2026-11-14T00:00:00-05:00",
-      "tickers": ["NVDA"],
-      "category": "Earnings",
-      "importance": 5,
-      "sentiment": "neutral"
-    },
-    {
-      "headline": "Nvidia governance scandal escalates into political fight after Jensen Huang's resignation",
-      "summary": "Following Jensen Huang's November 12 resignation as CEO, president and board member over a personal relationship investigated as a possible Chinese intelligence matter, the fallout is now colliding with US politics, adding pressure on the Trump administration after Democratic election gains. Colette Kress is serving as interim CEO heading into the company's pivotal November 17 earnings report.",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONV9KTEtTalpUbDZVME91ak1OQzR5SDZaTS1CLTA1Uk1iZ1VTRU9DMDM1RjdnUkZ0YkQxQ2V3QlVsSzY3SkRzRWVTa3JKUlgxMEI5M3N0Y1BPLXVMTjVjNFhBakJXZk9ibEV6Y3p2U3JHb3dpSzFsM1V3eXc0RFhsRnZaNk16YjVCa3lyeDh5MVlBZVU0Yks1VHpfMW4wUl9DdEI5THA5UndPczZtSUhoV1pYUW5nZ3ZLS2xDcVhBREFPTHhkRVE?oc=5",
-      "publisher": "The Washington Post",
-      "published": "2026-11-14T17:32:10Z",
-      "tickers": ["NVDA"],
+      "published": "2026-11-14T09:21:00-05:00",
+      "tickers": ["NVDA", "ARM"],
       "category": "Tech",
       "importance": 5,
       "sentiment": "bearish"
     },
     {
-      "headline": "Wall Street banks pitch for role in Anthropic's expected IPO",
-      "summary": "Investment banks are competing for lead roles on a potential Anthropic initial public offering, as the AI lab weighs a path to the public markets amid enormous investor demand for AI exposure. A listing would be one of the largest and most closely watched tech IPOs in years.",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pZEk3aEVERVZjMlBZYkI0WC11RjNlbVNaaUlya3A3dFFXWjNGbVlLQW1iZjU5R1E3WlY2blpERFl0MjNzSWdzQmpSc0JqWDhsOXJDYWhybjNiYWdjQ2RhQmF3VExyZGl5bVU1cHpMSGtSSThnRFpWdUJldw?oc=5",
-      "publisher": "The New York Times",
-      "published": "2026-11-14T17:25:00Z",
-      "tickers": [],
-      "category": "Deals",
+      "headline": "Tech stocks slide as markets brace for a pivotal week for the AI trade",
+      "summary": "Major technology and AI-linked stocks fell as investors weigh the fallout from the Nvidia leadership crisis alongside upcoming earnings and economic data. The Wall Street Journal reports that next week brings 'big tests' for the AI trade, with sentiment already shaken by Nvidia's turmoil and broader concerns about stretched valuations in AI infrastructure names.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdk9KSVZ5ZlN6RFNmNnlQVEZmYzB4RkxuXzVlaGEzMDdoZ1REdGkxNnhJdW9CMmszTEtpWGlWMUZUTkNLV3FSdll5S0ZiT29JWS1FZHVuSDJpeGxfQjNoUmZPOHdFcFJWUFlSQzdhN081Mld6ZDRJLU1jODF1dmRkQ0hKSWcxTGp4dUF5eENRTkYyLWYtZktxM2VmSnNBN2l2MUVTNHFLU3BzR00?oc=5",
+      "publisher": "The Wall Street Journal",
+      "published": "2026-11-13T21:19:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Markets",
       "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "US producer prices rise moderately in October as inflation broadens",
+      "summary": "The Producer Price Index for October showed moderate month-over-month gains, but Reuters reports the data signals inflation pressures are broadening across more categories of goods and services. The release adds to the Federal Reserve's inflation watch ahead of upcoming policy decisions, with separate commentary from Morningstar noting bond yields are rising again on inflation concerns.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTNDTVIxbVNEWDkyN3QzVk9YR2stVjFURXFqcDNXeGZ2S3FUcmhJNzJqcEp5R3JMY0dDdnl3MDEyRXVKRnB1ZGhMVHpQeTRYNnZwZDQ3UlpnTG5mR1o0akdxWDRhWDU1dm1CY2M3bFZQNHhNRHZyaUZFU1VPODZIdFJrbXBaM2UzTnRXOA?oc=5",
+      "publisher": "Reuters",
+      "published": "2026-11-13T17:46:45-05:00",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Cisco beats earnings estimates, forecasts AI infrastructure revenue to double this fiscal year",
+      "summary": "Cisco reported quarterly earnings that topped analyst expectations and said it expects AI infrastructure-related revenue to roughly double in the current fiscal year. The guidance underscores continued enterprise demand for AI networking gear even as other parts of the AI trade face volatility.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXZ1VHS3FlM0xwR1ctNVZGd255am4zdHdQUUhBVjdyRmVoRy05RkZPcGQ2RUgzUFVsSlk1YTQ5aUZTM1lhZmFPT2lXUXY4NzcwanBweWVNN3RMSklUdzBfdDg5MUtfMzY0Qi1FMmpHT19sZ9IBd0FVX3lxTFB0dFNlWHZZSG04enVwQmRHZ3J3LUtIT3ZUdF9ESkVzZExBaWJFSTVjcGZxbkFxUVl2VFZ3dkFBTVFVc0dWTG5INTRlMDBqT1VudEJYZ0xOX0NiUzVPSEtoUzhfRlh5bmlMMWZjaHExV0dPTVBra2hv?oc=5",
+      "publisher": "CNBC",
+      "published": "2026-11-12T21:11:15-05:00",
+      "tickers": ["CSCO"],
+      "category": "Earnings",
+      "importance": 3,
       "sentiment": "bullish"
     },
     {
-      "headline": "Soros Fund Management boosts Intel stake, trims Apple holdings",
-      "summary": "Soros Fund Management increased its Intel position to roughly $340 million in the latest reporting period while cutting its Apple stake, according to regulatory filings. The move signals a bet on Intel's turnaround relative to Apple among a prominent institutional investor.",
-      "url": "https://philippinelli.substack.com/p/weekly-market-brief-november-14th",
-      "publisher": "Stock Talk",
-      "published": "2026-11-14T00:00:00-05:00",
-      "tickers": ["INTC", "AAPL"],
+      "headline": "Nationwide ground stop cancels thousands of flights, disrupting travel and airline stocks",
+      "summary": "A Friday nationwide ground stop led to thousands of flight cancellations, with disruptions continuing into Saturday. Separately, an AI company tied to the FAA's SMART tool denied its software was linked to the ground stop, as investigators look into the cause of the outage.",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTRaYmRMM2tYYnJxcUpmYjNRQXpXdzd4Sjl0ZVNXNkRFWTBmTjJQUEFlVTdvWGNrN2FsVnotSnJXZ0RQbE13c1FjLWV6algtb3FmWTI1MGdqZ1d5Q1JFY3A0WnU1U2U1ZnFBRnFXQTVkRGY1eFBrSmZPSGlrd2RLdzA5NA?oc=5",
+      "publisher": "The New York Times",
+      "published": "2026-11-14T13:01:38-05:00",
+      "tickers": [],
       "category": "Markets",
       "importance": 3,
-      "sentiment": "neutral"
+      "sentiment": "bearish"
     },
     {
-      "headline": "Microsoft says global cloud services fully restored after outage hit government agencies",
-      "summary": "Microsoft confirmed its services were fully restored after a global outage disrupted operations for governments and businesses. The incident renewed scrutiny of cloud-infrastructure concentration risk among hyperscalers.",
+      "headline": "Microsoft and other major software providers restore services after global outage",
+      "summary": "Microsoft said its services were fully restored after a global outage disrupted governments and businesses, while a separate software provider with thousands of Fortune 500 clients also reported a major outage the same day. The incidents raise questions about cloud infrastructure resilience among large enterprise software vendors.",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcVpSTUpTQVVaR0dJSEFmSzNEQWduRC1WRVNmOGt1cms0VFRjR3VvaC1GVTNaUjdmcW9LRWd4ZzJaaEpIU29kVjB0NzZGNko1UjIzdVlIQWlzdzF6Zk0xeVk4bVhUdDI0Z3d0UFlsMXVkTUhaNjZ4NXI2SldiU1JYS0R1NjJVRlBDYmt5cjdGbVV0UVkzQ3dZdEp2TWVjNm15WTcxQ3A2LW0zc0ZWX3c?oc=5",
       "publisher": "The Guardian",
-      "published": "2026-11-14T10:52:00Z",
+      "published": "2026-11-14T05:52:00-05:00",
       "tickers": ["MSFT"],
       "category": "Tech",
       "importance": 3,
-      "sentiment": "neutral"
-    },
-    {
-      "headline": "Thousands of flights canceled following Friday's nationwide FAA ground stop",
-      "summary": "Airlines continued to cancel thousands of flights into Saturday after a nationwide FAA ground stop disrupted US air travel on Friday. The disruption adds operational and reputational pressure on carriers heading into the holiday travel season.",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeTRaYmRMM2tYYnJxcUpmYjNRQXpXdzd4Sjl0ZVNXNkRFWTBmTjJQUEFlVTdvWGNrN2FsVnotSnJXZ0RQbE13c1FjLWV6algtb3FmWTI1MGdqZ1d5Q1JFY3A0WnU1U2U1ZnFBRnFXQTVkRGY1eFBrSmZPSGlrd2RLdzA5NA?oc=5",
-      "publisher": "The New York Times",
-      "published": "2026-11-14T17:46:55Z",
-      "tickers": [],
-      "category": "Consumer",
-      "importance": 3,
       "sentiment": "bearish"
     },
     {
-      "headline": "SpaceX conducts unprecedented Starship test flight, targets ship catch",
-      "summary": "SpaceX launched a Starship test flight aiming for an unprecedented in-flight ship catch maneuver, with the vehicle reaching orbit. A successful test would mark a major milestone for the program's reusability goals, with implications for satellite and launch-services competitors.",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcGhfR3lVM2ZfMmw3dHhUdms0VlU4d2JVTGpBTzdiV2FpVTAxLUFtSW5JNXZSMEFkS0pXM1gtNEdvVzY0TDdzUlVNaWNpTk5qdHFkR0R5WHlBOE53ZGZMRW9hdkUtSHBFa3ZmcU16VFVnNElhV24wRHdCYk9DbWtMMEV0SVlYSjRHcjVrLVJ3?oc=5",
-      "publisher": "CNN",
-      "published": "2026-11-14T16:31:00Z",
+      "headline": "Wall Street banks pitch for roles in Anthropic's expected IPO",
+      "summary": "Major Wall Street banks are making their pitches to lead Anthropic's initial public offering, according to the New York Times, as the AI company moves toward a potential listing. The deal would be one of the most closely watched tech IPOs in the current cycle given Anthropic's prominence in the generative AI race.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pZEk3aEVERVZjMlBZYkI0WC11RjNlbVNaaUlya3A3dFFXWjNGbVlLQW1iZjU5R1E3WlY2blpERFl0MjNzSWdzQmpSc0JqWDhsOXJDYWhybjNiYWdjQ2RhQmF3VExyZGl5bVU1cHpMSGtSSThnRFpWdUJldw?oc=5",
+      "publisher": "The New York Times",
+      "published": "2026-11-14T12:25:00-05:00",
       "tickers": [],
-      "category": "Tech",
+      "category": "Deals",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "FBI recovers $1.2 billion in cryptocurrency stolen from Binance",
+      "summary": "The FBI announced it has recovered approximately $1.2 billion worth of cryptocurrency that was stolen from Binance, marking one of the largest crypto theft recoveries to date. The recovery could bolster confidence in law enforcement's ability to track and reclaim stolen digital assets.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE43bUp2RG1MVE9CcnlUTl92U3p4U1J4Zl9qMEFiV2RzSUFkY2ttY2Y2aHc5Z09rN1ZRcUxoWWdZQks0X0w4bGdyNWpWcGdXRzQwdlpWTk1JVl9ZYUFMV2lzZjlsXzIzVlFuLVc1RkppTmJWcmQzcm1n?oc=5",
+      "publisher": "CBS News",
+      "published": "2026-11-13T05:52:16-05:00",
+      "tickers": [],
+      "category": "Crypto",
       "importance": 2,
-      "sentiment": "neutral"
+      "sentiment": "bullish"
     }
   ],
   "calendar": [
-    {"when": "Nov 17 after close", "event": "Nvidia (NVDA) Q3 FY2026 earnings", "type": "earnings"}
+    {"when": "TBD", "event": "Nvidia Q3 FY2027 earnings (expected Nov 17)", "type": "earnings"}
   ]
 }

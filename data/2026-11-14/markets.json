@@ -1,6 +1,6 @@
 {
  "date": "2026-11-14",
- "generated_at": "2026-11-14T19:51:59+02:00",
+ "generated_at": "2026-11-14T20:09:19+02:00",
  "source": "TradingView scanner",
  "benchmarks": [
   {
@@ -83,8 +83,8 @@
   {
    "label": "Bitcoin",
    "symbol": "BITSTAMP:BTCUSD",
-   "price": 65743.19,
-   "change": -3.647668904079862,
+   "price": 65843.84,
+   "change": -3.5001576238270515,
    "kind": "crypto"
   }
  ],
@@ -3712,18 +3712,18 @@
      "p": 7.52
     },
     {
-     "t": "FOX",
-     "n": "Fox Corporation Class B",
-     "c": 4.087889626980069,
-     "m": 37136323293,
-     "p": 61.11
-    },
-    {
      "t": "FOXA",
      "n": "Fox Corporation Class A",
      "c": 4.124182011870352,
      "m": 37136323293,
      "p": 68.42
+    },
+    {
+     "t": "FOX",
+     "n": "Fox Corporation Class B",
+     "c": 4.087889626980069,
+     "m": 37136323293,
+     "p": 61.11
     },
     {
      "t": "TKO",

@@ -1,99 +1,95 @@
 {
   "source": "Yahoo Finance",
-  "fetched_at": "2026-11-14T17:30:00-05:00",
+  "fetched_at": "2026-11-14T12:00:00Z",
   "stories": [
     {
-      "headline": "Nvidia CFO Colette Kress named interim CEO after Jensen Huang resigns amid scandal",
-      "summary": "Jensen Huang resigned as Nvidia's president, CEO, and board member after revelations of extramarital affairs, including one with a woman under federal investigation for allegedly helping smuggle Nvidia chips to circumvent export controls. CFO Colette Kress, who joined Nvidia in 2013, was named interim CEO while the board searches for a permanent successor. Huang, who led Nvidia for 33 years and was one of the S&P 500's longest-tenured CEOs, has agreed to testify before Congress before Thanksgiving; analyst Dan Ives cut his price target from $300 to $225.",
+      "headline": "Nvidia CEO Jensen Huang resigns amid affair scandal; CFO Colette Kress named interim CEO",
+      "summary": "Nvidia co-founder and CEO Jensen Huang resigned after 33 years at the helm following revelations of multiple extramarital affairs, including an alleged relationship with a woman under investigation for ties to Chinese intelligence and potential export-control circumvention involving Super Micro servers. NVDA shares fell about 13-14% over the following days, erasing as much as $600 billion in market cap, while analyst Dan Ives cut his price target from $300 to $225. CFO Colette Kress was named interim CEO, and Huang is expected to testify before Congress before Thanksgiving.",
       "url": "https://finance.yahoo.com/technology/article/nvidia-and-jensen-huang-fallout-heres-everything-we-know-after-a-momentous-week-110000323.html",
       "publisher": "Yahoo Finance",
-      "published": "2026-11-14T11:00:00-05:00",
-      "tickers": ["NVDA"],
+      "published": "2026-11-14T05:00:00-06:00",
+      "tickers": ["NVDA", "AMD", "AVGO", "ARM"],
       "category": "Tech",
       "importance": 5,
       "sentiment": "bearish"
     },
     {
-      "headline": "Chip stocks lose over $650 billion in two days as bond market turns against the AI trade",
-      "summary": "A basket of 62 semiconductor stocks shed more than $650 billion in market value from Wednesday through Friday, with Nvidia falling about 13% for the week (roughly $570 billion erased) in its worst stretch since April 2025. Treasury yields, which had previously cushioned chip selloffs by falling in tandem, instead rose sharply this week -- the 10-year yield climbed about 30 basis points to 5.15% -- as Polymarket odds of a December 9 Fed rate hike jumped to about 98% from 66%. The reversal signals investors are reassessing both AI-sector risk and the rate outlook simultaneously.",
-      "url": "https://finance.yahoo.com/markets/article/the-bond-market-just-turned-on-the-ai-trade--and-chip-stocks-lost-more-than-650-billion-in-two-days-chart-of-the-day-131855807.html",
-      "publisher": "Yahoo Finance",
-      "published": "2026-11-13T13:18:00-05:00",
-      "tickers": ["NVDA", "MU", "CRWV", "NBIS"],
-      "category": "Markets",
-      "importance": 5,
-      "sentiment": "bearish"
-    },
-    {
-      "headline": "AMD and Broadcom shares rise as Nvidia leadership shakeup sparks rotation",
-      "summary": "AMD and Broadcom stocks gained as investors rotated out of Nvidia and into rival chipmakers following Jensen Huang's resignation as CEO. The move reflects speculation that AI hyperscaler spending could tilt toward alternative chip suppliers amid uncertainty at Nvidia during its leadership transition.",
+      "headline": "AMD, Broadcom jump as rivals benefit from Nvidia leadership crisis",
+      "summary": "AMD shares rose roughly 5-7% and Broadcom gained more than 5% as investors rotated into Nvidia's chip rivals following Jensen Huang's resignation. The S&P 500 initially dropped nearly 1% on the news but recovered about $1 trillion in value within 90 minutes as competitor strength offset Nvidia's slide. Retail investors bought an estimated $111 million of NVDA shares in the first 30 minutes of trading, signaling some dip-buying confidence.",
       "url": "https://finance.yahoo.com/markets/article/amd-broadcom-stocks-jump-as-nvidia-ceo-jensen-huang-resigns-143725561.html",
       "publisher": "Yahoo Finance",
-      "published": "2026-11-13T14:37:00-05:00",
+      "published": "2026-11-12T15:23:00-06:00",
       "tickers": ["AMD", "AVGO", "NVDA"],
-      "category": "Tech",
+      "category": "Markets",
       "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Anthropic IPO to test Wall Street's AI appetite amid cooling enthusiasm",
+      "summary": "Anthropic is targeting a $1.3-$1.4 trillion valuation for its IPO, set to begin trading November 19, down from earlier hopes of $1.5-$2 trillion as investor enthusiasm for AI cools. Underwriters including Goldman Sachs and Morgan Stanley stand to collect roughly $395 million in combined fees, but the offering faces a tougher backdrop than SpaceX's June listing, with rising Treasury yields, a Microsoft Outlook outage, and the Nvidia leadership upheaval all weighing on sentiment.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/anthropic-ipo-to-test-wall-streets-faith-in-ai-as-skepticism-mounts-180007104.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-14T06:00:00-06:00",
+      "tickers": ["NVDA", "MSFT", "GS", "MS", "JPM", "C", "BAC"],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Treasury yields climb above 5% as oil rises on Trump's hardened Iran stance",
+      "summary": "The 10-year US Treasury yield climbed above 5% this week, adding to inflation concerns alongside rising oil prices tied to President Trump's tougher rhetoric on Iran. The combination of higher yields and energy costs compounded pressure on equities already rattled by the Nvidia leadership crisis, contributing to broader market volatility.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-recovered-1-trillion-211443065.html",
+      "publisher": "BeInCrypto",
+      "published": "2026-11-12T15:14:00-06:00",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Micron rebounds nearly 12% as Bernstein, KeyBanc defend DRAM shortage thesis",
+      "summary": "Micron shares rebounded 11.9% after a sharp early-November drop tied to a broader memory-stock selloff. Bernstein analyst Mark Li reiterated a Buy rating with a $1,300 price target, arguing the DRAM shortage is more severe and longer-lasting than expected, while KeyBanc kept an Overweight rating and $1,750 target citing fourth-quarter DRAM prices up 15-20%. Micron posted fiscal Q4 revenue of $54.23 billion, up sharply from $11.32 billion a year earlier, with guidance of about $61.5 billion next quarter.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-sees-micron-mu-memory-213006767.html",
+      "publisher": "Insider Monkey",
+      "published": "2026-11-13T15:30:00-06:00",
+      "tickers": ["MU"],
+      "category": "Earnings",
+      "importance": 3,
       "sentiment": "bullish"
     },
     {
-      "headline": "Memory stocks Sandisk, Micron, SK Hynix slide 3%+ amid Nvidia shakeup fallout",
-      "summary": "Memory chipmakers Sandisk, Micron, and SK Hynix each fell roughly 3-4% as the fallout from Nvidia's leadership crisis spread across the semiconductor supply chain. The declines reflect broader investor anxiety about AI-related hardware demand and valuations after a volatile week for chip stocks.",
+      "headline": "Memory chip stocks slide on Nvidia leadership shakeup spillover",
+      "summary": "Memory manufacturers including SanDisk, Micron, and SK Hynix saw volatile trading as the Nvidia leadership crisis rippled through the broader semiconductor sector. The moves reflected investor concern about contagion risk to AI-adjacent supply chains even though the memory makers' fundamentals were largely unaffected by Nvidia's internal turmoil.",
       "url": "https://finance.yahoo.com/markets/stocks/articles/sandisk-micron-sk-hynix-slide-165605813.html",
-      "publisher": "Yahoo Finance",
-      "published": "2026-11-13T16:56:00-05:00",
-      "tickers": ["MU", "SNDK"],
-      "category": "Tech",
-      "importance": 3,
-      "sentiment": "bearish"
-    },
-    {
-      "headline": "FAA network failure triggers nearly 10,000 flight cancellations, airline stocks slip",
-      "summary": "A communications network failure at the FAA -- caused by switches and routers being overloaded during a copper-to-fiber infrastructure conversion by contractor L3Harris -- disrupted air traffic control on Friday, leading to nearly 10,000 cancellations and over 7,000 delays, with thousands more disruptions Saturday. Delta, United, American, and JetBlue were hit hardest, with JetBlue canceling 40% of Saturday flights; airline shares fell 1-3% in after-hours trading and L3Harris dropped about 3%. Transportation Secretary Sean Duffy ruled out a cyberattack and is requesting $50 billion to modernize aging air traffic control infrastructure.",
-      "url": "https://finance.yahoo.com/news/thousands-us-flights-canceled-delayed-155615998.html",
-      "publisher": "Reuters",
-      "published": "2026-11-14T15:56:00-05:00",
-      "tickers": ["DAL", "UAL", "AAL", "JBLU", "LHX"],
-      "category": "Markets",
-      "importance": 3,
-      "sentiment": "bearish"
-    },
-    {
-      "headline": "S&P 500 recovers $1 trillion in 90 minutes amid wider market volatility",
-      "summary": "The S&P 500 clawed back roughly $1 trillion in market value within about 90 minutes during a session marked by a sharp intraday selloff and rapid rebound, as retail and institutional buyers stepped in during the dip. The swing underscores elevated volatility this week tied to the Nvidia leadership crisis and shifting Fed rate-hike expectations.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-recovered-1-trillion-211443065.html",
-      "publisher": "Yahoo Finance",
-      "published": "2026-11-13T16:14:00-05:00",
-      "tickers": [],
-      "category": "Markets",
-      "importance": 4,
-      "sentiment": "neutral"
-    },
-    {
-      "headline": "Bernstein weighs in on Micron after sharp memory-sector selloff",
-      "summary": "Bernstein analysts assessed Micron's outlook following a broad decline in memory chip stocks this week, as the sector got caught up in the wider semiconductor selloff tied to AI-trade jitters and Nvidia's leadership turmoil. The note focuses on whether current valuations reflect underlying memory-market fundamentals or are overly tied to sentiment contagion from Nvidia.",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-sees-micron-mu-memory-213006767.html",
-      "publisher": "Yahoo Finance",
-      "published": "2026-11-13T21:30:00-05:00",
+      "publisher": "24/7 Wall St.",
+      "published": "2026-11-12T16:56:00-06:00",
       "tickers": ["MU"],
       "category": "Tech",
       "importance": 2,
-      "sentiment": "neutral"
+      "sentiment": "bearish"
     },
     {
-      "headline": "Space industry executives see long runway for growth after SpaceX IPO",
-      "summary": "Following SpaceX's initial public offering, industry executives said the commercial space sector -- spanning launch, satellites, and orbital data centers -- remains in its early innings of growth. The comments suggest continued investor interest in space-related equities even as broader tech and AI-linked stocks face volatility.",
+      "headline": "SpaceX IPO execs say space industry still in 'earliest innings' as orbital data centers emerge",
+      "summary": "Following SpaceX's IPO earlier this year, industry executives say the space sector remains in its early stages of commercialization, pointing to emerging opportunities such as orbital data centers. The comments come as investors weigh how much further capital could flow into space infrastructure plays beyond the initial public offering wave.",
       "url": "https://finance.yahoo.com/markets/stocks/article/from-spacexs-ipo-to-orbital-data-centers-execs-say-industrys-future-still-in-earliest-innings-150310371.html",
       "publisher": "Yahoo Finance",
-      "published": "2026-11-14T15:03:00-05:00",
+      "published": "2026-11-14T09:03:00-06:00",
       "tickers": [],
       "category": "Deals",
       "importance": 2,
       "sentiment": "bullish"
+    },
+    {
+      "headline": "Tesla opens Cybercab pre-orders for select customers",
+      "summary": "Tesla began taking pre-orders for its autonomous Cybercab, making the robotaxi-style vehicle available on a limited basis to select customers. The move marks an early commercialization step for Tesla's self-driving ambitions as the company works to scale production and regulatory approval.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/tesla-starts-taking-cybercab-orders-012249541.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-14T01:22:00-06:00",
+      "tickers": ["TSLA"],
+      "category": "Tech",
+      "importance": 2,
+      "sentiment": "bullish"
     }
   ],
-  "calendar": [
-    {"when": "TBD", "event": "Jensen Huang scheduled to testify before Congress before Thanksgiving regarding Nvidia leadership transition", "type": "other"},
-    {"when": "December 9", "event": "FOMC rate decision; Polymarket odds of a rate hike near 98%", "type": "fed"},
-    {"when": "December 10", "event": "Commerce Secretary Howard Lutnick scheduled to testify before Congress", "type": "other"}
-  ]
+  "calendar": []
 }

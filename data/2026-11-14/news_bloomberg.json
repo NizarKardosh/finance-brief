@@ -3,19 +3,8 @@
   "fetched_at": "2026-11-14T17:30:00Z",
   "stories": [
     {
-      "headline": "US Inflation Report Keeps Fed on Track for December Rate Hike",
-      "summary": "US consumer prices rose firmly again in October, reinforcing the case for Federal Reserve policymakers to raise interest rates at next month's meeting. Fed Vice Chair Philip Jefferson said inflation has become the most important measure for policymakers, and the broader policy debate has already shifted to the January meeting.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-14/world-economy-latest-us-inflation-report-supports-fed-rate-hike",
-      "publisher": "Bloomberg",
-      "published": "2026-11-14T10:00:00Z",
-      "tickers": [],
-      "category": "Macro",
-      "importance": 5,
-      "sentiment": "bearish"
-    },
-    {
-      "headline": "Nvidia Leadership Shakeup Puts Succession and China Strategy in Focus",
-      "summary": "Wall Street is bracing for a post-Jensen Huang era at Nvidia after a leadership upheaval tied to a spy scandal, with CFO Colette Kress stepping in as interim CEO facing heavy scrutiny. Analysts describe the transition as a major 'key man risk' event with implications for the AI chip ecosystem and national security oversight of export controls.",
+      "headline": "Nvidia leadership shakeup: CFO Colette Kress named interim CEO amid Jensen Huang exit",
+      "summary": "Nvidia is navigating a leadership crisis after reports around Jensen Huang's departure, with CFO Colette Kress stepping in as interim CEO. Bloomberg coverage frames this as 'the ultimate key man risk,' with national-security implications and scrutiny of the agency overseeing US chip export curbs to China. Wall Street is assessing succession risk, competitive openings for rivals, and the fate of advanced AI chip policy.",
       "url": "https://www.bloomberg.com/news/articles/2026-11-14/how-wall-street-is-bracing-for-the-post-jensen-huang-nvidia-era",
       "publisher": "Bloomberg",
       "published": "2026-11-14T09:00:19Z",
@@ -25,8 +14,8 @@
       "sentiment": "bearish"
     },
     {
-      "headline": "Bessent, Lutnick Clash Over Nvidia China Chip Export Curbs",
-      "summary": "Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick are reported to be in conflict within the Trump administration over how far to restrict advanced Nvidia chip exports to China. The dispute comes as Nvidia's export-control overseer faces fresh scrutiny amid the company's leadership crisis.",
+      "headline": "Bessent and Lutnick clash over Nvidia China chip export curbs",
+      "summary": "Treasury Secretary Scott Bessent and Commerce Secretary Howard Lutnick are reported to be at odds within the Trump administration over how far to restrict advanced Nvidia chip exports to China. The dispute comes as the Nvidia leadership crisis intensifies scrutiny of the export-control agency. Policy uncertainty adds another overhang for semiconductor stocks tied to China demand.",
       "url": "https://www.bloomberg.com/news/videos/2026-11-14/bessent-lutnick-clash-over-nvidia-china-curbs-video",
       "publisher": "Bloomberg",
       "published": "2026-11-14T14:30:24Z",
@@ -36,30 +25,30 @@
       "sentiment": "bearish"
     },
     {
-      "headline": "SpaceX S&P 500 Bid Revived as Musk Pitches Tesla Merger",
-      "summary": "SpaceX may have found a backdoor route into the S&P 500 index through a potential merger with Tesla, as Elon Musk pitches the combination. The move would address SpaceX's prior hurdles to index inclusion while adding complexity to Tesla's corporate structure.",
+      "headline": "US CPI report for October supports case for another Fed rate hike",
+      "summary": "US consumer prices rose firmly again in October, keeping Federal Reserve policymakers on course to raise interest rates, according to Bloomberg's World Economy roundup. Fed Vice Chair Philip Jefferson said inflation has become the most important measure for policy decisions, while Boston Fed President Susan Collins backed a 'steady, gradual' path of rate hikes. Separately, Bloomberg reports the Fed is set to raise rates next month, with the debate already shifting to January.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-14/world-economy-latest-us-inflation-report-supports-fed-rate-hike",
+      "publisher": "Bloomberg",
+      "published": "2026-11-14T10:00:00Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "SpaceX pitches Tesla merger as new path to S&P 500 inclusion",
+      "summary": "Elon Musk is reportedly pitching a Tesla-SpaceX merger as an alternative route for SpaceX to gain S&P 500 index inclusion, reviving a bid that had stalled. The move would be a major corporate structuring event with implications for Tesla shareholders and index-fund flows if pursued.",
       "url": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-s-s-p-500-bid-gets-new-life-as-musk-pitches-tesla-merger",
       "publisher": "Bloomberg",
       "published": "2026-11-14T14:00:00Z",
       "tickers": ["TSLA"],
       "category": "Deals",
       "importance": 4,
-      "sentiment": "bullish"
-    },
-    {
-      "headline": "China, US Hold First Meeting of New Trade Tariff Council",
-      "summary": "China and the US held the first meeting of a new trade council by video on Friday under their economic and trade consultation mechanism, discussing tariffs. The talks come as Trump heads to China for discussions with Xi and Putin, with trade de-escalation a key focus for markets.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-14/china-the-us-discuss-tariffs-in-first-meeting-of-trade-council",
-      "publisher": "Bloomberg",
-      "published": "2026-11-14T07:46:24Z",
-      "tickers": [],
-      "category": "Policy",
-      "importance": 4,
       "sentiment": "neutral"
     },
     {
-      "headline": "Italy Fines Meta €805 Million Over Unauthorized Access to User Photos",
-      "summary": "Italy's Data Protection Authority fined Meta Platforms €805 million (about $887 million) for accessing Android users' photo and video galleries without explicit consent. The penalty adds to Meta's growing list of regulatory fines in Europe over data privacy practices.",
+      "headline": "Italy fines Meta €805 million over Android photo-access practices",
+      "summary": "Italy's Data Protection Authority fined Meta Platforms €805 million (about $887 million) for accessing photos and videos in Android users' galleries without explicit consent. The penalty adds to Meta's mounting regulatory costs in the EU and signals continued aggressive enforcement of data-privacy rules against US tech platforms.",
       "url": "https://www.bloomberg.com/news/articles/2026-11-14/italy-fines-meta-805-million-over-access-to-users-photos",
       "publisher": "Bloomberg",
       "published": "2026-11-14T14:53:25Z",
@@ -69,24 +58,35 @@
       "sentiment": "bearish"
     },
     {
-      "headline": "Microsoft Says Services Fully Restored After Major Global Outage",
-      "summary": "Microsoft said access was fully restored to its flagship software after an outage that paralyzed government offices, traders and businesses worldwide. The FBI is separately probing whether a software update, rather than a cyberattack, caused the related mass FAA air-traffic communication outage.",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages",
+      "headline": "China's market regulator warns of global asset repricing risks",
+      "summary": "The chairman of China's CSRC warned that rising geopolitical tensions are driving a rebalancing of capital and raising risks of global asset repricing. The comments come as US-China trade talks continue, including a first meeting of the new US-China trade council held by video on Friday to discuss tariffs.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-14/china-s-market-regulator-warns-of-global-asset-repricing-risks",
       "publisher": "Bloomberg",
-      "published": "2026-11-13T14:59:32Z",
-      "tickers": ["MSFT"],
-      "category": "Tech",
+      "published": "2026-11-14T05:20:13Z",
+      "tickers": [],
+      "category": "Macro",
       "importance": 3,
-      "sentiment": "neutral"
+      "sentiment": "bearish"
     },
     {
-      "headline": "Oil Market Brimming With Crude Despite Tanker Attacks",
-      "summary": "Crude oil markets remain well-supplied even as attacks on tankers continue amid the ongoing Iran conflict, limiting the upside for prices despite geopolitical risk. The resilience of supply is capping volatility that would normally accompany such disruptions.",
+      "headline": "Oil market remains well-supplied despite ongoing tanker attacks in Iran war",
+      "summary": "Bloomberg reports crude markets are brimming with supply even as tanker attacks continue more than eight months into the Iran war, with smoke still billowing from attacked vessels. The disconnect between geopolitical risk and ample crude supply is keeping a lid on oil prices despite the conflict.",
       "url": "https://www.bloomberg.com/news/articles/2026-11-14/the-oil-market-is-brimming-with-crude-despite-tanker-attacks",
       "publisher": "Bloomberg",
       "published": "2026-11-14T08:30:00Z",
       "tickers": [],
       "category": "Energy",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Microsoft says services fully restored after outage that disrupted global business",
+      "summary": "Microsoft said access was fully restored to its flagship software after an outage that paralyzed government offices, traders, and businesses worldwide, with some traders reportedly resorting to fax machines during the disruption. The incident highlights continued concentration risk in cloud/software infrastructure for enterprise operations.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-13/microsoft-says-making-progress-fixing-one-of-its-longest-outages",
+      "publisher": "Bloomberg",
+      "published": "2026-11-13T14:59:32Z",
+      "tickers": ["MSFT"],
+      "category": "Tech",
       "importance": 3,
       "sentiment": "neutral"
     }
