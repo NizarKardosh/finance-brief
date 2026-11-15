@@ -1,0 +1,95 @@
+{
+  "source": "Bloomberg",
+  "fetched_at": "2026-11-15T12:00:00Z",
+  "stories": [
+    {
+      "headline": "Nvidia Faces Leadership Shakeup After Jensen Huang's Abrupt Exit",
+      "summary": "Nvidia is navigating a succession crisis following Jensen Huang's abrupt departure as CEO, with CFO Colette Kress named interim CEO. Bloomberg coverage frames the shakeup as having national-security implications given Nvidia's central role in the AI chip supply chain, and notes Huang has become a subject of internet memes rather than the AI advocate he once was.",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-s-leadership-shakeup-tests-ai-chip-giant-video",
+      "publisher": "Bloomberg",
+      "published": "2026-11-14T12:47:31Z",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Corporate Bonds' 6% Yields Draw Investors Seeking Shelter After Nvidia Turmoil",
+      "summary": "US corporate bonds have rallied in recent weeks as money managers seek shelter from stock-market turbulence tied to the Nvidia leadership drama, with yields around 6% drawing fresh demand. The move underscores a rotation toward credit as equity volatility, centered on AI-chip names, rattles markets.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly",
+      "publisher": "Bloomberg",
+      "published": "2026-11-14T00:00:00Z",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bitcoin Selloff Grinds Lower, Testing Crypto Investors' Resolve",
+      "summary": "Bitcoin's slow-motion selloff is pushing prices toward their lowest levels of the year as major sources of demand weaken, leaving even committed traders weary. Bloomberg describes a succession of setbacks eroding confidence in the crypto market's near-term recovery.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless",
+      "publisher": "Bloomberg",
+      "published": "2026-11-15T00:00:00Z",
+      "tickers": [],
+      "category": "Crypto",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "SpaceX's S&P 500 Ambitions Revived via Possible Tesla Merger",
+      "summary": "Months after being denied swift entry into the S&P 500, Elon Musk may be pursuing a backdoor route for SpaceX by pitching a merger with Tesla. The move would reshape Tesla's structure and could reignite questions about index eligibility for Musk's ventures.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-s-s-p-500-bid-gets-new-life-as-musk-pitches-tesla-merger",
+      "publisher": "Bloomberg",
+      "published": "2026-11-14T00:00:00Z",
+      "tickers": ["TSLA"],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "State Street, Pictet Call Time on Europe's Stock Market Rally",
+      "summary": "European equities have recently outperformed other global markets, but strategists at State Street and Pictet now expect that outperformance streak to end soon. The call suggests investors should prepare for a rotation away from European stocks relative to peers.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/state-street-pictet-call-time-on-europe-s-stock-market-rally",
+      "publisher": "Bloomberg",
+      "published": "2026-11-15T00:00:00Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Fed's Collins Backs 'Steady, Gradual' Rate Hikes",
+      "summary": "Boston Fed President Susan Collins said a gradual path of interest-rate increases remains appropriate to bring down inflation. Her comments signal continued hawkish leanings among some Fed officials even as markets watch for shifts in the policy path.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-14/fed-s-collins-says-steady-gradual-rate-hikes-appropriate",
+      "publisher": "Bloomberg",
+      "published": "2026-11-14T15:08:45Z",
+      "tickers": [],
+      "category": "Policy",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "India Stock Market Rebounds as Global AI Trade Unwinds",
+      "summary": "Indian equities are rebounding as the broader global AI investment trade reverses and foreign funds return to the market. The shift suggests capital is rotating out of AI-heavy developed markets and back into emerging markets like India.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/india-stock-market-rebounds-as-ai-trade-unwinds-foreign-funds-return",
+      "publisher": "Bloomberg",
+      "published": "2026-11-15T00:00:00Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Italy Fines Meta €805 Million Over Unauthorized Access to Users' Photos",
+      "summary": "Italian regulators penalized Meta roughly €805 million for accessing Android users' photo galleries without explicit consent. The fine adds to Meta's growing list of European regulatory and privacy liabilities.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-14/italy-fines-meta-805-million-over-access-to-users-photos",
+      "publisher": "Bloomberg",
+      "published": "2026-11-14T14:53:25Z",
+      "tickers": ["META"],
+      "category": "Policy",
+      "importance": 3,
+      "sentiment": "bearish"
+    }
+  ],
+  "calendar": []
+}

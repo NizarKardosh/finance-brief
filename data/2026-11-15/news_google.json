@@ -1,0 +1,95 @@
+{
+  "source": "Google Finance",
+  "fetched_at": "2026-11-15T12:30:00Z",
+  "stories": [
+    {
+      "headline": "Nvidia CEO Jensen Huang resigns amid espionage allegations tied to Alice Huang probe",
+      "summary": "Nvidia announced the resignation of CEO Jensen Huang after reports he misled senior executives about his connections to Alice Huang, who departed the chip-networking firm Megaspeed in 2025 and is now under internal and regulatory investigation for potential espionage activities linked to China. Nvidia shares plunged as much as 14% on the news, briefly pushing the company below a $4 trillion market cap for the first time in over a year, before paring losses. The leadership vacuum at the AI sector's most dominant company has rattled investors given Nvidia's outsized weight in major indexes.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRGt2MzQzQnpsSXZBUFN6aW9ja0tyNVBWbmxMaWw4MGgzRzdkOWMyM0RINzRoaHVfTzlseFpfa1JaSGdpc3dETUFaMXRVeFJNemxIUXFmRXYxMUVmSEIxSTBGQVZKUkpoR1g1bUNaNGh5RDdENGYxcFFFVkxNVXV1MDE2clUxUdIBiwFBVV95cUxOTkpvNzM3VUkycnFlRmhWZDBnTW5taXU4V044R1VFdkMxLWJ0NEZoR1dqOGZGV2steFRJZWRTcDYwMlIyZFNyWkpwQzhRTmJObU1mZEYtZ2EwSjUzdncxdzVvUGRKbGxNSGdTSkJSQThGVkZwcGg1Q1I3RHBaMUl2TWZpVFdxTUVoeklB?oc=5",
+      "publisher": "CNBC",
+      "published": "2026-11-15T08:20:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Nasdaq falls 0.9% and S&P 500 slips 0.4% as Nvidia turmoil weighs on tech",
+      "summary": "The S&P 500 fell 0.4% (30.73 points) to 7,561.67 and the Nasdaq Composite dropped 0.91% to 25,136.27 on Friday as chip and AI-linked stocks sold off following the Jensen Huang resignation news; the Dow Jones Industrial Average edged up 0.10% to 52,348. The 10-year Treasury yield rose to 5.145%, pressuring growth and tech valuations further. Despite the daily decline, the S&P 500 finished the week up about 2.5%, snapping a four-week losing streak.",
+      "url": "https://journalarta.com/en/2026/11/14/stock-market-today-nasdaq-falls-0-91-and-sp-500-slips-0-41-at-the-close-as-marvell-sinks-and-bitcoin-drops/",
+      "publisher": "JournalArta Global",
+      "published": "2026-11-14T16:00:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Musk says Nvidia will lose 'critical' deals without Jensen Huang at the helm",
+      "summary": "Elon Musk warned that Nvidia risks losing important customer relationships and deals following Jensen Huang's abrupt departure, amplifying investor concern about the company's near-term execution and AI chip roadmap. The comments add to broader uncertainty about how the AI trade could be reshaped without Huang's leadership steering product strategy and key partnerships.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRGt2MzQzQnpsSXZBUFN6aW9ja0tyNVBWbmxMaWw4MGgzRzdkOWMyM0RINzRoaHVfTzlseFpfa1JaSGdpc3dETUFaMXRVeFJNemxIUXFmRXYxMUVmSEIxSTBGQVZKUkpoR1g1bUNaNGh5RDdENGYxcFFFVkxNVXV1MDE2clUxUdIBiwFBVV95cUxOTkpvNzM3VUkycnFlRmhWZDBnTW5taXU4V044R1VFdkMxLWJ0NEZoR1dqOGZGV2steFRJZWRTcDYwMlIyZFNyWkpwQzhRTmJObU1mZEYtZ2EwSjUzdncxdzVvUGRKbGxNSGdTSkJSQThGVkZwcGg1Q1I3RHBaMUl2TWZpVFdxTUVoeklB?oc=5",
+      "publisher": "Reuters",
+      "published": "2026-11-14T15:08:00-05:00",
+      "tickers": ["NVDA", "TSLA"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "PPI inflation reading comes in at worst level since 2022",
+      "summary": "The latest Producer Price Index data showed wholesale inflation accelerating to its hottest pace since 2022, adding to concerns that price pressures remain sticky even as the Fed weighs its next moves. The report contributed to the rise in Treasury yields, with the 10-year hitting 5.145%, further pressuring equity valuations, particularly for rate-sensitive growth and tech names.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY3IwclZvTHQ3Tmw1eG40c3B2RnNIRUpLVVBTLXBveEd2WWQ0eFFxek42YzZoaWlZM0EzTldNd1JSS0pUSlNXY2w3VHlSMzdnV0l2RFlVWE45dU11MWhNS05fV3hLd1JNa1JNWXJVbEhKcFZPUmtCeGhqUUg3RFp2WGxubHpFMHJFOHhuNHVzLUZmWk9WemN1Rmx1TFFnVmgteXY3eWVsQzYwVlg5am1QZVNiU2VWcjRQOXhBZmpBa9IBxAFBVV95cUxPRmk4dWotc00wbTZwLWU0TnBFdmJkSno4VmMzMWRwa2c5ZE5pTGZOOElIOUtBRkY3NEZpWWZLMTBueDRuVDZiTEY5MEp2RmV5bTVOdU42TllFemU1bTBhTXE2WWZJWndfalJHc05hOHZiMjg0d3V1U0pWZWpZb0d6VnhGTm5qVHVDUEZiN1oxT3dNM1R0aXJKeVN0ZTFMTkFKZGJEUTNOWTdvbzREZmtBak1BWE9nWlpXYWxGdl9QZVNDRmVE?oc=5",
+      "publisher": "Wolf Street",
+      "published": "2026-11-13T18:57:00-05:00",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Anthropic's Dario Amodei says he is 'not super fussed' about market turmoil ahead of IPO",
+      "summary": "Anthropic CEO Dario Amodei downplayed concerns about the recent AI-sector volatility and Nvidia leadership shakeup as the company prepares for a closely watched initial public offering. His comments come as investors weigh whether the broader AI trade can hold up amid the Nvidia governance crisis and rising bond yields.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTd1OTNDQlBsYUpZU2JwcjlOQlZkc2t2b3c4ZkpubWc2Q0JqekxWSmVRaDJkeTRCd29uLUNXSzRrcDVUTnVHaGVrV0dpYVFNdHBtXzZjUWdZY1FrNUo4MGl1QkFZbE05ZmhhZmR3N01PX1Z1QTZDbFc3MmFnVE9teHBxVjQ?oc=5",
+      "publisher": "Financial Times",
+      "published": "2026-11-13T19:41:00-05:00",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Microsoft cloud services restored after widespread outage",
+      "summary": "Microsoft restored service after a widespread outage disrupted users across its cloud and productivity platforms, adding to a string of tech infrastructure disruptions this week including an FAA ground stop. The incident renewed scrutiny on cloud-provider resilience and concentration risk for enterprise customers.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SZmZCcS1rWDBlU1EtNTRYbFY4TE00cEVObWk3ak9jcnNsaWtabW83MjNuemxSUk1WWXZ5Q2VubUtCZ2Y5YnZkN2dNR3htVEhHUkpPbjNuczc0VmpDb1dIZ0Z3TVFaTW43Z1hrd00tTWFQQ0M5cFd4SUd6TG1ldw?oc=5",
+      "publisher": "WSJ",
+      "published": "2026-11-14T09:56:00-05:00",
+      "tickers": ["MSFT"],
+      "category": "Tech",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Meta fined $887 million in Italy over Android gallery photo data practices",
+      "summary": "Italian regulators fined Meta roughly $887 million for practices related to accessing user photo galleries on Android devices, the latest in a series of large EU-related penalties against the company. The fine adds to Meta's regulatory cost burden in Europe amid ongoing scrutiny of its data practices.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY3IwclZvTHQ3Tmw1eG40c3B2RnNIRUpLVVBTLXBveEd2WWQ0eFFxek42YzZoaWlZM0EzTldNd1JSS0pUSlNXY2w3VHlSMzdnV0l2RFlVWE45dU11MWhNS05fV3hLd1JNa1JNWXJVbEhKcFZPUmtCeGhqUUg3RFp2WGxubHpFMHJFOHhuNHVzLUZmWk9WemN1Rmx1TFFnVmgteXY3eWVsQzYwVlg5am1QZVNiU2VWcjRQOXhBZmpBa9IB?oc=5",
+      "publisher": "ABC News",
+      "published": "2026-11-14T19:31:00-05:00",
+      "tickers": ["META"],
+      "category": "Policy",
+      "importance": 2,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Family Dollar to pay $63 million settlement over customer overcharging claims",
+      "summary": "Family Dollar agreed to a $63 million settlement to resolve claims it overcharged customers, one of the larger consumer-protection settlements in the discount retail space this year. The payout underscores continued regulatory and legal pressure on discount retailers over pricing practices.",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY3IwclZvTHQ3Tmw1eG40c3B2RnNIRUpLVVBTLXBveEd2WWQ0eFFxek42YzZoaWlZM0EzTldNd1JSS0pUSlNXY2w3VHlSMzdnV0l2RFlVWE45dU11MWhNS05fV3hLd1JNa1JNWXJVbEhKcFZPUmtCeGhqUUg3RFp2WGxubHpFMHJFOHhuNHVzLUZmWk9WemN1Rmx1TFFnVmgteXY3eWVsQzYwVlg5am1QZVNiU2VWcjRQOXhBZmpBa9IB?oc=5",
+      "publisher": "The New York Times",
+      "published": "2026-11-14T18:20:00-05:00",
+      "tickers": [],
+      "category": "Consumer",
+      "importance": 2,
+      "sentiment": "bearish"
+    }
+  ],
+  "calendar": []
+}

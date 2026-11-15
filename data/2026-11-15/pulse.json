@@ -1,0 +1,11 @@
+{
+  "pulse": "A split tape: the S&P 500 slipped -0.40% to 7561.67 and the Nasdaq 100 dropped a sharper -1.22% to 27943.74 as chipmakers sold off, while the Dow Jones bucked the trend to close +0.10% at 52347.55 and the Russell 2000 fell -0.31%. Breadth was actually positive despite the index declines, with 315 advancers versus 185 decliners across the S&P 500. Electronic Technology was the weakest sector at -2.11% on heavy AMD/AVGO/SNDK/CSCO selling, while Finance (+0.64%), Consumer Non-Durables (+1.45%) and Distribution Services (+1.07%) led gainers. The VIX jumped +3.21% to 19.30 as the 10Y yield rose +0.12% to 5.14% and the Dollar (DXY) gained +0.23% to 103.41; WTI crude eased -0.20% to $88.56 while gold added +0.18% to $3883.43 and Bitcoin rallied +1.74% to $65,231.40. Among the most-active names, NVDA led value traded (-2.01%, $59.6B) but AMD was the standout loser at -8.75% on $26.4B of volume, with AVGO -4.76% and SNDK -5.59% also hit hard, while META bucked the tech selloff at +2.90%.",
+  "standouts": [
+    {"ticker": "AMD", "note": "-8.75% on $26.38B traded, heaviest loser among most-active names"},
+    {"ticker": "NVDA", "note": "-2.01% but led all stocks in value traded at $59.57B"},
+    {"ticker": "AVGO", "note": "-4.76%, dragged Electronic Technology sector to the day's weakest -2.11%"},
+    {"ticker": "SNDK", "note": "-5.59% on $10.85B traded"},
+    {"ticker": "META", "note": "+2.90% on $9.72B traded, bright spot among most-active tech"},
+    {"ticker": "NBIS", "note": "-9.92%, among the day's biggest decliners on $5.66B volume"}
+  ]
+}

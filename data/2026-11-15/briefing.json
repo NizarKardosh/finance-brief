@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-15",
+  "headline_of_day": "Nvidia's Huang exit shakes AI trade; AMD and Broadcom gain ground",
+  "dek": "Jensen Huang's resignation amid an espionage probe sent Nvidia shares down as much as 14% this week, rerouting AI-chip demand toward rivals.",
+  "big_picture": "Nvidia's leadership crisis dominated the week after founder Jensen Huang resigned as CEO amid a national-security investigation tied to the Alice Huang case, with CFO Colette Kress stepping in as interim chief. The turmoil wiped as much as $600 billion off Nvidia's market value intraday and dragged the Nasdaq 100 down 1.22% to 27,943.74 on Friday, even as the Dow eked out a 0.10% gain to 52,347.55 and breadth stayed positive (315 advancers versus 185 decliners). AMD and Broadcom were the chief beneficiaries, with AMD posting its widest five-day outperformance over Nvidia since 1999 before giving back 8.75% on Friday profit-taking. Hot PPI inflation data pushed the 10-year Treasury yield to 5.14% and the VIX up 3.2% to 19.30, adding pressure just as Anthropic trims its IPO valuation target to $1.3-1.4 trillion ahead of November 19 Nasdaq trading. Nvidia's first earnings report without Huang, due November 17-18, now looms as the next major test of whether cloud customers are actually diversifying away from the company.",
+  "three_things": [
+    "Nvidia's board crisis is a supply-chain event: AMD and Broadcom are capturing orders and investor flows in real time",
+    "Rates are the quiet drag — a hot PPI print pushed the 10-year to 5.14%, squeezing every growth-stock rally",
+    "Anthropic cut its IPO valuation target to $1.3-1.4 trillion, a sign AI-market skepticism is spreading beyond chips"
+  ],
+  "market_pulse": "A split tape: the S&P 500 slipped 0.40% to 7,561.67 and the Nasdaq 100 dropped 1.22% to 27,943.74 as chipmakers sold off, while the Dow bucked the trend to close +0.10% at 52,347.55 and the Russell 2000 fell 0.31%. Breadth was positive despite the index declines (315 advancers vs. 185 decliners). Electronic Technology was the weakest sector (-2.11%) on heavy AMD/AVGO/SNDK/CSCO selling, while Finance (+0.64%), Consumer Non-Durables (+1.45%) and Distribution Services (+1.07%) led gainers. The VIX jumped 3.21% to 19.30 as the 10-year yield rose to 5.14% and the dollar (DXY) gained to 103.41; WTI crude eased to $88.56 while gold added to $3,883.43 and Bitcoin rallied to $65,231.40.",
+  "standouts": [
+    {"ticker": "AMD", "note": "-8.75% on $26.4B traded Friday after a five-day, 44.7% run; heaviest loser among most-active names"},
+    {"ticker": "NVDA", "note": "-2.01% but led all stocks in value traded at $59.6B; down 14% intraday at the week's worst point"},
+    {"ticker": "AVGO", "note": "-4.76%, dragged the Electronic Technology sector to the day's weakest -2.11%"},
+    {"ticker": "SNDK", "note": "-5.59% on $10.85B traded"},
+    {"ticker": "META", "note": "+2.90% on $9.72B traded, a bright spot even as it absorbed an €805M Italian privacy fine"},
+    {"ticker": "NBIS", "note": "-9.92%, among the day's biggest decliners on $5.66B volume"}
+  ],
+  "stories": [
+    {
+      "headline": "Jensen Huang resigns as Nvidia CEO amid national-security espionage probe",
+      "summary": "Nvidia founder Jensen Huang resigned as CEO after reports he misled executives about ties to Alice Huang, a former Megaspeed executive now under investigation for possible espionage links to China. Nvidia shares plunged as much as 14% intraday, briefly erasing up to $600 billion in market value and pushing the company below a $4 trillion valuation for the first time in over a year; CFO Colette Kress was named interim CEO.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRGt2MzQzQnpsSXZBUFN6aW9ja0tyNVBWbmxMaWw4MGgzRzdkOWMyM0RINzRoaHVfTzlseFpfa1JaSGdpc3dETUFaMXRVeFJNemxIUXFmRXYxMUVmSEIxSTBGQVZKUkpoR1g1bUNaNGh5RDdENGYxcFFFVkxNVXV1MDE2clUxUdIBiwFBVV95cUxOTkpvNzM3VUkycnFlRmhWZDBnTW5taXU4V044R1VFdkMxLWJ0NEZoR1dqOGZGV2steFRJZWRTcDYwMlIyZFNyWkpwQzhRTmJObU1mZEYtZ2EwSjUzdncxdzVvUGRKbGxNSGdTSkJSQThGVkZwcGg1Q1I3RHBaMUl2TWZpVFdxTUVoeklB?oc=5"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-recovered-1-trillion-211443065.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/videos/2026-11-14/nvidia-s-leadership-shakeup-tests-ai-chip-giant-video"}
+      ],
+      "published": "2026-11-12T13:14:00-08:00",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "AMD logs widest outperformance over Nvidia since 1999, then gives back gains",
+      "summary": "AMD rallied 44.7% over five sessions while Nvidia fell 8.5% — a 53.2 percentage-point gap, the widest since Nvidia's 1999 IPO — as the Huang resignation and AMD's strong Q3 results (revenue up 45% to a record $13.4 billion) drove a rotation toward rival chipmakers. AMD gave back ground Friday, closing down 8.75% at $534.06 on profit-taking and rising Treasury yields, with Nvidia's November 17 earnings seen as the next catalyst.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/amd-just-had-biggest-run-200656125.html"}
+      ],
+      "published": "2026-11-14T12:06:00-08:00",
+      "tickers": ["AMD", "NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "S&P 500 and Nasdaq fall Friday as Nvidia turmoil weighs on tech, but close the week higher",
+      "summary": "The S&P 500 fell 0.40% to 7,561.67 and the Nasdaq Composite dropped 0.91% as chip and AI-linked stocks sold off, while the Dow edged up 0.10% to 52,348; the 10-year Treasury yield climbed to 5.14-5.15% on hot PPI data, pressuring growth valuations further. Despite the daily decline, the S&P 500 finished the week up about 2.5%, snapping a four-week losing streak.",
+      "sources": ["Google Finance", "Yahoo Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://journalarta.com/en/2026/11/14/stock-market-today-nasdaq-falls-0-91-and-sp-500-slips-0-41-at-the-close-as-marvell-sinks-and-bitcoin-drops/"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-recovered-1-trillion-211443065.html"}
+      ],
+      "published": "2026-11-14T16:00:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Anthropic trims IPO valuation target to $1.3-1.4 trillion as AI enthusiasm cools",
+      "summary": "Anthropic is proceeding with its IPO at a valuation of roughly $1.3-$1.4 trillion, down from earlier expectations of $1.5-$2 trillion, with trading set to begin around November 19 on Nasdaq under ticker ANT. CEO Dario Amodei downplayed the AI-sector turmoil tied to Nvidia's leadership crisis, saying he is not overly concerned, as the offering is viewed as a key test of investor appetite for AI valuations.",
+      "sources": ["Google Finance", "Yahoo Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOTd1OTNDQlBsYUpZU2JwcjlOQlZkc2t2b3c4ZkpubWc2Q0JqekxWSmVRaDJkeTRCd29uLUNXSzRrcDVUTnVHaGVrV0dpYVFNdHBtXzZjUWdZY1FrNUo4MGl1QkFZbE05ZmhhZmR3N01PX1Z1QTZDbFc3MmFnVE9teHBxVjQ?oc=5"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/article/anthropic-ipo-to-test-wall-streets-faith-in-ai-as-skepticism-mounts-180007104.html"}
+      ],
+      "published": "2026-11-14T10:56:00-08:00",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Hot PPI print pushes Treasury yields to hottest inflation pace since 2022",
+      "summary": "The latest Producer Price Index showed wholesale inflation accelerating to its hottest pace since 2022, reinforcing concerns that price pressures remain sticky even as the Fed weighs its next move. The data pushed the 10-year Treasury yield up to 5.14%, adding further pressure to equity valuations, particularly rate-sensitive growth and tech names.",
+      "sources": ["Google Finance", "Yahoo Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY3IwclZvTHQ3Tmw1eG40c3B2RnNIRUpLVVBTLXBveEd2WWQ0eFFxek42YzZoaWlZM0EzTldNd1JSS0pUSlNXY2w3VHlSMzdnV0l2RFlVWE45dU11MWhNS05fV3hLd1JNa1JNWXJVbEhKcFZPUmtCeGhqUUg3RFp2WGxubHpFMHJFOHhuNHVzLUZmWk9WemN1Rmx1TFFnVmgteXY3eWVsQzYwVlg5am1QZVNiU2VWcjRQOXhBZmpBa9IBxAFBVV95cUxPRmk4dWotc00wbTZwLWU0TnBFdmJkSno4VmMzMWRwa2c5ZE5pTGZOOElIOUtBRkY3NEZpWWZLMTBueDRuVDZiTEY5MEp2RmV5bTVOdU42TllFemU1bTBhTXE2WWZJWndfalJHc05hOHZiMjg0d3V1U0pWZWpZb0d6VnhGTm5qVHVDUEZiN1oxT3dNM1R0aXJKeVN0ZTFMTkFKZGJEUTNOWTdvbzREZmtBak1BWE9nWlpXYWxGdl9QZVNDRmVE?oc=5"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-recovered-1-trillion-211443065.html"}
+      ],
+      "published": "2026-11-13T18:57:00-05:00",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Broadcom positioned to gain as Nvidia customers diversify chip suppliers",
+      "summary": "Nvidia's leadership turmoil is prompting major cloud and enterprise customers to reduce reliance on a single GPU vendor, creating an opening for Broadcom, valued around $1.6 trillion, and AMD as alternative suppliers of custom AI accelerators and networking hardware. Broadcom's roughly $58 billion 2026 AI semiconductor revenue target is flagged as the key metric to watch for evidence that orders are actually shifting.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-stock-gets-fresh-071030042.html"}
+      ],
+      "published": "2026-11-12T23:10:00-08:00",
+      "tickers": ["AVGO", "NVDA", "AMD"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Musk says Nvidia risks losing 'critical' deals without Huang",
+      "summary": "Elon Musk warned Nvidia could lose important customer relationships following Jensen Huang's abrupt departure, amplifying investor concern about the company's near-term execution and AI-chip roadmap. The comments add to broader uncertainty about how the AI trade is reshaped without Huang steering product strategy and key partnerships.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRGt2MzQzQnpsSXZBUFN6aW9ja0tyNVBWbmxMaWw4MGgzRzdkOWMyM0RINzRoaHVfTzlseFpfa1JaSGdpc3dETUFaMXRVeFJNemxIUXFmRXYxMUVmSEIxSTBGQVZKUkpoR1g1bUNaNGh5RDdENGYxcFFFVkxNVXV1MDE2clUxUdIBiwFBVV95cUxOTkpvNzM3VUkycnFlRmhWZDBnTW5taXU4V044R1VFdkMxLWJ0NEZoR1dqOGZGV2steFRJZWRTcDYwMlIyZFNyWkpwQzhRTmJObU1mZEYtZ2EwSjUzdncxdzVvUGRKbGxNSGdTSkJSQThGVkZwcGg1Q1I3RHBaMUl2TWZpVFdxTUVoeklB?oc=5"}
+      ],
+      "published": "2026-11-14T15:08:00-05:00",
+      "tickers": ["NVDA", "TSLA"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Six-percent corporate bond yields draw investors seeking shelter from Nvidia-driven volatility",
+      "summary": "US corporate bonds have rallied in recent weeks as money managers seek shelter from stock-market turbulence tied to the Nvidia leadership drama, with yields around 6% drawing fresh demand. The move underscores a rotation toward credit as equity volatility, centered on AI-chip names, rattles markets.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-14/juicy-6-yields-gain-appeal-after-nvidia-drama-credit-weekly"}
+      ],
+      "published": "2026-11-14T00:00:00Z",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bitcoin selloff grinds toward year's lows as demand weakens",
+      "summary": "Bitcoin's slow-motion selloff is pushing prices toward their lowest levels of the year as major sources of demand weaken, leaving even committed traders weary. Bloomberg describes a succession of setbacks eroding confidence in the crypto market's near-term recovery, even as the token traded around $65,231 Friday.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-15/crypto-s-slow-motion-selloff-leaves-traders-weary-and-hopeless"}
+      ],
+      "published": "2026-11-15T00:00:00Z",
+      "tickers": [],
+      "category": "Crypto",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "SpaceX revives S&P 500 ambitions via possible Tesla merger",
+      "summary": "Months after being denied swift entry into the S&P 500, Elon Musk may be pursuing a backdoor route for SpaceX by pitching a merger with Tesla. The move would reshape Tesla's structure and could reignite questions about index eligibility for Musk's ventures.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-14/spacex-s-s-p-500-bid-gets-new-life-as-musk-pitches-tesla-merger"}
+      ],
+      "published": "2026-11-14T00:00:00Z",
+      "tickers": ["TSLA"],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Microsoft restores cloud services after widespread outage",
+      "summary": "Microsoft restored service after a widespread outage disrupted users across its cloud and productivity platforms, adding to a string of tech infrastructure disruptions this week including an FAA ground stop. The incident renewed scrutiny on cloud-provider resilience and concentration risk for enterprise customers.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9SZmZCcS1rWDBlU1EtNTRYbFY4TE00cEVObWk3ak9jcnNsaWtabW83MjNuemxSUk1WWXZ5Q2VubUtCZ2Y5YnZkN2dNR3htVEhHUkpPbjNuczc0VmpDb1dIZ0Z3TVFaTW43Z1hrd00tTWFQQ0M5cFd4SUd6TG1ldw?oc=5"}
+      ],
+      "published": "2026-11-14T09:56:00-05:00",
+      "tickers": ["MSFT"],
+      "category": "Tech",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Italy fines Meta roughly $887 million over unauthorized access to users' photos",
+      "summary": "Italian regulators penalized Meta roughly €805 million ($887 million) for accessing Android users' photo galleries without explicit consent, the latest in a series of large EU penalties against the company. The fine adds to Meta's growing list of European regulatory and privacy liabilities even as its shares outperformed Friday's tech selloff.",
+      "sources": ["Google Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOY3IwclZvTHQ3Tmw1eG40c3B2RnNIRUpLVVBTLXBveEd2WWQ0eFFxek42YzZoaWlZM0EzTldNd1JSS0pUSlNXY2w3VHlSMzdnV0l2RFlVWE45dU11MWhNS05fV3hLd1JNa1JNWXJVbEhKcFZPUmtCeGhqUUg3RFp2WGxubHpFMHJFOHhuNHVzLUZmWk9WemN1Rmx1TFFnVmgteXY3eWVsQzYwVlg5am1QZVNiU2VWcjRQOXhBZmpBa9IB?oc=5"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-14/italy-fines-meta-805-million-over-access-to-users-photos"}
+      ],
+      "published": "2026-11-14T19:31:00-05:00",
+      "tickers": ["META"],
+      "category": "Policy",
+      "importance": 3,
+      "sentiment": "bearish"
+    }
+  ],
+  "watch_today": [
+    {"when": "2026-11-17/18", "event": "Nvidia (NVDA) Q3 earnings — first call led by interim CEO Colette Kress", "type": "earnings"},
+    {"when": "2026-11-18", "event": "Anthropic IPO pricing", "type": "other"},
+    {"when": "2026-11-18", "event": "Retail sales (advance), industrial production, ADP employment", "type": "economic"},
+    {"when": "2026-11-18", "event": "Target (TGT) earnings", "type": "earnings"},
+    {"when": "2026-11-19", "event": "Anthropic (ANT) begins trading on Nasdaq", "type": "other"},
+    {"when": "2026-11-19", "event": "Housing starts, building permits, FOMC meeting minutes", "type": "fed"},
+    {"when": "2026-11-19", "event": "Walmart (WMT) and Ross Stores earnings", "type": "earnings"},
+    {"when": "2026-11-20", "event": "Initial jobless claims, Philadelphia Fed business outlook", "type": "economic"},
+    {"when": "2026-11-20", "event": "BJ's Wholesale Club earnings", "type": "earnings"},
+    {"when": "2026-11-21", "event": "University of Michigan consumer sentiment (final reading)", "type": "economic"}
+  ],
+  "desk_status": {"google": "ok", "yahoo": "ok", "bloomberg": "ok", "markets": "ok"}
+}

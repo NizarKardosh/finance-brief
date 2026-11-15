@@ -1,0 +1,106 @@
+{
+  "source": "Yahoo Finance",
+  "fetched_at": "2026-11-15T12:00:00-05:00",
+  "stories": [
+    {
+      "headline": "Jensen Huang resigns as Nvidia CEO amid national security probe; S&P 500 recovers $1 trillion in 90 minutes",
+      "summary": "Nvidia founder Jensen Huang resigned on November 12 amid a national security investigation, triggering a selloff that erased up to $600 billion in Nvidia market value and sent shares down as much as 14%. The S&P 500 initially fell nearly 1% but fully recovered within about 90 minutes as gains in AMD (+7%) and Broadcom (+5%) offset the Nvidia decline, while retail investors reportedly bought roughly $111 million of Nvidia shares in the first half-hour. CFO Colette Kress was named interim CEO; Nvidia's November 17/18 earnings report, its first without Huang, will be a critical test of whether cloud customers are shifting AI chip orders away from the company.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-recovered-1-trillion-211443065.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-12T13:14:00-08:00",
+      "tickers": ["NVDA", "AMD", "AVGO"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "AMD posts widest outperformance over Nvidia since 1999 amid Huang resignation and strong earnings",
+      "summary": "AMD rallied 44.7% over five trading days while Nvidia fell 8.5%, a 53.2 percentage-point gap described as the widest since Nvidia's 1999 IPO; year-to-date AMD is up 149.4% versus Nvidia's 12.7% decline. The surge was fueled by Nvidia's leadership turmoil following Jensen Huang's November 12 resignation and AMD's strong Q3 results, with revenue up 45% to a record $13.4 billion and data-center sales nearly doubling to $8.5 billion. AMD shares gave back ground Friday, closing down 8.75% at $534.06 (and falling further after-hours) on profit-taking and rising Treasury yields, with Nvidia's November 17 earnings seen as the next key catalyst.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/amd-just-had-biggest-run-200656125.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-14T12:06:00-08:00",
+      "tickers": ["AMD", "NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Anthropic targets $1.3-1.4 trillion valuation in IPO as AI investor enthusiasm cools",
+      "summary": "Anthropic is proceeding with its IPO at a valuation of roughly $1.3-$1.4 trillion, down from earlier expectations of $1.5-$2 trillion, with trading expected to begin around November 19 on the Nasdaq under ticker ANT. Underwriting fees are estimated near $395 million, with Goldman Sachs and Morgan Stanley each earning about $79 million and JPMorgan and Citigroup about $44 million each. CEO Dario Amodei said the company aims to "underpromise and overdeliver," as the offering is viewed as a key test of investor appetite for AI valuations amid growing skepticism.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/anthropic-ipo-to-test-wall-streets-faith-in-ai-as-skepticism-mounts-180007104.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-14T10:56:00-08:00",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Broadcom sees fresh AI opening as Nvidia customers diversify chip suppliers after leadership shakeup",
+      "summary": "Nvidia's CEO turmoil is prompting major cloud and enterprise customers to reduce reliance on a single GPU vendor, creating an opening for Broadcom (valued around $1.6 trillion) and AMD as alternative suppliers of custom AI accelerators and networking hardware. Broadcom already has established infrastructure relationships with large AI buyers, and its roughly $58 billion 2026 AI semiconductor revenue target is flagged as a key metric to watch for evidence that orders are actually shifting. The report notes the disruption reinforces demand for custom processors but does not eliminate margin and financing risks tied to AI hardware.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/broadcom-avgo-stock-gets-fresh-071030042.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-12T23:10:00-08:00",
+      "tickers": ["AVGO", "NVDA", "AMD"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Wall Street braces for Nvidia's first post-Jensen earnings and Anthropic's market debut this week",
+      "summary": "The upcoming week is set to be dominated by Nvidia's November 17/18 earnings call, led for the first time by interim CEO Colette Kress following Jensen Huang's resignation, and Anthropic's IPO pricing on November 18 ahead of Nasdaq trading under ticker ANT beginning November 19. Also on the docket: retail earnings from Target, Walmart, Ross Stores and BJ's Wholesale, plus economic data including retail sales, industrial production, FOMC minutes, jobless claims and the University of Michigan consumer sentiment index. Yahoo Finance frames the week as presenting "conflicting narratives" for markets, with AI-sector turmoil testing investor conviction.",
+      "url": "https://finance.yahoo.com/markets/article/nvidias-first-post-jensen-earnings-and-anthropics-ipo-what-to-watch-this-week-110000732.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-15T11:00:00-08:00",
+      "tickers": ["NVDA", "AMD", "TGT", "WMT"],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Bernstein weighs in on Micron after memory chip sector selloff",
+      "summary": "Bernstein analysts assessed Micron Technology's outlook following a broad decline across memory chip stocks, with the stock cited among names seeing elevated retail investor interest and potential upside. The piece frames the selloff as part of a wider repricing in semiconductor names tied to AI capital-spending expectations.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-sees-micron-mu-memory-213006767.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-12T13:30:00-08:00",
+      "tickers": ["MU"],
+      "category": "Tech",
+      "importance": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "10-year Treasury yield climbs above 5% amid market volatility",
+      "summary": "The 10-year Treasury yield rose above the 5% threshold during this week's volatility sparked by Nvidia's leadership crisis, adding pressure on growth and tech stocks already grappling with AI-sector uncertainty. Higher borrowing costs were cited as a contributing factor in the pullback of high-flying chip stocks such as AMD late in the week.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-recovered-1-trillion-211443065.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-12T13:14:00-08:00",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Vanguard flags costly 401(k) mistakes among retirees",
+      "summary": "Vanguard identified common errors retirees make with their 401(k) accounts that can erode portfolio value over time, part of a broader push by the asset manager to improve retirement-saver behavior. The piece offers guidance aimed at helping older Americans avoid unnecessary losses in retirement accounts.",
+      "url": "https://finance.yahoo.com/economy/article/vanguard-warning-retirees-are-making-costly-mistakes-with-their-401ks-124028892.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-15T04:40:00-08:00",
+      "tickers": [],
+      "category": "Consumer",
+      "importance": 1,
+      "sentiment": "neutral"
+    }
+  ],
+  "calendar": [
+    {"when": "2026-11-17/18", "event": "Nvidia (NVDA) Q3 earnings - first call led by interim CEO Colette Kress", "type": "earnings"},
+    {"when": "2026-11-18", "event": "Anthropic IPO pricing", "type": "other"},
+    {"when": "2026-11-19", "event": "Anthropic (ANT) begins trading on Nasdaq", "type": "other"},
+    {"when": "2026-11-18", "event": "Retail sales (advance), industrial production, ADP employment", "type": "economic"},
+    {"when": "2026-11-18", "event": "Target (TGT) earnings", "type": "earnings"},
+    {"when": "2026-11-19", "event": "Housing starts, building permits, FOMC meeting minutes", "type": "fed"},
+    {"when": "2026-11-19", "event": "Walmart (WMT) and Ross Stores earnings", "type": "earnings"},
+    {"when": "2026-11-20", "event": "Initial jobless claims, Philadelphia Fed business outlook", "type": "economic"},
+    {"when": "2026-11-20", "event": "BJ's Wholesale Club earnings", "type": "earnings"},
+    {"when": "2026-11-21", "event": "University of Michigan consumer sentiment (final reading)", "type": "economic"}
+  ]
+}
