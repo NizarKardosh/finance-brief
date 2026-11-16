@@ -1,0 +1,99 @@
+{
+  "source": "Google Finance",
+  "fetched_at": "2026-11-16T13:00:00-05:00",
+  "stories": [
+    {
+      "headline": "Tech stocks under pressure as markets await Nvidia earnings and Anthropic IPO",
+      "summary": "U.S. stock futures fell Monday, with Nasdaq-100 futures down about 0.91% and S&P 500 futures down 0.31%, as investors braced for a pivotal week for AI stocks. Nvidia reports earnings Tuesday, with Wall Street expecting adjusted EPS of $2.47 (up from $1.30 a year earlier) and revenue up 91% year-over-year to roughly $108.93 billion. Friday's session saw the S&P 500 lose 0.4% and the Nasdaq fall 1.2% amid a chipmaker selloff.",
+      "url": "https://www.tipranks.com/news/stock-market-today-nov-16-u-s-stocks-mixed-ahead-of-nvidia-results-and-anthropic-ipo",
+      "publisher": "TipRanks",
+      "published": "2026-11-16T11:43:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Anthropic's IPO drawing orders for nearly 7 times available shares ahead of Nasdaq debut",
+      "summary": "Anthropic is finalizing IPO pricing this week, with shares expected to begin trading on Nasdaq under ticker ANT around Thursday. The offering has been oversubscribed roughly sevenfold, with the deal structured to value the AI company at up to $1.4 trillion; Anthropic and backers are seeking to raise as much as $90.4 billion combined through the IPO and a related private placement. Investors remain enthusiastic but are weighing questions about the durability of Anthropic's competitive position versus OpenAI.",
+      "url": "https://www.investing.com/news/stock-market-news/exclusiveinvestors-flock-to-anthropic-ipo-but-question-durability-of-ai-lead-5026644",
+      "publisher": "Reuters via Investing.com",
+      "published": "2026-11-16T10:30:00-05:00",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Nationwide US flight grounding adds pressure on airline stocks; federal officials faced years of warnings",
+      "summary": "A nationwide disruption to US air travel triggered a selloff in airline stocks late last week. Federal transportation officials reportedly received years of warnings about underlying system vulnerabilities before the meltdown occurred, according to records reviewed by investigators, raising scrutiny of regulatory oversight.",
+      "url": "https://www.cbsnews.com",
+      "publisher": "CBS News",
+      "published": "2026-11-16T07:02:32-05:00",
+      "tickers": [],
+      "category": "Policy",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "China's October economic data misses expectations despite stimulus",
+      "summary": "Beijing's economy underperformed forecasts in October, with recent stimulus measures yet to show their full effect on growth. The weaker-than-expected data adds to concerns about the pace of China's recovery and its knock-on effects for global trade and commodity demand.",
+      "url": "https://www.bloomberg.com",
+      "publisher": "Bloomberg",
+      "published": "2026-11-16T02:31:00-05:00",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Intel hit with shareholder lawsuit following 29% stock decline",
+      "summary": "Investors have filed litigation against Intel after shares fell 29% amid ongoing weakness in the PC market. The suit alleges issues related to disclosures tied to the chipmaker's struggles, adding legal pressure to an already difficult period for the company.",
+      "url": "https://www.bbc.com",
+      "publisher": "BBC",
+      "published": "2026-11-15T22:04:01-05:00",
+      "tickers": ["INTC"],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Warren Buffett donates $5.5 billion in Berkshire shares to family foundations",
+      "summary": "Berkshire Hathaway chairman Warren Buffett donated $5.5 billion worth of shares to family charitable foundations, continuing his long-running philanthropic giving pattern. The donation underscores Buffett's ongoing commitment to charitable giving as he continues to transition elements of his estate and legacy planning.",
+      "url": "https://www.cnbc.com",
+      "publisher": "CNBC",
+      "published": "2026-11-16T07:05:30-05:00",
+      "tickers": ["BRK.A", "BRK.B"],
+      "category": "Markets",
+      "importance": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Report: Jensen Huang has discussed a potential Nvidia return with associates",
+      "summary": "Nvidia founder Jensen Huang has reportedly discussed the idea of a comeback with associates, with tech figures including Elon Musk said to be supportive of the idea. The report comes amid a week of intense investor focus on Nvidia ahead of its earnings release.",
+      "url": "https://www.forbes.com",
+      "publisher": "Forbes",
+      "published": "2026-11-16T06:45:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Middle East tensions and volatile oil prices weigh on investor sentiment",
+      "summary": "Rising geopolitical tensions in the Middle East and swings in oil prices contributed to risk-off sentiment heading into the new week, compounding weakness already evident in Asian markets and the tech sector. The combination added to a cautious tone across equities ahead of major catalysts including Nvidia earnings and Fed minutes.",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-earnings-fed-minutes-anthropic-ipo-put-ai-rally-to-the-test/cNb7nGoR9XM",
+      "publisher": "Stocktwits",
+      "published": "2026-11-16T08:00:00-05:00",
+      "tickers": [],
+      "category": "Energy",
+      "importance": 3,
+      "sentiment": "bearish"
+    }
+  ],
+  "calendar": [
+    {"when": "Tuesday (Nov 17)", "event": "Nvidia (NVDA) Q3 earnings", "type": "earnings"},
+    {"when": "This week", "event": "Anthropic IPO pricing and Nasdaq debut (ticker ANT)", "type": "other"},
+    {"when": "This week", "event": "FOMC meeting minutes release", "type": "fed"}
+  ]
+}

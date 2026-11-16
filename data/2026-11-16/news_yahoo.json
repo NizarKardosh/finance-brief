@@ -1,0 +1,101 @@
+{
+  "source": "Yahoo Finance",
+  "fetched_at": "2026-11-16T13:30:00Z",
+  "stories": [
+    {
+      "headline": "Nvidia shares slide as Jensen Huang reportedly weighs return as CEO",
+      "summary": "Nvidia fell roughly 3% in premarket trading after the Financial Times reported that ousted CEO Jensen Huang has discussed a potential comeback with confidants, while Silicon Valley executives reportedly formed a 'war room' to lobby the board for his reinstatement. Huang resigned last week amid a personal scandal, and Elon Musk publicly backed his possible return. Nvidia has lost nearly $2 trillion in market value in the six weeks since the leadership upheaval began.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-16T09:16:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Nvidia's first post-Huang earnings and Anthropic's IPO headline a pivotal week for AI stocks",
+      "summary": "Nvidia reports fiscal Q3 results Tuesday, its first since Jensen Huang's departure, with analysts expecting revenue up 91% to $108.73 billion and adjusted EPS up 90% to $2.47. Anthropic's IPO, reportedly oversubscribed seven times and targeting a raise north of $90 billion, is expected to price and list Thursday or Friday, potentially becoming the largest-ever public debut, surpassing SpaceX's early-2026 listing.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-important-q3-report-china-063705093.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-16T06:37:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Earnings",
+      "importance": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "AMD and chip rivals rally as Wall Street bets on Nvidia customers diversifying orders",
+      "summary": "AMD, Intel, and other Nvidia rivals drew fresh attention as investors rotated into alternative chipmakers on bets that AI customers will diversify suppliers amid Nvidia's leadership turmoil. Oppenheimer upgraded AMD to Outperform with a $600 price target, framing it as Wall Street's clearest potential winner if hyperscalers shift some orders away from Nvidia.",
+      "url": "https://www.tipranks.com/news/why-nvidia-amd-and-intel-stocks-are-tumbling-in-premarket-today-nov-16-and-what-wall-street-sees-next",
+      "publisher": "TipRanks",
+      "published": "2026-11-16T08:00:00-05:00",
+      "tickers": ["AMD", "INTC", "NVDA"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "CoreWeave slides as Nvidia contagion hits AI cloud and neocloud stocks",
+      "summary": "CoreWeave shares fell roughly 6% as the fallout from Nvidia's leadership crisis spread to AI infrastructure and 'neocloud' names that depend heavily on Nvidia chips and partnerships. The stock's drop highlights investor concern that uncertainty at Nvidia could ripple through its closest customers and suppliers.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-faces-fresh-risk-042335689.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-16T04:23:00-05:00",
+      "tickers": ["CRWV", "NVDA"],
+      "category": "Tech",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Stock futures slip as Treasury yields climb above 5%, pressuring AI trade",
+      "summary": "S&P 500 futures fell about 0.6% and Nasdaq futures dropped roughly 1.3% in early Monday trading as Treasury yields pushed above 5%, adding pressure on richly valued AI and semiconductor stocks already rattled by the Nvidia leadership saga. Dow futures were roughly flat, underscoring a rotation away from high-growth tech.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-16T09:16:00-05:00",
+      "tickers": ["NVDA", "AMD"],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Bitcoin extends selloff, down about 2% and roughly 17% off recent highs",
+      "summary": "Bitcoin traded near $64,110, down about $1,357 (roughly 2%) on the day and down approximately 17% from its recent peak, dragging crypto-linked equities lower in premarket trading. Analysts pointed to bitcoin's four-year cycle pattern as a possible explanation for the pullback.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-16T09:16:00-05:00",
+      "tickers": [],
+      "category": "Crypto",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "China tech earnings from Baidu and JD.com add to a busy week for global AI investors",
+      "summary": "Baidu reports Monday, with revenue expected up 9% to $40.45 billion and adjusted EPS up 153% to $1.65, while JD.com reports Tuesday with sales forecast to rise 3.6% to $46.42 billion and adjusted profit up 58% to $0.88 per share. Both reports will offer a read on China's economy and the payoff from AI investment there, alongside Microsoft's Ignite conference running November 17-20 in San Francisco.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-important-q3-report-china-063705093.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-16T06:37:00-05:00",
+      "tickers": [],
+      "category": "Earnings",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Oil prices ease as Strait of Hormuz shipping recovers",
+      "summary": "Brent crude slipped to around $94 a barrel, down about 2% on the week, as shipping conditions through the Strait of Hormuz improved, easing some of the supply-risk premium that had been built into energy prices.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-16T09:16:00-05:00",
+      "tickers": [],
+      "category": "Energy",
+      "importance": 2,
+      "sentiment": "bearish"
+    }
+  ],
+  "calendar": [
+    {"when": "Today", "event": "Baidu (BIDU) Q3 earnings", "type": "earnings"},
+    {"when": "Tuesday Nov 17", "event": "Nvidia (NVDA) Q3 earnings - first since Jensen Huang's departure", "type": "earnings"},
+    {"when": "Tuesday Nov 17", "event": "JD.com (JD) earnings", "type": "earnings"},
+    {"when": "Nov 17-20", "event": "Microsoft Ignite conference, San Francisco", "type": "other"},
+    {"when": "Thursday/Friday", "event": "Anthropic IPO expected to list, targeting $90B+ raise", "type": "other"}
+  ]
+}

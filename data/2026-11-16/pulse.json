@@ -1,0 +1,11 @@
+{
+  "pulse": "Stocks pulled back on 2026-11-16, with the S&P 500 off 0.40% to 7561.67 and the Nasdaq 100 down 1.22% to 27943.74 as chipmakers sold off, while the Dow Jones eked out a 0.10% gain to 52347.55 and the Russell 2000 slipped 0.31% to 2790.49. Breadth was actually positive beneath the index-level weakness, with 313 advancers versus 187 decliners among S&P 500 names. Electronic Technology was the weakest sector (-2.07%) dragged down by semiconductor names, alongside Consumer Durables (-1.51%) and Producer Manufacturing (-1.41%), while Consumer Non-Durables (+1.45%) and Energy Minerals (+1.00%) led gainers. The VIX spiked 6.11% to 20.48 reflecting the risk-off tone, the 10-year yield eased 0.19% to 5.129%, the dollar (DXY) was roughly flat at 103.464 (+0.05%), WTI crude fell 0.85% to $87.81, and Bitcoin dropped 1.86% to $64,096.66. Among the most-active names, AMD led decliners with an 8.75% plunge to $534.06 on volume of 49.4 million, Broadcom (AVGO) fell 4.76% to $347.01, and Nvidia (NVDA) slid 2.01% to $162.85 on heavy volume of 365.8 million shares, while Meta (META) was the standout gainer, up 2.90% to $641.69.",
+  "standouts": [
+    {"ticker": "AMD", "note": "-8.75% to $534.06 on volume of 49.4M, worst among the most-active names"},
+    {"ticker": "NVDA", "note": "-2.01% to $162.85 on heavy volume of 365.8M, top of most-active by volume"},
+    {"ticker": "AVGO", "note": "-4.76% to $347.01 as semiconductors led sector declines"},
+    {"ticker": "META", "note": "+2.90% to $641.69, top gainer among the most-active stocks"},
+    {"ticker": "MU", "note": "-2.52% to $778.31, Micron added to the chip-sector pullback"},
+    {"ticker": "VIX", "note": "+6.11% to 20.48, biggest single-day jump among benchmarks as risk appetite faded"}
+  ]
+}

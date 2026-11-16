@@ -1,0 +1,197 @@
+{
+  "date": "2026-11-16",
+  "headline_of_day": "Nvidia's leadership crisis overshadows its earnings and Anthropic's IPO",
+  "dek": "Nvidia's leadership turmoil and Anthropic's blockbuster IPO collided with a chip-led selloff that sent the Nasdaq down 1.2% and the VIX up 6%.",
+  "big_picture": "Equities slid Monday as a chaotic earnings week got underway: the S&P 500 fell 0.4% to 7,561.67, the Nasdaq 100 dropped 1.2% to 27,943.74 and the VIX jumped 6.1% to 20.48, even as the Dow eked out a 0.1% gain and breadth stayed positive with 313 advancers against 187 decliners. The proximate trigger was Nvidia, where reports that ousted CEO Jensen Huang is weighing a return, plus Treasury Secretary Bessent's call for a 'dramatic shakeup,' overshadowed Tuesday's crucial Q3 earnings, in which Wall Street expects 91% revenue growth to $108.9 billion. Chipmakers bore the brunt: AMD tumbled 8.75% to $534.06 despite an Oppenheimer upgrade, Broadcom fell 4.76% and Nvidia itself slid 2.0% to $162.85, dragging Electronic Technology down 2.07% as the day's weakest sector. Anthropic's IPO offered a bright spot for the AI trade, oversubscribed roughly sevenfold ahead of a Wednesday pricing that could value the company at up to $1.4 trillion. Beyond tech, China's October data missed forecasts despite stimulus, Treasury yields pushed above 5%, and bitcoin extended its slide to roughly $64,100, down 17% from its highs.",
+  "three_things": [
+    "Nvidia's leadership chaos is now a bigger market mover than its earnings",
+    "Chip stocks' diversification rally reversed into an 8%+ AMD rout by the close",
+    "Anthropic's IPO is carrying the AI trade's hopes into Wednesday's pricing"
+  ],
+  "market_pulse": "Stocks pulled back on 2026-11-16, with the S&P 500 off 0.40% to 7561.67 and the Nasdaq 100 down 1.22% to 27943.74 as chipmakers sold off, while the Dow Jones eked out a 0.10% gain to 52347.55 and the Russell 2000 slipped 0.31% to 2790.49. Breadth was actually positive beneath the index-level weakness, with 313 advancers versus 187 decliners among S&P 500 names. Electronic Technology was the weakest sector (-2.07%) dragged down by semiconductor names, alongside Consumer Durables (-1.51%) and Producer Manufacturing (-1.41%), while Consumer Non-Durables (+1.45%) and Energy Minerals (+1.00%) led gainers. The VIX spiked 6.11% to 20.48 reflecting the risk-off tone, the 10-year yield eased 0.19% to 5.129%, the dollar (DXY) was roughly flat at 103.464 (+0.05%), WTI crude fell 0.85% to $87.81, and Bitcoin dropped 1.86% to $64,096.66.",
+  "standouts": [
+    {"ticker": "AMD", "note": "-8.75% to $534.06 on volume of 49.4M, worst among the most-active names"},
+    {"ticker": "NVDA", "note": "-2.01% to $162.85 on heavy volume of 365.8M, top of most-active by volume"},
+    {"ticker": "AVGO", "note": "-4.76% to $347.01 as semiconductors led sector declines"},
+    {"ticker": "META", "note": "+2.90% to $641.69, top gainer among the most-active stocks"},
+    {"ticker": "MU", "note": "-2.52% to $778.31, Micron added to the chip-sector pullback"},
+    {"ticker": "VIX", "note": "+6.11% to 20.48, biggest single-day jump among benchmarks as risk appetite faded"}
+  ],
+  "stories": [
+    {
+      "headline": "Nvidia's leadership crisis deepens as Huang weighs a comeback",
+      "summary": "Nvidia shares fell roughly 3% in premarket trading after reports that ousted chief executive Jensen Huang has discussed a return with confidants, days after resigning amid a personal scandal; Elon Musk has publicly backed the idea. Treasury Secretary Scott Bessent said Nvidia's leadership needs a 'dramatic shakeup' and clearer export-compliance disclosures. The stock has shed almost $2 trillion in market value over six weeks of turmoil.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://www.forbes.com"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/videos/2026-11-16/bessent-says-nvidia-leadership-needs-dramatic-shakeup-video"}
+      ],
+      "published": "2026-11-16T09:16:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Anthropic's IPO draws orders for nearly seven times the shares on offer",
+      "summary": "Anthropic is on track to price its IPO on Wednesday and begin trading on Nasdaq under the ticker ANT as early as Thursday, in a deal structured to value the company at up to $1.4 trillion. Orders have come in at roughly seven times the shares available, with Anthropic and its backers seeking to raise as much as $90.4 billion combined through the listing and a related private placement. Investors remain enthusiastic, though some are questioning how durable Anthropic's lead over OpenAI will prove.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://www.investing.com/news/stock-market-news/exclusiveinvestors-flock-to-anthropic-ipo-but-question-durability-of-ai-lead-5026644"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-important-q3-report-china-063705093.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/newsletters/2026-11-16/anthropic-holds-the-key-to-the-future-of-the-ai-trade"}
+      ],
+      "published": "2026-11-16T10:30:00-05:00",
+      "tickers": ["ANT"],
+      "category": "Deals",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Wall Street braces for the week's biggest test: Nvidia's earnings",
+      "summary": "Nasdaq-100 futures fell about 1.2% and S&P 500 futures slipped as Treasury yields pushed above 5%, extending a chipmaker-led selloff that cost the S&P 500 0.4% and the Nasdaq 1.2% on Friday. Nvidia reports fiscal third-quarter results Tuesday, its first since Jensen Huang's departure, with Wall Street forecasting revenue up 91% to about $108.9 billion and adjusted earnings of $2.47 a share. Emerging-market stocks and currencies posted their worst stretch in more than a week as AI-trade jitters spread globally.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://www.tipranks.com/news/stock-market-today-nov-16-u-s-stocks-mixed-ahead-of-nvidia-results-and-anthropic-ipo"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-important-q3-report-china-063705093.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates"}
+      ],
+      "published": "2026-11-16T11:43:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "China's October data undershoots forecasts despite stimulus push",
+      "summary": "China's growth slowed across the board in October, with investment unexpectedly worsening alongside softer consumption and industrial output, suggesting recent stimulus has yet to gain traction. The People's Bank of China drained medium-term funds from the financial system for the first time this cycle, signaling that further easing may be limited. The weaker data adds to concerns about global trade and commodity demand.",
+      "sources": ["Google Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://www.bloomberg.com"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-economy-weakens-more-than-forecast-despite-stimulus-push"}
+      ],
+      "published": "2026-11-16T02:00:00Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "AMD's supplier-diversification rally fades into a chip-sector rout",
+      "summary": "Wall Street initially cheered AMD, Intel and other Nvidia rivals Monday on bets that AI customers would diversify chip orders amid Nvidia's leadership turmoil, with Oppenheimer upgrading AMD to Outperform and a $600 price target. The optimism didn't survive the session: AMD tumbled 8.75% to $534.06, the worst showing among the most-active stocks, while Broadcom fell 4.76% as the broader semiconductor group dragged Electronic Technology down 2.07%, the day's weakest sector.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://www.tipranks.com/news/why-nvidia-amd-and-intel-stocks-are-tumbling-in-premarket-today-nov-16-and-what-wall-street-sees-next"}
+      ],
+      "published": "2026-11-16T08:00:00-05:00",
+      "tickers": ["AMD", "INTC", "AVGO"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Oil retreats as Hormuz shipping eases and Goldman flags a 2027 glut",
+      "summary": "Crude slipped Monday, with WTI down 0.85% to $87.81 and Brent easing toward $94 a barrel, as shipping conditions through the Strait of Hormuz improved and trimmed some of the Middle East risk premium even as regional tensions stayed elevated. Goldman Sachs separately warned of a 'sizable' oil surplus in 2027, projecting Brent will average $88 next year before easing to $78 by year-end as the geopolitical premium normalizes.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://stocktwits.com/news-articles/markets/equity/nvidia-earnings-fed-minutes-anthropic-ipo-put-ai-rally-to-the-test/cNb7nGoR9XM"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/videos/2026-11-16/goldman-warns-oil-market-faces-sizable-2027-surplus-video"}
+      ],
+      "published": "2026-11-16T11:23:24Z",
+      "tickers": [],
+      "category": "Energy",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Diamondback to buy Double Eagle's Permian assets for $5 billion",
+      "summary": "Diamondback Energy agreed to acquire subsidiaries of privately held Double Eagle for about $5 billion in cash and stock, deepening its footprint in the Permian Basin, the world's most productive shale patch. The deal extends a wave of consolidation sweeping the US and Canadian oil and gas sector.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-16/diamondback-agrees-to-buy-parts-of-shale-producer-double-eagle"}
+      ],
+      "published": "2026-11-16T11:57:49Z",
+      "tickers": ["FANG"],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "BlackRock warns AI buildout slowdown could dent US growth",
+      "summary": "BlackRock's Investment Institute flagged the risk that fading confidence in AI infrastructure payoffs could trigger a slowdown in the buildout, with knock-on effects for US economic growth. The warning adds to a growing chorus of caution around the AI capital-spending cycle as tech stocks slide.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/videos/2026-11-16/blackrock-sees-risk-of-ai-slowdown-impacting-us-growth-video"}
+      ],
+      "published": "2026-11-16T10:09:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Bond traders look to Fed minutes after a bruising week",
+      "summary": "Treasury traders who took losses last week are watching a slate of Federal Reserve speeches and the central bank's latest meeting minutes for clues on rates, after markets ramped up bets on an extended hiking cycle. Kansas City Fed's Jeff Schmid said the central bank still has work to do on inflation, while JPMorgan's Bob Michele called it 'a bit silly' that the Fed skipped an October hike.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-15/roughed-up-bond-traders-look-to-fedspeak-minutes-for-next-move"}
+      ],
+      "published": "2026-11-15T20:00:00Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "CoreWeave slides as Nvidia contagion spreads to AI clouds",
+      "summary": "CoreWeave shares fell about 6% as fallout from Nvidia's leadership crisis spread to AI infrastructure and 'neocloud' names that depend heavily on Nvidia chips and partnerships. The drop underscores investor concern that uncertainty atop Nvidia could ripple through its closest customers.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-crwv-faces-fresh-risk-042335689.html"}
+      ],
+      "published": "2026-11-16T04:23:00-05:00",
+      "tickers": ["CRWV", "NVDA"],
+      "category": "Tech",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Bitcoin slides toward $64,000, now 17% off its highs",
+      "summary": "Bitcoin fell toward $64,100, down roughly 2% on the day and about 17% off its recent peak, dragging crypto-linked equities lower in premarket trading. Analysts pointed to bitcoin's four-year cycle pattern as a possible explanation for the pullback.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html"}
+      ],
+      "published": "2026-11-16T09:16:00-05:00",
+      "tickers": [],
+      "category": "Crypto",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Nationwide flight grounding pressures airline stocks as scrutiny mounts",
+      "summary": "A nationwide disruption to US air travel triggered a selloff in airline stocks late last week. Records reviewed by investigators show federal transportation officials received years of warnings about underlying system vulnerabilities before the meltdown, intensifying scrutiny of regulatory oversight.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://www.cbsnews.com"}
+      ],
+      "published": "2026-11-16T07:02:32-05:00",
+      "tickers": [],
+      "category": "Policy",
+      "importance": 3,
+      "sentiment": "bearish"
+    }
+  ],
+  "watch_today": [
+    {"when": "Today", "event": "Baidu (BIDU) Q3 earnings", "type": "earnings"},
+    {"when": "Tuesday, Nov 17", "event": "Nvidia (NVDA) Q3 earnings — first since Jensen Huang's departure", "type": "earnings"},
+    {"when": "Tuesday, Nov 17", "event": "JD.com (JD) earnings", "type": "earnings"},
+    {"when": "Nov 17-20", "event": "Microsoft Ignite conference, San Francisco", "type": "other"},
+    {"when": "Wednesday, Nov 18", "event": "Anthropic IPO expected to price", "type": "other"},
+    {"when": "Thursday, Nov 19", "event": "Anthropic begins trading on Nasdaq (ticker ANT)", "type": "other"},
+    {"when": "This week", "event": "FOMC meeting minutes release and multiple Fed speeches", "type": "fed"}
+  ],
+  "desk_status": {"google": "ok", "yahoo": "ok", "bloomberg": "ok", "markets": "ok"}
+}

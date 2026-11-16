@@ -1,0 +1,100 @@
+{
+  "source": "Bloomberg",
+  "fetched_at": "2026-11-16T13:00:00-05:00",
+  "stories": [
+    {
+      "headline": "Tech stocks selloff deepens ahead of Nvidia earnings and Anthropic IPO",
+      "summary": "A rout in technology shares extended into a new week as traders cut risk ahead of Nvidia's high-stakes earnings and Anthropic's expected market debut in the coming days. Emerging-market stocks and currencies also slid, posting their worst drop in more than a week, as concerns about the AI trade rippled globally.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/stock-market-today-dow-s-p-live-updates",
+      "publisher": "Bloomberg",
+      "published": "2026-11-15T22:11:32Z",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Bessent says Nvidia leadership needs 'dramatic shakeup' amid CEO search",
+      "summary": "Treasury Secretary Bessent urged Nvidia to overhaul its leadership and clarify export-compliance disclosures following the ousting of CEO Jensen Huang, whose long-standing advocacy for US tech sales to China preceded the scandal. Morgan Stanley separately turned 'max overweight' on global stocks, betting the AI capex cycle remains intact into 2027.",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-16/bessent-says-nvidia-leadership-needs-dramatic-shakeup-video",
+      "publisher": "Bloomberg",
+      "published": "2026-11-16T08:41:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Anthropic IPO set to price Wednesday, trade Thursday, testing AI valuations",
+      "summary": "Anthropic's IPO is expected to price Wednesday and begin trading Thursday, a deal Bloomberg says 'holds the key to the future of the AI trade' and will test whether AI model makers can command valuations rivaling Nvidia's. The listing comes as the broader AI trade wobbles following Nvidia's leadership turmoil.",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-16/anthropic-holds-the-key-to-the-future-of-the-ai-trade",
+      "publisher": "Bloomberg",
+      "published": "2026-11-16T10:37:40Z",
+      "tickers": ["NVDA"],
+      "category": "Deals",
+      "importance": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Diamondback Energy to buy Double Eagle shale assets for $5 billion",
+      "summary": "Diamondback Energy agreed to acquire certain subsidiaries of privately held Double Eagle for about $5 billion in cash and stock, expanding its footprint in the Permian Basin, the world's most productive shale patch. The deal adds to a wave of consolidation in US and Canadian oil and gas.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/diamondback-agrees-to-buy-parts-of-shale-producer-double-eagle",
+      "publisher": "Bloomberg",
+      "published": "2026-11-16T11:57:49Z",
+      "tickers": ["FANG"],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "China's economy weakens more than forecast in October despite stimulus",
+      "summary": "China's growth slowed across the board in October as investment unexpectedly worsened while consumption and industrial output also softened, with new stimulus measures yet to take effect. Separately, the PBOC drained medium-term funds from the financial system for the first time in a signal that further easing may be limited.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-16/china-s-economy-weakens-more-than-forecast-despite-stimulus-push",
+      "publisher": "Bloomberg",
+      "published": "2026-11-16T02:00:00Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Goldman Sachs warns oil market faces 'sizable' 2027 surplus",
+      "summary": "Goldman Sachs said the oil market faces a sizable surplus next year that will drag prices lower even as geopolitical supply risks persist. The bank expects Brent to average $88 a barrel in 2027, easing to $78 by year-end as the risk premium normalizes, even as crude stayed elevated Monday on Middle East tensions.",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-16/goldman-warns-oil-market-faces-sizable-2027-surplus-video",
+      "publisher": "Bloomberg",
+      "published": "2026-11-16T11:23:24Z",
+      "tickers": [],
+      "category": "Energy",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "BlackRock warns of AI buildout 'slowdown' risk to US growth",
+      "summary": "BlackRock Investment Institute flagged the risk that uncertainty over the payoff from AI infrastructure spending could trigger a slowdown in the buildout, with knock-on effects for US economic growth. The warning adds to a growing chorus of caution around the AI capex cycle as tech stocks slide.",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-16/blackrock-sees-risk-of-ai-slowdown-impacting-us-growth-video",
+      "publisher": "Bloomberg",
+      "published": "2026-11-16T10:09:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Bond traders eye Fed speeches and minutes after bruising week",
+      "summary": "Bond traders who took a beating last week are looking to a slew of Federal Reserve speeches and the central bank's latest meeting minutes for clues on rates, after markets ramped up expectations for an extended cycle of hikes. Separately, Kansas City Fed's Schmid said the Fed has more work to do to bring down inflation, and JPMorgan's Bob Michele said it "looks a bit silly" that the Fed missed an October hike.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-15/roughed-up-bond-traders-look-to-fedspeak-minutes-for-next-move",
+      "publisher": "Bloomberg",
+      "published": "2026-11-15T20:00:00Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "neutral"
+    }
+  ],
+  "calendar": [
+    {"when": "throughout week", "event": "Fed speeches and FOMC minutes release", "type": "fed"},
+    {"when": "this week", "event": "Nvidia Q3 earnings", "type": "earnings"},
+    {"when": "Wednesday", "event": "Anthropic IPO pricing", "type": "other"},
+    {"when": "Thursday", "event": "Anthropic begins trading", "type": "other"}
+  ]
+}
