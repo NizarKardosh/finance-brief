@@ -1,0 +1,11 @@
+{
+  "pulse": "A broad risk-off session: the S&P 500 fell 1.92%, the Nasdaq 100 dropped 2.67%, the Dow slid 1.41%, and the Russell 2000 lost 1.70%, with breadth decisively negative at 145 advancers versus 355 decliners out of 502 names. Producer Manufacturing (-3.78%) and Electronic Technology (-3.31%) led sector losses as chip and industrial names were hit hardest, while Technology Services (-2.70%) also lagged; Health Services (+1.81%), Consumer Non-Durables (+0.39%), and Transportation (+0.26%) were the only sectors in the green. The VIX ticked up 0.22% to 22.96, the 10Y yield rose 0.23% to 5.14%, the dollar (DXY) gained 0.17% to 103.77, WTI crude climbed 1.34% to 86.87, and gold slipped 0.50% to 3837.28. Among the most-active names, Sandisk (SNDK) tumbled 8.58%, Micron (MU) fell 7.62%, AMD dropped 5.58%, and NVDA led volume at 333.8M shares while falling 4.12%, with Apple (AAPL) the relative outperformer among mega-caps at -0.98%.",
+  "standouts": [
+    {"ticker": "SNDK", "note": "-8.58% to $809.11, among the sharpest most-active decliners"},
+    {"ticker": "MU", "note": "-7.62% to $719.02 on $19.50B value traded"},
+    {"ticker": "AMD", "note": "-5.58% to $504.28, weighing on Electronic Technology sector"},
+    {"ticker": "NVDA", "note": "-4.12% to $156.14, top of most-active with 333.8M shares / $52.1B traded"},
+    {"ticker": "AAPL", "note": "-0.98% to $352.78, most resilient of the heavily traded mega-caps"},
+    {"ticker": "SPCX", "note": "-1.26% to $137.36 on heavy volume of 101.7M shares"}
+  ]
+}

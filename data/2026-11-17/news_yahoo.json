@@ -1,0 +1,101 @@
+{
+  "source": "Yahoo Finance",
+  "fetched_at": "2026-11-17T13:00:00Z",
+  "stories": [
+    {
+      "headline": "Nvidia set to report first earnings since Jensen Huang's exit as interim CEO Kress takes the podium",
+      "summary": "Nvidia reports Q3 fiscal 2027 results after market close today, its first earnings report since Jensen Huang resigned as President, CEO, and board member amid an internal investigation, with CFO Colette Kress serving as interim CEO. Wall Street expects EPS of about $2.47 on revenue near $109.15 billion, and the report carries outsized weight for the broader AI trade given the leadership upheaval.",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-interim-ceo-kress-prepares-for-q3-earnings-with-huang-reportedly-planning-comeback-153114076.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-17T08:00:00-05:00",
+      "tickers": ["NVDA", "ARM", "AMD"],
+      "category": "Earnings",
+      "importance": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nvidia board not considering reinstating Jensen Huang despite Trump and Ackman backing a comeback",
+      "summary": "Sources say Nvidia's board is focused on the internal investigation into Huang rather than discussing his reinstatement, even as pressure mounts from prominent supporters. Investor Bill Ackman outlined a potential strategy to call a special shareholder meeting to reinstate Huang if legal uncertainties clear, and President Trump said he \"wouldn't mind\" seeing Huang return as CEO. Huang has since updated his social media profile to simply \"founder,\" dropping his Nvidia affiliation badge.",
+      "url": "https://finance.yahoo.com/technology/article/should-nvidia-bring-jensen-huang-back-as-silicon-valleys-elite-are-demanding-200000408.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-17T09:00:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "St. Louis Fed's Musalem calls for rate hikes to start soon as inflation runs hot",
+      "summary": "Musalem said the Fed should move \"sooner\" on rate increases while inflation expectations remain anchored, arguing this has a better chance of succeeding without hurting employment. He wants the real policy rate at 2%-2.5% by spring 2027, implying 100-150 basis points of hikes to roughly 4.75%-5%, citing headline and core PCE both running above 3% and a hotter-than-expected October CPI.",
+      "url": "https://finance.yahoo.com/economy/policy/article/st-louis-feds-musalem-calls-for-interest-rate-hikes-soon-132554806.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-17T08:25:00-05:00",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Disney beats Q4 estimates as parks and streaming keep growing",
+      "summary": "Disney posted adjusted EPS of $1.77 versus a $1.68 estimate on revenue of $25.9 billion, above the $25.2 billion forecast, with operating income up 43% year-over-year to $5 billion. Parks & Experiences revenue hit $10.1 billion on an 11% rise in global guests, while Entertainment revenue grew 17% to $11.9 billion helped by strong Disney+ viewership for "Toy Story 5." Shares initially rose about 2% in premarket trading on the beat.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/disney-q4-earnings-beat-estimates-as-parks-and-streaming-keep-growing-113817189.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-17T06:38:00-05:00",
+      "tickers": ["DIS"],
+      "category": "Earnings",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Home Depot names CFO Richard McPhail as new CEO",
+      "summary": "Home Depot announced a leadership transition promoting Chief Financial Officer Richard McPhail to Chief Executive Officer. The retailer also reported earnings alongside the announcement; the stock fell roughly 2.4% following the news as investors weighed the leadership change.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/who-is-new-home-depot-ceo-richard-mcphail-123623601.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-17T07:36:00-05:00",
+      "tickers": ["HD"],
+      "category": "Earnings",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Stock futures mixed as Wall Street braces for Nvidia earnings",
+      "summary": "Dow futures fell about 0.75% (-388 points) and S&P 500 futures slipped 0.07%, while Nasdaq futures gained 0.39% ahead of Nvidia's after-hours report. The S&P 500 is within roughly 110 points of a fourth consecutive double-digit annual gain, keeping investor focus on whether Nvidia's results can sustain the AI-driven rally.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-091546152.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-17T09:15:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Arm shares pressured amid reports Nvidia board approached CEO Rene Haas as possible Huang successor",
+      "summary": "Arm Holdings shares declined after reports surfaced that Nvidia's board had approached Arm CEO Rene Haas as a potential permanent successor to Jensen Huang, raising uncertainty about Arm's own leadership stability. The speculation adds to a turbulent week for chip-sector governance tied to Nvidia's leadership crisis.",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-interim-ceo-kress-prepares-for-q3-earnings-with-huang-reportedly-planning-comeback-153114076.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-17T08:00:00-05:00",
+      "tickers": ["ARM", "NVDA"],
+      "category": "Tech",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Anthropic IPO expected this week adds to a packed market calendar",
+      "summary": "Markets are also watching for Anthropic's expected IPO on Thursday, coming the same week as Nvidia's earnings, adding another major event for investors tracking AI-sector valuations and market liquidity.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-091546152.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-17T09:15:00-05:00",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 2,
+      "sentiment": "neutral"
+    }
+  ],
+  "calendar": [
+    {"when": "After market close", "event": "Nvidia (NVDA) Q3 FY2027 earnings", "type": "earnings"},
+    {"when": "Today", "event": "Retail sales", "type": "economic"},
+    {"when": "Today", "event": "Industrial production", "type": "economic"},
+    {"when": "Today", "event": "Housing data", "type": "economic"},
+    {"when": "This week (Thursday)", "event": "Anthropic IPO", "type": "other"}
+  ]
+}

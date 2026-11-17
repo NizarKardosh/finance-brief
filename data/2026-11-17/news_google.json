@@ -1,0 +1,97 @@
+{
+  "source": "Google Finance",
+  "fetched_at": "2026-11-17T13:50:00Z",
+  "stories": [
+    {
+      "headline": "Dow futures slide 200 points as Home Depot weighs on market, traders await Nvidia earnings",
+      "summary": "US stock futures fell with Dow futures down roughly 200 points, pressured by a weak reaction to Home Depot results and positioning ahead of Nvidia's earnings report. Investors are bracing for a volatile session given the scale of options-implied moves tied to Nvidia.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ZX1A1ZUpLQzUwdUhDWHJmSktxM0JhR1RsZU43OTR1TndFamZ4LXBqcjJKakZyWWFHeHVzdHhLM0JRYnJnemNXVHpsT0dXYm9WWWRUdXUxXzc0VV9yUkF5QlBGLTA4WkVOTFpvb0NDQ0p4d0lpbzVj",
+      "publisher": "CNBC",
+      "published": "2026-11-17T12:42:00Z",
+      "tickers": ["HD", "NVDA"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Nvidia shares set for roughly $335 billion swing after earnings, options market shows",
+      "summary": "Options pricing implies Nvidia stock could move enough to shift its market value by about $335 billion in either direction following its upcoming earnings report. The scale underscores how central Nvidia has become to broader market direction and AI-trade sentiment.",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVgtN05zY1JHMFRsZlg2WkdkdGNRMDV4bFl4RllkcWFvVEVyd0QxTUhZWERjUmhIWTlOTkxiNHpxQjJpQTV1ZU41dGNmT2M5MDd4ZkRZeHNxSGNjaTFPdHUyRXJEdHlrSGRuWUlaX0VDRkpWNG9CS2UySmxFajBDQ1NjU0JMcUl6NFNmbFZoOXYyY19GMExQSkZva2VWMWUtUGpLRG93TkRhWHRU",
+      "publisher": "Reuters",
+      "published": "2026-11-17T11:20:54Z",
+      "tickers": ["NVDA"],
+      "category": "Earnings",
+      "importance": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Home Depot names Richard McPhail as new CEO, beats earnings expectations",
+      "summary": "Home Depot reported quarterly earnings that beat Wall Street expectations and announced Richard McPhail as its new CEO. The leadership change comes as the retailer navigates a tough housing and home-improvement spending environment.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QTzNuX1BGWUJiUFl0OU9kcWlLS1pRdnYwczFWN1BaVGFPdVlSMkNSLVZqRFVqcDgxNGZkN2pKUzBxSmxfck9MQW4wS19Nc1R4M1dobFhwd1h5cEoyc0tZM2EwaVVNVUFrUVphSGVMc296bEM5a1HSAXtBVV95cUxOcXZSZnVHbzQ0NUU4OFFNZGIyRGJfTW9kS24wMTh2WEhWMmJsQ18xdTFRU1N6cXNsNlJZUG5STGRQLTlnNmZXLU5uLUF0bG1TOUY0R3YyS2JWMEZvb3hURi1pTnJrdkd6LVZJR3hMeHozaEhmZVNldmxwQTQ",
+      "publisher": "CNBC",
+      "published": "2026-11-17T10:46:34Z",
+      "tickers": ["HD"],
+      "category": "Earnings",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nvidia forms export-control committee following Huang affair fallout and security concerns",
+      "summary": "Nvidia has created a new export-control committee after fallout from the Jensen Huang matter raised security and governance concerns among regulators and investors. The move signals heightened scrutiny of the chipmaker's compliance practices amid ongoing US-China tech tensions.",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTFHVE42V3FIZzBXbWhKLVR3bWRrZ3dRWGpCRm45dlktYkpveDBveW1IRFc1aDltUERHLURBUFdSUW5KMVVaZ2w2NGRuQVhmZmtyb2ZpUGZuZncyVXR3cFYxX2FUcmFyQVRBSHVnbWFsVFFTQ1lPS0lTdmZUMDktbTBUbndQdzhxc2JnWVctSF96QXdVb2JUeUpqYURha25FMEZhU3VqbWFTZDA0Q3lqanRUaGdMQ2M",
+      "publisher": "Reuters",
+      "published": "2026-11-17T13:11:00Z",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Nvidia's interim CEO Colette Kress to make her debut at first earnings call",
+      "summary": "Colette Kress will lead her first earnings call as Nvidia's interim CEO, a closely watched moment for investors assessing leadership stability after Jensen Huang's exit. The transition adds an extra layer of uncertainty to an already high-stakes earnings report.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOb01HdHRlQnp2WjRyYjFnLWhPbmFrdkp3NE0yTkRCYmJJTTFwM2djOUp6T0ktb3VEdkNFaXVDT2pTWElHOVI2b2YzX1UtWUdnYkZQXzM0U3NyZjVBWXVESGtMcDV2cnJmSmpDVTFkaE5nQVc4VkIzQ1J1NG1kUm5vY2RTWXA",
+      "publisher": "Financial Times",
+      "published": "2026-11-17T08:01:02Z",
+      "tickers": ["NVDA"],
+      "category": "Earnings",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Soros family office joined other investors selling Nvidia shares before CEO exit",
+      "summary": "Reports indicate Soros Fund Management was among several family offices that reduced Nvidia holdings ahead of the CEO transition, raising questions about insider sentiment heading into the leadership shakeup. The selling adds context to ongoing volatility in Nvidia shares.",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdFdvSGNrN0NhN3lvQ3N1c004b0NmeXhqa1JPYkVpUDZpVzdZd3RPQ3BTQVA0bXRVYk84UHNfQ2o3M0pOTEU4X0J5UHB1U190VzB2X3JEOUtyXzlfV1ZPYmxuNmNNaXVvb0ZNamkwZFdqLUNKVE9kYnZEX1IzWF9uTjhDSEFWNzFvLVRQeDFscUtTaEV6TWxuOXhmcHdQQWc4aHRiT3NCLVFJZTFlTHI3R3pyUHE",
+      "publisher": "Bloomberg",
+      "published": "2026-11-16T21:53:50Z",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Fed's Kevin Warsh says AI boom could sustain 'substantially higher' US economic growth",
+      "summary": "Federal Reserve Chair Kevin Warsh said the ongoing AI investment boom could support materially stronger long-term US growth, an upbeat signal for markets amid debate over an AI-spending bubble. His comments offer a counterpoint to recent concerns about AI stock valuations.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX3h5VmhlVnFXRnoyYTFyd2dVbDhrRlNKT1gzNEoxQ01CQ1hJYW53UXRDMkhnUndZX21zWGpMaHNDZ2FIUHl2TGdpX2N1emdJY19jZmY3RzZjdnQwTUswbldMLS1pOUQ2d2ZiNjFDbVU5elc2elN5OTVYZGFyYXBnQVBiZzM",
+      "publisher": "Financial Times",
+      "published": "2026-11-16T17:26:53Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Berkshire Hathaway boosts stake in Lennar, doubling down on US housing bet",
+      "summary": "Berkshire Hathaway increased its position in homebuilder Lennar, extending a bet on the US housing market. The move comes as regulatory filings reveal Warren Buffett's company continuing to add to housing-related holdings.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTMyWlBkeVVjYW5mWmZ0RFFmcE9KX1FJNnpxRDRnaEFpblpPS0FOQ1MyZE1hakZfRVhfTVZwX2owSUoxVGpvaUN1Q2xSUURBMWtJbzRySDRBLWZUTFMxOE5YMGVWYXd5b1hVMFpBd09vcFRvdGtfZmREUXJjbEdoUDZLTTlBcHB6NVlHQTY2Q3ZTRXRuY3lxVFd5YjRqNnBMcHZNUnJLU0trM2h1NEltd3Zobw",
+      "publisher": "WSJ",
+      "published": "2026-11-16T22:51:00Z",
+      "tickers": ["BRK.B", "LEN"],
+      "category": "Deals",
+      "importance": 3,
+      "sentiment": "bullish"
+    }
+  ],
+  "calendar": [
+    {"when": "After market close ET", "event": "Nvidia (NVDA) Q3 earnings report", "type": "earnings"}
+  ]
+}

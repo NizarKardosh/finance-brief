@@ -1,0 +1,90 @@
+{
+  "source": "Bloomberg",
+  "fetched_at": "2026-11-17T14:00:00Z",
+  "stories": [
+    {
+      "headline": "Nasdaq 100 Futures Rise as Investors Brace for Nvidia Earnings",
+      "summary": "Tech stocks climbed and the recent AI-trade selloff eased ahead of Nvidia's earnings report, a release many see as a key stress test for the AI trade. Nvidia shares are down roughly 35% from October highs amid mounting tech sector turmoil.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/nasdaq-100-futures-rise-as-investors-prepare-for-nvidia-results",
+      "published": "2026-11-17T13:13:35Z",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "European Stocks Fall as New US Chip Curbs Ignite Fresh AI Selloff",
+      "summary": "European equities declined after fresh US restrictions on Chinese access to advanced AI semiconductors rattled tech investors. The move adds to a string of AI-trade jitters that have pressured emerging-market and Asian tech shares for four straight sessions.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/european-stocks-fall-as-us-chip-curbs-ignite-fresh-ai-selloff",
+      "published": "2026-11-17T08:30:44Z",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Fed's Musalem Says Economy Likely to Need 'Several' Rate Hikes by Spring",
+      "summary": "St. Louis Fed President Alberto Musalem signaled support for multiple interest-rate increases in the coming months to achieve price stability. The hawkish comments add to a mixed Fed chorus, with Cleveland's Hammack separately saying she prefers small, incremental hikes but sees risk of bigger moves.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/fed-s-musalem-says-several-rate-hikes-likely-needed-by-spring",
+      "published": "2026-11-17T12:30:00Z",
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "US Retail Sales Rise 0.2% in October Amid Mixed Demand",
+      "summary": "US retail sales growth moderated in October as a pullback in big-ticket items like autos masked resilient demand for other goods, a signal for consumer spending heading into the holiday season.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-retail-sales-rise-0-2-amid-mixed-demand-for-merchandise",
+      "published": "2026-11-17T13:33:57Z",
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nvidia Forms Export Control Board Committee After Chip Curbs",
+      "summary": "Nvidia established a new board-level oversight committee focused on national security and export controls following the latest round of US restrictions on China's AI chip access, ahead of its closely watched earnings release.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-forms-export-control-board-committee-after-chip-curbs",
+      "published": "2026-11-17T10:18:00Z",
+      "tickers": ["NVDA"],
+      "category": "Policy",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Amazon, Google to Hold About 28% of Anthropic Stock After IPO",
+      "summary": "Amazon and Alphabet, two of Anthropic's largest customers and investors, will collectively hold roughly 28% of the AI company's stock following its planned Nasdaq IPO. Hedge fund Coatue Management separately holds a stake reported at $10 billion, while retail investors are seeking exposure via ETFs, closed-end funds, swaps and perps ahead of the listing.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/amazon-google-to-have-about-28-of-anthropic-stock-after-ipo",
+      "published": "2026-11-17T13:03:17Z",
+      "tickers": ["AMZN", "GOOGL"],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Disney Profit Beats as Marvel Films Power Streaming",
+      "summary": "Disney posted earnings that exceeded expectations, with Marvel film releases helping drive strong performance in its streaming division.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/disney-profit-beats-with-marvel-films-powering-streaming",
+      "published": "2026-11-17T11:31:46Z",
+      "tickers": ["DIS"],
+      "category": "Earnings",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Home Depot Names McPhail CEO With Decker Returning as Chairman",
+      "summary": "Home Depot named Richard McPhail as chief executive officer, while Ted Decker returns from medical leave to serve as chairman, marking a leadership transition at the home-improvement retailer.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/home-depot-names-mcphail-ceo-as-decker-returns-as-chairman",
+      "published": "2026-11-17T10:53:29Z",
+      "tickers": ["HD"],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "neutral"
+    }
+  ],
+  "calendar": [
+    {"when": "08:30 ET", "event": "US Retail Sales (Oct)", "type": "economic"},
+    {"when": "TBD", "event": "Nvidia earnings (expected this week)", "type": "earnings"},
+    {"when": "TBD", "event": "Disney earnings reported", "type": "earnings"},
+    {"when": "TBD", "event": "Home Depot earnings/leadership announcement", "type": "earnings"}
+  ]
+}

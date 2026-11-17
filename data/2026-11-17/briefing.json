@@ -1,0 +1,170 @@
+{
+  "date": "2026-11-17",
+  "headline_of_day": "Nvidia's Huang-Less Era Faces Its First Earnings Test",
+  "dek": "Tech stocks slid into Nvidia's post-Huang earnings as options markets priced a $335 billion swing in either direction.",
+  "big_picture": "Wall Street heads into Nvidia's first earnings report since Jensen Huang's ouster already on the back foot: the S&P 500 fell 1.92% and the Nasdaq 100 dropped 2.67% in Tuesday's session, with chipmakers Micron (-7.62%) and AMD (-5.58%) leading losses after fresh US export curbs on AI chips to China hit sentiment. Options markets imply Nvidia's results could swing its market value by roughly $335 billion, a bet that reflects both the stock's 35% slide from October highs and lingering uncertainty as interim CEO Colette Kress makes her earnings-call debut. Away from chips, Home Depot beat estimates while naming Richard McPhail as CEO, and Disney topped forecasts on parks and streaming strength, offering pockets of resilience. Fed officials sent mixed signals, with St. Louis's Musalem pushing for rate hikes as inflation runs hot even as Kevin Warsh argued the AI investment boom could sustain stronger long-term growth. With the 10-year yield at 5.14% and the VIX at 22.96, markets are bracing for a pivotal 24 hours.",
+  "three_things": [
+    "Nvidia's earnings tonight, not Huang's exit, are the real test of the AI trade",
+    "Chip stocks are already down double digits from highs: Micron -7.6%, AMD -5.6%, SanDisk -8.6%",
+    "The Fed is split: Musalem wants hikes now, Warsh says the AI boom buys patience"
+  ],
+  "market_pulse": "A broad risk-off session: the S&P 500 fell 1.92%, the Nasdaq 100 dropped 2.67%, the Dow slid 1.41%, and the Russell 2000 lost 1.70%, with breadth decisively negative at 145 advancers versus 355 decliners out of 502 names. Producer Manufacturing (-3.78%) and Electronic Technology (-3.31%) led sector losses as chip and industrial names were hit hardest, while Health Services (+1.81%), Consumer Non-Durables (+0.39%) and Transportation (+0.26%) were the only sectors in the green. The VIX rose 0.22% to 22.96, the 10Y yield rose to 5.14%, the dollar (DXY) gained to 103.77, WTI crude climbed 1.34% to $86.87, and gold slipped 0.50% to $3,837.28.",
+  "standouts": [
+    {"ticker": "SNDK", "note": "-8.58% to $809.11, among the sharpest most-active decliners"},
+    {"ticker": "MU", "note": "-7.62% to $719.02 on $19.50B value traded"},
+    {"ticker": "AMD", "note": "-5.58% to $504.28, weighing on Electronic Technology sector"},
+    {"ticker": "NVDA", "note": "-4.12% to $156.14, top of most-active with 333.8M shares / $52.1B traded"},
+    {"ticker": "AAPL", "note": "-0.98% to $352.78, most resilient of the heavily traded mega-caps"}
+  ],
+  "stories": [
+    {
+      "headline": "Nvidia reports first earnings since Huang's ouster, with $335bn riding on the result",
+      "summary": "Nvidia posts fiscal third-quarter results after today's close, its first report since Jensen Huang's exit amid an internal investigation, with CFO Colette Kress stepping in as interim CEO. Options markets imply the stock could swing by roughly $335 billion in either direction, and shares already sit about 35% below their October highs. Wall Street expects EPS near $2.47 on revenue of about $109.15 billion.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcVgtN05zY1JHMFRsZlg2WkdkdGNRMDV4bFl4RllkcWFvVEVyd0QxTUhZWERjUmhIWTlOTkxiNHpxQjJpQTV1ZU41dGNmT2M5MDd4ZkRZeHNxSGNjaTFPdHUyRXJEdHlrSGRuWUlaX0VDRkpWNG9CS2UySmxFajBDQ1NjU0JMcUl6NFNmbFZoOXYyY19GMExQSkZva2VWMWUtUGpLRG93TkRhWHRU"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-interim-ceo-kress-prepares-for-q3-earnings-with-huang-reportedly-planning-comeback-153114076.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-17/nasdaq-100-futures-rise-as-investors-prepare-for-nvidia-results"}
+      ],
+      "published": "2026-11-17T13:13:35Z",
+      "tickers": ["NVDA", "ARM", "AMD"],
+      "category": "Earnings",
+      "importance": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nvidia board rebuffs push to reinstate Huang as Arm's CEO emerges as succession candidate",
+      "summary": "Nvidia's board is focused on its internal investigation rather than reinstating Jensen Huang, people familiar with the matter said, even as investor Bill Ackman floated a special shareholder meeting to bring him back and President Trump said he 'wouldn't mind' a Huang return. Huang has since dropped his Nvidia title on social media, listing himself simply as 'founder.' Separately, the board has approached Arm CEO Rene Haas as a possible permanent successor, and Soros Fund Management was among investors trimming Nvidia stakes ahead of the leadership upheaval.",
+      "sources": ["Yahoo Finance", "Google Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/technology/article/should-nvidia-bring-jensen-huang-back-as-silicon-valleys-elite-are-demanding-200000408.html"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/technology/live/nvidia-live-updates-interim-ceo-kress-prepares-for-q3-earnings-with-huang-reportedly-planning-comeback-153114076.html"},
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdFdvSGNrN0NhN3lvQ3N1c004b0NmeXhqa1JPYkVpUDZpVzdZd3RPQ3BTQVA0bXRVYk84UHNfQ2o3M0pOTEU4X0J5UHB1U190VzB2X3JEOUtyXzlfV1ZPYmxuNmNNaXVvb0ZNamkwZFdqLUNKVE9kYnZEX1IzWF9uTjhDSEFWNzFvLVRQeDFscUtTaEV6TWxuOXhmcHdQQWc4aHRiT3NCLVFJZTFlTHI3R3pyUHE"}
+      ],
+      "published": "2026-11-17T14:00:00Z",
+      "tickers": ["NVDA", "ARM"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Home Depot beats estimates, names McPhail CEO as Decker returns as chairman",
+      "summary": "Home Depot topped Wall Street's earnings expectations and promoted CFO Richard McPhail to chief executive, with Ted Decker returning from medical leave to take the chairman role. Shares fell about 2.4% as investors weighed the leadership change against a still-soft housing and renovation market.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QTzNuX1BGWUJiUFl0OU9kcWlLS1pRdnYwczFWN1BaVGFPdVlSMkNSLVZqRFVqcDgxNGZkN2pKUzBxSmxfck9MQW4wS19Nc1R4M1dobFhwd1h5cEoyc0tZM2EwaVVNVUFrUVphSGVMc296bEM5a1HSAXtBVV95cUxOcXZSZnVHbzQ0NUU4OFFNZGIyRGJfTW9kS24wMTh2WEhWMmJsQ18xdTFRU1N6cXNsNlJZUG5STGRQLTlnNmZXLU5uLUF0bG1TOUY0R3YyS2JWMEZvb3hURi1pTnJrdkd6LVZJR3hMeHozaEhmZVNldmxwQTQ"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/article/who-is-new-home-depot-ceo-richard-mcphail-123623601.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-17/home-depot-names-mcphail-ceo-as-decker-returns-as-chairman"}
+      ],
+      "published": "2026-11-17T12:36:00Z",
+      "tickers": ["HD"],
+      "category": "Earnings",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "New US curbs on AI chip exports to China spark global tech selloff; Nvidia sets up oversight panel",
+      "summary": "Fresh US restrictions on Chinese access to advanced AI semiconductors triggered a fourth straight session of selling in European and Asian tech shares. Nvidia responded by forming a new board-level export-control committee to address security and compliance concerns, adding another governance headline just hours before its earnings report.",
+      "sources": ["Bloomberg", "Google Finance"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-17/european-stocks-fall-as-us-chip-curbs-ignite-fresh-ai-selloff"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-forms-export-control-board-committee-after-chip-curbs"},
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTTFHVE42V3FIZzBXbWhKLVR3bWRrZ3dRWGpCRm45dlktYkpveDBveW1IRFc1aDltUERHLURBUFdSUW5KMVVaZ2w2NGRuQVhmZmtyb2ZpUGZuZncyVXR3cFYxX2FUcmFyQVRBSHVnbWFsVFFTQ1lPS0lTdmZUMDktbTBUbndQdzhxc2JnWVctSF96QXdVb2JUeUpqYURha25FMEZhU3VqbWFTZDA0Q3lqanRUaGdMQ2M"}
+      ],
+      "published": "2026-11-17T13:11:00Z",
+      "tickers": ["NVDA"],
+      "category": "Policy",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Amazon and Google set to hold 28% of Anthropic after this week's IPO",
+      "summary": "Amazon and Alphabet, both major Anthropic investors and customers, will collectively own roughly 28% of the AI company once it lists on the Nasdaq this week. Hedge fund Coatue Management holds a stake reported at $10 billion, and retail investors are already seeking exposure through ETFs, closed-end funds, swaps and perpetual contracts ahead of the listing.",
+      "sources": ["Bloomberg", "Yahoo Finance"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-17/amazon-google-to-have-about-28-of-anthropic-stock-after-ipo"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-17-dow-sp-500-nasdaq-nvidia-earnings-091546152.html"}
+      ],
+      "published": "2026-11-17T14:15:00Z",
+      "tickers": ["AMZN", "GOOGL"],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Fed's Musalem calls for rate hikes to start soon as inflation stays hot",
+      "summary": "St. Louis Fed President Alberto Musalem said the central bank should move sooner on rate increases while inflation expectations remain anchored, targeting a real policy rate of 2%-2.5% by spring 2027 — implying 100-150 basis points of hikes. He cited headline and core PCE running above 3% and a hotter-than-expected October CPI, while Cleveland's Hammack separately said she prefers smaller, incremental increases.",
+      "sources": ["Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/economy/policy/article/st-louis-feds-musalem-calls-for-interest-rate-hikes-soon-132554806.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-17/fed-s-musalem-says-several-rate-hikes-likely-needed-by-spring"}
+      ],
+      "published": "2026-11-17T13:25:00Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Disney tops Q4 estimates as parks and streaming keep growing",
+      "summary": "Disney posted adjusted earnings of $1.77 a share on revenue of $25.9 billion, both ahead of estimates, with operating income up 43% year-over-year to $5 billion. Parks and Experiences revenue rose to $10.1 billion on an 11% increase in global attendance, while Marvel releases and strong 'Toy Story 5' viewership lifted the streaming unit; shares rose about 2% in premarket trading.",
+      "sources": ["Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/article/disney-q4-earnings-beat-estimates-as-parks-and-streaming-keep-growing-113817189.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-17/disney-profit-beats-with-marvel-films-powering-streaming"}
+      ],
+      "published": "2026-11-17T11:38:00Z",
+      "tickers": ["DIS"],
+      "category": "Earnings",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Fed's Warsh says AI boom could lift US growth 'substantially higher'",
+      "summary": "Federal Reserve Chair Kevin Warsh said the ongoing AI investment wave could support materially stronger long-term US economic growth, offering a bullish counterpoint to concerns about an AI-spending bubble. The comments stand in contrast to more hawkish Fed voices worried about elevated valuations.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPX3h5VmhlVnFXRnoyYTFyd2dVbDhrRlNKT1gzNEoxQ01CQ1hJYW53UXRDMkhnUndZX21zWGpMaHNDZ2FIUHl2TGdpX2N1emdJY19jZmY3RzZjdnQwTUswbldMLS1pOUQ2d2ZiNjFDbVU5elc2elN5OTVYZGFyYXBnQVBiZzM"}
+      ],
+      "published": "2026-11-16T17:26:53Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "US retail sales rise just 0.2% in October as auto demand softens",
+      "summary": "US retail sales growth cooled in October, with a pullback in big-ticket items like autos masking resilient demand elsewhere. The modest reading is a cautious signal for consumer spending heading into the holiday season.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-17/us-retail-sales-rise-0-2-amid-mixed-demand-for-merchandise"}
+      ],
+      "published": "2026-11-17T13:33:57Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Berkshire Hathaway deepens its housing bet, adding to Lennar stake",
+      "summary": "Berkshire Hathaway increased its position in homebuilder Lennar, according to new regulatory filings, extending Warren Buffett's bet on the US housing market even as rate uncertainty clouds the sector's outlook.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaTMyWlBkeVVjYW5mWmZ0RFFmcE9KX1FJNnpxRDRnaEFpblpPS0FOQ1MyZE1hakZfRVhfTVZwX2owSUoxVGpvaUN1Q2xSUURBMWtJbzRySDRBLWZUTFMxOE5YMGVWYXd5b1hVMFpBd09vcFRvdGtfZmREUXJjbEdoUDZLTTlBcHB6NVlHQTY2Q3ZTRXRuY3lxVFd5YjRqNnBMcHZNUnJLU0trM2h1NEltd3Zobw"}
+      ],
+      "published": "2026-11-16T22:51:00Z",
+      "tickers": ["BRK.B", "LEN"],
+      "category": "Deals",
+      "importance": 3,
+      "sentiment": "bullish"
+    }
+  ],
+  "watch_today": [
+    {"when": "08:30 ET", "event": "US Retail Sales (October), +0.2%", "type": "economic"},
+    {"when": "Today", "event": "Industrial production (October)", "type": "economic"},
+    {"when": "Today", "event": "Housing data", "type": "economic"},
+    {"when": "After market close ET", "event": "Nvidia Q3 FY2027 earnings, first since Jensen Huang's exit", "type": "earnings"},
+    {"when": "This week (Thursday)", "event": "Anthropic IPO expected", "type": "other"}
+  ],
+  "desk_status": {"google": "ok", "yahoo": "ok", "bloomberg": "ok", "markets": "ok"}
+}
