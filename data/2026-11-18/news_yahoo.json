@@ -1,0 +1,101 @@
+{
+  "source": "Yahoo Finance",
+  "fetched_at": "2026-11-18T12:00:00Z",
+  "stories": [
+    {
+      "headline": "Nvidia Beats Q3 Estimates; Board Says It Will Not Reinstate Jensen Huang as CEO",
+      "summary": "Nvidia reported Q3 revenue of $115.8 billion (up 103% year-over-year) and EPS of $2.68, beating consensus estimates of $109.15 billion and $2.47. Data center revenue hit $107.6 billion, and the company guided Q4 revenue to $127.4-$132.6 billion, above the $125.25 billion Wall Street expected. Board chair Harvey Jones confirmed the board unanimously accepted Jensen Huang's November 12 resignation as CEO, President, and director over a code-of-conduct violation and does not intend to reinstate him, with CFO Colette Kress serving as interim CEO while Heidrick & Struggles searches for a permanent replacement.",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-18T06:00:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Earnings",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Chip and AI Infrastructure Stocks Rally on Nvidia's Earnings Beat",
+      "summary": "AMD and Broadcom rose more than 1% in premarket trading, Taiwan Semiconductor gained 3%, and CoreWeave popped 6% after Nvidia's strong Q3 results and reiterated long-term forecast eased investor jitters following last week's CEO transition. Nebius also rose about 3%, while Micron and SK Hynix posted modest gains as the results reassured markets that AI infrastructure demand remains intact.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-18T04:20:00-05:00",
+      "tickers": ["AMD", "AVGO", "TSM", "CRWV", "NBIS", "MU", "NVDA"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Target Shares Fall Despite Blowout Q3 Beat as Shoppers Chase Deals",
+      "summary": "Target posted Q3 net sales of $27.1 billion (up 7.1% year-over-year, beating the $26.5 billion estimate) and diluted EPS of $2.65 (up 49% year-over-year, versus the $2.08 estimate, aided by a $0.50 tariff refund benefit). Comparable sales rose 5.6%, well above the 3.61% estimate, driven by a 9.8% jump in digital sales and the largest store traffic increase since 2022; Target raised full-year EPS guidance to $10.65-$11.40. Despite the beat, shares fell about 1% to close at $157.65, though the stock remains up 63% year-to-date.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/target-earnings-squash-estimates-as-inflation-weary-shoppers-see-great-deals-113326641.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-18T06:33:00-05:00",
+      "tickers": ["TGT"],
+      "category": "Earnings",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Arm Shares Slide on Speculation CEO Rene Haas Could Succeed Huang at Nvidia",
+      "summary": "Arm Holdings closed down 4.6% on November 13 after a Financial Times report that Nvidia's board approached Arm CEO Rene Haas about becoming its next chief executive following Jensen Huang's resignation. Betting platform Kalshi showed Haas's odds of landing the Nvidia CEO role rising from 7% to 23% between November 12 and 16, making him the favorite ahead of Huang at 17%. The uncertainty weighs on Arm, which trades at roughly 74x forward earnings and is heavily reliant on Haas's growth strategy, including a target of up to $2 billion in revenue from its first in-house AGI CPU chip by fiscal 2028.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arm-ceo-rene-haas-23-162149507.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-16T11:21:00-05:00",
+      "tickers": ["ARM", "NVDA"],
+      "category": "Tech",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Renaissance Technologies Slashed Nvidia Stake by 99.7% in Third Quarter",
+      "summary": "Jim Simons' Renaissance Technologies cut its Nvidia holding from about 7.09 million shares worth $1.42 billion on June 30 to just 23,170 shares by September 30, a 99.7% reduction from what had been its largest position. The fund rotated into Micron Technology and AMD, which became its top two holdings at roughly $1.62 billion and $1.21 billion respectively, signaling a major quant-fund shift away from Nvidia ahead of this week's earnings and CEO transition.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-simons-fund-just-dumped-185334974.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-17T13:53:00-05:00",
+      "tickers": ["NVDA", "MU", "AMD"],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Stocks Rise as Nvidia Clears Earnings Hurdle, Anthropic Prepares IPO",
+      "summary": "Major indexes gained Wednesday as Nvidia's earnings beat removed a key overhang for the market, with NVDA up roughly 2.6%. Attention is also turning to AI startup Anthropic's upcoming IPO, which investors are watching as a gauge of appetite for AI-related listings.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-anthropic-ipo-090613569.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-18T09:06:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Copper Falls to Four-Month Low on Tech Stock Rout and China Growth Concerns",
+      "summary": "Copper prices declined for a third straight session, hitting their lowest level in four months, as a selloff in technology shares and weaker-than-expected Chinese economic data weighed on the demand outlook for industrial metals. The drop highlights lingering concerns about global growth even as some tech names rebound on AI-related earnings.",
+      "url": "https://finance.yahoo.com/markets/commodities/articles/copper-sinks-four-month-low-035511007.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-18T03:55:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 2,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Everything to Know Ahead of Anthropic's IPO",
+      "summary": "Yahoo Finance outlines key details investors should watch as AI company Anthropic prepares to go public, including expected valuation range and how the offering could set a benchmark for other AI startups weighing IPOs.",
+      "url": "https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-18T09:33:00-05:00",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 2,
+      "sentiment": "neutral"
+    }
+  ],
+  "calendar": [
+    {"when": "07:00 ET", "event": "MBA 30-Yr Mortgage Rate (prior 7.21%, actual 7.35%)", "type": "economic"},
+    {"when": "07:00 ET", "event": "MBA Mortgage Market Index (prior 204.6, actual 199.8)", "type": "economic"},
+    {"when": "10:00 ET", "event": "Pending Home Sales Index", "type": "economic"},
+    {"when": "Pre-market", "event": "Nvidia (NVDA) Q3 earnings", "type": "earnings"},
+    {"when": "Pre-market", "event": "Target (TGT) Q3 earnings", "type": "earnings"}
+  ]
+}

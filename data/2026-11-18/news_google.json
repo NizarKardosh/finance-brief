@@ -1,0 +1,99 @@
+{
+  "source": "Google Finance",
+  "fetched_at": "2026-11-18T14:30:00Z",
+  "stories": [
+    {
+      "headline": "Nvidia beats Q3 estimates with $115.8B revenue, guides Q4 above consensus",
+      "summary": "Nvidia reported third-quarter revenue of $115.84 billion, more than $6 billion above analyst expectations of $109.1 billion, with adjusted EPS of $2.68 versus $2.48 expected. Fourth-quarter guidance of $130 billion also topped the $125.1 billion consensus, easing investor fears about slowing AI-chip demand after a leadership controversy had weighed on the stock.",
+      "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html",
+      "publisher": "CNBC",
+      "published": "2026-11-18T08:07:30-05:00",
+      "tickers": ["NVDA"],
+      "category": "Earnings",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Global stocks slip despite Nvidia beat as Anthropic IPO looms as next test for AI boom",
+      "summary": "World equity markets pulled back even after Nvidia's strong earnings report, with investors turning attention to Anthropic's upcoming IPO as the next major gauge of AI-sector valuations. The muted market reaction suggests confidence in Nvidia's business is recovering faster than broader confidence in richly valued AI stocks.",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6allzaTc1SU8zUmVIeXRZRkU2dE9reVo1MXBLSllnX0lsb1FmemdwR2RnNzZvQ0tqSzR6cTgzVHI2bGlYWWxxLTJWY3V4OXBrczR5OXF5ZkdNQnBfak1tYUs1NlVOQVVSLTdacXdnaEt0Y2VHVmM4NEN2WQ?oc=5",
+      "publisher": "Reuters",
+      "published": "2026-11-17T20:46:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Dow drops 1.6%, VIX jumps 11% as hawkish Fed talk overshadows Nvidia beat",
+      "summary": "The Dow fell about 1.6% to roughly 50,759 and the S&P 500 lost about 1% while the Nasdaq slipped 0.7%, as Fed governor Christopher Waller's comments suggesting more rate hikes may be needed to contain inflation outweighed Nvidia's earnings beat. The VIX fear gauge jumped over 11% to around 25.5, with traders now positioning for hawkish signals in upcoming FOMC minutes.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates",
+      "publisher": "Bloomberg",
+      "published": "2026-11-17T16:00:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Anthropic nears final IPO hurdle as tech stocks churn",
+      "summary": "AI company Anthropic is approaching the last steps before its initial public offering, timed against a backdrop of volatile tech-stock trading following Nvidia's earnings and broader AI valuation concerns. The listing is being watched as a key test of investor appetite for AI-related names after a turbulent stretch for the sector.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObkpRRjhQeXlnQkZLand6bWFiV0QzSTh3aGI1WTFmZWJOWm9iSHgtYURCRWVxZVFzWVdrUXdfQkwyNmRhLUpEczRfeldHaVVJbEIwZHViY0trdk0tbDFsaUhFRVNXYUpmaktXTmc1c0ZTdHRCNjFCNndLV1liV2ZQSlVCWERnMC1IdG5oTGFKcHl3MzJIS2NyZ05wQ3p5Znlub0NoRHJVbE9Rd0pQdmtLcmNB?oc=5",
+      "publisher": "Bloomberg",
+      "published": "2026-11-18T05:00:00-05:00",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Gold falls 2% to over one-year low as hawkish Fed signals lift the dollar",
+      "summary": "Gold prices dropped about 2% to their lowest level in more than a year as hawkish commentary from Federal Reserve officials boosted the US dollar and reduced the appeal of non-yielding bullion. The move comes as markets reassess the path of Fed policy ahead of the FOMC minutes release.",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5",
+      "publisher": "Reuters",
+      "published": "2026-11-17T22:10:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Target earnings top estimates as inflation-weary shoppers chase deals",
+      "summary": "Target's latest quarterly results beat Wall Street estimates, with management citing strong demand from cost-conscious consumers seeking discounts amid persistent inflation. The results offer a read on retail resilience heading into the holiday shopping season.",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU0E3aW9Wc3JXc0tIbWtLaTRLaV90MUdheFFrcFlLb1lzOVlTa01xc185ODdud1hjb0hBRHFDVTY1aUhOZjd6RF80Q3FJX0gyalREeXR5RlppUGRNa3RvcmhUZVNBeXZBQWVzd2RrVHYyaEV0eVJJZTdTd0VONHVPS2VMZGxRMkxWVXAxMUc5QTM5dEs3NnpVaWU1RjhFZjlUS3V6Tllad0Q0WVd0WFpiOVVHQzJlLU1ad01hLUk2Znpod3Y4aDd3WDRHdHptZEJ4enRuRzdkcw?oc=5",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-18T06:33:26-05:00",
+      "tickers": ["TGT"],
+      "category": "Earnings",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Import prices rise more than expected while industrial production unexpectedly falls",
+      "summary": "October import prices rose 1.1%, well above the 0.7% forecast, while industrial production fell 0.4% against expectations for a 0.1% gain. The mixed data adds to uncertainty over the inflation and growth backdrop as traders await FOMC minutes for clues on the Fed's next moves.",
+      "url": "https://traderfactor.com/forex-market-today-fomc-minutes-in-focus-2/",
+      "publisher": "TraderFactor",
+      "published": "2026-11-18T07:00:00-05:00",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "CME FedWatch data signals markets bracing for possible Fed rate hikes, not cuts",
+      "summary": "Futures pricing via CME FedWatch implies traders are increasingly weighing the possibility of further quarter-point rate hikes over the coming FOMC meetings, a reversal from earlier cut expectations, after the Fed held rates at 3.75%-4.00% in October with some policymakers favoring a hike. The hawkish repricing has pressured both equities and gold this week.",
+      "url": "https://www.fool.com/investing/2026/11/18/latest-federal-reserve-interest-rate-forecast-points-to-4-hikes-mid-september-terrible-news-wall-street/",
+      "publisher": "The Motley Fool",
+      "published": "2026-11-18T07:00:00-05:00",
+      "tickers": [],
+      "category": "Policy",
+      "importance": 3,
+      "sentiment": "bearish"
+    }
+  ],
+  "calendar": [
+    {"when": "14:00 ET", "event": "FOMC Meeting Minutes", "type": "fed"},
+    {"when": "TBD", "event": "Target (TGT) Q3 earnings", "type": "earnings"},
+    {"when": "TBD", "event": "Nvidia (NVDA) Q3 earnings call follow-through / analyst reaction", "type": "earnings"}
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "pulse": "A broad risk-off session: the S&P 500 fell 1.03% to 7340.53, the Dow dropped 1.64% to 50759.42, the Nasdaq 100 slipped 0.72% to 27001.78, and the Russell 2000 underperformed with a 1.50% decline, even as S&P and Nasdaq futures pointed higher (+0.16% and +0.54%) after the cash close. Breadth was deeply negative, with only 75 advancers against 427 decliners out of 503 S&P names. Sector performance was lopsided: Electronic Technology was the lone bright spot (+0.06%), while Health Services (-3.73%), Commercial Services (-2.98%), and Transportation (-2.07%) led the laggards. The VIX eased 3.22% to 24.64 despite the equity selloff, the 10-year yield ticked up 0.04% to 5.111, the dollar (DXY) rose 0.18% to 103.78, and both WTI crude (-1.99% to $84.30) and gold (-2.03% to $3771.29) sold off alongside a 1.30% drop in Bitcoin to $64,027.62. Among the most-active names, Broadcom (AVGO) stood out with a +2.46% gain on heavy volume while Microsoft (MSFT) was the weakest of the mega-caps, down 2.27%; elsewhere Salesforce (CRM) was hit hard, down 9.45%, and small-cap SELLAS Life Sciences (SLS) rocketed 156.36% on massive volume to top the gainers list.",
+  "standouts": [
+    {"ticker": "SLS", "note": "+156.36% on explosive volume (120.3M shares, rel volume 18.51x), top of gainers list"},
+    {"ticker": "AVGO", "note": "+2.46% to $341.60 among most-active names, bucking the broader tech selloff"},
+    {"ticker": "MSFT", "note": "-2.27% to $506.24 on 27.99M shares, weakest of the most-active mega-caps"},
+    {"ticker": "CRM", "note": "-9.45% to $194.52 on 2.1x relative volume, biggest large-cap decliner"},
+    {"ticker": "BILL", "note": "+12.58% to $64.88 on 6.16x relative volume"},
+    {"ticker": "UNH", "note": "-5.42% to $389.68, dragging Health Services to sector-worst -3.73%"}
+  ]
+}

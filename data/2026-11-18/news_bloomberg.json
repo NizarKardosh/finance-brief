@@ -1,0 +1,98 @@
+{
+  "source": "Bloomberg",
+  "fetched_at": "2026-11-18T13:30:00Z",
+  "stories": [
+    {
+      "headline": "Nvidia raises outlook in first earnings since Jensen Huang's exit, easing AI trade worries",
+      "summary": "Nvidia delivered a strong outlook in its first earnings report since former CEO Jensen Huang's departure, signaling the company can thrive without him and boosting forecasts for continued AI chip demand. US stock futures rallied Wednesday as the results tempered fears that had driven a dayslong technology selloff, with Asian stocks also reacting though some investors remained cautious on the broader AI trade.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-delivers-solid-outlook-in-first-post-huang-earnings",
+      "publisher": "Bloomberg",
+      "published": "2026-11-17T21:24:23Z",
+      "tickers": ["NVDA"],
+      "category": "Earnings",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "US stock futures rally as Nvidia results ease AI trade worries",
+      "summary": "US technology stocks rallied before Wednesday's open after Nvidia's earnings assuaged concerns that followed the exit of former CEO Jensen Huang. The strong Nvidia outlook halted a dayslong selloff in tech shares, with Markets Wrap noting the AI-related rebound across equities.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/us-stock-futures-rally-as-nvidia-results-ease-ai-trade-worries",
+      "publisher": "Bloomberg",
+      "published": "2026-11-18T12:34:46Z",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Anthropic IPO prices Wednesday as AI bulls drive huge demand",
+      "summary": "Anthropic's initial public offering is set to price Wednesday, marking a major test of venture capital's concentrated big-bet investment strategy in AI startups. Reports indicate strong investor demand, with some expecting a significant pop in the stock once shares begin trading.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-ipo-puts-wall-street-s-speculation-factory-on-display",
+      "publisher": "Bloomberg",
+      "published": "2026-11-18T12:30:54Z",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Gold slumps below $3,800 as Fed officials signal more rate hikes",
+      "summary": "Gold dropped below $3,800 an ounce for the first time since September 2025 after Federal Reserve officials made the case for additional interest-rate hikes. Fed governor Christopher Waller separately said the central bank should consider a half-percentage-point rate hike at the December meeting, citing inflation still headed in the wrong direction.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts",
+      "publisher": "Bloomberg",
+      "published": "2026-11-17T23:33:52Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Fed's Waller calls for considering half-point rate hike in December",
+      "summary": "Federal Reserve Governor Christopher Waller said Wednesday that inflation remains headed in the wrong direction and urged the central bank to consider a larger, half-percentage-point rate hike at its December meeting. The remarks add to a string of hawkish Fed commentary pressuring gold and risk assets.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/fed-s-waller-says-fed-should-consider-half-point-rate-hike",
+      "publisher": "Bloomberg",
+      "published": "2026-11-18T12:53:31Z",
+      "tickers": [],
+      "category": "Policy",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Copper and tin plunge as AI trade unravels in metals markets",
+      "summary": "Copper plunged in a heavy selloff on the London Metal Exchange as bullish investors bailed on bets linked to the AI boom, with tin also sliding. The move reflects spillover from recent tech-sector volatility into industrial commodities tied to data-center and AI infrastructure demand.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/copper-prices-industrial-metal-dollar-lme",
+      "publisher": "Bloomberg",
+      "published": "2026-11-18T05:16:25Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Credit chiefs warn of 'fear factor' as debt reprices across markets",
+      "summary": "Credit market executives, including from Davidson Kempner, warn that sharp repricing in fixed-income markets continues as elevated interest rates trigger a shakeout among financially weaker borrowers across sectors. Executives describe a growing sense of fear developing in credit markets.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/credit-chiefs-warn-of-fear-factor-as-debt-reprices-all-at-once",
+      "publisher": "Bloomberg",
+      "published": "2026-11-18T11:11:49Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Tencent sales miss estimates as AI spending squeezes profit",
+      "summary": "Tencent's heavy artificial intelligence investments are squeezing profit while revenue missed analyst estimates, a setback for the Chinese tech giant's AI push and adding pressure for restructuring. The results come amid broader scrutiny of AI capital spending returns across major tech companies.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/tencent-s-sales-miss-estimates-in-setback-for-founder-s-ai-push",
+      "publisher": "Bloomberg",
+      "published": "2026-11-18T08:36:54Z",
+      "tickers": [],
+      "category": "Earnings",
+      "importance": 3,
+      "sentiment": "bearish"
+    }
+  ],
+  "calendar": [
+    {"when": "APEC summit, Shenzhen", "event": "Xi-Trump-Putin trilateral talks on sidelines of APEC", "type": "other"},
+    {"when": "Today", "event": "Anthropic IPO pricing", "type": "other"}
+  ]
+}

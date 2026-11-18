@@ -1,0 +1,201 @@
+{
+  "date": "2026-11-18",
+  "headline_of_day": "Nvidia's Beat Steadies AI Trade as Fed Turns More Hawkish",
+  "dek": "Nvidia's earnings beat and Anthropic's IPO boosted sentiment, but hawkish Fed signals dragged stocks lower and sent gold to a 14-month low.",
+  "big_picture": "Nvidia's first earnings report since Jensen Huang's abrupt exit beat expectations across the board — $115.8 billion in revenue and guidance of $127.4-$132.6 billion for Q4 — which, along with Anthropic's heavily anticipated IPO pricing, gave Wall Street two reasons for optimism on AI. That optimism was overwhelmed by Fed governor Christopher Waller's call for a half-point rate hike in December: the S&P 500 fell 1.03% to 7,340.53, the Dow dropped 1.64% to 50,759.42, and breadth was ugly, with only 75 advancers against 427 decliners. Gold tumbled 2% to a 14-month low below $3,800 and copper hit a four-month low as the hawkish repricing hit havens and AI-linked commodities alike, even though the VIX eased to 24.64 and futures pointed higher into Thursday. Target's blowout quarter and a premarket rally in AMD, Broadcom and TSMC showed pockets of strength, but credit-market executives warned of a 'fear factor' building as higher-for-longer rates squeeze weaker borrowers.",
+  "three_things": [
+    "Nvidia's beat buys the AI trade time, but the board's refusal to reinstate Huang keeps leadership risk alive.",
+    "Fed's Waller wants a half-point December hike — markets are now pricing more hikes, not cuts.",
+    "Anthropic's IPO pricing today is the real test of AI valuations, not Nvidia's earnings."
+  ],
+  "market_pulse": "A broad risk-off session: the S&P 500 fell 1.03% to 7,340.53, the Dow dropped 1.64% to 50,759.42, and the Russell 2000 underperformed with a 1.50% decline, even as breadth was deeply negative (75 advancers vs. 427 decliners) and S&P/Nasdaq futures pointed higher after the close. The VIX eased 3.22% to 24.64, the 10-year yield rose to 5.111%, the dollar gained, and WTI crude (-1.99%) and gold (-2.03%) both sold off alongside a 1.30% drop in Bitcoin to $64,027.62. Broadcom (+2.46%) and BILL (+12.58%) were bright spots while Salesforce (-9.45%) and UnitedHealth (-5.42%) led large-cap declines, and small-cap SELLAS Life Sciences spiked 156.36% on heavy volume.",
+  "standouts": [
+    {"ticker": "SLS", "note": "+156.36% on explosive volume (120.3M shares, 18.51x relative volume), top of the gainers list"},
+    {"ticker": "AVGO", "note": "+2.46% to $341.60 on heavy volume, bucking the broader tech selloff"},
+    {"ticker": "MSFT", "note": "-2.27% to $506.24, the weakest of the most-active mega-caps"},
+    {"ticker": "CRM", "note": "-9.45% to $194.52 on 2.1x relative volume, the biggest large-cap decliner"},
+    {"ticker": "BILL", "note": "+12.58% to $64.88 on 6.16x relative volume"},
+    {"ticker": "UNH", "note": "-5.42% to $389.68, dragging Health Services to the sector's worst performance at -3.73%"}
+  ],
+  "stories": [
+    {
+      "headline": "Nvidia smashes Q3 estimates and guides above consensus as market absorbs Huang's exit",
+      "summary": "Nvidia posted third-quarter revenue of $115.8 billion, up 103% year-over-year and roughly $6 billion above consensus, with adjusted EPS of $2.68 versus $2.47 expected and data-center revenue of $107.6 billion. Fourth-quarter guidance of $127.4-$132.6 billion topped the $125.3 billion Wall Street estimate, and board chair Harvey Jones confirmed CFO Colette Kress will stay on as interim CEO with no plan to reinstate Jensen Huang after his November 12 resignation. Shares rose about 2.6% and lifted US futures, though broader indexes still closed lower as hawkish Fed commentary overshadowed the beat.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://www.cnbc.com/2026/11/18/nvidia-stock-earnings.html"},
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB6allzaTc1SU8zUmVIeXRZRkU2dE9reVo1MXBLSllnX0lsb1FmemdwR2RnNzZvQ0tqSzR6cTgzVHI2bGlYWWxxLTJWY3V4OXBrczR5OXF5ZkdNQnBfak1tYUs1NlVOQVVSLTdacXdnaEt0Y2VHVmM4NEN2WQ?oc=5"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-18-dow-sp-500-nasdaq-nvidia-anthropic-ipo-090613569.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-17/nvidia-delivers-solid-outlook-in-first-post-huang-earnings"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-18/us-stock-futures-rally-as-nvidia-results-ease-ai-trade-worries"}
+      ],
+      "published": "2026-11-18T06:00:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Earnings",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Anthropic prices its IPO Wednesday, the AI boom's next big valuation test",
+      "summary": "Anthropic is pricing its initial public offering Wednesday amid reports of intense investor demand and expectations of a strong first-day pop. The listing is being watched as a referendum on venture capital's concentrated, high-conviction bets on AI startups and as a gauge of appetite for AI-related names after a volatile stretch for tech shares. It lands just as Nvidia's earnings beat has partly restored confidence in the broader AI trade.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObkpRRjhQeXlnQkZLand6bWFiV0QzSTh3aGI1WTFmZWJOWm9iSHgtYURCRWVxZVFzWVdrUXdfQkwyNmRhLUpEczRfeldHaVVJbEIwZHViY0trdk0tbDFsaUhFRVNXYUpmaktXTmc1c0ZTdHRCNjFCNndLV1liV2ZQSlVCWERnMC1IdG5oTGFKcHl3MzJIS2NyZ05wQ3p5Znlub0NoRHJVbE9Rd0pQdmtLcmNB?oc=5"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-18/anthropic-ipo-puts-wall-street-s-speculation-factory-on-display"}
+      ],
+      "published": "2026-11-18T07:30:54-05:00",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Fed's Waller pushes for a half-point December hike as markets reprice for more tightening",
+      "summary": "Fed governor Christopher Waller said Wednesday that inflation is still moving the wrong way and that the central bank should consider a half-percentage-point rate increase at its December meeting. CME FedWatch pricing now shows traders bracing for further hikes rather than cuts, a sharp reversal from expectations just weeks ago, after the Fed held rates at 3.75%-4.00% in October. The hawkish shift drove the Dow down 1.6% and the VIX up more than 11% in Tuesday's session, even with Nvidia's earnings beat as a partial offset.",
+      "sources": ["Google Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://www.bloomberg.com/news/articles/2026-11-17/stock-market-today-dow-s-p-live-updates"},
+        {"source": "Google Finance", "url": "https://www.fool.com/investing/2026/11/18/latest-federal-reserve-interest-rate-forecast-points-to-4-hikes-mid-september-terrible-news-wall-street/"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-18/fed-s-waller-says-fed-should-consider-half-point-rate-hike"}
+      ],
+      "published": "2026-11-18T07:53:31-05:00",
+      "tickers": [],
+      "category": "Policy",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Gold sinks to 14-month low as hawkish Fed bets lift the dollar",
+      "summary": "Gold fell about 2% to below $3,800 an ounce, its lowest level since September 2025, as hawkish signals from Federal Reserve officials — including Christopher Waller's push for a half-point December hike — boosted the dollar and dimmed the appeal of non-yielding bullion. The move extends a rough stretch for the metal as markets reassess the Fed's rate path ahead of this week's FOMC minutes.",
+      "sources": ["Google Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVlk2MG4xbDV2emVoNk9vRVhTcTlRbkZLMDgwMjBMTEdVeXFDV21zX0NVdmF0YzQzRDZ4TkowaDJQQlZlTDBsbm9BWHFXNXpYZzVVejAtTGRZTTFHRjV4dllJV0ZxVzVvbVJCN1lxdk50NXVaNkRxTGJQbDYyZjhNNElTUElOWVU0eW0ySnBRMndSU1ZrTGE4ZlNMdDk0UXVmUjZLSEVfQlc?oc=5"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-17/gold-steadies-near-14-month-low-as-rate-hike-pressure-mounts"}
+      ],
+      "published": "2026-11-17T18:33:52-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "AMD, Broadcom, TSMC and CoreWeave rally in Nvidia's slipstream",
+      "summary": "Chip and AI-infrastructure stocks climbed in premarket trading after Nvidia's results eased concerns that had built since last week's CEO transition, with AMD and Broadcom up more than 1%, Taiwan Semiconductor up 3%, and CoreWeave jumping 6%. Nebius, Micron and SK Hynix also advanced, suggesting investors still see intact demand across the AI supply chain. Broadcom's gains carried into the regular session, making it one of the day's few large-cap winners.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html"}
+      ],
+      "published": "2026-11-18T04:20:00-05:00",
+      "tickers": ["AMD", "AVGO", "TSM", "CRWV", "NBIS", "MU"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Target beats on sales and profit as bargain-hunting shoppers show up, but shares slip",
+      "summary": "Target's third-quarter net sales rose 7.1% to $27.1 billion and diluted EPS jumped 49% to $2.65, both comfortably ahead of estimates, as comparable sales grew 5.6% on a 9.8% surge in digital orders and the biggest traffic increase since 2022. Management raised full-year EPS guidance to $10.65-$11.40, citing resilient demand from inflation-weary, deal-seeking consumers heading into the holidays. Shares still fell about 1% to $157.65, even as the stock remains up 63% for the year.",
+      "sources": ["Google Finance", "Yahoo Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQU0E3aW9Wc3JXc0tIbWtLaTRLaV90MUdheFFrcFlLb1lzOVlTa01xc185ODdud1hjb0hBRHFDVTY1aUhOZjd6RF80Q3FJX0gyalREeXR5RlppUGRNa3RvcmhUZVNBeXZBQWVzd2RrVHYyaEV0eVJJZTdTd0VONHVPS2VMZGxRMkxWVXAxMUc5QTM5dEs3NnpVaWU1RjhFZjlUS3V6Tllad0Q0WVd0WFpiOVVHQzJlLU1ad01hLUk2Znpod3Y4aDd3WDRHdHptZEJ4enRuRzdkcw?oc=5"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/article/target-earnings-squash-estimates-as-inflation-weary-shoppers-see-great-deals-113326641.html"}
+      ],
+      "published": "2026-11-18T06:33:00-05:00",
+      "tickers": ["TGT"],
+      "category": "Earnings",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Copper and tin slide as the AI trade unwinds in metals markets",
+      "summary": "Copper fell for a third straight session to a four-month low, with tin also sliding, as investors who had piled into industrial metals on AI-driven demand bets retreated amid a tech-stock rout and weaker Chinese growth data. The pullback underscores lingering doubts about global demand even as some AI-linked equities rebounded on Nvidia's earnings.",
+      "sources": ["Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/commodities/articles/copper-sinks-four-month-low-035511007.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-18/copper-prices-industrial-metal-dollar-lme"}
+      ],
+      "published": "2026-11-18T03:55:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Credit executives warn of a 'fear factor' as debt reprices across markets",
+      "summary": "Senior credit-market executives, including from Davidson Kempner, say fixed-income markets are undergoing a sharp repricing as elevated interest rates trigger a shakeout among weaker borrowers. They describe a growing sense of fear building across credit markets, a note of caution that contrasts with Wednesday's equity-market relief rally.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-18/credit-chiefs-warn-of-fear-factor-as-debt-reprices-all-at-once"}
+      ],
+      "published": "2026-11-18T06:11:49-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Tencent's AI spending squeezes profit as sales miss estimates",
+      "summary": "Tencent's heavy investment in artificial intelligence is weighing on profitability, with revenue falling short of analyst estimates in a setback for the Chinese tech giant's AI push. The results add to broader investor scrutiny of whether massive AI capital spending across the sector is translating into commensurate returns.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-18/tencent-s-sales-miss-estimates-in-setback-for-founder-s-ai-push"}
+      ],
+      "published": "2026-11-18T03:36:54-05:00",
+      "tickers": [],
+      "category": "Earnings",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Arm shares slide as CEO Rene Haas emerges as favorite for Nvidia's top job",
+      "summary": "Arm Holdings fell 4.6% after a Financial Times report that Nvidia's board approached chief executive Rene Haas about succeeding Jensen Huang, who resigned November 12. Prediction-market odds on Kalshi showed Haas's chances rising from 7% to 23% in four days, overtaking Huang's own odds of 17% and unsettling investors in a stock that trades near 74 times forward earnings and leans heavily on Haas's growth strategy.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/arm-ceo-rene-haas-23-162149507.html"}
+      ],
+      "published": "2026-11-16T11:21:00-05:00",
+      "tickers": ["ARM", "NVDA"],
+      "category": "Tech",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Renaissance Technologies slashed its Nvidia stake by 99.7% last quarter",
+      "summary": "Jim Simons' Renaissance Technologies cut its Nvidia holding from 7.09 million shares worth $1.42 billion at the end of June to just 23,170 shares by September 30, abandoning what had been its largest position. The quant fund rotated instead into Micron and AMD, which became its top two holdings at roughly $1.62 billion and $1.21 billion, a move that preceded this week's Nvidia earnings and CEO transition.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/jim-simons-fund-just-dumped-185334974.html"}
+      ],
+      "published": "2026-11-17T13:53:00-05:00",
+      "tickers": ["NVDA", "MU", "AMD"],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Import prices run hotter than forecast as industrial output unexpectedly falls",
+      "summary": "October import prices rose 1.1%, well above the 0.7% forecast, while industrial production fell 0.4% against expectations of a 0.1% gain. The mixed readings add to uncertainty over the inflation and growth outlook as traders await the FOMC minutes for clues on the Fed's next move.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://traderfactor.com/forex-market-today-fomc-minutes-in-focus-2/"}
+      ],
+      "published": "2026-11-18T07:00:00-05:00",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 3,
+      "sentiment": "bearish"
+    }
+  ],
+  "watch_today": [
+    {"when": "07:00 ET", "event": "MBA 30-Yr Mortgage Rate", "type": "economic"},
+    {"when": "07:00 ET", "event": "MBA Mortgage Market Index", "type": "economic"},
+    {"when": "Pre-market", "event": "Nvidia (NVDA) Q3 earnings", "type": "earnings"},
+    {"when": "Pre-market", "event": "Target (TGT) Q3 earnings", "type": "earnings"},
+    {"when": "10:00 ET", "event": "Pending Home Sales Index", "type": "economic"},
+    {"when": "14:00 ET", "event": "FOMC Meeting Minutes", "type": "fed"},
+    {"when": "Today", "event": "Anthropic IPO pricing", "type": "other"},
+    {"when": "APEC summit, Shenzhen", "event": "Xi-Trump-Putin trilateral talks on sidelines of APEC", "type": "other"}
+  ],
+  "desk_status": {"google": "ok", "yahoo": "ok", "bloomberg": "ok", "markets": "ok"}
+}

@@ -1,0 +1,5610 @@
+{
+ "date": "2026-11-18",
+ "generated_at": "2026-11-18T15:14:51+02:00",
+ "source": "TradingView scanner",
+ "benchmarks": [
+  {
+   "label": "S&P 500",
+   "symbol": "SP:SPX",
+   "price": 7340.53,
+   "change": -1.0255386909617545,
+   "kind": "index"
+  },
+  {
+   "label": "Nasdaq 100",
+   "symbol": "NASDAQ:NDX",
+   "price": 27001.7845,
+   "change": -0.7183395420470471,
+   "kind": "index"
+  },
+  {
+   "label": "Dow Jones",
+   "symbol": "DJ:DJI",
+   "price": 50759.42,
+   "change": -1.6446039454605734,
+   "kind": "index"
+  },
+  {
+   "label": "Russell 2000",
+   "symbol": "TVC:RUT",
+   "price": 2701.870752,
+   "change": -1.4973191526562744,
+   "kind": "index"
+  },
+  {
+   "label": "S&P Futures",
+   "symbol": "CME_MINI:ES1!",
+   "price": 7371,
+   "change": 0.16306563391765186,
+   "kind": "future"
+  },
+  {
+   "label": "Nasdaq Futures",
+   "symbol": "CME_MINI:NQ1!",
+   "price": 27222.75,
+   "change": 0.5438496057321195,
+   "kind": "future"
+  },
+  {
+   "label": "VIX",
+   "symbol": "CBOE:VIX",
+   "price": 24.64,
+   "change": -3.2207384131971732,
+   "kind": "vol"
+  },
+  {
+   "label": "US 10Y",
+   "symbol": "TVC:US10Y",
+   "price": 5.111,
+   "change": 0.039146604032095904,
+   "kind": "yield"
+  },
+  {
+   "label": "Dollar (DXY)",
+   "symbol": "TVC:DXY",
+   "price": 103.784,
+   "change": 0.17760617760618894,
+   "kind": "fx"
+  },
+  {
+   "label": "WTI Crude",
+   "symbol": "NYMEX:CL1!",
+   "price": 84.3,
+   "change": -1.9881409138472361,
+   "kind": "commodity"
+  },
+  {
+   "label": "Gold",
+   "symbol": "TVC:GOLD",
+   "price": 3771.29,
+   "change": -2.0268058570527487,
+   "kind": "commodity"
+  },
+  {
+   "label": "Bitcoin",
+   "symbol": "BITSTAMP:BTCUSD",
+   "price": 64027.62,
+   "change": -1.3044999606929735,
+   "kind": "crypto"
+  }
+ ],
+ "breadth": {
+  "advancers": 75,
+  "decliners": 427,
+  "total": 503
+ },
+ "sectors": [
+  {
+   "name": "Electronic Technology",
+   "market_cap": 17206340313165.0,
+   "change": 0.056430738106296174,
+   "count": 57,
+   "advancers": 23,
+   "leaders": [
+    {
+     "symbol": "NASDAQ:AAPL",
+     "ticker": "AAPL",
+     "name": "Apple Inc.",
+     "price": 351.91,
+     "change": -0.24661261976301033,
+     "volume": 37407537,
+     "value_traded": 13164086345.67,
+     "market_cap": 5114020094371.001,
+     "sector": "Electronic Technology",
+     "premarket_change": -0.35804609133018317,
+     "premarket_price": 350.65,
+     "rel_volume": 0.7358796220436296
+    },
+    {
+     "symbol": "NASDAQ:NVDA",
+     "ticker": "NVDA",
+     "name": "NVIDIA Corporation",
+     "price": 155.46,
+     "change": -0.4355065966440236,
+     "volume": 406984053,
+     "value_traded": 63269740879.380005,
+     "market_cap": 3746586161804,
+     "sector": "Electronic Technology",
+     "premarket_change": 2.9396629358034176,
+     "premarket_price": 160.03,
+     "rel_volume": 1.1949557630184702
+    },
+    {
+     "symbol": "NASDAQ:AVGO",
+     "ticker": "AVGO",
+     "name": "Broadcom Inc.",
+     "price": 341.6,
+     "change": 2.4595080983803377,
+     "volume": 26183909,
+     "value_traded": 8944423314.400002,
+     "market_cap": 1630671997105,
+     "sector": "Electronic Technology",
+     "premarket_change": 1.8764637002341826,
+     "premarket_price": 348.01,
+     "rel_volume": 0.7967130021820014
+    }
+   ]
+  },
+  {
+   "name": "Technology Services",
+   "market_cap": 15667819119887.0,
+   "change": -1.9195494712237926,
+   "count": 49,
+   "advancers": 5,
+   "leaders": [
+    {
+     "symbol": "NASDAQ:MSFT",
+     "ticker": "MSFT",
+     "name": "Microsoft Corporation",
+     "price": 506.24,
+     "change": -2.2683835595281763,
+     "volume": 27992069,
+     "value_traded": 14170705010.56,
+     "market_cap": 3759436548103.9995,
+     "sector": "Technology Services",
+     "premarket_change": -0.19802860303413358,
+     "premarket_price": 505.2375,
+     "rel_volume": 0.9434807802666587
+    },
+    {
+     "symbol": "NASDAQ:GOOGL",
+     "ticker": "GOOGL",
+     "name": "Alphabet Inc. Class A",
+     "price": 280.2,
+     "change": -1.2406598054419986,
+     "volume": 32175891,
+     "value_traded": 9015684658.199999,
+     "market_cap": 3410514515472,
+     "sector": "Technology Services",
+     "premarket_change": 0.8172733761598932,
+     "premarket_price": 282.49,
+     "rel_volume": 0.8734562553079153
+    },
+    {
+     "symbol": "NASDAQ:GOOG",
+     "ticker": "GOOG",
+     "name": "Alphabet Inc. Class C",
+     "price": 277.6,
+     "change": -1.3012870653487763,
+     "volume": 20502296,
+     "value_traded": 5691437369.6,
+     "market_cap": 3410514515471.9995,
+     "sector": "Technology Services",
+     "premarket_change": 0.775108069164267,
+     "premarket_price": 279.7517,
+     "rel_volume": 0.8530146927183961
+    }
+   ]
+  },
+  {
+   "name": "Finance",
+   "market_cap": 9521495981944.426,
+   "change": -1.688294589826343,
+   "count": 96,
+   "advancers": 3,
+   "leaders": [
+    {
+     "symbol": "NYSE:BRK.B",
+     "ticker": "BRK.B",
+     "name": "Berkshire Hathaway Inc. Class B",
+     "price": 586.76,
+     "change": -1.027241292063765,
+     "volume": 5114008,
+     "value_traded": 3000695334.08,
+     "market_cap": 1245800975988.9998,
+     "sector": "Finance",
+     "premarket_change": -0.4942395527984146,
+     "premarket_price": 583.86,
+     "rel_volume": 0.8834207407172473
+    },
+    {
+     "symbol": "NYSE:JPM",
+     "ticker": "JPM",
+     "name": "JPMorgan Chase & Co.",
+     "price": 329.96,
+     "change": -2.4393128529611783,
+     "volume": 8217951,
+     "value_traded": 2711595111.96,
+     "market_cap": 876244927240,
+     "sector": "Finance",
+     "premarket_change": 0.3758031276518393,
+     "premarket_price": 331.2,
+     "rel_volume": 1.1736639549269223
+    },
+    {
+     "symbol": "NYSE:V",
+     "ticker": "V",
+     "name": "Visa Inc. Class A",
+     "price": 416.77,
+     "change": -2.2721943441354404,
+     "volume": 5700233,
+     "value_traded": 2375686107.41,
+     "market_cap": 772852972883.0001,
+     "sector": "Finance",
+     "premarket_change": -0.42469467572041697,
+     "premarket_price": 415,
+     "rel_volume": 0.769511665853245
+    }
+   ]
+  },
+  {
+   "name": "Health Technology",
+   "market_cap": 5737313252322.0,
+   "change": -0.9436132892194188,
+   "count": 42,
+   "advancers": 8,
+   "leaders": [
+    {
+     "symbol": "NYSE:LLY",
+     "ticker": "LLY",
+     "name": "Eli Lilly and Company",
+     "price": 1415.55,
+     "change": -1.1259577975371502,
+     "volume": 2649239,
+     "value_traded": 3750130266.45,
+     "market_cap": 1331671623773,
+     "sector": "Health Technology",
+     "premarket_change": -0.7410547137155176,
+     "premarket_price": 1405.06,
+     "rel_volume": 0.8325984981391263
+    },
+    {
+     "symbol": "NYSE:JNJ",
+     "ticker": "JNJ",
+     "name": "Johnson & Johnson",
+     "price": 278.7,
+     "change": -1.3625906919129438,
+     "volume": 8978833,
+     "value_traded": 2502400757.1,
+     "market_cap": 670917410757.9999,
+     "sector": "Health Technology",
+     "premarket_change": -0.6996770721205557,
+     "premarket_price": 276.75,
+     "rel_volume": 1.1573394998759308
+    },
+    {
+     "symbol": "NYSE:ABBV",
+     "ticker": "ABBV",
+     "name": "AbbVie, Inc.",
+     "price": 292.82,
+     "change": -0.5873366151756979,
+     "volume": 3949733,
+     "value_traded": 1156560817.06,
+     "market_cap": 517593391833,
+     "sector": "Health Technology",
+     "premarket_change": -0.6168977528857307,
+     "premarket_price": 291.0136,
+     "rel_volume": 0.74456743372539
+    }
+   ]
+  },
+  {
+   "name": "Retail Trade",
+   "market_cap": 5682696440995.0,
+   "change": -0.48128470667396034,
+   "count": 23,
+   "advancers": 7,
+   "leaders": [
+    {
+     "symbol": "NASDAQ:AMZN",
+     "ticker": "AMZN",
+     "name": "Amazon.com, Inc.",
+     "price": 257.89,
+     "change": 0.05431619786614408,
+     "volume": 38683539,
+     "value_traded": 9976097872.71,
+     "market_cap": 2788600238640,
+     "sector": "Retail Trade",
+     "premarket_change": 0.2908216681530885,
+     "premarket_price": 258.64,
+     "rel_volume": 0.7713211768032948
+    },
+    {
+     "symbol": "NASDAQ:WMT",
+     "ticker": "WMT",
+     "name": "Walmart Inc.",
+     "price": 127.52,
+     "change": -0.6930924382836232,
+     "volume": 19841276,
+     "value_traded": 2530159515.52,
+     "market_cap": 1011711275242,
+     "sector": "Retail Trade",
+     "premarket_change": -1.1841279799247106,
+     "premarket_price": 126.01,
+     "rel_volume": 0.8577373529335502
+    },
+    {
+     "symbol": "NASDAQ:COST",
+     "ticker": "COST",
+     "name": "Costco Wholesale Corporation",
+     "price": 1110.08,
+     "change": -0.3286224792141866,
+     "volume": 3181765,
+     "value_traded": 3532013691.2,
+     "market_cap": 491908991054,
+     "sector": "Retail Trade",
+     "premarket_change": -0.5972542519457951,
+     "premarket_price": 1103.45,
+     "rel_volume": 1.2765580906319673
+    }
+   ]
+  },
+  {
+   "name": "Producer Manufacturing",
+   "market_cap": 2453340012791.0,
+   "change": -0.1171178993258672,
+   "count": 33,
+   "advancers": 10,
+   "leaders": [
+    {
+     "symbol": "NASDAQ:AMAT",
+     "ticker": "AMAT",
+     "name": "Applied Materials, Inc.",
+     "price": 349.23,
+     "change": -0.29122055674517683,
+     "volume": 6845518,
+     "value_traded": 2390660251.1400003,
+     "market_cap": 277148032950,
+     "sector": "Producer Manufacturing",
+     "premarket_change": 1.5978008762133793,
+     "premarket_price": 354.81,
+     "rel_volume": 0.735891846596704
+    },
+    {
+     "symbol": "NASDAQ:LRCX",
+     "ticker": "LRCX",
+     "name": "Lam Research Corporation",
+     "price": 210.69,
+     "change": -0.0664042119243062,
+     "volume": 11204847,
+     "value_traded": 2360749214.43,
+     "market_cap": 263187845360.99997,
+     "sector": "Producer Manufacturing",
+     "premarket_change": 2.5155441644121748,
+     "premarket_price": 215.99,
+     "rel_volume": 0.7682810708798162
+    },
+    {
+     "symbol": "NYSE:CAT",
+     "ticker": "CAT",
+     "name": "Caterpillar Inc.",
+     "price": 570.79,
+     "change": 0.052586373117838085,
+     "volume": 2978165,
+     "value_traded": 1699906800.35,
+     "market_cap": 261190170375.99997,
+     "sector": "Producer Manufacturing",
+     "premarket_change": 0.6797596313880754,
+     "premarket_price": 574.67,
+     "rel_volume": 0.7394579571919774
+    }
+   ]
+  },
+  {
+   "name": "Consumer Non-Durables",
+   "market_cap": 2190767584860.0,
+   "change": -1.5252170872879094,
+   "count": 27,
+   "advancers": 1,
+   "leaders": [
+    {
+     "symbol": "NYSE:KO",
+     "ticker": "KO",
+     "name": "Coca-Cola Company",
+     "price": 98.79,
+     "change": -0.6936067551266564,
+     "volume": 19065780,
+     "value_traded": 1883508406.2,
+     "market_cap": 424984936478.00006,
+     "sector": "Consumer Non-Durables",
+     "premarket_change": -0.7186962243142099,
+     "premarket_price": 98.08,
+     "rel_volume": 0.9905335981796998
+    },
+    {
+     "symbol": "NYSE:PG",
+     "ticker": "PG",
+     "name": "Procter & Gamble Company",
+     "price": 171.72,
+     "change": -0.7513582244827253,
+     "volume": 8992913,
+     "value_traded": 1544263020.36,
+     "market_cap": 398009734470.00006,
+     "sector": "Consumer Non-Durables",
+     "premarket_change": -0.6813417190775608,
+     "premarket_price": 170.55,
+     "rel_volume": 0.8724818013554034
+    },
+    {
+     "symbol": "NYSE:PM",
+     "ticker": "PM",
+     "name": "Philip Morris International Inc.",
+     "price": 194.38,
+     "change": -0.8467659661293597,
+     "volume": 5906480,
+     "value_traded": 1148101582.3999999,
+     "market_cap": 302971490845,
+     "sector": "Consumer Non-Durables",
+     "premarket_change": -0.5813355283465353,
+     "premarket_price": 193.25,
+     "rel_volume": 1.13648901152925
+    }
+   ]
+  },
+  {
+   "name": "Energy Minerals",
+   "market_cap": 1883778112806.0,
+   "change": -0.519771261689243,
+   "count": 13,
+   "advancers": 1,
+   "leaders": [
+    {
+     "symbol": "NYSE:XOM",
+     "ticker": "XOM",
+     "name": "Exxonmobil Holdings Corporation",
+     "price": 167.21,
+     "change": 0.20375142326362045,
+     "volume": 11965035,
+     "value_traded": 2000673502.3500001,
+     "market_cap": 682086806915.9999,
+     "sector": "Energy Minerals",
+     "premarket_change": -0.6040308593983729,
+     "premarket_price": 166.2,
+     "rel_volume": 0.7872488534640588
+    },
+    {
+     "symbol": "NYSE:CVX",
+     "ticker": "CVX",
+     "name": "Chevron Corporation",
+     "price": 216.13,
+     "change": -0.46513769918024817,
+     "volume": 8413318,
+     "value_traded": 1818370419.34,
+     "market_cap": 424786586674,
+     "sector": "Energy Minerals",
+     "premarket_change": -1.2492481376949007,
+     "premarket_price": 213.43,
+     "rel_volume": 0.9779520540076013
+    },
+    {
+     "symbol": "NYSE:COP",
+     "ticker": "COP",
+     "name": "ConocoPhillips",
+     "price": 139.48,
+     "change": -0.7401081696555795,
+     "volume": 7827722,
+     "value_traded": 1091810664.56,
+     "market_cap": 164912075300,
+     "sector": "Energy Minerals",
+     "premarket_change": -0.7671350731287592,
+     "premarket_price": 138.41,
+     "rel_volume": 0.9524082183143168
+    }
+   ]
+  },
+  {
+   "name": "Consumer Durables",
+   "market_cap": 1781968727788.0393,
+   "change": -0.10533521051067467,
+   "count": 11,
+   "advancers": 2,
+   "leaders": [
+    {
+     "symbol": "NASDAQ:TSLA",
+     "ticker": "TSLA",
+     "name": "Tesla, Inc.",
+     "price": 380.11,
+     "change": 0.0974350871649035,
+     "volume": 22285713,
+     "value_traded": 8471022368.43,
+     "market_cap": 1502482807008,
+     "sector": "Consumer Durables",
+     "premarket_change": 0.5946173476099017,
+     "premarket_price": 382.3702,
+     "rel_volume": 0.6008630003958613
+    },
+    {
+     "symbol": "NASDAQ:GM",
+     "ticker": "GM",
+     "name": "General Motors Company",
+     "price": 84.05,
+     "change": 0.45416517270227735,
+     "volume": 6700139,
+     "value_traded": 563146682.9499999,
+     "market_cap": 70900332878,
+     "sector": "Consumer Durables",
+     "premarket_change": -0.4045211183819196,
+     "premarket_price": 83.71,
+     "rel_volume": 1.0322193816921572
+    },
+    {
+     "symbol": "NYSE:F",
+     "ticker": "F",
+     "name": "Ford Motor Company",
+     "price": 11.34,
+     "change": -1.987899740708733,
+     "volume": 43107220,
+     "value_traded": 488835874.8,
+     "market_cap": 45283087678,
+     "sector": "Consumer Durables",
+     "premarket_change": -0.053791887125220414,
+     "premarket_price": 11.3339,
+     "rel_volume": 1.0548686954689661
+    }
+   ]
+  },
+  {
+   "name": "Consumer Services",
+   "market_cap": 1584980333606.0,
+   "change": -1.2609099170491738,
+   "count": 27,
+   "advancers": 4,
+   "leaders": [
+    {
+     "symbol": "NYSE:DIS",
+     "ticker": "DIS",
+     "name": "Walt Disney Company",
+     "price": 116.94,
+     "change": -1.4827295703454129,
+     "volume": 20338133,
+     "value_traded": 2378341273.02,
+     "market_cap": 201918769091,
+     "sector": "Consumer Services",
+     "premarket_change": 0.3110141953138435,
+     "premarket_price": 117.3037,
+     "rel_volume": 2.2014137057748537
+    },
+    {
+     "symbol": "NYSE:MCD",
+     "ticker": "MCD",
+     "name": "McDonald's Corporation",
+     "price": 275.82,
+     "change": 0.4186842392689326,
+     "volume": 4438037,
+     "value_traded": 1224099365.34,
+     "market_cap": 194669549123,
+     "sector": "Consumer Services",
+     "premarket_change": -0.804872743093311,
+     "premarket_price": 273.6,
+     "rel_volume": 0.7186519988609186
+    },
+    {
+     "symbol": "NASDAQ:SBUX",
+     "ticker": "SBUX",
+     "name": "Starbucks Corporation",
+     "price": 107.49,
+     "change": -1.1313465783664496,
+     "volume": 6687795,
+     "value_traded": 718871084.55,
+     "market_cap": 122549343939.99998,
+     "sector": "Consumer Services",
+     "premarket_change": -0.43213322169504237,
+     "premarket_price": 107.0255,
+     "rel_volume": 0.8818543930432636
+    }
+   ]
+  },
+  {
+   "name": "Utilities",
+   "market_cap": 1496011832794.0,
+   "change": -1.4671335250321307,
+   "count": 33,
+   "advancers": 3,
+   "leaders": [
+    {
+     "symbol": "NYSE:NEE",
+     "ticker": "NEE",
+     "name": "NextEra Energy, Inc.",
+     "price": 84.42,
+     "change": -1.0780407780642158,
+     "volume": 10939499,
+     "value_traded": 923512505.58,
+     "market_cap": 177054560930,
+     "sector": "Utilities",
+     "premarket_change": -0.5567401089789136,
+     "premarket_price": 83.95,
+     "rel_volume": 0.7956130158301222
+    },
+    {
+     "symbol": "NYSE:SO",
+     "ticker": "SO",
+     "name": "Southern Company",
+     "price": 93.6,
+     "change": -1.0989010989011057,
+     "volume": 8984274,
+     "value_traded": 840928046.4,
+     "market_cap": 108974826544,
+     "sector": "Utilities",
+     "premarket_change": -0.6303418803418688,
+     "premarket_price": 93.01,
+     "rel_volume": 0.7869962058461751
+    },
+    {
+     "symbol": "NYSE:DUK",
+     "ticker": "DUK",
+     "name": "Duke Energy Corporation",
+     "price": 129.84,
+     "change": -0.5743165632896853,
+     "volume": 7478866,
+     "value_traded": 971055961.44,
+     "market_cap": 101236532023.00002,
+     "sector": "Utilities",
+     "premarket_change": -0.37738755391251466,
+     "premarket_price": 129.35,
+     "rel_volume": 1.3076290023426718
+    }
+   ]
+  },
+  {
+   "name": "Transportation",
+   "market_cap": 952954133089.0,
+   "change": -2.0722190475183293,
+   "count": 15,
+   "advancers": 1,
+   "leaders": [
+    {
+     "symbol": "NYSE:UNP",
+     "ticker": "UNP",
+     "name": "Union Pacific Corporation",
+     "price": 297.03,
+     "change": -2.1994665964242226,
+     "volume": 3158762,
+     "value_traded": 938247076.8599999,
+     "market_cap": 176510203680,
+     "sector": "Transportation",
+     "premarket_change": 0.6261993738006308,
+     "premarket_price": 298.89,
+     "rel_volume": 1.0714953238374756
+    },
+    {
+     "symbol": "NYSE:UBER",
+     "ticker": "UBER",
+     "name": "Uber Technologies, Inc.",
+     "price": 68.81,
+     "change": -1.6859551364480536,
+     "volume": 22224535,
+     "value_traded": 1529270253.3500001,
+     "market_cap": 140503001300,
+     "sector": "Transportation",
+     "premarket_change": -0.4359831419851724,
+     "premarket_price": 68.51,
+     "rel_volume": 1.1481451387902233
+    },
+    {
+     "symbol": "NASDAQ:CSX",
+     "ticker": "CSX",
+     "name": "CSX Corporation",
+     "price": 51.14,
+     "change": -1.7105516048433604,
+     "volume": 9716043,
+     "value_traded": 496878439.02,
+     "market_cap": 94271382482.99998,
+     "sector": "Transportation",
+     "premarket_change": null,
+     "premarket_price": null,
+     "rel_volume": 0.8452282928810249
+    }
+   ]
+  },
+  {
+   "name": "Health Services",
+   "market_cap": 808919035629.0,
+   "change": -3.7332479534552885,
+   "count": 11,
+   "advancers": 0,
+   "leaders": [
+    {
+     "symbol": "NYSE:UNH",
+     "ticker": "UNH",
+     "name": "UnitedHealth Group Incorporated",
+     "price": 389.68,
+     "change": -5.422066889956793,
+     "volume": 8048975,
+     "value_traded": 3136524578,
+     "market_cap": 349162097368,
+     "sector": "Health Services",
+     "premarket_change": -0.5260726750154001,
+     "premarket_price": 387.63,
+     "rel_volume": 1.5571305706886758
+    },
+    {
+     "symbol": "NYSE:HCA",
+     "ticker": "HCA",
+     "name": "HCA Healthcare Inc",
+     "price": 501.19,
+     "change": -2.0692485052170806,
+     "volume": 1244274,
+     "value_traded": 623617686.06,
+     "market_cap": 104694833503,
+     "sector": "Health Services",
+     "premarket_change": null,
+     "premarket_price": null,
+     "rel_volume": 0.911800125835883
+    },
+    {
+     "symbol": "NYSE:ELV",
+     "ticker": "ELV",
+     "name": "Elevance Health, Inc.",
+     "price": 433.93,
+     "change": -2.7673209644169505,
+     "volume": 1175013,
+     "value_traded": 509873391.09000003,
+     "market_cap": 93753132043.00002,
+     "sector": "Health Services",
+     "premarket_change": 0.016131634134536256,
+     "premarket_price": 434,
+     "rel_volume": 0.8892854848039442
+    }
+   ]
+  },
+  {
+   "name": "Process Industries",
+   "market_cap": 758346009716.0,
+   "change": -1.7423605528074382,
+   "count": 19,
+   "advancers": 1,
+   "leaders": [
+    {
+     "symbol": "NASDAQ:LIN",
+     "ticker": "LIN",
+     "name": "Linde plc",
+     "price": 515.11,
+     "change": -1.5951553127268603,
+     "volume": 2351613,
+     "value_traded": 1211339372.43,
+     "market_cap": 236478634427,
+     "sector": "Process Industries",
+     "premarket_change": -0.22519461862514184,
+     "premarket_price": 513.95,
+     "rel_volume": 1.1555701554379703
+    },
+    {
+     "symbol": "NYSE:ECL",
+     "ticker": "ECL",
+     "name": "Ecolab Inc.",
+     "price": 302.59,
+     "change": -1.887098343114701,
+     "volume": 2333541,
+     "value_traded": 706106171.1899999,
+     "market_cap": 84866742536.99998,
+     "sector": "Process Industries",
+     "premarket_change": -0.5254634984632589,
+     "premarket_price": 301,
+     "rel_volume": 1.41712496964333
+    },
+    {
+     "symbol": "NYSE:SHW",
+     "ticker": "SHW",
+     "name": "Sherwin-Williams Company",
+     "price": 344.15,
+     "change": -1.8229018086381135,
+     "volume": 2407476,
+     "value_traded": 828532865.4,
+     "market_cap": 83142534100,
+     "sector": "Process Industries",
+     "premarket_change": null,
+     "premarket_price": null,
+     "rel_volume": 1.1165504808751432
+    }
+   ]
+  },
+  {
+   "name": "Industrial Services",
+   "market_cap": 660585345516.0,
+   "change": -0.0029827339711386625,
+   "count": 11,
+   "advancers": 4,
+   "leaders": [
+    {
+     "symbol": "NYSE:WM",
+     "ticker": "WM",
+     "name": "Waste Management, Inc.",
+     "price": 242.69,
+     "change": -0.6712233454753876,
+     "volume": 1837282,
+     "value_traded": 445889968.58,
+     "market_cap": 96502019272,
+     "sector": "Industrial Services",
+     "premarket_change": null,
+     "premarket_price": null,
+     "rel_volume": 0.9601130846933283
+    },
+    {
+     "symbol": "NYSE:PWR",
+     "ticker": "PWR",
+     "name": "Quanta Services, Inc.",
+     "price": 598.53,
+     "change": 2.1556579621095744,
+     "volume": 1019947,
+     "value_traded": 610468877.91,
+     "market_cap": 90184792589,
+     "sector": "Industrial Services",
+     "premarket_change": 1.1645197400297442,
+     "premarket_price": 605.5,
+     "rel_volume": 0.5302205827042312
+    },
+    {
+     "symbol": "NYSE:WMB",
+     "ticker": "WMB",
+     "name": "Williams Companies, Inc.",
+     "price": 67.46,
+     "change": -0.22186067149830746,
+     "volume": 7358476,
+     "value_traded": 496402790.96,
+     "market_cap": 84338660494,
+     "sector": "Industrial Services",
+     "premarket_change": null,
+     "premarket_price": null,
+     "rel_volume": 0.7259277035602477
+    }
+   ]
+  },
+  {
+   "name": "Commercial Services",
+   "market_cap": 658289356214.0,
+   "change": -2.9799807364966386,
+   "count": 15,
+   "advancers": 0,
+   "leaders": [
+    {
+     "symbol": "NYSE:SPGI",
+     "ticker": "SPGI",
+     "name": "S&P Global, Inc.",
+     "price": 452.35,
+     "change": -4.079815093619447,
+     "volume": 1000410,
+     "value_traded": 452535463.5,
+     "market_cap": 131136264008,
+     "sector": "Commercial Services",
+     "premarket_change": -0.5195092295788709,
+     "premarket_price": 450,
+     "rel_volume": 0.6816466166402284
+    },
+    {
+     "symbol": "NASDAQ:CTAS",
+     "ticker": "CTAS",
+     "name": "Cintas Corporation",
+     "price": 222.2,
+     "change": -0.874375446109925,
+     "volume": 1042985,
+     "value_traded": 231751267,
+     "market_cap": 88230086844.00002,
+     "sector": "Commercial Services",
+     "premarket_change": -0.8910891089108866,
+     "premarket_price": 220.22,
+     "rel_volume": 0.5903929849209878
+    },
+    {
+     "symbol": "NYSE:MCO",
+     "ticker": "MCO",
+     "name": "Moody's Corporation",
+     "price": 484.41,
+     "change": -4.319744015169461,
+     "volume": 1101352,
+     "value_traded": 533505922.32000005,
+     "market_cap": 83512281675,
+     "sector": "Commercial Services",
+     "premarket_change": null,
+     "premarket_price": null,
+     "rel_volume": 1.3410440435396827
+    }
+   ]
+  },
+  {
+   "name": "Communications",
+   "market_cap": 547222652470.0,
+   "change": -0.8134851868271811,
+   "count": 4,
+   "advancers": 0,
+   "leaders": [
+    {
+     "symbol": "NYSE:VZ",
+     "ticker": "VZ",
+     "name": "Verizon Communications Inc.",
+     "price": 45.93,
+     "change": -0.8847647820457567,
+     "volume": 21170050,
+     "value_traded": 972340396.5,
+     "market_cap": 190361394043,
+     "sector": "Communications",
+     "premarket_change": -0.7620291748312681,
+     "premarket_price": 45.58,
+     "rel_volume": 1.003625711394488
+    },
+    {
+     "symbol": "NASDAQ:TMUS",
+     "ticker": "TMUS",
+     "name": "T-Mobile US, Inc.",
+     "price": 167.9,
+     "change": -1.2411034645020795,
+     "volume": 4228429,
+     "value_traded": 709953229.1,
+     "market_cap": 177851860222,
+     "sector": "Communications",
+     "premarket_change": -0.6372840976771846,
+     "premarket_price": 166.83,
+     "rel_volume": 0.8069795581021392
+    },
+    {
+     "symbol": "NYSE:T",
+     "ticker": "T",
+     "name": "AT&T Inc",
+     "price": 22.29,
+     "change": -0.3130590339892678,
+     "volume": 42373098,
+     "value_traded": 944496354.42,
+     "market_cap": 150156003443,
+     "sector": "Communications",
+     "premarket_change": -0.628084342754601,
+     "premarket_price": 22.15,
+     "rel_volume": 0.9909426836784595
+    }
+   ]
+  },
+  {
+   "name": "Distribution Services",
+   "market_cap": 500932922944.0,
+   "change": -1.455348272413943,
+   "count": 9,
+   "advancers": 0,
+   "leaders": [
+    {
+     "symbol": "NYSE:MCK",
+     "ticker": "MCK",
+     "name": "McKesson Corporation",
+     "price": 1091.67,
+     "change": -1.209910953449639,
+     "volume": 722818,
+     "value_traded": 789078726.0600001,
+     "market_cap": 126040582597.00002,
+     "sector": "Distribution Services",
+     "premarket_change": null,
+     "premarket_price": null,
+     "rel_volume": 0.9639490949399533
+    },
+    {
+     "symbol": "NYSE:GWW",
+     "ticker": "GWW",
+     "name": "W.W. Grainger, Inc.",
+     "price": 1466.96,
+     "change": -1.9267539344021138,
+     "volume": 268728,
+     "value_traded": 394213226.88,
+     "market_cap": 68674480647,
+     "sector": "Distribution Services",
+     "premarket_change": null,
+     "premarket_price": null,
+     "rel_volume": 0.7023271604502684
+    },
+    {
+     "symbol": "NYSE:COR",
+     "ticker": "COR",
+     "name": "Cencora, Inc.",
+     "price": 350.56,
+     "change": -1.787415251863057,
+     "volume": 1349594,
+     "value_traded": 473113672.64,
+     "market_cap": 66896375388.99999,
+     "sector": "Distribution Services",
+     "premarket_change": null,
+     "premarket_price": null,
+     "rel_volume": 0.8342449428466114
+    }
+   ]
+  },
+  {
+   "name": "Non-Energy Minerals",
+   "market_cap": 415084068569.0,
+   "change": -0.2319241589452065,
+   "count": 7,
+   "advancers": 2,
+   "leaders": [
+    {
+     "symbol": "NYSE:NEM",
+     "ticker": "NEM",
+     "name": "Newmont Corporation",
+     "price": 111.26,
+     "change": 0.8612093191913724,
+     "volume": 7149506,
+     "value_traded": 795454037.5600001,
+     "market_cap": 115620641802,
+     "sector": "Non-Energy Minerals",
+     "premarket_change": -3.819881358978968,
+     "premarket_price": 107.01,
+     "rel_volume": 0.9630588604189768
+    },
+    {
+     "symbol": "NYSE:FCX",
+     "ticker": "FCX",
+     "name": "Freeport-McMoRan, Inc.",
+     "price": 55.3,
+     "change": 0.19931146946910572,
+     "volume": 14955011,
+     "value_traded": 827012108.3,
+     "market_cap": 79351961649,
+     "sector": "Non-Energy Minerals",
+     "premarket_change": -3.3815551537070476,
+     "premarket_price": 53.43,
+     "rel_volume": 1.0980755738595267
+    },
+    {
+     "symbol": "NYSE:CRH",
+     "ticker": "CRH",
+     "name": "CRH public limited company",
+     "price": 90.62,
+     "change": -1.8945545090397315,
+     "volume": 4275548,
+     "value_traded": 387450159.76,
+     "market_cap": 60283214560,
+     "sector": "Non-Energy Minerals",
+     "premarket_change": -0.022070183182531705,
+     "premarket_price": 90.6,
+     "rel_volume": 0.8341752708702826
+    }
+   ]
+  },
+  {
+   "name": "Miscellaneous",
+   "market_cap": 19853671074.000004,
+   "change": -1.4786418400876402,
+   "count": 1,
+   "advancers": 0,
+   "leaders": [
+    {
+     "symbol": "NYSE:TPL",
+     "ticker": "TPL",
+     "name": "Texas Pacific Land Corporation",
+     "price": 287.84,
+     "change": -1.4786418400876402,
+     "volume": 319258,
+     "value_traded": 91895222.72,
+     "market_cap": 19853671074.000004,
+     "sector": "Miscellaneous",
+     "premarket_change": null,
+     "premarket_price": null,
+     "rel_volume": 0.5475493300856797
+    }
+   ]
+  }
+ ],
+ "heatmap": [
+  {
+   "name": "Electronic Technology",
+   "change": 0.056430738106296174,
+   "market_cap": 17206340313165.0,
+   "stocks": [
+    {
+     "t": "AAPL",
+     "n": "Apple Inc.",
+     "c": -0.24661261976301033,
+     "m": 5114020094371.001,
+     "p": 351.91
+    },
+    {
+     "t": "NVDA",
+     "n": "NVIDIA Corporation",
+     "c": -0.4355065966440236,
+     "m": 3746586161804,
+     "p": 155.46
+    },
+    {
+     "t": "AVGO",
+     "n": "Broadcom Inc.",
+     "c": 2.4595080983803377,
+     "m": 1630671997105,
+     "p": 341.6
+    },
+    {
+     "t": "AMD",
+     "n": "Advanced Micro Devices, Inc.",
+     "c": -0.17252320139603947,
+     "m": 825636343769.0001,
+     "p": 503.41
+    },
+    {
+     "t": "MU",
+     "n": "Micron Technology, Inc.",
+     "c": -0.917916052404665,
+     "m": 806048509470.0001,
+     "p": 712.42
+    },
+    {
+     "t": "CSCO",
+     "n": "Cisco Systems, Inc.",
+     "c": 0.6242065171392334,
+     "m": 374446168345,
+     "p": 95.11
+    },
+    {
+     "t": "GE",
+     "n": "GE Aerospace",
+     "c": 0.37517682514298867,
+     "m": 337286063223.99994,
+     "p": 326.4
+    },
+    {
+     "t": "INTC",
+     "n": "Intel Corporation",
+     "c": -0.5408328826392593,
+     "m": 293228540268,
+     "p": 55.17
+    },
+    {
+     "t": "TXN",
+     "n": "Texas Instruments Incorporated",
+     "c": 0.560823901295005,
+     "m": 270348074882.99997,
+     "p": 295.86
+    },
+    {
+     "t": "RTX",
+     "n": "RTX Corporation",
+     "c": 1.5957719739340213,
+     "m": 267189229248,
+     "p": 198
+    },
+    {
+     "t": "ANET",
+     "n": "Arista Networks Inc",
+     "c": -0.3208213025345004,
+     "m": 235523462609.00003,
+     "p": 186.42
+    },
+    {
+     "t": "DELL",
+     "n": "Dell Technologies, Inc. Class C",
+     "c": 0.6987989393230414,
+     "m": 205234005917.99997,
+     "p": 322.79
+    },
+    {
+     "t": "APH",
+     "n": "Amphenol Corporation Class A",
+     "c": 1.232931194484943,
+     "m": 188552789066.00003,
+     "p": 76.36
+    },
+    {
+     "t": "KLAC",
+     "n": "KLA Corporation",
+     "c": 0.41678243956654226,
+     "m": 188356241702,
+     "p": 144.56
+    },
+    {
+     "t": "ADI",
+     "n": "Analog Devices, Inc.",
+     "c": 0.13049038285878328,
+     "m": 185913236623,
+     "p": 383.67
+    },
+    {
+     "t": "QCOM",
+     "n": "QUALCOMM Incorporated",
+     "c": -1.0977925468787222,
+     "m": 178336898041.00003,
+     "p": 166.67
+    },
+    {
+     "t": "LMT",
+     "n": "Lockheed Martin Corporation",
+     "c": 0.8766083969856966,
+     "m": 136371284596.99998,
+     "p": 590.34
+    },
+    {
+     "t": "MRVL",
+     "n": "Marvell Technology, Inc.",
+     "c": 2.3252614199229464,
+     "m": 130430114448,
+     "p": 148.74
+    },
+    {
+     "t": "BA",
+     "n": "Boeing Company",
+     "c": -0.7928822176491964,
+     "m": 129890474399,
+     "p": 163.91
+    },
+    {
+     "t": "STX",
+     "n": "Seagate Technology Holdings PLC",
+     "c": 1.0821643286573102,
+     "m": 115790623214.00002,
+     "p": 504.4
+    },
+    {
+     "t": "SNDK",
+     "n": "Sandisk Corporation",
+     "c": -1.4670440360395995,
+     "m": 113438761931,
+     "p": 797.24
+    },
+    {
+     "t": "WDC",
+     "n": "Western Digital Corporation",
+     "c": 0.854305342967991,
+     "m": 106057007829,
+     "p": 283.33
+    },
+    {
+     "t": "GD",
+     "n": "General Dynamics Corporation",
+     "c": -1.1287497567349667,
+     "m": 96099664415.00002,
+     "p": 355.63
+    },
+    {
+     "t": "GLW",
+     "n": "Corning Inc",
+     "c": 2.185174719789011,
+     "m": 93453405998.99998,
+     "p": 108.49
+    },
+    {
+     "t": "EMR",
+     "n": "Emerson Electric Co.",
+     "c": -0.9337068160597572,
+     "m": 87309682766,
+     "p": 159.15
+    },
+    {
+     "t": "MSI",
+     "n": "Motorola Solutions, Inc.",
+     "c": -1.5013946870846329,
+     "m": 86990455830.00002,
+     "p": 526.15
+    },
+    {
+     "t": "HWM",
+     "n": "Howmet Aerospace Inc.",
+     "c": 1.1510453370918567,
+     "m": 85616305129,
+     "p": 215.3
+    },
+    {
+     "t": "NOC",
+     "n": "Northrop Grumman Corp.",
+     "c": 1.3946669110235523,
+     "m": 78598597607.00002,
+     "p": 553.26
+    },
+    {
+     "t": "VRT",
+     "n": "Vertiv Holdings Co. Class A",
+     "c": 0.9010441511634162,
+     "m": 73303945380,
+     "p": 190.37
+    },
+    {
+     "t": "TDG",
+     "n": "TransDigm Group Incorporated",
+     "c": -1.413718303538035,
+     "m": 64754460940.99999,
+     "p": 1186.2
+    },
+    {
+     "t": "MPWR",
+     "n": "Monolithic Power Systems, Inc.",
+     "c": 0.25646879756467966,
+     "m": 64245501972,
+     "p": 1317.37
+    },
+    {
+     "t": "NXPI",
+     "n": "NXP Semiconductors NV",
+     "c": -0.6609229316652925,
+     "m": 63645896220,
+     "p": 252.51
+    },
+    {
+     "t": "HPE",
+     "n": "Hewlett Packard Enterprise Co.",
+     "c": -1.0307064633884409,
+     "m": 61182849225.00001,
+     "p": 46.09
+    },
+    {
+     "t": "TEL",
+     "n": "TE Connectivity plc",
+     "c": -0.9744670883110725,
+     "m": 60598741650.000015,
+     "p": 211.37
+    },
+    {
+     "t": "GRMN",
+     "n": "Garmin Ltd.",
+     "c": -0.8402760396181295,
+     "m": 53438261242,
+     "p": 277.32
+    },
+    {
+     "t": "BE",
+     "n": "Bloom Energy Corporation Class A",
+     "c": -2.1547833935018015,
+     "m": 51284609220,
+     "p": 173.46
+    },
+    {
+     "t": "HONA",
+     "n": "Honeywell Aerospace Inc",
+     "c": -1.6650342801175486,
+     "m": 50927992950.99999,
+     "p": 160.64
+    },
+    {
+     "t": "LHX",
+     "n": "L3Harris Technologies Inc",
+     "c": -0.3858643744030529,
+     "m": 48549976357.99999,
+     "p": 260.74
+    },
+    {
+     "t": "KEYS",
+     "n": "Keysight Technologies Inc",
+     "c": -0.4131218709519332,
+     "m": 48426121493,
+     "p": 284.45
+    },
+    {
+     "t": "COHR",
+     "n": "Coherent Corp.",
+     "c": 3.6523619918399484,
+     "m": 41530707216,
+     "p": 210.86
+    },
+    {
+     "t": "CIEN",
+     "n": "Ciena Corporation",
+     "c": 2.818760677123773,
+     "m": 37553736672,
+     "p": 264.82
+    },
+    {
+     "t": "TER",
+     "n": "Teradyne, Inc.",
+     "c": 0.9831824062095736,
+     "m": 36561294183.99999,
+     "p": 234.18
+    },
+    {
+     "t": "NTAP",
+     "n": "NetApp, Inc.",
+     "c": -2.7045262861962343,
+     "m": 33988343540,
+     "p": 173.04
+    },
+    {
+     "t": "P",
+     "n": "Everpure, Inc. Class A",
+     "c": -1.8229166666666672,
+     "m": 33919203548.999992,
+     "p": 101.79
+    },
+    {
+     "t": "MCHP",
+     "n": "Microchip Technology Incorporated",
+     "c": 1.347203274215551,
+     "m": 32343210663.999992,
+     "p": 59.43
+    },
+    {
+     "t": "TDY",
+     "n": "Teledyne Technologies Incorporated",
+     "c": -1.3679433075881886,
+     "m": 28513115745,
+     "p": 619.36
+    },
+    {
+     "t": "FLEX",
+     "n": "Flex Ltd",
+     "c": -2.2860962566844836,
+     "m": 27003889647,
+     "p": 73.09
+    },
+    {
+     "t": "ON",
+     "n": "ON Semiconductor Corporation",
+     "c": 0.35455754173439075,
+     "m": 26444095176,
+     "p": 67.93
+    },
+    {
+     "t": "AXON",
+     "n": "Axon Enterprise Inc",
+     "c": -2.561676021407134,
+     "m": 24314992204.999996,
+     "p": 298.59
+    },
+    {
+     "t": "Q",
+     "n": "Qnity Electronics, Inc.",
+     "c": -0.40883785664578887,
+     "m": 23933374467,
+     "p": 114.49
+    },
+    {
+     "t": "SWKS",
+     "n": "Skyworks Solutions, Inc.",
+     "c": -0.6589595375722465,
+     "m": 20181058386,
+     "p": 85.93
+    },
+    {
+     "t": "FTV",
+     "n": "Fortive Corp.",
+     "c": -2.1620020731526846,
+     "m": 19665370056,
+     "p": 66.07
+    },
+    {
+     "t": "FSLR",
+     "n": "First Solar, Inc.",
+     "c": -5.835641735918738,
+     "m": 16441391305.000002,
+     "p": 152.97
+    },
+    {
+     "t": "SMCI",
+     "n": "Super Micro Computer, Inc.",
+     "c": -3.5364635364635286,
+     "m": 15913747970.000002,
+     "p": 24.14
+    },
+    {
+     "t": "ZBRA",
+     "n": "Zebra Technologies Corporation Class A",
+     "c": -2.4739949395558103,
+     "m": 14701172965.999998,
+     "p": 312.21
+    },
+    {
+     "t": "TXT",
+     "n": "Textron Inc.",
+     "c": -1.2938331318017018,
+     "m": 13828119791,
+     "p": 81.63
+    },
+    {
+     "t": "HII",
+     "n": "Huntington Ingalls Industries, Inc.",
+     "c": -1.5392763745903464,
+     "m": 11720938363.999998,
+     "p": 297.44
+    }
+   ]
+  },
+  {
+   "name": "Technology Services",
+   "change": -1.9195494712237926,
+   "market_cap": 15667819119887.0,
+   "stocks": [
+    {
+     "t": "MSFT",
+     "n": "Microsoft Corporation",
+     "c": -2.2683835595281763,
+     "m": 3759436548103.9995,
+     "p": 506.24
+    },
+    {
+     "t": "GOOGL",
+     "n": "Alphabet Inc. Class A",
+     "c": -1.2406598054419986,
+     "m": 3410514515472,
+     "p": 280.2
+    },
+    {
+     "t": "GOOG",
+     "n": "Alphabet Inc. Class C",
+     "c": -1.3012870653487763,
+     "m": 3410514515471.9995,
+     "p": 277.6
+    },
+    {
+     "t": "META",
+     "n": "Meta Platforms Inc Class A",
+     "c": -1.2036844877955275,
+     "m": 1581980888588.0002,
+     "p": 618.87
+    },
+    {
+     "t": "PLTR",
+     "n": "Palantir Technologies Inc. Class A",
+     "c": -2.3879294220337832,
+     "m": 377230894891,
+     "p": 156.56
+    },
+    {
+     "t": "ORCL",
+     "n": "Oracle Corporation",
+     "c": -3.4343773616592523,
+     "m": 347729649657.99994,
+     "p": 115
+    },
+    {
+     "t": "PANW",
+     "n": "Palo Alto Networks, Inc.",
+     "c": -2.1512860261317837,
+     "m": 253237877153.99997,
+     "p": 309.29
+    },
+    {
+     "t": "NFLX",
+     "n": "Netflix, Inc.",
+     "c": -1.761316872427984,
+     "m": 245065547190.99997,
+     "p": 59.68
+    },
+    {
+     "t": "CRWD",
+     "n": "CrowdStrike Holdings, Inc. Class A",
+     "c": -1.6262712244075064,
+     "m": 224835608432,
+     "p": 219.58
+    },
+    {
+     "t": "IBM",
+     "n": "International Business Machines Corporation",
+     "c": -4.709084161477872,
+     "m": 218407959570,
+     "p": 231.09
+    },
+    {
+     "t": "CRM",
+     "n": "Salesforce, Inc.",
+     "c": -9.453986873341712,
+     "m": 160089963516,
+     "p": 194.52
+    },
+    {
+     "t": "ACN",
+     "n": "Accenture Plc Class A",
+     "c": -3.399273314493334,
+     "m": 141423610393,
+     "p": 239.28
+    },
+    {
+     "t": "APP",
+     "n": "AppLovin Corp. Class A",
+     "c": -3.9208130629545854,
+     "m": 132177597736,
+     "p": 398.94
+    },
+    {
+     "t": "ADP",
+     "n": "Automatic Data Processing, Inc.",
+     "c": -1.6399195992725606,
+     "m": 121700388027,
+     "p": 308.29
+    },
+    {
+     "t": "NOW",
+     "n": "ServiceNow, Inc.",
+     "c": -6.511019422360873,
+     "m": 96430201583.99998,
+     "p": 92.9
+    },
+    {
+     "t": "ADBE",
+     "n": "Adobe Inc.",
+     "c": -4.247967479674792,
+     "m": 91676064062.99998,
+     "p": 235.55
+    },
+    {
+     "t": "FTNT",
+     "n": "Fortinet, Inc.",
+     "c": 0.9978096860550045,
+     "m": 91471367340,
+     "p": 124.5
+    },
+    {
+     "t": "INTU",
+     "n": "Intuit Inc.",
+     "c": -7.168075008681556,
+     "m": 85726636296,
+     "p": 320.79
+    },
+    {
+     "t": "CDNS",
+     "n": "Cadence Design Systems, Inc.",
+     "c": -0.7950101800083959,
+     "m": 84226121289.99998,
+     "p": 306.97
+    },
+    {
+     "t": "SNPS",
+     "n": "Synopsys, Inc.",
+     "c": -1.318741078104818,
+     "m": 83459676026.99998,
+     "p": 435.51
+    },
+    {
+     "t": "DDOG",
+     "n": "Datadog, Inc. Class A",
+     "c": -4.442901770218677,
+     "m": 59649953457.00001,
+     "p": 165.18
+    },
+    {
+     "t": "ADSK",
+     "n": "Autodesk, Inc.",
+     "c": -3.8828004368621154,
+     "m": 53340980255,
+     "p": 255.22
+    },
+    {
+     "t": "ROP",
+     "n": "Roper Technologies, Inc.",
+     "c": -2.439427768130326,
+     "m": 46737273544.99999,
+     "p": 471.92
+    },
+    {
+     "t": "VEEV",
+     "n": "Veeva Systems Inc. Class A",
+     "c": -3.6320502539427792,
+     "m": 46696130289,
+     "p": 288.41
+    },
+    {
+     "t": "WDAY",
+     "n": "Workday, Inc. Class A",
+     "c": -5.802329176543332,
+     "m": 44054800735,
+     "p": 182.8
+    },
+    {
+     "t": "PAYX",
+     "n": "Paychex, Inc.",
+     "c": -3.1162435255158374,
+     "m": 40617370941,
+     "p": 114.1
+    },
+    {
+     "t": "TTWO",
+     "n": "Take-Two Interactive Software, Inc.",
+     "c": -4.469012039162408,
+     "m": 38178444771,
+     "p": 203.93
+    },
+    {
+     "t": "OKTA",
+     "n": "Okta, Inc. Class A",
+     "c": -2.0648636516664833,
+     "m": 30513213447.000004,
+     "p": 174.54
+    },
+    {
+     "t": "TWLO",
+     "n": "Twilio, Inc. Class A",
+     "c": -2.6526928091465214,
+     "m": 30038516844.000004,
+     "p": 194.13
+    },
+    {
+     "t": "VRSN",
+     "n": "VeriSign, Inc.",
+     "c": -0.8851279058457407,
+     "m": 27421290162.000004,
+     "p": 305.7
+    },
+    {
+     "t": "CTSH",
+     "n": "Cognizant Technology Solutions Corporation Class A",
+     "c": -3.6763525445496854,
+     "m": 26821825562,
+     "p": 60
+    },
+    {
+     "t": "VRSK",
+     "n": "Verisk Analytics, Inc.",
+     "c": -3.501598044745248,
+     "m": 26338482005,
+     "p": 205.31
+    },
+    {
+     "t": "HPQ",
+     "n": "HP Inc.",
+     "c": 0.666199158485278,
+     "m": 25890419233.000004,
+     "p": 28.71
+    },
+    {
+     "t": "BR",
+     "n": "Broadridge Financial Solutions, Inc.",
+     "c": -3.411186232329439,
+     "m": 21329573379.000004,
+     "p": 188.58
+    },
+    {
+     "t": "PTC",
+     "n": "PTC Inc.",
+     "c": -0.3768204501476775,
+     "m": 21252990539,
+     "p": 195.64
+    },
+    {
+     "t": "CDW",
+     "n": "CDW Corporation",
+     "c": -1.6584247979737066,
+     "m": 20352656489,
+     "p": 163.07
+    },
+    {
+     "t": "J",
+     "n": "Jacobs Solutions Inc.",
+     "c": -0.9948692278813688,
+     "m": 18519019134.999996,
+     "p": 158.23
+    },
+    {
+     "t": "RDDT",
+     "n": "Reddit, Inc. Class A",
+     "c": 1.7336061160762348,
+     "m": 18243496014,
+     "p": 94.48
+    },
+    {
+     "t": "GEN",
+     "n": "Gen Digital Inc.",
+     "c": -2.89473684210526,
+     "m": 17513509622.000004,
+     "p": 29.52
+    },
+    {
+     "t": "FFIV",
+     "n": "F5, Inc.",
+     "c": 0.15426020743073732,
+     "m": 17335876555,
+     "p": 305.15
+    },
+    {
+     "t": "TYL",
+     "n": "Tyler Technologies, Inc.",
+     "c": -3.885158927649188,
+     "m": 16278742151.999998,
+     "p": 409.43
+    },
+    {
+     "t": "LDOS",
+     "n": "Leidos Holdings, Inc.",
+     "c": -1.3613290263036533,
+     "m": 15645819963,
+     "p": 128.25
+    },
+    {
+     "t": "FIS",
+     "n": "Fidelity National Information Services, Inc.",
+     "c": -2.9328621908127275,
+     "m": 14159968124.000002,
+     "p": 27.47
+    },
+    {
+     "t": "GDDY",
+     "n": "GoDaddy, Inc. Class A",
+     "c": -4.909998217786495,
+     "m": 12941223550.999998,
+     "p": 106.71
+    },
+    {
+     "t": "CSGP",
+     "n": "CoStar Group, Inc.",
+     "c": -2.0806658130601745,
+     "m": 12307498398,
+     "p": 30.59
+    },
+    {
+     "t": "TRMB",
+     "n": "Trimble Inc.",
+     "c": -2.0281381326511956,
+     "m": 12292009212,
+     "p": 53.62
+    },
+    {
+     "t": "JKHY",
+     "n": "Jack Henry & Associates, Inc.",
+     "c": -1.7997876027052704,
+     "m": 12231311924.000002,
+     "p": 175.69
+    },
+    {
+     "t": "AKAM",
+     "n": "Akamai Technologies, Inc.",
+     "c": 0.582293523469988,
+     "m": 12207557008.999998,
+     "p": 84.64
+    },
+    {
+     "t": "IT",
+     "n": "Gartner, Inc.",
+     "c": -2.164986935423667,
+     "m": 11573535771,
+     "p": 183.47
+    }
+   ]
+  },
+  {
+   "name": "Finance",
+   "change": -1.688294589826343,
+   "market_cap": 9521495981944.426,
+   "stocks": [
+    {
+     "t": "BRK.B",
+     "n": "Berkshire Hathaway Inc. Class B",
+     "c": -1.027241292063765,
+     "m": 1245800975988.9998,
+     "p": 586.76
+    },
+    {
+     "t": "JPM",
+     "n": "JPMorgan Chase & Co.",
+     "c": -2.4393128529611783,
+     "m": 876244927240,
+     "p": 329.96
+    },
+    {
+     "t": "V",
+     "n": "Visa Inc. Class A",
+     "c": -2.2721943441354404,
+     "m": 772852972883.0001,
+     "p": 416.77
+    },
+    {
+     "t": "MA",
+     "n": "Mastercard Incorporated Class A",
+     "c": -2.414955191851418,
+     "m": 562544532167,
+     "p": 645.73
+    },
+    {
+     "t": "BAC",
+     "n": "Bank of America Corp",
+     "c": -1.2779552715654963,
+     "m": 341146322712,
+     "p": 49.44
+    },
+    {
+     "t": "MS",
+     "n": "Morgan Stanley",
+     "c": -1.0993156221371947,
+     "m": 286865430972,
+     "p": 183.53
+    },
+    {
+     "t": "GS",
+     "n": "Goldman Sachs Group, Inc.",
+     "c": -1.5725598402763736,
+     "m": 253107136554,
+     "p": 877.52
+    },
+    {
+     "t": "WFC",
+     "n": "Wells Fargo & Company",
+     "c": -2.5341819896275406,
+     "m": 248223012092,
+     "p": 82.69
+    },
+    {
+     "t": "AXP",
+     "n": "American Express Company",
+     "c": -1.0249177244946055,
+     "m": 211746910358.00003,
+     "p": 315.78
+    },
+    {
+     "t": "C",
+     "n": "Citigroup Inc.",
+     "c": -1.1374876360039528,
+     "m": 198525227905.99997,
+     "p": 119.94
+    },
+    {
+     "t": "BLK",
+     "n": "BlackRock, Inc.",
+     "c": -1.4441096187717517,
+     "m": 191304372353.00003,
+     "p": 1180.67
+    },
+    {
+     "t": "WELL",
+     "n": "Welltower Inc.",
+     "c": 0.4537093807480013,
+     "m": 180291955970,
+     "p": 245.76
+    },
+    {
+     "t": "SCHW",
+     "n": "Charles Schwab Corp",
+     "c": -1.1835592855605708,
+     "m": 158516539968,
+     "p": 91.84
+    },
+    {
+     "t": "BX",
+     "n": "Blackstone Inc.",
+     "c": -0.4529527390821307,
+     "m": 143779824346,
+     "p": 116.48
+    },
+    {
+     "t": "CB",
+     "n": "Chubb Limited",
+     "c": -1.4792278640369247,
+     "m": 143524245162,
+     "p": 375.64
+    },
+    {
+     "t": "PGR",
+     "n": "Progressive Corporation",
+     "c": -1.1208022584586967,
+     "m": 135958922334.00002,
+     "p": 234.67
+    },
+    {
+     "t": "IBKR",
+     "n": "Interactive Brokers Group, Inc. Class A",
+     "c": -2.5117939563942535,
+     "m": 130083911010.81999,
+     "p": 76.46
+    },
+    {
+     "t": "PLD",
+     "n": "Prologis, Inc.",
+     "c": -1.5987460815046959,
+     "m": 121740588054.00002,
+     "p": 125.56
+    },
+    {
+     "t": "COF",
+     "n": "Capital One Financial Corp",
+     "c": -3.3329883034882504,
+     "m": 112354359544.99998,
+     "p": 186.78
+    },
+    {
+     "t": "CME",
+     "n": "CME Group Inc. Class A",
+     "c": -2.4454394589347785,
+     "m": 111517883021,
+     "p": 311.56
+    },
+    {
+     "t": "EQIX",
+     "n": "Equinix, Inc.",
+     "c": -0.4986326256486432,
+     "m": 101925298504.605,
+     "p": 1029.67
+    },
+    {
+     "t": "BNY",
+     "n": "Bank of New York Mellon Corp",
+     "c": -1.2525545520469417,
+     "m": 100793461578.00002,
+     "p": 149.79
+    },
+    {
+     "t": "MRSH",
+     "n": "Marsh & McLennan Companies, Inc.",
+     "c": -1.8153230417381372,
+     "m": 97989237910,
+     "p": 206.07
+    },
+    {
+     "t": "ICE",
+     "n": "Intercontinental Exchange, Inc.",
+     "c": -3.4045655953783123,
+     "m": 96246604573.00003,
+     "p": 172.22
+    },
+    {
+     "t": "USB",
+     "n": "U.S. Bancorp",
+     "c": -2.068509018699322,
+     "m": 92214800946.99998,
+     "p": 59.18
+    },
+    {
+     "t": "PNC",
+     "n": "PNC Financial Services Group, Inc.",
+     "c": -2.299551413265973,
+     "m": 89009212862,
+     "p": 224.33
+    },
+    {
+     "t": "AMT",
+     "n": "American Tower Corporation",
+     "c": -3.9635105379050026,
+     "m": 84952203657.00002,
+     "p": 183.18
+    },
+    {
+     "t": "KKR",
+     "n": "KKR & Co Inc",
+     "c": -1.0160259767466209,
+     "m": 84307191010,
+     "p": 94.5
+    },
+    {
+     "t": "TRV",
+     "n": "Travelers Companies, Inc.",
+     "c": -1.359599067136411,
+     "m": 81482567120.00002,
+     "p": 397.58
+    },
+    {
+     "t": "SPG",
+     "n": "Simon Property Group, Inc.",
+     "c": -1.0911590342812922,
+     "m": 74494502285,
+     "p": 230.24
+    },
+    {
+     "t": "AJG",
+     "n": "Arthur J. Gallagher & Co.",
+     "c": -1.435540069686413,
+     "m": 72530431525,
+     "p": 282.88
+    },
+    {
+     "t": "AON",
+     "n": "Aon Plc Class A",
+     "c": -2.4248076474702707,
+     "m": 71030216428.99998,
+     "p": 334.8
+    },
+    {
+     "t": "APO",
+     "n": "Apollo Global Management Inc",
+     "c": -1.7419569928321414,
+     "m": 69606093684,
+     "p": 117.89
+    },
+    {
+     "t": "URI",
+     "n": "United Rentals, Inc.",
+     "c": -1.1117302615352356,
+     "m": 67025949996,
+     "p": 1082.52
+    },
+    {
+     "t": "ALL",
+     "n": "Allstate Corporation",
+     "c": 0,
+     "m": 66917764689.99999,
+     "p": 270.43
+    },
+    {
+     "t": "DLR",
+     "n": "Digital Realty Trust, Inc.",
+     "c": -1.2530066565978681,
+     "m": 66785864786.99999,
+     "p": 176.53
+    },
+    {
+     "t": "MET",
+     "n": "MetLife, Inc.",
+     "c": 0.04928536224740972,
+     "m": 63786877075,
+     "p": 101.5
+    },
+    {
+     "t": "AFL",
+     "n": "Aflac Incorporated",
+     "c": -0.3044971892567261,
+     "m": 63156376145,
+     "p": 127.69
+    },
+    {
+     "t": "HOOD",
+     "n": "Robinhood Markets, Inc. Class A",
+     "c": -3.9827921176797174,
+     "m": 62304990808,
+     "p": 69.19
+    },
+    {
+     "t": "PSA",
+     "n": "Public Storage",
+     "c": -1.0578046807107886,
+     "m": 61691972281.99999,
+     "p": 330.18
+    },
+    {
+     "t": "NDAQ",
+     "n": "Nasdaq, Inc.",
+     "c": -3.1284555842241026,
+     "m": 58340461044.00001,
+     "p": 105.125
+    },
+    {
+     "t": "TFC",
+     "n": "Truist Financial Corporation",
+     "c": -2.27914481645824,
+     "m": 58066764054.99999,
+     "p": 48.45
+    },
+    {
+     "t": "O",
+     "n": "Realty Income Corporation",
+     "c": -0.8710503842869308,
+     "m": 55195870832,
+     "p": 58.04
+    },
+    {
+     "t": "VMRK",
+     "n": "Vivmark Residential",
+     "c": -1.1274131274131336,
+     "m": 49537336266,
+     "p": 64.02
+    },
+    {
+     "t": "VTR",
+     "n": "Ventas, Inc.",
+     "c": -0.945094509450933,
+     "m": 47560969939.00001,
+     "p": 88.04
+    },
+    {
+     "t": "FITB",
+     "n": "Fifth Third Bancorp",
+     "c": -2.5358940891292177,
+     "m": 47233563868,
+     "p": 52.27
+    },
+    {
+     "t": "STT",
+     "n": "State Street Corporation",
+     "c": -1.6114803270011229,
+     "m": 45515932389,
+     "p": 167.29
+    },
+    {
+     "t": "AMP",
+     "n": "Ameriprise Financial, Inc.",
+     "c": -1.6126522195852553,
+     "m": 43907141736,
+     "p": 505.77
+    },
+    {
+     "t": "AIG",
+     "n": "American International Group, Inc.",
+     "c": -1.8006042296072444,
+     "m": 42128346431,
+     "p": 81.26
+    },
+    {
+     "t": "PRU",
+     "n": "Prudential Financial, Inc.",
+     "c": -0.46375396631681165,
+     "m": 41962618744,
+     "p": 122.34
+    },
+    {
+     "t": "CBOE",
+     "n": "Cboe Global Markets Inc",
+     "c": -1.968211920529803,
+     "m": 38609489244,
+     "p": 370.07
+    },
+    {
+     "t": "CBRE",
+     "n": "CBRE Group, Inc. Class A",
+     "c": -1.8472628970488698,
+     "m": 37670134889.00001,
+     "p": 130.71
+    },
+    {
+     "t": "HIG",
+     "n": "Hartford Insurance Group, Inc.",
+     "c": -1.1609345523146093,
+     "m": 36427052464,
+     "p": 136.22
+    },
+    {
+     "t": "CCI",
+     "n": "Crown Castle Inc.",
+     "c": -5.819158460161149,
+     "m": 35808499449.00001,
+     "p": 84.16
+    },
+    {
+     "t": "ACGL",
+     "n": "Arch Capital Group Ltd.",
+     "c": -1.5059969338984596,
+     "m": 35553876895.00001,
+     "p": 109.22
+    },
+    {
+     "t": "IRM",
+     "n": "Iron Mountain, Inc.",
+     "c": -0.69290219419027,
+     "m": 33294837505,
+     "p": 111.79
+    },
+    {
+     "t": "EXR",
+     "n": "Extra Space Storage Inc.",
+     "c": -1.0617455602603667,
+     "m": 32675090552.000004,
+     "p": 156.55
+    },
+    {
+     "t": "RJF",
+     "n": "Raymond James Financial, Inc.",
+     "c": -1.9090365050867732,
+     "m": 31470720702.999996,
+     "p": 163.91
+    },
+    {
+     "t": "NTRS",
+     "n": "Northern Trust Corporation",
+     "c": -1.7668851524650868,
+     "m": 31215656194.999996,
+     "p": 172.35
+    },
+    {
+     "t": "MTB",
+     "n": "M&T Bank Corporation",
+     "c": -1.7927017927017916,
+     "m": 30958887490,
+     "p": 215.84
+    },
+    {
+     "t": "HBAN",
+     "n": "Huntington Bancshares Incorporated",
+     "c": -2.7511196417146606,
+     "m": 30633885162,
+     "p": 15.2
+    },
+    {
+     "t": "WTW",
+     "n": "Willis Towers Watson Public Limited Company",
+     "c": -2.120486203531191,
+     "m": 30519883454,
+     "p": 330.96
+    },
+    {
+     "t": "COIN",
+     "n": "Coinbase Global, Inc. Class A",
+     "c": -4.022029372496668,
+     "m": 30453155280,
+     "p": 115.02
+    },
+    {
+     "t": "CINF",
+     "n": "Cincinnati Financial Corporation",
+     "c": -1.2596038258506377,
+     "m": 29001171300.000004,
+     "p": 188.92
+    },
+    {
+     "t": "WRB",
+     "n": "W. R. Berkley Corporation",
+     "c": -1.2098828323993924,
+     "m": 28818478754,
+     "p": 77.57
+    },
+    {
+     "t": "ARES",
+     "n": "Ares Management Corporation Class A",
+     "c": -1.8818649665872977,
+     "m": 28631391602,
+     "p": 127.74
+    },
+    {
+     "t": "VICI",
+     "n": "VICI Properties Inc",
+     "c": -1.3682092555331986,
+     "m": 26987607604,
+     "p": 24.51
+    },
+    {
+     "t": "CFG",
+     "n": "Citizens Financial Group, Inc.",
+     "c": -2.172563625077589,
+     "m": 26426055568.999996,
+     "p": 63.04
+    },
+    {
+     "t": "BRO",
+     "n": "Brown & Brown, Inc.",
+     "c": -1.7140525098626105,
+     "m": 23964734970,
+     "p": 72.25
+    },
+    {
+     "t": "RF",
+     "n": "Regions Financial Corporation",
+     "c": -1.5734265734265833,
+     "m": 23895050891,
+     "p": 28.15
+    },
+    {
+     "t": "PFG",
+     "n": "Principal Financial Group, Inc.",
+     "c": -0.8194531041239884,
+     "m": 23648119036,
+     "p": 111.35
+    },
+    {
+     "t": "TROW",
+     "n": "T. Rowe Price Group, Inc.",
+     "c": -0.5742867728788351,
+     "m": 22898404302,
+     "p": 107.34
+    },
+    {
+     "t": "GPN",
+     "n": "Global Payments Inc.",
+     "c": -5.01002004008016,
+     "m": 22578726650.000004,
+     "p": 85.32
+    },
+    {
+     "t": "L",
+     "n": "Loews Corporation",
+     "c": -1.466380543633763,
+     "m": 22285220278,
+     "p": 110.2
+    },
+    {
+     "t": "SYF",
+     "n": "Synchrony Financial",
+     "c": -1.7558528428093716,
+     "m": 21954041656,
+     "p": 70.5
+    },
+    {
+     "t": "KEY",
+     "n": "KeyCorp",
+     "c": -2.3080546396608668,
+     "m": 21901019490,
+     "p": 20.74
+    },
+    {
+     "t": "SBAC",
+     "n": "SBA Communications Corp. Class A",
+     "c": -6.4573173999249835,
+     "m": 18228950338,
+     "p": 174.56
+    },
+    {
+     "t": "BEN",
+     "n": "Franklin Templeton, Inc.",
+     "c": -1.71379605826907,
+     "m": 17588893835,
+     "p": 34.41
+    },
+    {
+     "t": "HST",
+     "n": "Host Hotels & Resorts, Inc.",
+     "c": -0.3888024883359171,
+     "m": 17553699009,
+     "p": 25.62
+    },
+    {
+     "t": "ESS",
+     "n": "Essex Property Trust, Inc.",
+     "c": -0.8995831200175454,
+     "m": 17435467049,
+     "p": 271
+    },
+    {
+     "t": "KIM",
+     "n": "Kimco Realty Corporation",
+     "c": -0.5052467936261135,
+     "m": 17010940878,
+     "p": 25.6
+    },
+    {
+     "t": "AIZ",
+     "n": "Assurant, Inc.",
+     "c": -0.5064854848671977,
+     "m": 15807377404,
+     "p": 322.16
+    },
+    {
+     "t": "EG",
+     "n": "Everest Group, Ltd.",
+     "c": -1.9699769053117722,
+     "m": 15723640325,
+     "p": 424.47
+    },
+    {
+     "t": "INVH",
+     "n": "Invitation Homes, Inc.",
+     "c": -1.4022140221402306,
+     "m": 15394848939.999998,
+     "p": 26.72
+    },
+    {
+     "t": "WY",
+     "n": "Weyerhaeuser Company",
+     "c": -2.8529980657640226,
+     "m": 14471710951.999998,
+     "p": 20.09
+    },
+    {
+     "t": "REG",
+     "n": "Regency Centers Corporation",
+     "c": -1.514755810916684,
+     "m": 13810951126,
+     "p": 75.42
+    },
+    {
+     "t": "DOC",
+     "n": "Healthpeak Properties, Inc.",
+     "c": -1.9153225806451561,
+     "m": 13749340966,
+     "p": 19.46
+    },
+    {
+     "t": "MAA",
+     "n": "Mid-America Apartment Communities, Inc.",
+     "c": -1.3325411644881966,
+     "m": 13484210644,
+     "p": 116.25
+    },
+    {
+     "t": "CPT",
+     "n": "Camden Property Trust",
+     "c": -1.1597418313836139,
+     "m": 13208776552.000002,
+     "p": 98.01
+    },
+    {
+     "t": "IVZ",
+     "n": "Invesco Ltd.",
+     "c": 1.5795015795015896,
+     "m": 12719967488,
+     "p": 28.94
+    },
+    {
+     "t": "ERIE",
+     "n": "Erie Indemnity Company Class A",
+     "c": -1.0855185661731204,
+     "m": 12709519258,
+     "p": 272.91
+    },
+    {
+     "t": "GL",
+     "n": "Globe Life Inc.",
+     "c": -0.8469791078486696,
+     "m": 11922495278,
+     "p": 158.04
+    },
+    {
+     "t": "UDR",
+     "n": "UDR, Inc.",
+     "c": -0.8248556502611964,
+     "m": 11430178701,
+     "p": 36.07
+    },
+    {
+     "t": "BXP",
+     "n": "BXP Inc",
+     "c": -1.7681114066656165,
+     "m": 10024227898,
+     "p": 62.78
+    },
+    {
+     "t": "FRT",
+     "n": "Federal Realty Investment Trust",
+     "c": -1.3948591981752692,
+     "m": 9727991809.999998,
+     "p": 112.4
+    },
+    {
+     "t": "ARE",
+     "n": "Alexandria Real Estate Equities, Inc.",
+     "c": -2.641856191132549,
+     "m": 7380928301,
+     "p": 42.38
+    }
+   ]
+  },
+  {
+   "name": "Health Technology",
+   "change": -0.9436132892194188,
+   "market_cap": 5737313252322.0,
+   "stocks": [
+    {
+     "t": "LLY",
+     "n": "Eli Lilly and Company",
+     "c": -1.1259577975371502,
+     "m": 1331671623773,
+     "p": 1415.55
+    },
+    {
+     "t": "JNJ",
+     "n": "Johnson & Johnson",
+     "c": -1.3625906919129438,
+     "m": 670917410757.9999,
+     "p": 278.7
+    },
+    {
+     "t": "ABBV",
+     "n": "AbbVie, Inc.",
+     "c": -0.5873366151756979,
+     "m": 517593391833,
+     "p": 292.82
+    },
+    {
+     "t": "MRK",
+     "n": "Merck & Co., Inc.",
+     "c": -0.7545341270940076,
+     "m": 353442285421,
+     "p": 143.37
+    },
+    {
+     "t": "TMO",
+     "n": "Thermo Fisher Scientific Inc.",
+     "c": -0.6567051914425928,
+     "m": 254466585626,
+     "p": 686.79
+    },
+    {
+     "t": "AMGN",
+     "n": "Amgen Inc.",
+     "c": -0.949558747188092,
+     "m": 247699598786,
+     "p": 457.93
+    },
+    {
+     "t": "GILD",
+     "n": "Gilead Sciences, Inc.",
+     "c": 1.5992361857023378,
+     "m": 211180047147,
+     "p": 170.26
+    },
+    {
+     "t": "ABT",
+     "n": "Abbott Laboratories",
+     "c": -2.550023266635653,
+     "m": 181351608627,
+     "p": 104.71
+    },
+    {
+     "t": "PFE",
+     "n": "Pfizer Inc.",
+     "c": -1.3513513513513533,
+     "m": 162274825676.00003,
+     "p": 28.47
+    },
+    {
+     "t": "DHR",
+     "n": "Danaher Corporation",
+     "c": -1.8007046235483393,
+     "m": 158836156859,
+     "p": 225.77
+    },
+    {
+     "t": "ISRG",
+     "n": "Intuitive Surgical, Inc.",
+     "c": -1.6493432324386128,
+     "m": 149240514870,
+     "p": 430.53
+    },
+    {
+     "t": "VRTX",
+     "n": "Vertex Pharmaceuticals Incorporated",
+     "c": -0.6675468119526057,
+     "m": 135439828519,
+     "p": 534.2
+    },
+    {
+     "t": "MDT",
+     "n": "Medtronic Plc",
+     "c": -0.5443234836702978,
+     "m": 130884666016.00002,
+     "p": 102.32
+    },
+    {
+     "t": "BMY",
+     "n": "Bristol-Myers Squibb Company",
+     "c": -2.5107262037184146,
+     "m": 125404661658,
+     "p": 61.35
+    },
+    {
+     "t": "SYK",
+     "n": "Stryker Corporation",
+     "c": 2.194902162718844,
+     "m": 120884626416,
+     "p": 317.54
+    },
+    {
+     "t": "REGN",
+     "n": "Regeneron Pharmaceuticals, Inc.",
+     "c": 0.5627887442251169,
+     "m": 99061802050,
+     "p": 957.76
+    },
+    {
+     "t": "MRNA",
+     "n": "Moderna, Inc.",
+     "c": -3.934593765968318,
+     "m": 83675618178,
+     "p": 206.8
+    },
+    {
+     "t": "BSX",
+     "n": "Boston Scientific Corporation",
+     "c": -1.510643167772938,
+     "m": 62370832892,
+     "p": 43.03
+    },
+    {
+     "t": "EW",
+     "n": "Edwards Lifesciences Corporation",
+     "c": -1.5684810008402508,
+     "m": 60622250175,
+     "p": 105.43
+    },
+    {
+     "t": "BDX",
+     "n": "Becton, Dickinson and Company",
+     "c": -0.4850556659121409,
+     "m": 58677566177,
+     "p": 215.42
+    },
+    {
+     "t": "IDXX",
+     "n": "IDEXX Laboratories, Inc.",
+     "c": -1.4857632198672617,
+     "m": 54381429067,
+     "p": 690.24
+    },
+    {
+     "t": "A",
+     "n": "Agilent Technologies, Inc.",
+     "c": -0.40481147351375707,
+     "m": 48553783965.00001,
+     "p": 172.22
+    },
+    {
+     "t": "WAT",
+     "n": "Waters Corporation",
+     "c": -0.8027877023510306,
+     "m": 44206910214,
+     "p": 449.78
+    },
+    {
+     "t": "IQV",
+     "n": "IQVIA Holdings Inc",
+     "c": -2.693310165073847,
+     "m": 42452481792,
+     "p": 257.6
+    },
+    {
+     "t": "BIIB",
+     "n": "Biogen Inc.",
+     "c": -0.34174448638983257,
+     "m": 37071832219.00001,
+     "p": 250.79
+    },
+    {
+     "t": "GEHC",
+     "n": "GE Healthcare Technologies Inc.",
+     "c": -1.3500482160077032,
+     "m": 37002959816,
+     "p": 81.84
+    },
+    {
+     "t": "MTD",
+     "n": "Mettler-Toledo International Inc.",
+     "c": -0.8284797887984406,
+     "m": 34071266128.000008,
+     "p": 1712.95
+    },
+    {
+     "t": "ZTS",
+     "n": "Zoetis, Inc. Class A",
+     "c": -1.0783268159734525,
+     "m": 33919274577,
+     "p": 83.48
+    },
+    {
+     "t": "RMD",
+     "n": "ResMed Inc.",
+     "c": -0.1427431882110934,
+     "m": 33455285903,
+     "p": 237.85
+    },
+    {
+     "t": "ILMN",
+     "n": "Illumina, Inc.",
+     "c": 2.3282828282828354,
+     "m": 30634631474.000004,
+     "p": 202.61
+    },
+    {
+     "t": "DXCM",
+     "n": "DexCom, Inc.",
+     "c": 0.52689621369931,
+     "m": 30596894453,
+     "p": 82.04
+    },
+    {
+     "t": "WST",
+     "n": "West Pharmaceutical Services, Inc.",
+     "c": -0.8808042125418877,
+     "m": 28848030066,
+     "p": 414.12
+    },
+    {
+     "t": "STE",
+     "n": "STERIS plc",
+     "c": -1.7181474552327134,
+     "m": 24996319699,
+     "p": 257.41
+    },
+    {
+     "t": "INCY",
+     "n": "Incyte Corporation",
+     "c": -0.9811258002826913,
+     "m": 24274410370,
+     "p": 119.09
+    },
+    {
+     "t": "VTRS",
+     "n": "Viatris, Inc.",
+     "c": -1.3982642237222718,
+     "m": 23444999733,
+     "p": 20.45
+    },
+    {
+     "t": "ZBH",
+     "n": "Zimmer Biomet Holdings, Inc.",
+     "c": 0.6705453111133092,
+     "m": 19320929038,
+     "p": 102.09
+    },
+    {
+     "t": "RVTY",
+     "n": "Revvity, Inc.",
+     "c": -0.7121263016459539,
+     "m": 16499090970.000002,
+     "p": 147.79
+    },
+    {
+     "t": "BAX",
+     "n": "Baxter International Inc.",
+     "c": 0.8613938919342303,
+     "m": 13326889894,
+     "p": 25.76
+    },
+    {
+     "t": "COO",
+     "n": "Cooper Companies, Inc.",
+     "c": -1.8745959922430568,
+     "m": 11546230288.000002,
+     "p": 60.72
+    },
+    {
+     "t": "ALGN",
+     "n": "Align Technology, Inc.",
+     "c": -1.5182552114712506,
+     "m": 11521814143,
+     "p": 163.46
+    },
+    {
+     "t": "TECH",
+     "n": "Bio-Techne Corporation",
+     "c": -0.21981041351835526,
+     "m": 11409499197.999998,
+     "p": 72.63
+    },
+    {
+     "t": "PODD",
+     "n": "Insulet Corporation",
+     "c": 0.03441393075917914,
+     "m": 10082387858,
+     "p": 145.34
+    }
+   ]
+  },
+  {
+   "name": "Retail Trade",
+   "change": -0.48128470667396034,
+   "market_cap": 5682696440995.0,
+   "stocks": [
+    {
+     "t": "AMZN",
+     "n": "Amazon.com, Inc.",
+     "c": 0.05431619786614408,
+     "m": 2788600238640,
+     "p": 257.89
+    },
+    {
+     "t": "WMT",
+     "n": "Walmart Inc.",
+     "c": -0.6930924382836232,
+     "m": 1011711275242,
+     "p": 127.52
+    },
+    {
+     "t": "COST",
+     "n": "Costco Wholesale Corporation",
+     "c": -0.3286224792141866,
+     "m": 491908991054,
+     "p": 1110.08
+    },
+    {
+     "t": "HD",
+     "n": "Home Depot, Inc.",
+     "c": -2.4459727777617912,
+     "m": 338226773322,
+     "p": 339.01
+    },
+    {
+     "t": "TJX",
+     "n": "TJX Companies Inc",
+     "c": -0.9459150202151262,
+     "m": 142831630486.99997,
+     "p": 129.85
+    },
+    {
+     "t": "LOW",
+     "n": "Lowe's Companies, Inc.",
+     "c": -1.9872849330902942,
+     "m": 123689972159.00002,
+     "p": 220.46
+    },
+    {
+     "t": "CVS",
+     "n": "CVS Health Corporation",
+     "c": -3.1380516988373417,
+     "m": 109791681682,
+     "p": 85.81
+    },
+    {
+     "t": "CVNA",
+     "n": "Carvana Co. Class A",
+     "c": 0.508905852417302,
+     "m": 78441862535,
+     "p": 71.1
+    },
+    {
+     "t": "ORLY",
+     "n": "O'Reilly Automotive, Inc.",
+     "c": -0.010787486515647374,
+     "m": 74341902180,
+     "p": 92.69
+    },
+    {
+     "t": "TGT",
+     "n": "Target Corporation",
+     "c": -0.4927644710578793,
+     "m": 72473960439.99998,
+     "p": 159.53
+    },
+    {
+     "t": "ROST",
+     "n": "Ross Stores, Inc.",
+     "c": -1.1390645320418047,
+     "m": 70423440431,
+     "p": 220.45
+    },
+    {
+     "t": "AZO",
+     "n": "AutoZone, Inc.",
+     "c": 0.285646129097361,
+     "m": 52775278257.99999,
+     "p": 3279.12
+    },
+    {
+     "t": "EBAY",
+     "n": "eBay Inc.",
+     "c": -1.9025560426834287,
+     "m": 52061008392,
+     "p": 118.59
+    },
+    {
+     "t": "KR",
+     "n": "Kroger Co.",
+     "c": 0.29715579453798463,
+     "m": 41860924306,
+     "p": 70.88
+    },
+    {
+     "t": "DG",
+     "n": "Dollar General Corporation",
+     "c": -1.945953884564551,
+     "m": 29458959802,
+     "p": 133.53
+    },
+    {
+     "t": "WSM",
+     "n": "Williams-Sonoma, Inc.",
+     "c": -0.7934933544931562,
+     "m": 29450683018.999996,
+     "p": 250.05
+    },
+    {
+     "t": "CPRT",
+     "n": "Copart, Inc.",
+     "c": -1.9638403990024909,
+     "m": 29134588515,
+     "p": 31.45
+    },
+    {
+     "t": "ULTA",
+     "n": "Ulta Beauty Inc.",
+     "c": -1.8136939257351425,
+     "m": 27383168115,
+     "p": 640.43
+    },
+    {
+     "t": "CASY",
+     "n": "Casey's General Stores, Inc.",
+     "c": 1.0358215722949533,
+     "m": 26353708910.000004,
+     "p": 713.03
+    },
+    {
+     "t": "DLTR",
+     "n": "Dollar Tree, Inc.",
+     "c": 0.7318216229856987,
+     "m": 26213829746,
+     "p": 139.71
+    },
+    {
+     "t": "TPR",
+     "n": "Tapestry, Inc.",
+     "c": -4.445280180518979,
+     "m": 24965455673,
+     "p": 127.04
+    },
+    {
+     "t": "BBY",
+     "n": "Best Buy Co., Inc.",
+     "c": -4.78955007256893,
+     "m": 20637206679.999996,
+     "p": 98.4
+    },
+    {
+     "t": "TSCO",
+     "n": "Tractor Supply Company",
+     "c": 1.4229249011857685,
+     "m": 19959901407.000004,
+     "p": 38.49
+    }
+   ]
+  },
+  {
+   "name": "Producer Manufacturing",
+   "change": -0.1171178993258672,
+   "market_cap": 2453340012791.0,
+   "stocks": [
+    {
+     "t": "AMAT",
+     "n": "Applied Materials, Inc.",
+     "c": -0.29122055674517683,
+     "m": 277148032950,
+     "p": 349.23
+    },
+    {
+     "t": "LRCX",
+     "n": "Lam Research Corporation",
+     "c": -0.0664042119243062,
+     "m": 263187845360.99997,
+     "p": 210.69
+    },
+    {
+     "t": "CAT",
+     "n": "Caterpillar Inc.",
+     "c": 0.052586373117838085,
+     "m": 261190170375.99997,
+     "p": 570.79
+    },
+    {
+     "t": "GEV",
+     "n": "GE Vernova Inc.",
+     "c": 2.139947876422583,
+     "m": 206424281087,
+     "p": 779.91
+    },
+    {
+     "t": "DE",
+     "n": "Deere & Company",
+     "c": -0.7278398752274486,
+     "m": 175048891052,
+     "p": 649.23
+    },
+    {
+     "t": "ETN",
+     "n": "Eaton Corp. Plc",
+     "c": 0.06827356922346776,
+     "m": 130967229309,
+     "p": 337.11
+    },
+    {
+     "t": "PH",
+     "n": "Parker-Hannifin Corporation",
+     "c": -1.4933675652545917,
+     "m": 116114975292,
+     "p": 920.84
+    },
+    {
+     "t": "MMM",
+     "n": "3M Company",
+     "c": -0.4403346543373026,
+     "m": 93466044110,
+     "p": 180.88
+    },
+    {
+     "t": "TT",
+     "n": "Trane Technologies plc",
+     "c": -0.5343268217358285,
+     "m": 88829917377,
+     "p": 405.81
+    },
+    {
+     "t": "JCI",
+     "n": "Johnson Controls International plc",
+     "c": -0.4091174751607264,
+     "m": 81819236779,
+     "p": 136.32
+    },
+    {
+     "t": "ITW",
+     "n": "Illinois Tool Works Inc.",
+     "c": -1.043423271500833,
+     "m": 80050621255,
+     "p": 281.67
+    },
+    {
+     "t": "HON",
+     "n": "Honeywell International Inc.",
+     "c": 0.4634090387703691,
+     "m": 69488823781,
+     "p": 218.96
+    },
+    {
+     "t": "CMI",
+     "n": "Cummins Inc.",
+     "c": 0.28887040118321317,
+     "m": 59487694746.00001,
+     "p": 433.97
+    },
+    {
+     "t": "PCAR",
+     "n": "PACCAR Inc",
+     "c": -0.8717900123187735,
+     "m": 55077720807.00001,
+     "p": 104.61
+    },
+    {
+     "t": "AME",
+     "n": "AMETEK, Inc.",
+     "c": -0.3860021208907727,
+     "m": 53853036675,
+     "p": 234.84
+    },
+    {
+     "t": "LITE",
+     "n": "Lumentum Holdings, Inc.",
+     "c": 2.5586080586080637,
+     "m": 50789274634.00001,
+     "p": 559.97
+    },
+    {
+     "t": "WAB",
+     "n": "Westinghouse Air Brake Technologies Corporation",
+     "c": -0.45588537739082197,
+     "m": 48731490784,
+     "p": 290.41
+    },
+    {
+     "t": "ROK",
+     "n": "Rockwell Automation, Inc.",
+     "c": 1.6523772408417805,
+     "m": 42944180104,
+     "p": 391.26
+    },
+    {
+     "t": "CARR",
+     "n": "Carrier Global Corp.",
+     "c": -0.6773756531836683,
+     "m": 41987982101,
+     "p": 51.32
+    },
+    {
+     "t": "IR",
+     "n": "Ingersoll Rand Inc.",
+     "c": -1.6301090734747854,
+     "m": 31516502849,
+     "p": 82.07
+    },
+    {
+     "t": "VLTO",
+     "n": "Veralto Corporation",
+     "c": -1.6041891779569502,
+     "m": 28783129219.999996,
+     "p": 118.38
+    },
+    {
+     "t": "DOV",
+     "n": "Dover Corporation",
+     "c": -1.5039782650882954,
+     "m": 27003221879,
+     "p": 203.02
+    },
+    {
+     "t": "JBL",
+     "n": "Jabil Inc.",
+     "c": -1.2765440103744439,
+     "m": 25085611198,
+     "p": 243.61
+    },
+    {
+     "t": "HUBB",
+     "n": "Hubbell Incorporated",
+     "c": 0.09188794383054599,
+     "m": 22445379282.999996,
+     "p": 424.82
+    },
+    {
+     "t": "XYL",
+     "n": "Xylem Inc.",
+     "c": -1.334306264984886,
+     "m": 21706519741,
+     "p": 94.65
+    },
+    {
+     "t": "NDSN",
+     "n": "Nordson Corporation",
+     "c": -0.8835565476190547,
+     "m": 17807644315,
+     "p": 319.71
+    },
+    {
+     "t": "IEX",
+     "n": "IDEX Corporation",
+     "c": -0.41957443164789565,
+     "m": 17084387545.000002,
+     "p": 232.59
+    },
+    {
+     "t": "MAS",
+     "n": "Masco Corporation",
+     "c": -1.6195767821255522,
+     "m": 16042245071,
+     "p": 83.22
+    },
+    {
+     "t": "LII",
+     "n": "Lennox International Inc.",
+     "c": -0.9452810496496244,
+     "m": 11363356440,
+     "p": 332.18
+    },
+    {
+     "t": "GNRC",
+     "n": "Generac Holdings Inc.",
+     "c": 0.7434543691412538,
+     "m": 11030939136.999998,
+     "p": 187
+    },
+    {
+     "t": "PNR",
+     "n": "Pentair plc",
+     "c": -2.279368790181184,
+     "m": 10677705470,
+     "p": 66.88
+    },
+    {
+     "t": "AOS",
+     "n": "A. O. Smith Corporation",
+     "c": -0.7668231611893614,
+     "m": 8517870256.000002,
+     "p": 63.41
+    },
+    {
+     "t": "APTV",
+     "n": "Aptiv PLC",
+     "c": 0.18513620735255296,
+     "m": 7668051806.999999,
+     "p": 37.88
+    }
+   ]
+  },
+  {
+   "name": "Consumer Non-Durables",
+   "change": -1.5252170872879094,
+   "market_cap": 2190767584860.0,
+   "stocks": [
+    {
+     "t": "KO",
+     "n": "Coca-Cola Company",
+     "c": -0.6936067551266564,
+     "m": 424984936478.00006,
+     "p": 98.79
+    },
+    {
+     "t": "PG",
+     "n": "Procter & Gamble Company",
+     "c": -0.7513582244827253,
+     "m": 398009734470.00006,
+     "p": 171.72
+    },
+    {
+     "t": "PM",
+     "n": "Philip Morris International Inc.",
+     "c": -0.8467659661293597,
+     "m": 302971490845,
+     "p": 194.38
+    },
+    {
+     "t": "PEP",
+     "n": "PepsiCo, Inc.",
+     "c": -3.0116779348494136,
+     "m": 193536495263,
+     "p": 142.02
+    },
+    {
+     "t": "MO",
+     "n": "Altria Group, Inc.",
+     "c": -1.8250950570342355,
+     "m": 128849819948.99998,
+     "p": 77.46
+    },
+    {
+     "t": "MNST",
+     "n": "Monster Beverage Corporation",
+     "c": -2.9694323144104793,
+     "m": 86991823518,
+     "p": 44.44
+    },
+    {
+     "t": "MDLZ",
+     "n": "Mondelez International, Inc. Class A",
+     "c": -1.1696772283091592,
+     "m": 84494711792,
+     "p": 66.75
+    },
+    {
+     "t": "CL",
+     "n": "Colgate-Palmolive Company",
+     "c": -1.3664719279136504,
+     "m": 79182028621,
+     "p": 99.61
+    },
+    {
+     "t": "KMB",
+     "n": "Kimberly-Clark Corporation",
+     "c": -2.8650978983294393,
+     "m": 66365155319,
+     "p": 108.15
+    },
+    {
+     "t": "NKE",
+     "n": "NIKE, Inc. Class B",
+     "c": -6.299006795608983,
+     "m": 53248321604,
+     "p": 35.85
+    },
+    {
+     "t": "KDP",
+     "n": "Keurig Dr Pepper Inc.",
+     "c": -2.2203485103990985,
+     "m": 47347394839,
+     "p": 34.79
+    },
+    {
+     "t": "EL",
+     "n": "Estee Lauder Companies Inc. Class A",
+     "c": -3.7657674247306905,
+     "m": 37870777298,
+     "p": 104.52
+    },
+    {
+     "t": "HSY",
+     "n": "Hershey Company",
+     "c": -0.6633499170812583,
+     "m": 34912351681,
+     "p": 173.71
+    },
+    {
+     "t": "KHC",
+     "n": "Kraft Heinz Company",
+     "c": 0.15955325089748365,
+     "m": 29725946398,
+     "p": 25.11
+    },
+    {
+     "t": "CHD",
+     "n": "Church & Dwight Co., Inc.",
+     "c": -1.9696705595258768,
+     "m": 26548885040.000004,
+     "p": 112.48
+    },
+    {
+     "t": "STZ",
+     "n": "Constellation Brands, Inc. Class A",
+     "c": -1.7117915842596951,
+     "m": 24388222799,
+     "p": 144.12
+    },
+    {
+     "t": "RL",
+     "n": "Ralph Lauren Corporation Class A",
+     "c": -2.938987140327008,
+     "m": 22355801129,
+     "p": 378.14
+    },
+    {
+     "t": "TSN",
+     "n": "Tyson Foods, Inc. Class A",
+     "c": -0.46911649726349375,
+     "m": 21946559701.999996,
+     "p": 63.65
+    },
+    {
+     "t": "IFF",
+     "n": "International Flavors & Fragrances Inc.",
+     "c": -0.7000875109388525,
+     "m": 19888580748,
+     "p": 79.43
+    },
+    {
+     "t": "GIS",
+     "n": "General Mills, Inc.",
+     "c": -1.5891032917139676,
+     "m": 18542949963,
+     "p": 34.68
+    },
+    {
+     "t": "SJM",
+     "n": "J.M. Smucker Company",
+     "c": -1.5493581230632982,
+     "m": 14254485554,
+     "p": 133.44
+    },
+    {
+     "t": "BF.B",
+     "n": "Brown-Forman Corporation Class B",
+     "c": -2.1675833063733476,
+     "m": 14020948223.999998,
+     "p": 30.24
+    },
+    {
+     "t": "CLX",
+     "n": "Clorox Company",
+     "c": -3.1496777707179806,
+     "m": 12926427200,
+     "p": 106.7
+    },
+    {
+     "t": "HRL",
+     "n": "Hormel Foods Corporation",
+     "c": -0.5724350506384965,
+     "m": 12426921700.999998,
+     "p": 22.58
+    },
+    {
+     "t": "LULU",
+     "n": "lululemon athletica inc.",
+     "c": -1.2516593969277388,
+     "m": 12062126109.999998,
+     "p": 104.14
+    },
+    {
+     "t": "MKC",
+     "n": "McCormick & Company, Incorporated",
+     "c": -5.092297899427129,
+     "m": 12038739358,
+     "p": 44.73
+    },
+    {
+     "t": "DECK",
+     "n": "Deckers Outdoor Corporation",
+     "c": -2.3723939611789957,
+     "m": 10875949257,
+     "p": 81.48
+    }
+   ]
+  },
+  {
+   "name": "Energy Minerals",
+   "change": -0.519771261689243,
+   "market_cap": 1883778112806.0,
+   "stocks": [
+    {
+     "t": "XOM",
+     "n": "Exxonmobil Holdings Corporation",
+     "c": 0.20375142326362045,
+     "m": 682086806915.9999,
+     "p": 167.21
+    },
+    {
+     "t": "CVX",
+     "n": "Chevron Corporation",
+     "c": -0.46513769918024817,
+     "m": 424786586674,
+     "p": 216.13
+    },
+    {
+     "t": "COP",
+     "n": "ConocoPhillips",
+     "c": -0.7401081696555795,
+     "m": 164912075300,
+     "p": 139.48
+    },
+    {
+     "t": "MPC",
+     "n": "Marathon Petroleum Corporation",
+     "c": -1.636042666401448,
+     "m": 107717591808.00002,
+     "p": 395.61
+    },
+    {
+     "t": "VLO",
+     "n": "Valero Energy Corporation",
+     "c": -1.6119871257404148,
+     "m": 101449774911.00002,
+     "p": 363.77
+    },
+    {
+     "t": "PSX",
+     "n": "Phillips 66",
+     "c": -1.41585450080577,
+     "m": 100221295714,
+     "p": 256.93
+    },
+    {
+     "t": "EOG",
+     "n": "EOG Resources, Inc.",
+     "c": -0.36019810895992943,
+     "m": 80318388065,
+     "p": 154.91
+    },
+    {
+     "t": "OXY",
+     "n": "Occidental Petroleum Corporation",
+     "c": -1.4644351464435081,
+     "m": 56514053162.99999,
+     "p": 56.52
+    },
+    {
+     "t": "DVN",
+     "n": "Devon Energy Corporation",
+     "c": -1.8296814998870616,
+     "m": 49531979539.99999,
+     "p": 43.46
+    },
+    {
+     "t": "FANG",
+     "n": "Diamondback Energy, Inc.",
+     "c": -0.19164646863198434,
+     "m": 49432252655.99999,
+     "p": 177.07
+    },
+    {
+     "t": "EQT",
+     "n": "EQT Corporation",
+     "c": -1.717408274785329,
+     "m": 31502670103,
+     "p": 50.36
+    },
+    {
+     "t": "EXE",
+     "n": "Expand Energy Corporation",
+     "c": -1.8878851053972776,
+     "m": 19564395757,
+     "p": 84.71
+    },
+    {
+     "t": "APA",
+     "n": "APA Corporation",
+     "c": -0.8879492600422719,
+     "m": 15740242198.999998,
+     "p": 46.88
+    }
+   ]
+  },
+  {
+   "name": "Consumer Durables",
+   "change": -0.10533521051067467,
+   "market_cap": 1781968727788.0393,
+   "stocks": [
+    {
+     "t": "TSLA",
+     "n": "Tesla, Inc.",
+     "c": 0.0974350871649035,
+     "m": 1502482807008,
+     "p": 380.11
+    },
+    {
+     "t": "GM",
+     "n": "General Motors Company",
+     "c": 0.45416517270227735,
+     "m": 70900332878,
+     "p": 84.05
+    },
+    {
+     "t": "F",
+     "n": "Ford Motor Company",
+     "c": -1.987899740708733,
+     "m": 45283087678,
+     "p": 11.34
+    },
+    {
+     "t": "DHI",
+     "n": "D.R. Horton, Inc.",
+     "c": -0.84974093264248,
+     "m": 38956443987,
+     "p": 143.52
+    },
+    {
+     "t": "PHM",
+     "n": "PulteGroup, Inc.",
+     "c": -1.921411134735017,
+     "m": 22928004803.000004,
+     "p": 124.55
+    },
+    {
+     "t": "LEN",
+     "n": "Lennar Corporation Class A",
+     "c": -1.7305167681107563,
+     "m": 19515145978,
+     "p": 82.34
+    },
+    {
+     "t": "SNA",
+     "n": "Snap-on Incorporated",
+     "c": -1.1397572536233938,
+     "m": 18612055963.999996,
+     "p": 360.83
+    },
+    {
+     "t": "HAS",
+     "n": "Hasbro, Inc.",
+     "c": -0.5914659907055249,
+     "m": 16454834043.039291,
+     "p": 117.65
+    },
+    {
+     "t": "SWK",
+     "n": "Stanley Black & Decker, Inc.",
+     "c": -3.6397449521785328,
+     "m": 16179634548,
+     "p": 108.81
+    },
+    {
+     "t": "ALLE",
+     "n": "Allegion Public Limited Company",
+     "c": -2.199298319107707,
+     "m": 15748713166.999998,
+     "p": 186.77
+    },
+    {
+     "t": "NVR",
+     "n": "NVR, Inc.",
+     "c": -2.7422773658118933,
+     "m": 14907667734,
+     "p": 5634.49
+    }
+   ]
+  },
+  {
+   "name": "Consumer Services",
+   "change": -1.2609099170491738,
+   "market_cap": 1584980333606.0,
+   "stocks": [
+    {
+     "t": "DIS",
+     "n": "Walt Disney Company",
+     "c": -1.4827295703454129,
+     "m": 201918769091,
+     "p": 116.94
+    },
+    {
+     "t": "MCD",
+     "n": "McDonald's Corporation",
+     "c": 0.4186842392689326,
+     "m": 194669549123,
+     "p": 275.82
+    },
+    {
+     "t": "SBUX",
+     "n": "Starbucks Corporation",
+     "c": -1.1313465783664496,
+     "m": 122549343939.99998,
+     "p": 107.49
+    },
+    {
+     "t": "BKNG",
+     "n": "Booking Holdings Inc.",
+     "c": -1.9488351425125328,
+     "m": 114872097428,
+     "p": 154.46
+    },
+    {
+     "t": "MAR",
+     "n": "Marriott International, Inc. Class A",
+     "c": -0.6953253464881324,
+     "m": 108857405228.99998,
+     "p": 422.74
+    },
+    {
+     "t": "ABNB",
+     "n": "Airbnb, Inc. Class A",
+     "c": -2.8197003061388903,
+     "m": 107067550118.00002,
+     "p": 180.94
+    },
+    {
+     "t": "CMCSA",
+     "n": "Comcast Corporation Class A",
+     "c": -1.1328125000000107,
+     "m": 89875969751,
+     "p": 25.31
+    },
+    {
+     "t": "HLT",
+     "n": "Hilton Worldwide Holdings Inc.",
+     "c": -0.8827541930824202,
+     "m": 82444541726,
+     "p": 370.53
+    },
+    {
+     "t": "RCL",
+     "n": "Royal Caribbean Group",
+     "c": -3.2817317978730123,
+     "m": 82217898398.00002,
+     "p": 307.39
+    },
+    {
+     "t": "CMG",
+     "n": "Chipotle Mexican Grill, Inc.",
+     "c": -0.30606566499721605,
+     "m": 45324055691,
+     "p": 35.83
+    },
+    {
+     "t": "YUM",
+     "n": "Yum! Brands, Inc.",
+     "c": -0.5363087165577638,
+     "m": 43283537557,
+     "p": 161.35
+    },
+    {
+     "t": "LYV",
+     "n": "Live Nation Entertainment, Inc.",
+     "c": -0.7766771724448421,
+     "m": 41542251181,
+     "p": 176.3
+    },
+    {
+     "t": "CCL",
+     "n": "Carnival Corporation Ltd.",
+     "c": -2.996899758870138,
+     "m": 37864220420,
+     "p": 28.16
+    },
+    {
+     "t": "FOX",
+     "n": "Fox Corporation Class B",
+     "c": -1.7119341563785992,
+     "m": 36218923937,
+     "p": 59.71
+    },
+    {
+     "t": "FOXA",
+     "n": "Fox Corporation Class A",
+     "c": -1.8984547461368746,
+     "m": 36218923936.99999,
+     "p": 66.66
+    },
+    {
+     "t": "TKO",
+     "n": "TKO Group Holdings, Inc. Class A",
+     "c": -1.2295728022699823,
+     "m": 35450925373.99999,
+     "p": 187.97
+    },
+    {
+     "t": "SKYD",
+     "n": "Skydance Corporation Class B",
+     "c": -1.7045454545454561,
+     "m": 34906021768,
+     "p": 6.92
+    },
+    {
+     "t": "EXPE",
+     "n": "Expedia Group, Inc.",
+     "c": -3.7714195259013024,
+     "m": 28832417778.999996,
+     "p": 243.16
+    },
+    {
+     "t": "DRI",
+     "n": "Darden Restaurants, Inc.",
+     "c": 0.3983891222448307,
+     "m": 26232257783,
+     "p": 231.85
+    },
+    {
+     "t": "LVS",
+     "n": "Las Vegas Sands Corp.",
+     "c": -1.255650426921145,
+     "m": 24653251024.000004,
+     "p": 39.32
+    },
+    {
+     "t": "CHTR",
+     "n": "Charter Communications, Inc. Class A",
+     "c": -0.32385750269880437,
+     "m": 24253453221.000004,
+     "p": 138.5
+    },
+    {
+     "t": "NWS",
+     "n": "News Corporation Class B",
+     "c": -1.521812647954005,
+     "m": 14657339947,
+     "p": 29.12
+    },
+    {
+     "t": "NWSA",
+     "n": "News Corporation Class A",
+     "c": -1.087771942985743,
+     "m": 14657339947,
+     "p": 26.37
+    },
+    {
+     "t": "DPZ",
+     "n": "Domino's Pizza, Inc.",
+     "c": 0.9959296787044221,
+     "m": 11510131232.999998,
+     "p": 349.86
+    },
+    {
+     "t": "MGM",
+     "n": "MGM Resorts International",
+     "c": 0.36111947035812386,
+     "m": 8437901250.000001,
+     "p": 33.35
+    },
+    {
+     "t": "WYNN",
+     "n": "Wynn Resorts, Limited",
+     "c": -0.6567745074191098,
+     "m": 8376415768.999999,
+     "p": 81.68
+    },
+    {
+     "t": "NCLH",
+     "n": "Norwegian Cruise Line Holdings Ltd.",
+     "c": -1.620111731843571,
+     "m": 8087840983.999999,
+     "p": 17.61
+    }
+   ]
+  },
+  {
+   "name": "Utilities",
+   "change": -1.4671335250321307,
+   "market_cap": 1496011832794.0,
+   "stocks": [
+    {
+     "t": "NEE",
+     "n": "NextEra Energy, Inc.",
+     "c": -1.0780407780642158,
+     "m": 177054560930,
+     "p": 84.42
+    },
+    {
+     "t": "SO",
+     "n": "Southern Company",
+     "c": -1.0989010989011057,
+     "m": 108974826544,
+     "p": 93.6
+    },
+    {
+     "t": "DUK",
+     "n": "Duke Energy Corporation",
+     "c": -0.5743165632896853,
+     "m": 101236532023.00002,
+     "p": 129.84
+    },
+    {
+     "t": "CEG",
+     "n": "Constellation Energy Corporation",
+     "c": -3.5094665610827156,
+     "m": 94979180088,
+     "p": 268.07
+    },
+    {
+     "t": "AEP",
+     "n": "American Electric Power Company, Inc.",
+     "c": -2.605535797123863,
+     "m": 68593979451.00001,
+     "p": 125.97
+    },
+    {
+     "t": "TRGP",
+     "n": "Targa Resources Corp.",
+     "c": -0.2635903053539579,
+     "m": 62510313904,
+     "p": 291.35
+    },
+    {
+     "t": "D",
+     "n": "Dominion Energy Inc",
+     "c": -0.7669616519173983,
+     "m": 59177202100,
+     "p": 67.28
+    },
+    {
+     "t": "OKE",
+     "n": "ONEOK, Inc.",
+     "c": 0.5336058128973648,
+     "m": 55826388338,
+     "p": 88.55
+    },
+    {
+     "t": "XEL",
+     "n": "Xcel Energy Inc.",
+     "c": -0.6033739687230575,
+     "m": 51812106443,
+     "p": 80.72
+    },
+    {
+     "t": "ETR",
+     "n": "Entergy Corporation",
+     "c": -2.4042823444021098,
+     "m": 51399862929.00001,
+     "p": 107.57
+    },
+    {
+     "t": "SRE",
+     "n": "Sempra",
+     "c": -1.2988666751559863,
+     "m": 50683820674.00001,
+     "p": 77.51
+    },
+    {
+     "t": "EXC",
+     "n": "Exelon Corporation",
+     "c": -1.2914334911752074,
+     "m": 47460364601,
+     "p": 45.86
+    },
+    {
+     "t": "ED",
+     "n": "Consolidated Edison, Inc.",
+     "c": -2.1742697735477448,
+     "m": 44250279277,
+     "p": 119.23
+    },
+    {
+     "t": "VST",
+     "n": "Vistra Corp.",
+     "c": -2.3125384142593663,
+     "m": 43154034568,
+     "p": 127.15
+    },
+    {
+     "t": "WEC",
+     "n": "WEC Energy Group Inc",
+     "c": -0.9960837731993765,
+     "m": 38258519530,
+     "p": 116.29
+    },
+    {
+     "t": "PEG",
+     "n": "Public Service Enterprise Group Inc",
+     "c": -1.8932421772285009,
+     "m": 37199221366,
+     "p": 74.62
+    },
+    {
+     "t": "AEE",
+     "n": "Ameren Corporation",
+     "c": -2.0218818380744,
+     "m": 31000384426,
+     "p": 111.94
+    },
+    {
+     "t": "PCG",
+     "n": "PG&E Corporation",
+     "c": -1.0233918128655013,
+     "m": 29820897885,
+     "p": 13.54
+    },
+    {
+     "t": "AWK",
+     "n": "American Water Works Company, Inc.",
+     "c": -2.1207716701902797,
+     "m": 29497354169,
+     "p": 148.15
+    },
+    {
+     "t": "ATO",
+     "n": "Atmos Energy Corporation",
+     "c": -2.412579473206176,
+     "m": 29260920919,
+     "p": 171.91
+    },
+    {
+     "t": "DTE",
+     "n": "DTE Energy Company",
+     "c": -2.5016081766850116,
+     "m": 28395525234.000004,
+     "p": 136.41
+    },
+    {
+     "t": "FE",
+     "n": "FirstEnergy Corp.",
+     "c": -1.0304942166140796,
+     "m": 27242719989.000004,
+     "p": 47.06
+    },
+    {
+     "t": "ES",
+     "n": "Eversource Energy",
+     "c": -1.6897925539222474,
+     "m": 26980091084.999996,
+     "p": 71.56
+    },
+    {
+     "t": "PPL",
+     "n": "PPL Corporation",
+     "c": -1.7039106145251381,
+     "m": 26482050471.999996,
+     "p": 35.19
+    },
+    {
+     "t": "CNP",
+     "n": "CenterPoint Energy, Inc.",
+     "c": -2.163225172074736,
+     "m": 26382609113,
+     "p": 39.8
+    },
+    {
+     "t": "EIX",
+     "n": "Edison International",
+     "c": 0.6454736162659329,
+     "m": 23999179214,
+     "p": 62.37
+    },
+    {
+     "t": "CMS",
+     "n": "CMS Energy Corporation",
+     "c": -1.9494278852945464,
+     "m": 21768754763,
+     "p": 69.41
+    },
+    {
+     "t": "NI",
+     "n": "NiSource Inc",
+     "c": -2.3977122745270645,
+     "m": 21282898405,
+     "p": 44.37
+    },
+    {
+     "t": "EVRG",
+     "n": "Evergy, Inc.",
+     "c": -1.5161801312514023,
+     "m": 20410589355,
+     "p": 87.04
+    },
+    {
+     "t": "NRG",
+     "n": "NRG Energy, Inc.",
+     "c": -2.3725928290243536,
+     "m": 19271553653,
+     "p": 91.76
+    },
+    {
+     "t": "LNT",
+     "n": "Alliant Energy Corporation",
+     "c": -2.194486353037984,
+     "m": 18495079613.999996,
+     "p": 71.31
+    },
+    {
+     "t": "PNW",
+     "n": "Pinnacle West Capital Corp",
+     "c": -2.335516946738815,
+     "m": 12467968023,
+     "p": 102.87
+    },
+    {
+     "t": "AES",
+     "n": "AES Corporation",
+     "c": 0.20080321285141323,
+     "m": 10682063709,
+     "p": 14.97
+    }
+   ]
+  },
+  {
+   "name": "Transportation",
+   "change": -2.0722190475183293,
+   "market_cap": 952954133089.0,
+   "stocks": [
+    {
+     "t": "UNP",
+     "n": "Union Pacific Corporation",
+     "c": -2.1994665964242226,
+     "m": 176510203680,
+     "p": 297.03
+    },
+    {
+     "t": "UBER",
+     "n": "Uber Technologies, Inc.",
+     "c": -1.6859551364480536,
+     "m": 140503001300,
+     "p": 68.81
+    },
+    {
+     "t": "CSX",
+     "n": "CSX Corporation",
+     "c": -1.7105516048433604,
+     "m": 94271382482.99998,
+     "p": 51.14
+    },
+    {
+     "t": "UPS",
+     "n": "United Parcel Service, Inc. Class B",
+     "c": -1.3503845465927302,
+     "m": 93925579117.99998,
+     "p": 110.31
+    },
+    {
+     "t": "FDX",
+     "n": "FedEx Corporation",
+     "c": -2.353120708072632,
+     "m": 74929742556,
+     "p": 319.94
+    },
+    {
+     "t": "NSC",
+     "n": "Norfolk Southern Corporation",
+     "c": -2.7697634160415476,
+     "m": 71911029999,
+     "p": 320.15
+    },
+    {
+     "t": "DASH",
+     "n": "DoorDash, Inc. Class A",
+     "c": -2.8684179526446014,
+     "m": 71901514522,
+     "p": 164.91
+    },
+    {
+     "t": "DAL",
+     "n": "Delta Air Lines, Inc.",
+     "c": -2.6558891454965328,
+     "m": 55462013409,
+     "p": 84.3
+    },
+    {
+     "t": "ODFL",
+     "n": "Old Dominion Freight Line, Inc.",
+     "c": -1.3999655746170163,
+     "m": 35407955748,
+     "p": 171.85
+    },
+    {
+     "t": "UAL",
+     "n": "United Airlines Holdings, Inc.",
+     "c": -3.9815817984832163,
+     "m": 34552516674.99999,
+     "p": 106.35
+    },
+    {
+     "t": "EXPD",
+     "n": "Expeditors International of Washington, Inc.",
+     "c": -2.3395105969079517,
+     "m": 24630443449,
+     "p": 190.77
+    },
+    {
+     "t": "LUV",
+     "n": "Southwest Airlines Co.",
+     "c": -1.830318690783795,
+     "m": 22320972874,
+     "p": 45.59
+    },
+    {
+     "t": "JBHT",
+     "n": "J.B. Hunt Transport Services, Inc.",
+     "c": -3.4237726098191166,
+     "m": 20904297844,
+     "p": 224.25
+    },
+    {
+     "t": "FDXF",
+     "n": "FedEx Freight Holding Company, Inc.",
+     "c": -0.7222932811677135,
+     "m": 19729331218.999996,
+     "p": 131.95
+    },
+    {
+     "t": "CHRW",
+     "n": "C.H. Robinson Worldwide, Inc.",
+     "c": 2.4355832776416437,
+     "m": 15994148213.000002,
+     "p": 137.95
+    }
+   ]
+  },
+  {
+   "name": "Health Services",
+   "change": -3.7332479534552885,
+   "market_cap": 808919035629.0,
+   "stocks": [
+    {
+     "t": "UNH",
+     "n": "UnitedHealth Group Incorporated",
+     "c": -5.422066889956793,
+     "m": 349162097368,
+     "p": 389.68
+    },
+    {
+     "t": "HCA",
+     "n": "HCA Healthcare Inc",
+     "c": -2.0692485052170806,
+     "m": 104694833503,
+     "p": 501.19
+    },
+    {
+     "t": "ELV",
+     "n": "Elevance Health, Inc.",
+     "c": -2.7673209644169505,
+     "m": 93753132043.00002,
+     "p": 433.93
+    },
+    {
+     "t": "CI",
+     "n": "Cigna Group",
+     "c": -2.032249466950967,
+     "m": 77485563173,
+     "p": 294.06
+    },
+    {
+     "t": "HUM",
+     "n": "Humana Inc.",
+     "c": -3.8829268292682984,
+     "m": 53246573793.00001,
+     "p": 443.34
+    },
+    {
+     "t": "CNC",
+     "n": "Centene Corporation",
+     "c": -2.969105256118763,
+     "m": 35917184415.00001,
+     "p": 72.55
+    },
+    {
+     "t": "LH",
+     "n": "Labcorp Holdings Inc.",
+     "c": -1.1330075712828145,
+     "m": 29901086083,
+     "p": 368.24
+    },
+    {
+     "t": "DGX",
+     "n": "Quest Diagnostics Incorporated",
+     "c": -2.2348499294458475,
+     "m": 28203390160,
+     "p": 256.35
+    },
+    {
+     "t": "SOLV",
+     "n": "Solventum Corporation",
+     "c": -2.9216018048505394,
+     "m": 14607766679.000002,
+     "p": 86.06
+    },
+    {
+     "t": "UHS",
+     "n": "Universal Health Services, Inc. Class B",
+     "c": -2.9423660262891915,
+     "m": 11065708148,
+     "p": 191.98
+    },
+    {
+     "t": "DVA",
+     "n": "DaVita Inc.",
+     "c": -0.7002640339800246,
+     "m": 10881700264,
+     "p": 173
+    }
+   ]
+  },
+  {
+   "name": "Process Industries",
+   "change": -1.7423605528074382,
+   "market_cap": 758346009716.0,
+   "stocks": [
+    {
+     "t": "LIN",
+     "n": "Linde plc",
+     "c": -1.5951553127268603,
+     "m": 236478634427,
+     "p": 515.11
+    },
+    {
+     "t": "ECL",
+     "n": "Ecolab Inc.",
+     "c": -1.887098343114701,
+     "m": 84866742536.99998,
+     "p": 302.59
+    },
+    {
+     "t": "SHW",
+     "n": "Sherwin-Williams Company",
+     "c": -1.8229018086381135,
+     "m": 83142534100,
+     "p": 344.15
+    },
+    {
+     "t": "APD",
+     "n": "Air Products and Chemicals, Inc.",
+     "c": -2.2236381013061366,
+     "m": 68346646354,
+     "p": 306.92
+    },
+    {
+     "t": "ADM",
+     "n": "Archer-Daniels-Midland Company",
+     "c": -1.6284338714245334,
+     "m": 33062106672.000004,
+     "p": 69.47
+    },
+    {
+     "t": "PPG",
+     "n": "PPG Industries, Inc.",
+     "c": -0.9428548003607491,
+     "m": 26689137195,
+     "p": 120.82
+    },
+    {
+     "t": "DOW",
+     "n": "Dow, Inc.",
+     "c": -1.846057571964956,
+     "m": 22708177629.999996,
+     "p": 31.37
+    },
+    {
+     "t": "PKG",
+     "n": "Packaging Corporation of America",
+     "c": -2.4034814548648584,
+     "m": 21779190716,
+     "p": 244.45
+    },
+    {
+     "t": "SW",
+     "n": "Smurfit Westrock PLC",
+     "c": -4.247196373180611,
+     "m": 20983706661.000004,
+     "p": 40.13
+    },
+    {
+     "t": "AMCR",
+     "n": "Amcor PLC",
+     "c": -0.7310943568654336,
+     "m": 20088919827.999996,
+     "p": 43.45
+    },
+    {
+     "t": "DD",
+     "n": "DuPont de Nemours, Inc.",
+     "c": 0.10000666711112557,
+     "m": 19898406743,
+     "p": 150.14
+    },
+    {
+     "t": "LYB",
+     "n": "LyondellBasell Industries NV",
+     "c": -1.589103291713968,
+     "m": 19617586437.000004,
+     "p": 60.69
+    },
+    {
+     "t": "BG",
+     "n": "Bunge Global SA",
+     "c": -3.453847707533833,
+     "m": 18368945416,
+     "p": 95.6
+    },
+    {
+     "t": "CF",
+     "n": "CF Industries Holdings, Inc.",
+     "c": -0.4255319148936095,
+     "m": 17457640875.000004,
+     "p": 119.34
+    },
+    {
+     "t": "IP",
+     "n": "International Paper Company",
+     "c": -3.1607465382299735,
+     "m": 17037312712,
+     "p": 32.17
+    },
+    {
+     "t": "BALL",
+     "n": "Ball Corporation",
+     "c": -0.7646429117602079,
+     "m": 16890317510,
+     "p": 64.89
+    },
+    {
+     "t": "AVY",
+     "n": "Avery Dennison Corporation",
+     "c": -1.110162254483354,
+     "m": 13990758856.000002,
+     "p": 185.28
+    },
+    {
+     "t": "ALB",
+     "n": "Albemarle Corporation",
+     "c": -0.5558076225045314,
+     "m": 10345923294,
+     "p": 87.67
+    },
+    {
+     "t": "MOS",
+     "n": "Mosaic Company",
+     "c": -2.3080546396608668,
+     "m": 6593321753,
+     "p": 20.74
+    }
+   ]
+  },
+  {
+   "name": "Industrial Services",
+   "change": -0.0029827339711386625,
+   "market_cap": 660585345516.0,
+   "stocks": [
+    {
+     "t": "WM",
+     "n": "Waste Management, Inc.",
+     "c": -0.6712233454753876,
+     "m": 96502019272,
+     "p": 242.69
+    },
+    {
+     "t": "PWR",
+     "n": "Quanta Services, Inc.",
+     "c": 2.1556579621095744,
+     "m": 90184792589,
+     "p": 598.53
+    },
+    {
+     "t": "WMB",
+     "n": "Williams Companies, Inc.",
+     "c": -0.22186067149830746,
+     "m": 84338660494,
+     "p": 67.46
+    },
+    {
+     "t": "RSG",
+     "n": "Republic Services, Inc.",
+     "c": -1.0291125371732648,
+     "m": 77052504048.00002,
+     "p": 252.93
+    },
+    {
+     "t": "SLB",
+     "n": "SLB Limited",
+     "c": -2.2563897763578185,
+     "m": 72251653134,
+     "p": 48.95
+    },
+    {
+     "t": "KMI",
+     "n": "Kinder Morgan Inc Class P",
+     "c": 0.8911521323997376,
+     "m": 70618577725,
+     "p": 31.7
+    },
+    {
+     "t": "BKR",
+     "n": "Baker Hughes Company Class A",
+     "c": -1.001251564455563,
+     "m": 47131504284,
+     "p": 47.46
+    },
+    {
+     "t": "FIX",
+     "n": "Comfort Systems USA, Inc.",
+     "c": 3.9085545722713784,
+     "m": 38450205466.99999,
+     "p": 1099.02
+    },
+    {
+     "t": "OTIS",
+     "n": "Otis Worldwide Corporation",
+     "c": -0.9135357694287104,
+     "m": 29318517208,
+     "p": 77.01
+    },
+    {
+     "t": "EME",
+     "n": "EMCOR Group, Inc.",
+     "c": 1.1773547094188348,
+     "m": 28293682684,
+     "p": 646.24
+    },
+    {
+     "t": "HAL",
+     "n": "Halliburton Company",
+     "c": -1.6307692307692343,
+     "m": 26443228610.999996,
+     "p": 31.97
+    }
+   ]
+  },
+  {
+   "name": "Commercial Services",
+   "change": -2.9799807364966386,
+   "market_cap": 658289356214.0,
+   "stocks": [
+    {
+     "t": "SPGI",
+     "n": "S&P Global, Inc.",
+     "c": -4.079815093619447,
+     "m": 131136264008,
+     "p": 452.35
+    },
+    {
+     "t": "CTAS",
+     "n": "Cintas Corporation",
+     "c": -0.874375446109925,
+     "m": 88230086844.00002,
+     "p": 222.2
+    },
+    {
+     "t": "MCO",
+     "n": "Moody's Corporation",
+     "c": -4.319744015169461,
+     "m": 83512281675,
+     "p": 484.41
+    },
+    {
+     "t": "PYPL",
+     "n": "PayPal Holdings, Inc.",
+     "c": -1.2238653748087691,
+     "m": 48269555783.99999,
+     "p": 58.11
+    },
+    {
+     "t": "XYZ",
+     "n": "Block, Inc. Class A",
+     "c": -4.399710703953703,
+     "m": 47944639970.99999,
+     "p": 79.31
+    },
+    {
+     "t": "VYLR",
+     "n": "Vylor Inc",
+     "c": -2.214484679665743,
+     "m": 46851341510.99999,
+     "p": 70.21
+    },
+    {
+     "t": "MSCI",
+     "n": "MSCI Inc. Class A",
+     "c": -4.200213697723061,
+     "m": 45515471222,
+     "p": 636.58
+    },
+    {
+     "t": "FISV",
+     "n": "Fiserv, Inc.",
+     "c": -1.5950726468730227,
+     "m": 33151894755.000004,
+     "p": 62.31
+    },
+    {
+     "t": "CPAY",
+     "n": "Corpay, Inc.",
+     "c": -2.0401533363654116,
+     "m": 28935097575,
+     "p": 452.31
+    },
+    {
+     "t": "OMC",
+     "n": "Omnicom Group Inc",
+     "c": -0.454545454545461,
+     "m": 23901438231.000004,
+     "p": 87.6
+    },
+    {
+     "t": "EFX",
+     "n": "Equifax Inc.",
+     "c": -4.854881266490759,
+     "m": 21098196787,
+     "p": 180.3
+    },
+    {
+     "t": "ROL",
+     "n": "Rollins, Inc.",
+     "c": -2.5568908207619536,
+     "m": 18218306221,
+     "p": 38.11
+    },
+    {
+     "t": "CRL",
+     "n": "Charles River Laboratories International, Inc.",
+     "c": -1.0014306151645078,
+     "m": 15916266687,
+     "p": 332.16
+    },
+    {
+     "t": "FICO",
+     "n": "Fair Isaac Corporation",
+     "c": -5.68257863038144,
+     "m": 14464627145.000002,
+     "p": 676.52
+    },
+    {
+     "t": "FDS",
+     "n": "FactSet Research Systems Inc.",
+     "c": -4.837884215913537,
+     "m": 11143887798,
+     "p": 316.1
+    }
+   ]
+  },
+  {
+   "name": "Communications",
+   "change": -0.8134851868271811,
+   "market_cap": 547222652470.0,
+   "stocks": [
+    {
+     "t": "VZ",
+     "n": "Verizon Communications Inc.",
+     "c": -0.8847647820457567,
+     "m": 190361394043,
+     "p": 45.93
+    },
+    {
+     "t": "TMUS",
+     "n": "T-Mobile US, Inc.",
+     "c": -1.2411034645020795,
+     "m": 177851860222,
+     "p": 167.9
+    },
+    {
+     "t": "T",
+     "n": "AT&T Inc",
+     "c": -0.3130590339892678,
+     "m": 150156003443,
+     "p": 22.29
+    },
+    {
+     "t": "ECHO",
+     "n": "EchoStar Corporation Class A",
+     "c": -0.3116517542977805,
+     "m": 28853394762.000004,
+     "p": 99.16
+    }
+   ]
+  },
+  {
+   "name": "Distribution Services",
+   "change": -1.455348272413943,
+   "market_cap": 500932922944.0,
+   "stocks": [
+    {
+     "t": "MCK",
+     "n": "McKesson Corporation",
+     "c": -1.209910953449639,
+     "m": 126040582597.00002,
+     "p": 1091.67
+    },
+    {
+     "t": "GWW",
+     "n": "W.W. Grainger, Inc.",
+     "c": -1.9267539344021138,
+     "m": 68674480647,
+     "p": 1466.96
+    },
+    {
+     "t": "COR",
+     "n": "Cencora, Inc.",
+     "c": -1.787415251863057,
+     "m": 66896375388.99999,
+     "p": 350.56
+    },
+    {
+     "t": "CAH",
+     "n": "Cardinal Health, Inc.",
+     "c": -1.620574246961431,
+     "m": 64544911667,
+     "p": 279.25
+    },
+    {
+     "t": "FAST",
+     "n": "Fastenal Company",
+     "c": -1.3790600616947888,
+     "m": 62355835516.99999,
+     "p": 54.35
+    },
+    {
+     "t": "FERG",
+     "n": "Ferguson Enterprises Inc.",
+     "c": -1.6271721958925658,
+     "m": 48233994974,
+     "p": 249.08
+    },
+    {
+     "t": "SYY",
+     "n": "Sysco Corporation",
+     "c": -0.31952965235173825,
+     "m": 38392194893,
+     "p": 77.99
+    },
+    {
+     "t": "GPC",
+     "n": "Genuine Parts Company",
+     "c": -1.2931740055655692,
+     "m": 16626480808.000002,
+     "p": 120.6
+    },
+    {
+     "t": "HSIC",
+     "n": "Henry Schein, Inc.",
+     "c": -2.3775894538606357,
+     "m": 9168066452,
+     "p": 82.94
+    }
+   ]
+  },
+  {
+   "name": "Non-Energy Minerals",
+   "change": -0.2319241589452065,
+   "market_cap": 415084068569.0,
+   "stocks": [
+    {
+     "t": "NEM",
+     "n": "Newmont Corporation",
+     "c": 0.8612093191913724,
+     "m": 115620641802,
+     "p": 111.26
+    },
+    {
+     "t": "FCX",
+     "n": "Freeport-McMoRan, Inc.",
+     "c": 0.19931146946910572,
+     "m": 79351961649,
+     "p": 55.3
+    },
+    {
+     "t": "CRH",
+     "n": "CRH public limited company",
+     "c": -1.8945545090397315,
+     "m": 60283214560,
+     "p": 90.62
+    },
+    {
+     "t": "NUE",
+     "n": "Nucor Corporation",
+     "c": -0.2335061542723612,
+     "m": 56703926304.00001,
+     "p": 252.08
+    },
+    {
+     "t": "MLM",
+     "n": "Martin Marietta Materials, Inc.",
+     "c": -1.193205196026563,
+     "m": 35865050863.99999,
+     "p": 504.3
+    },
+    {
+     "t": "VMC",
+     "n": "Vulcan Materials Company",
+     "c": -0.7718387073504964,
+     "m": 35310116585,
+     "p": 275.12
+    },
+    {
+     "t": "STLD",
+     "n": "Steel Dynamics, Inc.",
+     "c": -0.44316419233325943,
+     "m": 31949156805,
+     "p": 224.65
+    }
+   ]
+  },
+  {
+   "name": "Miscellaneous",
+   "change": -1.4786418400876402,
+   "market_cap": 19853671074.000004,
+   "stocks": [
+    {
+     "t": "TPL",
+     "n": "Texas Pacific Land Corporation",
+     "c": -1.4786418400876402,
+     "m": 19853671074.000004,
+     "p": 287.84
+    }
+   ]
+  }
+ ],
+ "watchlist": [
+  {
+   "sector": "Electronic Technology",
+   "items": [
+    {
+     "symbol": "NASDAQ:AAPL",
+     "ticker": "AAPL",
+     "name": "Apple Inc.",
+     "price": 351.91,
+     "change": -0.24661261976301033,
+     "volume": 37407537,
+     "value_traded": 13164086345.67,
+     "market_cap": 5114020094371.001,
+     "sector": "Electronic Technology",
+     "premarket_change": -0.35804609133018317,
+     "premarket_price": 350.65,
+     "rel_volume": 0.7358796220436296
+    },
+    {
+     "symbol": "NASDAQ:NVDA",
+     "ticker": "NVDA",
+     "name": "NVIDIA Corporation",
+     "price": 155.46,
+     "change": -0.4355065966440236,
+     "volume": 406984053,
+     "value_traded": 63269740879.380005,
+     "market_cap": 3746586161804,
+     "sector": "Electronic Technology",
+     "premarket_change": 2.9396629358034176,
+     "premarket_price": 160.03,
+     "rel_volume": 1.1949557630184702
+    },
+    {
+     "symbol": "NASDAQ:AVGO",
+     "ticker": "AVGO",
+     "name": "Broadcom Inc.",
+     "price": 341.6,
+     "change": 2.4595080983803377,
+     "volume": 26183909,
+     "value_traded": 8944423314.400002,
+     "market_cap": 1630671997105,
+     "sector": "Electronic Technology",
+     "premarket_change": 1.8764637002341826,
+     "premarket_price": 348.01,
+     "rel_volume": 0.7967130021820014
+    },
+    {
+     "symbol": "NASDAQ:AMD",
+     "ticker": "AMD",
+     "name": "Advanced Micro Devices, Inc.",
+     "price": 503.41,
+     "change": -0.17252320139603947,
+     "volume": 36294690,
+     "value_traded": 18271109892.9,
+     "market_cap": 825636343769.0001,
+     "sector": "Electronic Technology",
+     "premarket_change": 1.5911483681293561,
+     "premarket_price": 511.42,
+     "rel_volume": 0.7415483241187548
+    }
+   ]
+  },
+  {
+   "sector": "Technology Services",
+   "items": [
+    {
+     "symbol": "NASDAQ:MSFT",
+     "ticker": "MSFT",
+     "name": "Microsoft Corporation",
+     "price": 506.24,
+     "change": -2.2683835595281763,
+     "volume": 27992069,
+     "value_traded": 14170705010.56,
+     "market_cap": 3759436548103.9995,
+     "sector": "Technology Services",
+     "premarket_change": -0.19802860303413358,
+     "premarket_price": 505.2375,
+     "rel_volume": 0.9434807802666587
+    },
+    {
+     "symbol": "NASDAQ:GOOGL",
+     "ticker": "GOOGL",
+     "name": "Alphabet Inc. Class A",
+     "price": 280.2,
+     "change": -1.2406598054419986,
+     "volume": 32175891,
+     "value_traded": 9015684658.199999,
+     "market_cap": 3410514515472,
+     "sector": "Technology Services",
+     "premarket_change": 0.8172733761598932,
+     "premarket_price": 282.49,
+     "rel_volume": 0.8734562553079153
+    },
+    {
+     "symbol": "NASDAQ:META",
+     "ticker": "META",
+     "name": "Meta Platforms Inc Class A",
+     "price": 618.87,
+     "change": -1.2036844877955275,
+     "volume": 12971587,
+     "value_traded": 8027726046.690001,
+     "market_cap": 1581980888588.0002,
+     "sector": "Technology Services",
+     "premarket_change": -0.2860051383973988,
+     "premarket_price": 617.1,
+     "rel_volume": 0.739425672439765
+    },
+    {
+     "symbol": "NYSE:ORCL",
+     "ticker": "ORCL",
+     "name": "Oracle Corporation",
+     "price": 115,
+     "change": -3.4343773616592523,
+     "volume": 25913366,
+     "value_traded": 2980037090,
+     "market_cap": 347729649657.99994,
+     "sector": "Technology Services",
+     "premarket_change": 1.5565217391304402,
+     "premarket_price": 116.79,
+     "rel_volume": 0.5684643714047914
+    }
+   ]
+  },
+  {
+   "sector": "Finance",
+   "items": [
+    {
+     "symbol": "NYSE:JPM",
+     "ticker": "JPM",
+     "name": "JPMorgan Chase & Co.",
+     "price": 329.96,
+     "change": -2.4393128529611783,
+     "volume": 8217951,
+     "value_traded": 2711595111.96,
+     "market_cap": 876244927240,
+     "sector": "Finance",
+     "premarket_change": 0.3758031276518393,
+     "premarket_price": 331.2,
+     "rel_volume": 1.1736639549269223
+    },
+    {
+     "symbol": "NYSE:BAC",
+     "ticker": "BAC",
+     "name": "Bank of America Corp",
+     "price": 49.44,
+     "change": -1.2779552715654963,
+     "volume": 34937853,
+     "value_traded": 1727327452.32,
+     "market_cap": 341146322712,
+     "sector": "Finance",
+     "premarket_change": -0.10113268608413666,
+     "premarket_price": 49.39,
+     "rel_volume": 1.030243889372289
+    },
+    {
+     "symbol": "NYSE:GS",
+     "ticker": "GS",
+     "name": "Goldman Sachs Group, Inc.",
+     "price": 877.52,
+     "change": -1.5725598402763736,
+     "volume": 1811355,
+     "value_traded": 1589500239.6,
+     "market_cap": 253107136554,
+     "sector": "Finance",
+     "premarket_change": 0.40033275594858625,
+     "premarket_price": 881.033,
+     "rel_volume": 0.7783865134418108
+    },
+    {
+     "symbol": "NYSE:V",
+     "ticker": "V",
+     "name": "Visa Inc. Class A",
+     "price": 416.77,
+     "change": -2.2721943441354404,
+     "volume": 5700233,
+     "value_traded": 2375686107.41,
+     "market_cap": 772852972883.0001,
+     "sector": "Finance",
+     "premarket_change": -0.42469467572041697,
+     "premarket_price": 415,
+     "rel_volume": 0.769511665853245
+    }
+   ]
+  },
+  {
+   "sector": "Retail Trade",
+   "items": [
+    {
+     "symbol": "NASDAQ:AMZN",
+     "ticker": "AMZN",
+     "name": "Amazon.com, Inc.",
+     "price": 257.89,
+     "change": 0.05431619786614408,
+     "volume": 38683539,
+     "value_traded": 9976097872.71,
+     "market_cap": 2788600238640,
+     "sector": "Retail Trade",
+     "premarket_change": 0.2908216681530885,
+     "premarket_price": 258.64,
+     "rel_volume": 0.7713211768032948
+    },
+    {
+     "symbol": "NASDAQ:WMT",
+     "ticker": "WMT",
+     "name": "Walmart Inc.",
+     "price": 127.52,
+     "change": -0.6930924382836232,
+     "volume": 19841276,
+     "value_traded": 2530159515.52,
+     "market_cap": 1011711275242,
+     "sector": "Retail Trade",
+     "premarket_change": -1.1841279799247106,
+     "premarket_price": 126.01,
+     "rel_volume": 0.8577373529335502
+    },
+    {
+     "symbol": "NASDAQ:COST",
+     "ticker": "COST",
+     "name": "Costco Wholesale Corporation",
+     "price": 1110.08,
+     "change": -0.3286224792141866,
+     "volume": 3181765,
+     "value_traded": 3532013691.2,
+     "market_cap": 491908991054,
+     "sector": "Retail Trade",
+     "premarket_change": -0.5972542519457951,
+     "premarket_price": 1103.45,
+     "rel_volume": 1.2765580906319673
+    },
+    {
+     "symbol": "NYSE:HD",
+     "ticker": "HD",
+     "name": "Home Depot, Inc.",
+     "price": 339.01,
+     "change": -2.4459727777617912,
+     "volume": 7288249,
+     "value_traded": 2470789293.49,
+     "market_cap": 338226773322,
+     "sector": "Retail Trade",
+     "premarket_change": -1.6695672694020731,
+     "premarket_price": 333.35,
+     "rel_volume": 1.4176760698678015
+    }
+   ]
+  },
+  {
+   "sector": "Health Technology",
+   "items": [
+    {
+     "symbol": "NYSE:LLY",
+     "ticker": "LLY",
+     "name": "Eli Lilly and Company",
+     "price": 1415.55,
+     "change": -1.1259577975371502,
+     "volume": 2649239,
+     "value_traded": 3750130266.45,
+     "market_cap": 1331671623773,
+     "sector": "Health Technology",
+     "premarket_change": -0.7410547137155176,
+     "premarket_price": 1405.06,
+     "rel_volume": 0.8325984981391263
+    },
+    {
+     "symbol": "NYSE:JNJ",
+     "ticker": "JNJ",
+     "name": "Johnson & Johnson",
+     "price": 278.7,
+     "change": -1.3625906919129438,
+     "volume": 8978833,
+     "value_traded": 2502400757.1,
+     "market_cap": 670917410757.9999,
+     "sector": "Health Technology",
+     "premarket_change": -0.6996770721205557,
+     "premarket_price": 276.75,
+     "rel_volume": 1.1573394998759308
+    },
+    {
+     "symbol": "NYSE:MRK",
+     "ticker": "MRK",
+     "name": "Merck & Co., Inc.",
+     "price": 143.37,
+     "change": -0.7545341270940076,
+     "volume": 7270175,
+     "value_traded": 1042324989.75,
+     "market_cap": 353442285421,
+     "sector": "Health Technology",
+     "premarket_change": -0.27899839575922836,
+     "premarket_price": 142.97,
+     "rel_volume": 0.9139292003256678
+    }
+   ]
+  },
+  {
+   "sector": "Energy Minerals",
+   "items": [
+    {
+     "symbol": "NYSE:XOM",
+     "ticker": "XOM",
+     "name": "Exxonmobil Holdings Corporation",
+     "price": 167.21,
+     "change": 0.20375142326362045,
+     "volume": 11965035,
+     "value_traded": 2000673502.3500001,
+     "market_cap": 682086806915.9999,
+     "sector": "Energy Minerals",
+     "premarket_change": -0.6040308593983729,
+     "premarket_price": 166.2,
+     "rel_volume": 0.7872488534640588
+    },
+    {
+     "symbol": "NYSE:CVX",
+     "ticker": "CVX",
+     "name": "Chevron Corporation",
+     "price": 216.13,
+     "change": -0.46513769918024817,
+     "volume": 8413318,
+     "value_traded": 1818370419.34,
+     "market_cap": 424786586674,
+     "sector": "Energy Minerals",
+     "premarket_change": -1.2492481376949007,
+     "premarket_price": 213.43,
+     "rel_volume": 0.9779520540076013
+    }
+   ]
+  },
+  {
+   "sector": "Consumer Durables",
+   "items": [
+    {
+     "symbol": "NASDAQ:TSLA",
+     "ticker": "TSLA",
+     "name": "Tesla, Inc.",
+     "price": 380.11,
+     "change": 0.0974350871649035,
+     "volume": 22285713,
+     "value_traded": 8471022368.43,
+     "market_cap": 1502482807008,
+     "sector": "Consumer Durables",
+     "premarket_change": 0.5946173476099017,
+     "premarket_price": 382.3702,
+     "rel_volume": 0.6008630003958613
+    }
+   ]
+  }
+ ],
+ "most_active": [
+  {
+   "symbol": "NASDAQ:NVDA",
+   "ticker": "NVDA",
+   "name": "NVIDIA Corporation",
+   "price": 155.46,
+   "change": -0.4355065966440236,
+   "volume": 406984053,
+   "value_traded": 63269740879.380005,
+   "market_cap": 3746586161804,
+   "sector": "Electronic Technology",
+   "premarket_change": 2.9396629358034176,
+   "premarket_price": 160.03,
+   "rel_volume": 1.1949557630184702
+  },
+  {
+   "symbol": "NASDAQ:MU",
+   "ticker": "MU",
+   "name": "Micron Technology, Inc.",
+   "price": 712.42,
+   "change": -0.917916052404665,
+   "volume": 33499616,
+   "value_traded": 23865796430.719997,
+   "market_cap": 806048509470.0001,
+   "sector": "Electronic Technology",
+   "premarket_change": 1.6937901799500343,
+   "premarket_price": 724.4869,
+   "rel_volume": 0.930688675118702
+  },
+  {
+   "symbol": "NASDAQ:AMD",
+   "ticker": "AMD",
+   "name": "Advanced Micro Devices, Inc.",
+   "price": 503.41,
+   "change": -0.17252320139603947,
+   "volume": 36294690,
+   "value_traded": 18271109892.9,
+   "market_cap": 825636343769.0001,
+   "sector": "Electronic Technology",
+   "premarket_change": 1.5911483681293561,
+   "premarket_price": 511.42,
+   "rel_volume": 0.7415483241187548
+  },
+  {
+   "symbol": "NASDAQ:MSFT",
+   "ticker": "MSFT",
+   "name": "Microsoft Corporation",
+   "price": 506.24,
+   "change": -2.2683835595281763,
+   "volume": 27992069,
+   "value_traded": 14170705010.56,
+   "market_cap": 3759436548103.9995,
+   "sector": "Technology Services",
+   "premarket_change": -0.19802860303413358,
+   "premarket_price": 505.2375,
+   "rel_volume": 0.9434807802666587
+  },
+  {
+   "symbol": "NASDAQ:AAPL",
+   "ticker": "AAPL",
+   "name": "Apple Inc.",
+   "price": 351.91,
+   "change": -0.24661261976301033,
+   "volume": 37407537,
+   "value_traded": 13164086345.67,
+   "market_cap": 5114020094371.001,
+   "sector": "Electronic Technology",
+   "premarket_change": -0.35804609133018317,
+   "premarket_price": 350.65,
+   "rel_volume": 0.7358796220436296
+  },
+  {
+   "symbol": "NASDAQ:SPCX",
+   "ticker": "SPCX",
+   "name": "Space Exploration Technologies Corp",
+   "price": 141.7,
+   "change": 3.1595806639487294,
+   "volume": 89270719,
+   "value_traded": 12649660882.3,
+   "market_cap": 1924436657443,
+   "sector": "Communications",
+   "premarket_change": 0.3810868031051662,
+   "premarket_price": 142.24,
+   "rel_volume": 0.8331434510454008
+  },
+  {
+   "symbol": "NASDAQ:SNDK",
+   "ticker": "SNDK",
+   "name": "Sandisk Corporation",
+   "price": 797.24,
+   "change": -1.4670440360395995,
+   "volume": 15739208,
+   "value_traded": 12547926185.92,
+   "market_cap": 113438761931,
+   "sector": "Electronic Technology",
+   "premarket_change": 2.2637850584516506,
+   "premarket_price": 815.2878,
+   "rel_volume": 1.043367636775824
+  },
+  {
+   "symbol": "NASDAQ:AMZN",
+   "ticker": "AMZN",
+   "name": "Amazon.com, Inc.",
+   "price": 257.89,
+   "change": 0.05431619786614408,
+   "volume": 38683539,
+   "value_traded": 9976097872.71,
+   "market_cap": 2788600238640,
+   "sector": "Retail Trade",
+   "premarket_change": 0.2908216681530885,
+   "premarket_price": 258.64,
+   "rel_volume": 0.7713211768032948
+  },
+  {
+   "symbol": "NASDAQ:GOOGL",
+   "ticker": "GOOGL",
+   "name": "Alphabet Inc. Class A",
+   "price": 280.2,
+   "change": -1.2406598054419986,
+   "volume": 32175891,
+   "value_traded": 9015684658.199999,
+   "market_cap": 3410514515472,
+   "sector": "Technology Services",
+   "premarket_change": 0.8172733761598932,
+   "premarket_price": 282.49,
+   "rel_volume": 0.8734562553079153
+  },
+  {
+   "symbol": "NASDAQ:AVGO",
+   "ticker": "AVGO",
+   "name": "Broadcom Inc.",
+   "price": 341.6,
+   "change": 2.4595080983803377,
+   "volume": 26183909,
+   "value_traded": 8944423314.400002,
+   "market_cap": 1630671997105,
+   "sector": "Electronic Technology",
+   "premarket_change": 1.8764637002341826,
+   "premarket_price": 348.01,
+   "rel_volume": 0.7967130021820014
+  }
+ ],
+ "gainers": [
+  {
+   "symbol": "NASDAQ:SLS",
+   "ticker": "SLS",
+   "name": "SELLAS Life Sciences Group, Inc.",
+   "price": 19.15,
+   "change": 156.3587684069612,
+   "volume": 120289373,
+   "value_traded": 2303541492.95,
+   "market_cap": 3903902863,
+   "sector": "Health Technology",
+   "premarket_change": 0.09451697127937572,
+   "premarket_price": 19.1681,
+   "rel_volume": 18.510730632148825
+  },
+  {
+   "symbol": "NYSE:BILL",
+   "ticker": "BILL",
+   "name": "BILL Holdings, Inc.",
+   "price": 64.88,
+   "change": 12.580253340274151,
+   "volume": 10141778,
+   "value_traded": 657998556.64,
+   "market_cap": 5572091489,
+   "sector": "Technology Services",
+   "premarket_change": -0.4161528976572072,
+   "premarket_price": 64.61,
+   "rel_volume": 6.161812295375143
+  },
+  {
+   "symbol": "NYSE:ACM",
+   "ticker": "ACM",
+   "name": "AECOM",
+   "price": 80.53,
+   "change": 11.075862068965519,
+   "volume": 4153597,
+   "value_traded": 334489166.41,
+   "market_cap": 10363923059.999998,
+   "sector": "Industrial Services",
+   "premarket_change": -0.5339624984477919,
+   "premarket_price": 80.1,
+   "rel_volume": 2.5605517667548705
+  },
+  {
+   "symbol": "NASDAQ:RYTM",
+   "ticker": "RYTM",
+   "name": "Rhythm Pharmaceuticals, Inc.",
+   "price": 116.61,
+   "change": 8.49460364719017,
+   "volume": 2597243,
+   "value_traded": 302864506.23,
+   "market_cap": 8084677426,
+   "sector": "Health Technology",
+   "premarket_change": 0.3344481605351175,
+   "premarket_price": 117,
+   "rel_volume": 0.8726259663209986
+  },
+  {
+   "symbol": "NYSE:SNAP",
+   "ticker": "SNAP",
+   "name": "Snap, Inc. Class A",
+   "price": 5.5,
+   "change": 8.055009823182715,
+   "volume": 75276124,
+   "value_traded": 414018682,
+   "market_cap": 9496171652.000002,
+   "sector": "Technology Services",
+   "premarket_change": 0.18181818181817794,
+   "premarket_price": 5.51,
+   "rel_volume": 1.6162919278304384
+  },
+  {
+   "symbol": "NYSE:UNFI",
+   "ticker": "UNFI",
+   "name": "United Natural Foods, Inc.",
+   "price": 51.99,
+   "change": 7.439553626782396,
+   "volume": 873366,
+   "value_traded": 45406298.34,
+   "market_cap": 3122163576.9999995,
+   "sector": "Distribution Services",
+   "premarket_change": null,
+   "premarket_price": null,
+   "rel_volume": 1.9293781235702794
+  },
+  {
+   "symbol": "NASDAQ:LUMN",
+   "ticker": "LUMN",
+   "name": "Lumen Technologies, Inc.",
+   "price": 4.3,
+   "change": 6.699751861042174,
+   "volume": 25330001,
+   "value_traded": 108919004.3,
+   "market_cap": 4433483911.999999,
+   "sector": "Communications",
+   "premarket_change": 0.23255813953487878,
+   "premarket_price": 4.31,
+   "rel_volume": 1.25444212026819
+  },
+  {
+   "symbol": "NASDAQ:TWST",
+   "ticker": "TWST",
+   "name": "Twist Bioscience Corp.",
+   "price": 112,
+   "change": 6.626047220106619,
+   "volume": 2070077,
+   "value_traded": 231848624,
+   "market_cap": 7636013916,
+   "sector": "Health Technology",
+   "premarket_change": 0.5357142857142806,
+   "premarket_price": 112.6,
+   "rel_volume": 0.7997066615095876
+  },
+  {
+   "symbol": "OTC:SEMUF",
+   "ticker": "SEMUF",
+   "name": "Siem Industries Inc",
+   "price": 105,
+   "change": 5,
+   "volume": 800,
+   "value_traded": 84000,
+   "market_cap": 2050020000,
+   "sector": "Energy Minerals",
+   "premarket_change": null,
+   "premarket_price": null,
+   "rel_volume": 4.659289458357601
+  },
+  {
+   "symbol": "NYSE:CXW",
+   "ticker": "CXW",
+   "name": "CoreCivic, Inc.",
+   "price": 32.46,
+   "change": 4.811107523409758,
+   "volume": 1607115,
+   "value_traded": 52166952.9,
+   "market_cap": 2807727512.9999995,
+   "sector": "Commercial Services",
+   "premarket_change": null,
+   "premarket_price": null,
+   "rel_volume": 0.659851968882836
+  }
+ ],
+ "losers": [
+  {
+   "symbol": "OTC:SWDR",
+   "ticker": "SWDR",
+   "name": "Starwood Real Estate Income Trust, Inc. Class I",
+   "price": 12.35,
+   "change": -19.016393442622952,
+   "volume": 1193,
+   "value_traded": 14733.55,
+   "market_cap": 2335473426,
+   "sector": "Miscellaneous",
+   "premarket_change": null,
+   "premarket_price": null,
+   "rel_volume": null
+  },
+  {
+   "symbol": "NASDAQ:NXT",
+   "ticker": "NXT",
+   "name": "Nextpower Inc.",
+   "price": 78.48,
+   "change": -12.1263016459523,
+   "volume": 4042880,
+   "value_traded": 317285222.40000004,
+   "market_cap": 11817168179,
+   "sector": "Electronic Technology",
+   "premarket_change": 2.076962283384296,
+   "premarket_price": 80.11,
+   "rel_volume": 1.1010050271099558
+  },
+  {
+   "symbol": "NASDAQ:IEP",
+   "ticker": "IEP",
+   "name": "Icahn Enterprises L.P.",
+   "price": 3.19,
+   "change": -11.388888888888893,
+   "volume": 5486366,
+   "value_traded": 17501507.54,
+   "market_cap": 2414706407.0000005,
+   "sector": "Energy Minerals",
+   "premarket_change": 1.8808777429467103,
+   "premarket_price": 3.25,
+   "rel_volume": 1.8990296591960676
+  },
+  {
+   "symbol": "NASDAQ:IDYA",
+   "ticker": "IDYA",
+   "name": "IDEAYA Biosciences, Inc.",
+   "price": 27.4,
+   "change": -9.74967061923584,
+   "volume": 2044683,
+   "value_traded": 56024314.199999996,
+   "market_cap": 2649431457.0000005,
+   "sector": "Health Technology",
+   "premarket_change": null,
+   "premarket_price": null,
+   "rel_volume": 1.7898397149188017
+  },
+  {
+   "symbol": "NASDAQ:SMMT",
+   "ticker": "SMMT",
+   "name": "Summit Therapeutics Inc",
+   "price": 10.67,
+   "change": -9.729272419627751,
+   "volume": 13171551,
+   "value_traded": 140540449.17,
+   "market_cap": 8533481045.000001,
+   "sector": "Health Technology",
+   "premarket_change": -3.842549203373947,
+   "premarket_price": 10.26,
+   "rel_volume": 1.8403790382288903
+  },
+  {
+   "symbol": "NYSE:CRM",
+   "ticker": "CRM",
+   "name": "Salesforce, Inc.",
+   "price": 194.52,
+   "change": -9.453986873341712,
+   "volume": 13398306,
+   "value_traded": 2606238483.1200004,
+   "market_cap": 160089963516,
+   "sector": "Technology Services",
+   "premarket_change": -0.7197203372403895,
+   "premarket_price": 193.12,
+   "rel_volume": 2.111711860518612
+  },
+  {
+   "symbol": "NASDAQ:FRHC",
+   "ticker": "FRHC",
+   "name": "Freedom Holding Corp.",
+   "price": 145.82,
+   "change": -8.599724207095399,
+   "volume": 120386,
+   "value_traded": 17554686.52,
+   "market_cap": 9304015574,
+   "sector": "Finance",
+   "premarket_change": 0.2605952544232585,
+   "premarket_price": 146.2,
+   "rel_volume": 0.9516145734112946
+  },
+  {
+   "symbol": "NASDAQ:TNGX",
+   "ticker": "TNGX",
+   "name": "Tango Therapeutics, Inc.",
+   "price": 22.11,
+   "change": -8.522962350020695,
+   "volume": 2058210,
+   "value_traded": 45507023.1,
+   "market_cap": 3746653568,
+   "sector": "Health Technology",
+   "premarket_change": null,
+   "premarket_price": null,
+   "rel_volume": 0.7053042825592449
+  },
+  {
+   "symbol": "NYSE:RH",
+   "ticker": "RH",
+   "name": "RH",
+   "price": 115.6,
+   "change": -8.370323398858593,
+   "volume": 972479,
+   "value_traded": 112418572.39999999,
+   "market_cap": 2188673137,
+   "sector": "Retail Trade",
+   "premarket_change": 0.3460207612456797,
+   "premarket_price": 116,
+   "rel_volume": 1.2995654613610466
+  },
+  {
+   "symbol": "NASDAQ:ERAS",
+   "ticker": "ERAS",
+   "name": "Erasca, Inc.",
+   "price": 13.89,
+   "change": -8.074123097286558,
+   "volume": 8792394,
+   "value_traded": 122126352.66000001,
+   "market_cap": 4874784807,
+   "sector": "Health Technology",
+   "premarket_change": 0.9935205183585306,
+   "premarket_price": 14.028,
+   "rel_volume": 1.4235733012760892
+  }
+ ],
+ "premarket_movers": [
+  {
+   "symbol": "NYSE:TJX",
+   "ticker": "TJX",
+   "name": "TJX Companies Inc",
+   "price": 129.85,
+   "change": -0.9459150202151262,
+   "volume": 11457833,
+   "value_traded": 1487799615.05,
+   "market_cap": 142831630486.99997,
+   "sector": "Retail Trade",
+   "premarket_change": 6.345783596457458,
+   "premarket_price": 138.09,
+   "rel_volume": 1.5269780561206066
+  },
+  {
+   "symbol": "NASDAQ:TTWO",
+   "ticker": "TTWO",
+   "name": "Take-Two Interactive Software, Inc.",
+   "price": 203.93,
+   "change": -4.469012039162408,
+   "volume": 6262426,
+   "value_traded": 1277096534.18,
+   "market_cap": 38178444771,
+   "sector": "Technology Services",
+   "premarket_change": 5.673515421958512,
+   "premarket_price": 215.5,
+   "rel_volume": 1.3034082932213582
+  },
+  {
+   "symbol": "NASDAQ:WULF",
+   "ticker": "WULF",
+   "name": "TeraWulf Inc.",
+   "price": 11.67,
+   "change": -1.7676767676767748,
+   "volume": 33122927,
+   "value_traded": 386544558.09,
+   "market_cap": 5852757185,
+   "sector": "Technology Services",
+   "premarket_change": 5.141388174807195,
+   "premarket_price": 12.27,
+   "rel_volume": 0.558437308939791
+  },
+  {
+   "symbol": "NASDAQ:NBIS",
+   "ticker": "NBIS",
+   "name": "Nebius Group N.V. Class A",
+   "price": 106.035,
+   "change": -1.0221226547185653,
+   "volume": 31829105,
+   "value_traded": 3374999148.6749997,
+   "market_cap": 28810265058,
+   "sector": "Technology Services",
+   "premarket_change": 4.675343047107098,
+   "premarket_price": 110.9925,
+   "rel_volume": 0.9313325118923211
+  },
+  {
+   "symbol": "NASDAQ:CIFR",
+   "ticker": "CIFR",
+   "name": "Cipher Digital Inc.",
+   "price": 6.42,
+   "change": -1.8348623853211024,
+   "volume": 44675281,
+   "value_traded": 286815304.02,
+   "market_cap": 2929864056,
+   "sector": "Technology Services",
+   "premarket_change": 4.67289719626168,
+   "premarket_price": 6.72,
+   "rel_volume": 0.7358770536471917
+  },
+  {
+   "symbol": "NASDAQ:CORZ",
+   "ticker": "CORZ",
+   "name": "Core Scientific Inc",
+   "price": 13.51,
+   "change": -0.5154639175257753,
+   "volume": 12134648,
+   "value_traded": 163939094.48,
+   "market_cap": 4353410805,
+   "sector": "Technology Services",
+   "premarket_change": 4.6632124352331665,
+   "premarket_price": 14.14,
+   "rel_volume": 0.5621782241261074
+  }
+ ]
+}
