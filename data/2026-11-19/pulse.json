@@ -1,0 +1,11 @@
+{
+  "pulse": "A split tape: the S&P 500 fell -0.23% to 7323.63 and the Dow slid -1.11% to 50198.17 on heavy Health Services and Energy weakness, while the Nasdaq 100 gained 0.42% and the Russell 2000 added 0.46%; breadth was negative with 268 decliners vs 234 advancers among 503 S&P names. Sector performance was lopsided: Retail Trade (+2.08%) and Consumer Services (+1.01%) led, while Health Services (-7.27%) and Energy Minerals (-4.11%) were the worst performers, dragged down by UnitedHealth's -10.21% plunge and broad oil-major selling (CVX -4.74%, XOM -3.97%). The VIX dropped sharply -9.49% to 22.23, the 10-year yield ticked up 0.37% to 5.089%, the dollar (DXY) eased -0.14% to 103.669, WTI crude rose 1.11% to $83.22, and gold slipped -0.18% to $3718.75. Among the most-active names, NVDA (-2.89%) topped volume at $52.80B traded, while AMD (+5.31%), AMZN (+3.82%) and AVGO (+3.64%) posted the biggest gains; cybersecurity names led the broader gainers list with TENB (+15.75%), QLYS (+12.92%) and OKTA (+12.07%), and UNH's -10.21% drop made it both a most-active and top-loser name alongside CLOV (-11.84%) and ACIW (-10.25%).",
+  "standouts": [
+    {"ticker": "NVDA", "note": "-2.89% but most active stock by far, $52.80B value traded"},
+    {"ticker": "AMD", "note": "+5.31% to $530.14, among top most-active gainers"},
+    {"ticker": "UNH", "note": "-10.21% to $349.91 on 3.12x relative volume, led Health Services sector down -7.27%"},
+    {"ticker": "TENB", "note": "+15.75% to $44.68, top of the broad gainers list"},
+    {"ticker": "CVX", "note": "-4.74% to $205.88 as Energy Minerals sector dropped -4.11%"},
+    {"ticker": "AMZN", "note": "+3.82% to $267.74, helped Retail Trade lead sectors at +2.08%"}
+  ]
+}

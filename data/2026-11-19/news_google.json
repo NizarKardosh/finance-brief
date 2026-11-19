@@ -1,0 +1,98 @@
+{
+  "source": "Google Finance",
+  "fetched_at": "2026-11-19T12:00:00Z",
+  "stories": [
+    {
+      "headline": "Anthropic prices record $81B IPO at $83 a share, valuing AI lab near $1.5 trillion",
+      "summary": "Anthropic PBC priced its upsized IPO at $83 per share, above the marketed $70-$78 range, raising about $81 billion in the largest listing on record and valuing the Claude maker at roughly $1.5 trillion. Gray market trading pointed to shares opening as much as 27% higher, and the pricing reignited enthusiasm for the AI trade, lifting Nasdaq futures sharply ahead of the debut.",
+      "url": "https://invezz.com/news/2026/11/19/us-stock-futures-anthropic-ipo-walmart-fed-november-19/",
+      "publisher": "Invezz",
+      "published": "2026-11-19T06:00:00-05:00",
+      "tickers": ["ANT"],
+      "category": "Deals",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Nasdaq futures jump over 2% as Anthropic IPO lifts AI trade sentiment",
+      "summary": "Nasdaq 100 futures rose about 2.06%, or roughly 560 points, while S&P 500 futures gained 1.12% and Dow futures added 0.71% ahead of Wednesday's open. The rally followed Anthropic's blockbuster IPO pricing and set up the S&P 500 to potentially snap a five-session losing streak.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
+      "publisher": "Bloomberg",
+      "published": "2026-11-19T07:00:00-05:00",
+      "tickers": ["ANT"],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Fed minutes turn hawkish as officials eye December rate hike, Waller floats 50bp move",
+      "summary": "Minutes from the Fed's October meeting showed nearly all officials see further rate hikes as likely needed in coming months, with a few open to a move larger than 25 basis points; Governor Christopher Waller floated a 50bp hike in December. CME FedWatch pricing put the odds of a quarter-point December hike near 95%, with markets increasingly pricing a path toward three consecutive hikes through March 2027.",
+      "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---metals-slide-while-fed-minutes-point-to-further-hikes---19-november-2026-19112026",
+      "publisher": "Saxo Bank",
+      "published": "2026-11-19T05:00:00-05:00",
+      "tickers": [],
+      "category": "Policy",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Dow drops 1.1% in fifth straight loss for S&P 500 as tech diverges",
+      "summary": "The Dow fell 1.11% to 50,198 and the S&P 500 slipped 0.23% to 7,323.6, marking its fifth consecutive down session, while the Nasdaq Composite bucked the trend, gaining 0.42% to 24,430 as tech outperformed. The divergence came ahead of the Anthropic IPO debut and amid building Fed rate-hike expectations.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates",
+      "publisher": "Bloomberg",
+      "published": "2026-11-18T16:00:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Gold sinks to 13-month low near $3,730 as Fed hike bets build",
+      "summary": "Spot gold fell to its lowest closing level since September 2025 after plunging more than 3% in the prior session, trading around $3,730-$3,736 an ounce. A strengthening dollar and rising Treasury yields, driven by hawkish Fed minutes, made non-yielding bullion less attractive to investors.",
+      "url": "https://thriveinmarkets.com/market-insights/morning-analysis-2026-11-19/",
+      "publisher": "Thrive in Markets",
+      "published": "2026-11-19T06:00:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Walmart tops Q3 estimates with $188.8B revenue, raises full-year EPS guidance",
+      "summary": "Walmart reported fiscal Q3 adjusted EPS of $0.65 versus a $0.64 forecast, on revenue of $188.80 billion, beating the $187.27 billion consensus. The retailer raised full-year FY2027 adjusted EPS guidance to a range of $2.84 to $2.89, signaling resilient consumer spending heading into the holiday season.",
+      "url": "https://www.sec.gov/Archives/edgar/data/0000104169/000010416926000168/earningspresentationfy27.htm",
+      "publisher": "SEC Filing / Company Release",
+      "published": "2026-11-19T07:00:00-05:00",
+      "tickers": ["WMT"],
+      "category": "Earnings",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Target posts 15% EPS growth in Q3, revenue tops $26.4 billion",
+      "summary": "Target reported third-quarter earnings of $2.04 per share, up nearly 15% year over year, on revenue of $26.41 billion, up more than 4%. The results, reported a day ahead of Walmart's, added to evidence of a resilient consumer heading into the holidays.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/retail-earnings-wmt-tgt-hd-230000690.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-18T18:00:00-05:00",
+      "tickers": ["TGT"],
+      "category": "Earnings",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Treasury yields push above 5% as rate-hike bets firm up",
+      "summary": "Treasury yields climbed above the 5% level as traders priced in a higher likelihood of consecutive Federal Reserve rate hikes into early 2027. The move added pressure to rate-sensitive assets including gold and growth stocks, even as AI-related equities rallied on the Anthropic IPO.",
+      "url": "https://www.vtmarkets.com/en-ca/live-updates/gold-hits-13-month-low-as-fed-rate-hike-bets-lift-dollar-and-push-treasury-yields-above-5/",
+      "publisher": "VT Markets",
+      "published": "2026-11-19T05:30:00-05:00",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 3,
+      "sentiment": "bearish"
+    }
+  ],
+  "calendar": [
+    {"when": "Today", "event": "Anthropic (ANT) IPO debut on public markets", "type": "other"},
+    {"when": "Today", "event": "Walmart (WMT) Q3 FY2027 earnings report", "type": "earnings"}
+  ]
+}

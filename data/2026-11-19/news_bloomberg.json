@@ -1,0 +1,87 @@
+{
+  "source": "Bloomberg",
+  "fetched_at": "2026-11-19T14:00:00Z",
+  "stories": [
+    {
+      "headline": "Anthropic's record $107.3 billion IPO lifts AI trade, futures rally",
+      "summary": "Anthropic PBC priced an upsized initial public offering and private placement that raised $107.3 billion, breaking SpaceX's prior fundraising record, with shares indicated to open as much as 26% higher in gray market trading. US stock futures and European stocks rallied on the news as the blockbuster debut revived confidence in the broader AI trade.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/us-stock-futures-jump-on-blockbuster-reception-to-anthropic-ipo",
+      "published": "2026-11-19T00:00:00Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Fed minutes show almost all officials expect more rate hikes",
+      "summary": "Minutes from the Federal Reserve's October meeting showed nearly all officials agreed they would likely need to raise interest rates further in the months ahead to bring inflation back to the 2% target. The hawkish tone contrasts with market hopes for a pause and could pressure rate-sensitive assets.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-18/fed-minutes-show-almost-all-officials-expect-more-rate-hikes",
+      "published": "2026-11-18T19:00:01Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "IMF chief warns AI market correction has 'little bit more' to go",
+      "summary": "IMF Managing Director Kristalina Georgieva said she expects a further correction in AI-related financial markets, citing concerns about an overdone boom and the impact of US chip export controls. She also flagged rising debt risks tied to the AI buildout.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/imf-s-chief-is-warning-ai-correction-has-little-bit-more-to-go",
+      "published": "2026-11-19T10:51:21Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Copper rebounds after nearly 6% rout as physical tightness persists",
+      "summary": "Copper staged a partial recovery on Thursday after plunging almost 6% a day earlier, as underlying physical market tightness continued to support prices despite the sharp selloff.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/copper-rebounds-after-rout-as-physical-tightness-persists",
+      "published": "2026-11-19T00:00:00Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Alibaba warns US chip curbs will curtail growth and AI buildout goals",
+      "summary": "Alibaba Group Holding warned that US restrictions on China's access to cutting-edge chips may limit its growth and AI expansion plans, even as the company's revenue beat estimates amid China's broader AI boom.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/alibaba-s-revenue-beats-estimates-during-china-s-ai-boom",
+      "published": "2026-11-19T10:13:00Z",
+      "tickers": ["BABA"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "South Korea's exports top $1 trillion for first time on AI boom",
+      "summary": "South Korea's annual exports surpassed $1 trillion for the first time, driven by record semiconductor shipments tied to the global AI boom, underscoring how strong AI-related chip demand is boosting major Asian exporters.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/south-korea-s-exports-top-1-trillion-for-first-time-on-ai-boom",
+      "published": "2026-11-19T08:25:53Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Lenovo shares tank over 5% after first operating loss since 2017",
+      "summary": "Lenovo Group shares slid more than 5% after the company reported a larger-than-expected operating loss for the September quarter, even though sales beat estimates on solid AI hardware demand.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/lenovo-sales-beat-estimate-due-to-solid-ai-hardware-demand",
+      "published": "2026-11-19T04:29:00Z",
+      "tickers": ["LNVGY"],
+      "category": "Earnings",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Australia's jobless rate jumps to five-year high, traders price rate cuts",
+      "summary": "Australian unemployment climbed to a five-year high in October as the economy unexpectedly shed jobs, sending the currency lower and prompting traders to boost bets on Reserve Bank of Australia rate cuts in 2027.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/australian-unemployment-jumps-to-4-9-following-rba-rate-hikes",
+      "published": "2026-11-19T00:32:02Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 3,
+      "sentiment": "bearish"
+    }
+  ],
+  "calendar": []
+}

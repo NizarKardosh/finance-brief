@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-19",
+  "headline_of_day": "Anthropic's Record IPO Collides With a Hawkish Fed",
+  "dek": "Anthropic priced the largest IPO ever at $83 a share even as Fed minutes push December rate-hike odds near 95%.",
+  "big_picture": "Markets are bracing for a pivotal Thursday: Anthropic priced the largest IPO in history at $83 a share, valuing the AI lab near $1.5 trillion and sending Nasdaq futures up more than 2% in pre-market trading. That optimism sits awkwardly alongside Wednesday's tape, where the S&P 500 notched its fifth straight losing session, down 0.23% to 7,323.63, and the Dow fell 1.11% to 50,198.17, while hawkish Fed minutes raised the odds of a December rate hike to roughly 95%, with Governor Waller even floating a half-point move. Nvidia's blockbuster Q3 - revenue up 103% to $115.8 billion - confirmed the AI capex story remains intact even as Bank of America's survey showed fund managers slashing tech overweights at the fastest pace since 2006. Gold slid to a 13-month low near $3,730 and the 10-year Treasury yield pushed above 5% as the hawkish Fed repriced assets, while Walmart and Target both beat estimates and raised guidance, pointing to a resilient US consumer heading into the holidays.",
+  "three_things": [
+    "Anthropic's $81 billion-plus IPO is the biggest ever, instantly reviving the AI trade",
+    "Fed minutes turn hawkish - December hike odds near 95%, gold and bonds sell off",
+    "Nvidia's 103% revenue beat barely moved the stock as the CEO succession overhang lingers"
+  ],
+  "market_pulse": "A split tape: the S&P 500 fell 0.23% to 7,323.63 and the Dow slid 1.11% to 50,198.17 on heavy Health Services and Energy weakness, while the Nasdaq 100 gained 0.42% and the Russell 2000 added 0.46%; breadth was negative with 268 decliners vs 234 advancers among 503 S&P names. Retail Trade (+2.08%) and Consumer Services (+1.01%) led sectors, while Health Services (-7.27%) and Energy Minerals (-4.11%) lagged, dragged by UnitedHealth's -10.21% plunge and broad oil-major selling (CVX -4.74%, XOM -3.97%). The VIX dropped 9.49% to 22.23, the 10-year yield rose to 5.089%, the dollar (DXY) eased to 103.669, WTI crude rose 1.11% to $83.22, and gold slipped to $3,718.75. NVDA led volume at $52.80B traded despite falling 2.89%, while AMD (+5.31%), AMZN (+3.82%) and AVGO (+3.64%) gained, and cybersecurity names TENB (+15.75%), QLYS (+12.92%) and OKTA (+12.07%) topped the broader gainers list.",
+  "standouts": [
+    {"ticker": "NVDA", "note": "-2.89% but most active stock by far, $52.80B value traded"},
+    {"ticker": "AMD", "note": "+5.31% to $530.14, among top most-active gainers"},
+    {"ticker": "UNH", "note": "-10.21% to $349.91 on 3.12x relative volume, led Health Services sector down -7.27%"},
+    {"ticker": "TENB", "note": "+15.75% to $44.68, top of the broad gainers list"},
+    {"ticker": "CVX", "note": "-4.74% to $205.88 as Energy Minerals sector dropped -4.11%"},
+    {"ticker": "AMZN", "note": "+3.82% to $267.74, helped Retail Trade lead sectors at +2.08%"}
+  ],
+  "stories": [
+    {
+      "headline": "Anthropic Prices Record $81 Billion IPO at $83 a Share",
+      "summary": "Anthropic priced its upsized IPO at $83 a share, above the marketed $70-$78 range, raising about $81 billion in equity and valuing the AI lab near $1.5 trillion - with a concurrent private placement pushing total proceeds to $107.3 billion, per Bloomberg. Gray-market trading pointed to a first-day pop of as much as 25-27%, and the pricing lifted Nasdaq futures over 2% ahead of Thursday's debut. Anthropic's Q3 revenue hit $17 billion, up twelvefold year over year.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://invezz.com/news/2026/11/19/us-stock-futures-anthropic-ipo-walmart-fed-november-19/"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-19/us-stock-futures-jump-on-blockbuster-reception-to-anthropic-ipo"}
+      ],
+      "published": "2026-11-18T16:26:00-05:00",
+      "tickers": ["ANT"],
+      "category": "Deals",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Fed Minutes Show Broad Support for More Rate Hikes",
+      "summary": "Minutes from the Fed's October meeting showed nearly all officials see further rate increases as likely needed to bring inflation back to target, with Governor Christopher Waller floating a 50-basis-point move in December. CME FedWatch pricing now puts the odds of a quarter-point December hike near 95%, with markets leaning toward a string of hikes running into early 2027. The hawkish tone pressured gold and pushed Treasury yields above 5%.",
+      "sources": ["Google Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://www.home.saxo/en-mena/content/articles/macro/market-quick-take---metals-slide-while-fed-minutes-point-to-further-hikes---19-november-2026-19112026"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-18/fed-minutes-show-almost-all-officials-expect-more-rate-hikes"}
+      ],
+      "published": "2026-11-18T19:00:01Z",
+      "tickers": [],
+      "category": "Policy",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Nvidia Beats on Revenue, Confirms Huang Will Not Return as CEO",
+      "summary": "Nvidia posted fiscal Q3 revenue of $115.8 billion, up 103% year over year, and EPS of $2.68, both ahead of consensus, while guiding Q4 revenue to $127.4-$132.6 billion and raising its fiscal 2028 growth outlook to 75%. The company also announced a $150 billion buyback, but board chair Harvey Jones confirmed Jensen Huang will not be reinstated after his resignation over conduct violations. Shares were little changed as the leadership vacuum offset the earnings beat.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html"}
+      ],
+      "published": "2026-11-18T18:00:00-05:00",
+      "tickers": ["NVDA", "AMD", "AVGO"],
+      "category": "Earnings",
+      "importance": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Walmart Raises Guidance for Third Time This Year on Q3 Beat",
+      "summary": "Walmart reported fiscal Q3 revenue of $188.8 billion and adjusted EPS of $0.65, both ahead of estimates, powered by 2.9% US comparable sales growth and 17% e-commerce growth. The retailer raised its full-year adjusted EPS guidance to $2.84-$2.89, the third upgrade this year, even as shares slipped about 1% on broader market jitters. The results add to evidence of resilient US consumer spending heading into the holidays.",
+      "sources": ["Google Finance", "Yahoo Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://www.sec.gov/Archives/edgar/data/0000104169/000010416926000168/earningspresentationfy27.htm"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/article/walmart-beats-q3-earnings-expectations-raises-2026-outlook-again-120803355.html"}
+      ],
+      "published": "2026-11-18T07:08:00-05:00",
+      "tickers": ["WMT"],
+      "category": "Earnings",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Fund Managers Slash Tech Overweight at Fastest Pace Since 2006",
+      "summary": "Bank of America's November survey found investors cut their net tech overweight to 12% from 37% a month earlier, the steepest single-month drop since 2006. A record 38% of respondents said companies are overinvesting in AI, and 52% expect a hyperscaler to announce a capex cut within six months, with money rotating into healthcare and consumer staples.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://www.investing.com/news/economy-news/investors-slashed-tech-exposure-last-month-anticipate-less-capital-spending-5032364"}
+      ],
+      "published": "2026-11-18T06:00:00-05:00",
+      "tickers": ["NVDA", "MSFT", "GOOGL", "AMZN"],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "S&P 500 Logs Fifth Straight Losing Session as Dow Drops 1.1%",
+      "summary": "The Dow fell 1.11% to 50,198.17 and the S&P 500 slipped 0.23% to 7,323.63, its fifth consecutive down session, even as the Nasdaq Composite gained 0.42% on tech outperformance. Breadth was negative, with 268 decliners against 234 advancers among S&P 500 names. The divergence came just ahead of the Anthropic IPO debut and amid building Fed rate-hike expectations.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://www.bloomberg.com/news/articles/2026-11-18/stock-market-today-dow-s-p-live-updates"}
+      ],
+      "published": "2026-11-18T16:00:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "IMF's Georgieva Says AI Market Correction Has Further to Run",
+      "summary": "IMF Managing Director Kristalina Georgieva said she expects a further correction in AI-related financial markets, warning the boom has become overdone and flagging rising debt risks tied to the AI buildout. She also cited US chip export controls as a complicating factor for the sector's trajectory.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-19/imf-s-chief-is-warning-ai-correction-has-little-bit-more-to-go"}
+      ],
+      "published": "2026-11-19T10:51:21Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Alibaba Warns US Chip Curbs Will Limit Its AI Ambitions",
+      "summary": "Alibaba Group Holding warned that US restrictions on advanced chip access could curtail its growth and AI expansion plans, even as the company's revenue beat estimates on China's broader AI boom. The warning underscores how export controls continue to constrain Chinese tech giants despite strong underlying demand.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-19/alibaba-s-revenue-beats-estimates-during-china-s-ai-boom"}
+      ],
+      "published": "2026-11-19T10:13:00Z",
+      "tickers": ["BABA"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Copper Rebounds After Nearly 6% Rout on Physical Tightness",
+      "summary": "Copper staged a partial recovery after plunging almost 6% a day earlier, as underlying physical-market tightness continued to support prices despite the sharp selloff. The bounce suggests the prior day's drop owed more to positioning than to any shift in supply-demand fundamentals.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-19/copper-rebounds-after-rout-as-physical-tightness-persists"}
+      ],
+      "published": "2026-11-19T00:00:00Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Gold Falls to 13-Month Low as Fed Hike Bets Build",
+      "summary": "Spot gold fell to around $3,730-$3,736 an ounce, its lowest closing level since September 2025, after plunging more than 3% the prior session. A strengthening dollar and rising Treasury yields, driven by the hawkish Fed minutes, made non-yielding bullion less attractive.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://thriveinmarkets.com/market-insights/morning-analysis-2026-11-19/"}
+      ],
+      "published": "2026-11-19T06:00:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Treasury Yields Push Above 5% on Firming Rate-Hike Bets",
+      "summary": "Treasury yields climbed above the 5% level as traders priced in a higher likelihood of consecutive Fed rate hikes into early 2027. The move pressured rate-sensitive assets, including gold, even as AI-related equities rallied on the Anthropic IPO.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://www.vtmarkets.com/en-ca/live-updates/gold-hits-13-month-low-as-fed-rate-hike-bets-lift-dollar-and-push-treasury-yields-above-5/"}
+      ],
+      "published": "2026-11-19T05:30:00-05:00",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Target Posts 15% EPS Growth, Revenue Tops $26.4 Billion",
+      "summary": "Target reported third-quarter EPS of $2.04, up nearly 15% year over year, on revenue of $26.41 billion, up more than 4%. The results, released a day ahead of Walmart's, add to evidence of resilient consumer spending heading into the holiday season.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/retail-earnings-wmt-tgt-hd-230000690.html"}
+      ],
+      "published": "2026-11-18T18:00:00-05:00",
+      "tickers": ["TGT"],
+      "category": "Earnings",
+      "importance": 3,
+      "sentiment": "bullish"
+    }
+  ],
+  "watch_today": [
+    {"when": "08:30 ET", "event": "Initial Jobless Claims (prior: 200K)", "type": "economic"},
+    {"when": "Today", "event": "Anthropic (ANT) Nasdaq trading debut after $83/share IPO pricing", "type": "other"},
+    {"when": "Today", "event": "Walmart (WMT) Q3 FY2027 earnings report", "type": "earnings"}
+  ],
+  "desk_status": {"google": "ok", "yahoo": "ok", "bloomberg": "ok", "markets": "ok"}
+}

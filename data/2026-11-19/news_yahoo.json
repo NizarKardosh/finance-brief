@@ -1,0 +1,98 @@
+{
+  "source": "Yahoo Finance",
+  "fetched_at": "2026-11-19T09:00:00-05:00",
+  "stories": [
+    {
+      "headline": "Nvidia beats Q3 estimates with 103% revenue growth, confirms board will not reinstate Jensen Huang as CEO",
+      "summary": "Nvidia reported fiscal Q3 revenue of $115.8 billion (up 103% year-over-year) and EPS of $2.68, both well above consensus estimates of $109.15 billion and $2.47. The company guided Q4 revenue to $127.4-$132.6 billion versus $125.25 billion expected, raised its fiscal 2028 growth outlook to 75% from 70%, and announced a $150 billion buyback, while board chair Harvey Jones confirmed Jensen Huang will not return as CEO after his voluntary resignation over personal conduct violations. Shares were roughly flat in early trading despite the beat, reflecting lingering uncertainty over the leadership search.",
+      "url": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-18T18:00:00-05:00",
+      "tickers": ["NVDA", "AMD", "AVGO"],
+      "category": "Earnings",
+      "importance": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Anthropic prices IPO at $83, raising $81.3 billion in largest tech listing ever ahead of Nasdaq debut",
+      "summary": "Anthropic priced its IPO at $83 per share, above its $70-$78 marketed range, valuing the AI company at over $1.5 trillion and raising roughly $81.3 billion -- surpassing SpaceX's prior record for the largest tech IPO. The company offered 980 million Class A shares with a 147-million-share greenshoe option, and pre-IPO derivatives pointed to a potential 20-25% first-day pop when shares begin trading Thursday. Anthropic's revenue hit $17 billion in Q3 alone, a 12x year-over-year jump, underscoring surging enterprise AI demand.",
+      "url": "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-18T16:26:00-05:00",
+      "tickers": ["NVDA", "BABA"],
+      "category": "Deals",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "BofA survey: fund managers slash tech overweight by most since 2006 on AI capex worries",
+      "summary": "Bank of America's November fund manager survey found investors cut their net tech overweight to 12% from 37% a month earlier, the steepest single-month drop since June 2006 and larger than the declines seen in the 2008 crisis or the 2022 rate-hike cycle. A record 38% of respondents said companies are overinvesting in AI, and 52% expect a hyperscaler to announce a capex cut within six months, while allocations rotated into healthcare and consumer staples/discretionary. The survey polled 169-193 managers overseeing $461-$526 billion in assets between November 6-12.",
+      "url": "https://www.investing.com/news/economy-news/investors-slashed-tech-exposure-last-month-anticipate-less-capital-spending-5032364",
+      "publisher": "Reuters",
+      "published": "2026-11-18T06:00:00-05:00",
+      "tickers": ["NVDA", "MSFT", "GOOGL", "AMZN"],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Walmart beats Q3 earnings, raises full-year outlook for third time this year",
+      "summary": "Walmart posted Q3 revenue of $188.8 billion versus $187.2 billion expected, with adjusted EPS of $0.65 topping the $0.64 estimate, driven by 2.9% U.S. same-store sales growth, 17% e-commerce growth, and a 36% jump in its advertising business. The retailer raised its fiscal 2027 guidance for net sales growth, operating income, and adjusted EPS for the third consecutive time this year, yet shares fell about 1% as investors weighed the results against broader market jitters. CEO John Furner said the company continues to gain market share heading into the holiday season.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/walmart-beats-q3-earnings-expectations-raises-2026-outlook-again-120803355.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-18T07:08:00-05:00",
+      "tickers": ["WMT"],
+      "category": "Earnings",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "AMD, Broadcom, CoreWeave shares mixed as chip and AI-infrastructure stocks react to Nvidia earnings",
+      "summary": "Semiconductor and AI infrastructure names traded unevenly after Nvidia's earnings beat, with some chipmakers and cloud/AI plays like CoreWeave and Nebius rallying while others lagged. The mixed reaction reflects investor caution about the sustainability of AI capital spending even as Nvidia's own numbers topped estimates. The move highlights how closely peer stocks are now tied to Nvidia's quarterly results as a bellwether for the AI trade.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/amd-broadcom-tsmc-stocks-rise-on-nvidia-earnings-coreweave-nebius-shares-also-rally-220159436.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-18T17:01:00-05:00",
+      "tickers": ["AMD", "AVGO", "TSM"],
+      "category": "Tech",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Trump's China visit ends with little progress on semiconductors or rare earths",
+      "summary": "Trade talks during President Trump's visit to China concluded without major breakthroughs on export controls for semiconductors or access to rare-earth minerals, leaving existing frictions largely unresolved. The stalemate keeps supply-chain uncertainty elevated for chipmakers such as Nvidia and AMD that depend on both Chinese sales and rare-earth inputs. Markets had been watching the trip for signs of easing tech-trade tensions between the two countries.",
+      "url": "https://finance.yahoo.com/markets/article/stalemates-over-semiconductors-and-rare-earth-minerals-appear-little-changed-as-trump-heads-home-from-china-121555352.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-18T07:15:00-05:00",
+      "tickers": ["NVDA", "AMD"],
+      "category": "Policy",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Palo Alto Networks shares jump 9% as CEO touts AI security opportunity amid outage concerns",
+      "summary": "Palo Alto Networks stock surged 9% after its CEO highlighted a growing opportunity in AI-driven security as major corporations grapple with a wave of network outages. Leadership pointed to expanding demand for cybersecurity protections tied to increasingly complex, AI-integrated corporate networks. The rally underscores investor appetite for cybersecurity names seen as beneficiaries of enterprise AI adoption.",
+      "url": "https://finance.yahoo.com/technology/article/palo-alto-networks-ceo-just-dropped-a-truth-bomb-on-the-network-outages-sweeping-through-major-companies-101129581.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-18T10:11:00-05:00",
+      "tickers": ["PANW"],
+      "category": "Tech",
+      "importance": 2,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Nvidia earnings beat lifts bitcoin mining stocks",
+      "summary": "Shares of bitcoin mining companies rose following Nvidia's stronger-than-expected quarterly results, as the beat reinforced optimism about continued demand for AI and high-performance computing infrastructure that many miners have been diversifying into. The move reflects how closely crypto-mining equities have become linked to broader AI-chip sentiment rather than bitcoin price alone. Investors are watching whether miners' pivot to AI hosting can offset volatility in crypto mining economics.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-beat-lifts-bitcoin-181612462.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-18T13:16:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Crypto",
+      "importance": 2,
+      "sentiment": "bullish"
+    }
+  ],
+  "calendar": [
+    {"when": "08:30 ET", "event": "Initial Jobless Claims (prior: 200K)", "type": "economic"},
+    {"when": "Today", "event": "Anthropic (ANT) Nasdaq trading debut after $83/share IPO pricing", "type": "other"}
+  ]
+}
