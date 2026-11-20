@@ -1,0 +1,11 @@
+{
+  "pulse": "A broad risk-off session hit stocks hard: the S&P 500 fell 2.02% to 7175.83, the Nasdaq 100 dropped 2.21% to 26517.05, the Dow slid 2.19% to 49097.06, and the Russell 2000 lost 2.18% to 2655.11. Breadth was overwhelmingly negative with only 38 advancers against 463 decliners out of 503 names. Energy Minerals (-0.53%) and Finance (-1.49%) were the relative outperformers while Health Services (-3.87%) and Non-Energy Minerals (-3.00%) led sector losses, with the Retail Trade and Consumer Services groups also down around 2.5-2.7%. The VIX spiked 8.16% to 30.76 signaling a fear surge, the 10Y yield eased 1.39% to 4.98%, the dollar (DXY) slipped 0.27% to 103.65, WTI crude fell 0.70% to $81.86, and gold dropped 1.56% to $3569.44. Among the most-active names, AMD was the standout decliner at -7.72% to $489.19 on very heavy volume, while newly listed Anthropic (ANT) traded without a reference change at $97.17 but was down 9.43% premarket, and NVIDIA fell 3.30% to $145.98 on $47.1B of value traded.",
+  "standouts": [
+    {"ticker": "AMD", "note": "-7.72% to $489.19 on $35.06B value traded, top-active decliner"},
+    {"ticker": "NVDA", "note": "-3.30% to $145.98 on $47.14B value traded, heaviest dollar volume in the tape"},
+    {"ticker": "TWLO", "note": "-8.75% within Technology Services, among the sector's worst decliners"},
+    {"ticker": "PANW", "note": "+6.42% to $361.73, best gainer among large tech names, top of the gainers list for mega caps"},
+    {"ticker": "INSM", "note": "+20.58% to $144.46 on 6x relative volume, top of the gainers list"},
+    {"ticker": "SNEX", "note": "-26.71% to $39.45 on 6.95x relative volume, worst decliner in the market"}
+  ]
+}

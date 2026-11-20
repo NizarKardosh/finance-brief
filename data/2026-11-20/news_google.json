@@ -1,0 +1,95 @@
+{
+  "source": "Google Finance",
+  "fetched_at": "2026-11-20T13:30:00-05:00",
+  "stories": [
+    {
+      "headline": "Stocks post worst run since 2023 as AI trade cracks",
+      "summary": "US equities are on their worst losing streak since 2023 as cracks widen in the AI trade, with mega-cap tech leading declines despite Anthropic's blockbuster debut. Investors are rotating out of high-multiple AI names amid concerns about valuations and spending sustainability.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUE9Bem9kWjBIcUtfa0xHOW0yQm1mV3A0VFVFZlh4X0hvWjlmckZSTDNGWlB1NGtzWFkyTTVSc0tNNW9tbUxGNURvNExmRTdTYnJyTTJtUGd1dkEyZklWR2xOSkphQ2s1d0NjZE9CRDc4SWtreWJxbDVoOFFnM2toQldLUHR5VUZFTDk4bDBXaWdodTh1?oc=5",
+      "publisher": "Bloomberg",
+      "published": "2026-11-20T07:30:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Anthropic shares dive after blockbuster IPO debut",
+      "summary": "Anthropic's stock fell sharply the day after its IPO, which had valued the AI company near $1.5 trillion, as broader tech weakness and profit-taking weighed on the newly listed shares. The reversal underscores how quickly sentiment can turn on richly valued AI names.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN1JHbkFlQm5mcHJFMmFVZzhqRnpfMkxwTUtwS0F0OTZicDN0VDNfdnoxVlBLcTViVXNDa2o1ZW4yVkpsd1daOFlQMXdZdjVWYzlkWnFVRHRhanJFRUlXNXBLd0E1Y1NlRlhieWR6V2hzSkkzTkZueE1HT24tOC1ZbHpUZHEzdnVfc3NPdFl3ZWtjMVpLVDdhd2F6VzRCTUJCTEdXMWFGNEJWS0k?oc=5",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-20T04:54:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "China's AI firms face Nvidia chip supply crunch as access tightens",
+      "summary": "Chinese AI companies that built their infrastructure around Nvidia chips are now struggling with restricted supply, forcing a scramble for alternatives. The report highlights how export controls continue to reshape the competitive landscape for AI compute in China.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeHpsUWpRNHV2N1B5QVI4LUdwb1VMWjB1aXRnV2I0YkowdGZDRnBLeGJWYWx3UERrRXNWWmh4QV9wQkd0UlUydEp6WDVYMVJBMHNSOXJUMHhHUUMtbjUzUFp1aXdlX283dWt1aDlUaWhYQW5oNkozeGY2dUVSbkxiZjQ2Nkd0QjBfVjVLRW44YktRbTMtdEx5ZWZuTGl6LVVvRWpWS1hfZU9pR0RVVkRYUUh3?oc=5",
+      "publisher": "WSJ",
+      "published": "2026-11-19T22:00:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "California opens probe into Nvidia over China AI chip sales",
+      "summary": "California regulators have launched an inquiry targeting Nvidia related to its AI chip sales involving China, adding a new regulatory risk for the chipmaker. The probe comes amid heightened scrutiny of semiconductor export practices.",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LcjVzcGZXYnU1NGFZcXhHTkpaeHVCbkFtZ2JWd2VidTVYSTdrZVl5VGRCMzE5WldSU0xLajIyN1ljYWdmWWtmbWw5OXpBYnIwNUVuU0xGX1k5WFE?oc=5",
+      "publisher": "BBC",
+      "published": "2026-11-19T18:04:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Policy",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Third-party data breach exposes JPMorgan, Visa and Mastercard customer data",
+      "summary": "A breach at a third-party vendor exposed customer data tied to JPMorgan, Visa and Mastercard, raising fresh concerns about supply-chain cybersecurity risk in financial services. The scope of affected customers and remediation steps were still being assessed.",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUFk4VnFDMmNXd0Z4dTNuUDlkU0hXSUEwNkcyR3U3QVBlbkIxR3BTSWQzS0pPdE4zR28xRTJ4RGd3c0pnM1pUQnM3NlA0WDhwa3F6dW1PWk4tTDNKSlRpVWpXSnpVVUgxZkJxMXNmV0F4NTM0ZXMtcWRoY1BBVmFzOGNMaTBiaHcwWlhwbDI3c0lhcjhBS29fWUpxSmJRN0Myb0R3VzBwbnBEWGVlNlVHakhB?oc=5",
+      "publisher": "Semafor",
+      "published": "2026-11-19T17:19:00-05:00",
+      "tickers": ["JPM", "V", "MA"],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "UnitedHealth shares continue to slide amid Medicare for All push",
+      "summary": "UnitedHealth stock extended its decline as political momentum builds behind Medicare for All proposals, which investors see as a structural threat to private insurers' business models. The selloff reflects growing policy risk pricing into managed-care names.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZnJCOXVwRThYMEVub1RDdkFkTldvai1QUmk1aWctZ21sVWpmVmxOVUJjdDlBSDdpM3p0YXM4bHA2TmNGcjBZU0owQnhsLW9WT0R5Q3RGaGp2V3JIU1ZCZE9aYzdGRVkwUDVnVkhic0xQY21CUlh1Q2NIRXhyUlhaVHYzXzBScFdsa0xjWGt4TTg?oc=5",
+      "publisher": "Barron's",
+      "published": "2026-11-19T16:54:00-05:00",
+      "tickers": ["UNH"],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Walmart's digital sales now driving growth more than stores",
+      "summary": "Walmart's e-commerce business has become the primary growth engine for the retail giant, overtaking physical store sales growth, according to a new report. The shift reflects continued investment in digital fulfillment and marketplace expansion.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb1NMeEgtRlBKbmh5MGpoTmJfNUUtLS1QNUgxeTJnUlh2NTJvSjY3dndxekJzZXFxRFF3TkkxLWxpUG4zSmxTVGdyUFh6bC1uem5EWkprRWlQS01JdkNaT2xXd3l5eTM2bE9HU3IxR1BadWhwNHRmQ2xhRjhTZ0NRSHlhcUZUT1RBN2c?oc=5",
+      "publisher": "WSJ",
+      "published": "2026-11-19T10:34:00-05:00",
+      "tickers": ["WMT"],
+      "category": "Earnings",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Nvidia trades roughly 30% below fair value, says valuation expert",
+      "summary": "NYU professor Aswath Damodaran, known as the 'Dean of Valuation,' said Nvidia shares are trading about 30% below his estimate of fair value and that he is waiting for a price near $140 to add to his position. The comment comes as Nvidia shares have been under pressure amid broader AI-trade jitters.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRTUwbU9xUUJFY3ZMYUtwdVRuLW1ad0NIR3ZpdHR6cFZiZzh0Rzludkt2X3FlTGZEcXhmd0V6a1pxZFljVUZOSmd1RG44VDJxbE1QeGljTmlVcXo4MHNFMHM2WmROelNoN19Hakg4U2Ewa3NfX2FiRkhGTmE1eG9SRkZ4V2VGVlJFODNGbjFzOGU3azB3S2hGYkhR?oc=5",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-20T03:58:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bullish"
+    }
+  ],
+  "calendar": []
+}
