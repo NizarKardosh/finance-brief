@@ -1,0 +1,100 @@
+{
+  "source": "Google Finance",
+  "fetched_at": "2026-11-21T15:00:00-05:00",
+  "stories": [
+    {
+      "headline": "Nvidia shares plunge 14% in one session as SEC accounting probe adds to AI sell-off",
+      "summary": "Nvidia stock fell 14.01% on Friday to close at $125.53, wiping out roughly $500 billion in market value in a single day after Reuters reported the SEC is examining the company's accounting practices. The stock has now dropped about 23% for the week, erasing roughly $1 trillion in market cap, as the broader AI trade unwinds.",
+      "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-nvidia-s-usd2-5-trillion-rout-deepens-as-sec-accounting-probe-adds-to-wall-street-s-ai-sell-off/",
+      "publisher": "The Motley Fool",
+      "published": "2026-11-20T21:43:00+00:00",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Nasdaq posts worst week since March 2020 as AI trade unravels",
+      "summary": "The Nasdaq Composite plummeted 5.28% on Friday to 22,617.73, turning negative for the year and closing out its worst week since the pandemic crash of March 2020, with a weekly decline of more than 10%. The S&P 500 dropped 3.7% to 6,910.39, officially entering a technical correction after falling 10% from its record high.",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ1hBdGw1anUtLVZ1cFNyVmJmX0liYVYxcGg3WEpaOURrSlJLWHZDSzlIbjFBM3ZaTlllb29CTERST2ZDaWVfWUxnRUJ5b19ybWs2dXp5NFRjUmU5TVlVUHYtYm5maDRxMUlpVFc0WDhyUEJFN1M2MjJGWGY0dXk1V2RHanl3S1pWU3J0Rm5CRDdjRXVJN2c?oc=5",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-21T01:30:00+00:00",
+      "tickers": ["NVDA", "AMD"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Bitcoin sinks below $56,000 to lowest level in more than two years",
+      "summary": "Bitcoin fell as low as roughly $55,100 early Saturday on Coinbase, its weakest level since September 2024, before recovering somewhat to around $58,000. The cryptocurrency has lost more than half its value since its October 2025 record above $126,000, pressured by the tech sell-off, heavy outflows from spot Bitcoin ETFs, and expectations of higher interest rates.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3l4RFFsS191QTB1b2VicGdIRlZESmozTURmT2NKbUFiMU5qVUZIcDdFM0ctV3p6Vmgwc2JoYi16WFh2dGxkTERLTHE5aW9jcmRHaF9uVGd4QXJFcHUyVzRndVRQTmZwcFZZbV9pWlFlNGZVNVNhWWp5MmQ3ckh0ZF8wTGRxeHZ0dUs0ZDN4SktpRVBCc1JqWEZsQVVJOXgzbFdBOUx1V011TEJGNENwbDIxNA?oc=5",
+      "publisher": "Bloomberg",
+      "published": "2026-11-21T04:34:00+00:00",
+      "tickers": [],
+      "category": "Crypto",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "AI stocks suffer a brutal week as investors question valuations and spending",
+      "summary": "A broad group of AI-linked stocks sold off sharply this week, with chipmakers AMD and Nvidia both sliding more than 13%, and newly listed Anthropic falling 8.5% to give back much of its 17% debut-day gain. The retreat reflects growing investor skepticism about stretched AI valuations and capital spending plans across the sector.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmRxSU1kdTl4dm94SzFXeVY5ZnhrNGpBZEI3OHZzZHhvQzBVRUpzakQxWEgyYmJSMVJMcDZKTk5va1pzRm1OQXlLTzU3NWNEcklOcHZXOW1Gc25iUVVrVHhmRDdlTzVmMEQ0R3FWOXQ5VXU5YWdETEJvRHo1N3NGaWMyejY?oc=5",
+      "publisher": "NPR",
+      "published": "2026-11-21T10:00:00+00:00",
+      "tickers": ["NVDA", "AMD"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Gold and silver extend declines amid broad risk-off selling",
+      "summary": "Gold hit its lowest level since September 2025 and silver has lost more than 20% in November, as the market-wide sell-off spread beyond equities and crypto into precious metals. The simultaneous declines across stocks, bitcoin and gold point to broad deleveraging rather than a rotation into traditional safe havens.",
+      "url": "https://www.benzinga.com/watch/stock-market-selloff-why-stocks-bitcoin-and-gold-are-falling-together-63510918",
+      "publisher": "Benzinga",
+      "published": "2026-11-20T00:00:00+00:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Judge approves $7 billion Roundup weedkiller settlement",
+      "summary": "A judge has approved a $7 billion settlement tied to litigation over Bayer's Roundup weedkiller, resolving a major slice of the thousands of lawsuits alleging the product causes cancer. The approval removes a significant legal overhang that has weighed on the company for years.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVGtFb3BuM05pTUg5S1ZialV2cklvU0ZYRmtYbXpZaUlFckhIWVhhRWhQLVJYNjk0Qm93dVVTRXlZZnVDY1Z4MEd6eGNJazlzVllLWmNnLVV5THJ1cVppM1ViWFBQZVExNkxvNVF0VFl5Z2w1UFE1aU9nVUhpWVJfbnZNSHFtQ2tQdzQ5ajdZcFpmRS1wdWFJeUpFa3VXX1hXekRSNGJhWjVfR3kyUHYtNVNxbGUzZV9JU2NsbU9zRHg?oc=5",
+      "publisher": "The New York Times",
+      "published": "2026-11-21T03:23:00+00:00",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Nvidia faces SEC investigation after worst week in 18 years",
+      "summary": "Nvidia closed its seventh straight losing week and its worst since 2008 just as it emerged that the SEC's scrutiny has turned specifically to accounting issues. The confirmation of an active probe into the AI bellwether's books raises the stakes for the stock heading into the next earnings cycle and could prolong the sell-off in AI-related names.",
+      "url": "https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/",
+      "publisher": "The Motley Fool",
+      "published": "2026-11-21T00:00:00+00:00",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Wall Street's AI boom undergoes a rough reckoning",
+      "summary": "A week of steep losses in AI-linked megacap stocks has prompted renewed debate over whether the artificial-intelligence investment boom has outrun its fundamentals. The sell-off has spread from chipmakers to broader tech and risk assets, suggesting investors are reassessing the pace and durability of AI-driven spending.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmRxSU1kdTl4dm94SzFXeVY5ZnhrNGpBZEI3OHZzZHhvQzBVRUpzakQxWEgyYmJSMVJMcDZKTk5va1pzRm1OQXlLTzU3NWNEcklOcHZXOW1Gc25iUVVrVHhmRDdlTzVmMEQ0R3FWOXQ5VXU5YWdETEJvRHo1N3NGaWMyejY?oc=5",
+      "publisher": "NPR",
+      "published": "2026-11-21T10:00:00+00:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    }
+  ],
+  "calendar": [
+    {"when": "08:30 ET", "event": "Chicago Fed National Activity Index (Oct)", "type": "economic"},
+    {"when": "10:00 ET", "event": "Richmond Fed Manufacturing Survey (Nov) / S&P Global Flash PMIs", "type": "economic"},
+    {"when": "TBD", "event": "Fed's Williams speaks", "type": "fed"},
+    {"when": "TBD", "event": "Hewlett Packard Enterprise earnings", "type": "earnings"}
+  ]
+}

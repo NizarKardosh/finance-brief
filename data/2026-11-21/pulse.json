@@ -1,0 +1,12 @@
+{
+  "pulse": "A sharp risk-off session: the S&P 500 fell 3.70% to 6910.39, the Nasdaq 100 dropped 5.61% to 25028.98, the Dow held up relatively better at -1.93% to 48147.33, and the Russell 2000 lost 2.76% to 2581.79. Breadth was heavily negative with only 124 advancers against 376 decliners out of 503 S&P names, and the VIX spiked 26.20% to 35.89 signaling a volatility shock, while the US 10Y yield eased 1.98% to 4.95%, the Dollar (DXY) was roughly flat at -0.08% to 103.84, WTI Crude rose 1.18% to $83.41, and Gold fell 2.42% to $3538.31. Electronic Technology (-7.75%) and Consumer Durables (-6.52%) led sector losses as chipmakers were crushed, while defensive Health Services (+1.75%) and Communications (+1.40%) were the only sectors in the green. Among the most-active names, NVIDIA cratered 14.01% to $125.53 on 630.3M shares, Micron fell 13.89%, AMD dropped 13.25%, Broadcom slid 12.19%, and new-to-tape Anthropic (ANT) tumbled 8.50% to $88.91 on heavy 400.5M-share volume, while Tesla fell 7.64%; decliners list was dominated by crypto-miner/datacenter names like IREN (-17.97%) and Applied Digital (-17.81%)."
+  ,
+  "standouts": [
+    {"ticker": "NVDA", "note": "-14.01% to $125.53 on 630.31M shares, heaviest volume of the session"},
+    {"ticker": "ANT", "note": "-8.50% to $88.91 on 400.46M shares traded, premarket -7.52%"},
+    {"ticker": "MU", "note": "-13.89% to $594.51, among most-active decliners"},
+    {"ticker": "AMD", "note": "-13.25% to $424.39 on $29.82B value traded"},
+    {"ticker": "IREN", "note": "-17.97% to $11.82, top S&P loser as crypto-datacenter names got hit"},
+    {"ticker": "GAP", "note": "+11.44% to $20.94, top S&P gainer with 3.39x relative volume"}
+  ]
+}

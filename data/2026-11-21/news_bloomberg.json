@@ -1,0 +1,95 @@
+{
+  "source": "Bloomberg",
+  "fetched_at": "2026-11-21T12:30:00Z",
+  "stories": [
+    {
+      "headline": "S&P 500 and Dow close in correction territory as tech selloff deepens",
+      "summary": "Chipmakers led a plunge in US stocks on Friday, with the S&P 500 and Dow Jones Industrial Average both closing in correction territory. The Nasdaq 100 posted its worst week since 2020 as weeks of anxiety over the viability of the AI trade erupted into a full-blown, market-wide selloff.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates",
+      "publisher": "Bloomberg",
+      "published": "2026-11-19T22:03:40Z",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Nvidia plunges as SEC probe deepens AI market selloff",
+      "summary": "Nvidia shares fell sharply on Friday as news of an SEC investigation added to the broader AI-driven market rout. The stock's decline weighed heavily on chip peers and the wider Nasdaq 100 as investors reassessed AI-trade valuations.",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-20/nvidia-plunges-on-sec-probe-closing-bell-video",
+      "publisher": "Bloomberg",
+      "published": "2026-11-20T22:08:59Z",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Anthropic shares slide 8.5%, erasing much of IPO pop as AI trade unravels",
+      "summary": "Anthropic PBC shares fell 8.5% on Friday, erasing a large portion of their first-day gains since going public, as investor faith in AI valuations was tested by the broader tech selloff. CEO Dario Amodei was reported vacationing in Italy following the listing.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels",
+      "publisher": "Bloomberg",
+      "published": "2026-11-20T14:36:49Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Emerging-market stocks enter bear market on AI-led global selloff",
+      "summary": "The MSCI emerging-market stock index entered a bear market on Friday, declining for a seventh straight day in its longest losing streak since 2024, as the AI trade unwind spread beyond US tech into global equities.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/emerging-market-stocks-set-for-bear-market-on-ai-led-tech-slide",
+      "publisher": "Bloomberg",
+      "published": "2026-11-20T01:05:34Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "CrowdStrike in talks to buy cybersecurity firm Zscaler",
+      "summary": "CrowdStrike Holdings is in talks to acquire Zscaler Inc. in a deal that would combine two major cybersecurity players, according to people familiar with the matter. The potential tie-up comes amid heightened investor focus on cybersecurity and AI-driven threats.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler",
+      "publisher": "Bloomberg",
+      "published": "2026-11-20T21:05:11Z",
+      "tickers": ["CRWD", "ZS"],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "US credit-fear gauges hit 8-month high as tech angst roils markets",
+      "summary": "Measures of perceived US credit risk reached levels not seen in nearly eight months as volatility tied to the AI trade spurred a shift into safe-haven assets. The move underscores spillover from the equity selloff into credit markets.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-20/ai-credit-risk-gauges-worsen-as-tech-selloff-roils-markets",
+      "publisher": "Bloomberg",
+      "published": "2026-11-20T15:38:52Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Gold logs worst week since March on hawkish Fed and AI selloff",
+      "summary": "Gold slid for a fifth consecutive day, notching its biggest weekly decline since March, pressured by a hawkish Fed tone and the broader risk-off move tied to the AI-driven equity selloff.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff",
+      "publisher": "Bloomberg",
+      "published": "2026-11-19T23:56:03Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Taiwan widens short-sale curbs after shares plunge on AI concerns",
+      "summary": "Taiwan widened curbs on short sales of local stocks and said authorities have been buying shares, stepping up efforts to revive market confidence after a plunge tied to AI-trade concerns.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/taiwan-bans-short-sales-of-stocks-in-new-move-to-calm-markets",
+      "publisher": "Bloomberg",
+      "published": "2026-11-21T07:53:21Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    }
+  ],
+  "calendar": []
+}

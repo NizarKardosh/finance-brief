@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-21",
+  "headline_of_day": "Nvidia's SEC Probe Deepens a Market-Wide AI Reckoning",
+  "dek": "Nvidia's SEC accounting probe deepened a historic AI-stock rout, dragging the S&P 500 and Dow into correction territory and the Nasdaq to its worst week since 2020.",
+  "big_picture": "Nvidia's slide into an SEC accounting probe has become the epicenter of a market-wide reckoning with the AI trade, with the stock down 14% on Friday alone and roughly $2.7 trillion lighter since its October peak. The S&P 500 fell 3.7% to 6,910.39 and the Dow slipped into correction territory, while the Nasdaq posted its worst week since the pandemic crash of March 2020 as the VIX spiked 26% to 35.89. Selling was not confined to equities: bitcoin touched a two-year low near $55,100, gold logged its worst week since March, and emerging-market stocks fell into their own bear market. Goldman Sachs warned the damage may not be over, estimating systematic funds could still unload tens of billions more in stock even if prices simply hold steady. Away from the rout, M&A activity continued, with CrowdStrike reportedly in talks to buy Zscaler.",
+  "three_things": [
+    "Nvidia's SEC probe has erased roughly $2.7 trillion in value since October, reshuffling the AI hierarchy.",
+    "Wall Street's major indices are now in correction, with the Nasdaq suffering its worst week since 2020.",
+    "Panic signals are flashing: Goldman's selling gauge is near max and the VIX jumped 26%, suggesting the rout may not be done."
+  ],
+  "market_pulse": "A sharp risk-off session: the S&P 500 fell 3.70% to 6910.39, the Nasdaq 100 dropped 5.61% to 25028.98, the Dow held up relatively better at -1.93% to 48147.33, and the Russell 2000 lost 2.76% to 2581.79. Breadth was heavily negative with only 124 advancers against 376 decliners out of 503 S&P names, and the VIX spiked 26.20% to 35.89 signaling a volatility shock, while the US 10Y yield eased to 4.95%, the Dollar (DXY) was roughly flat at 103.84, WTI Crude rose 1.18% to $83.41, and Gold fell 2.42% to $3538.31. Electronic Technology (-7.75%) and Consumer Durables (-6.52%) led sector losses as chipmakers were crushed, while defensive Health Services (+1.75%) and Communications (+1.40%) were the only sectors in the green.",
+  "standouts": [
+    {"ticker": "NVDA", "note": "-14.01% to $125.53 on 630.3M shares, heaviest volume of the session"},
+    {"ticker": "ANT", "note": "-8.50% to $88.91 on 400.5M shares traded, premarket -7.52%"},
+    {"ticker": "MU", "note": "-13.89% to $594.51, among most-active decliners"},
+    {"ticker": "AMD", "note": "-13.25% to $424.39 on $29.82B value traded"},
+    {"ticker": "IREN", "note": "-17.97% to $11.82, top S&P loser as crypto-datacenter names got hit"},
+    {"ticker": "GAP", "note": "+11.44% to $20.94, top S&P gainer with 3.39x relative volume"}
+  ],
+  "stories": [
+    {
+      "headline": "Nvidia plunges 14% as SEC accounting probe deepens historic AI rout",
+      "summary": "Nvidia fell 14% on Friday to $125.53, wiping out nearly $900 billion in weekly market value and roughly $2.7 trillion since its October peak, the biggest 45-day loss for any stock on record. Reuters and the Wall Street Journal reported the SEC is examining Nvidia's accounting, including $104 billion in Singapore-linked revenue, a customer suspected of rerouting chips to China, and extended payment terms, while California's attorney general issued a subpoena and Treasury Secretary Bessent demanded answers within 10 days. The slide has knocked Nvidia to the fourth most valuable US company, behind Apple, Microsoft and Alphabet.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-nvidia-s-usd2-5-trillion-rout-deepens-as-sec-accounting-probe-adds-to-wall-street-s-ai-sell-off/"},
+        {"source": "Google Finance", "url": "https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/videos/2026-11-20/nvidia-plunges-on-sec-probe-closing-bell-video"}
+      ],
+      "published": "2026-11-21T00:49:00Z",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "S&P 500 and Dow enter correction as Nasdaq posts worst week since 2020",
+      "summary": "The S&P 500 fell 3.7% Friday to 6,910.39 and the Dow closed in correction territory, both down roughly 10% from October's record highs. The Nasdaq Composite dropped more than 5% to turn negative for the year, its worst week since the pandemic crash of March 2020, while the semiconductor index fell 17% on the week, its steepest drop since 2001, with Micron, Marvell and CoreWeave each down more than 20%. It was only the sixth time since World War II that the S&P 500 fell every day of a week.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQ1hBdGw1anUtLVZ1cFNyVmJmX0liYVYxcGg3WEpaOURrSlJLWHZDSzlIbjFBM3ZaTlllb29CTERST2ZDaWVfWUxnRUJ5b19ybWs2dXp5NFRjUmU5TVlVUHYtYm5maDRxMUlpVFc0WDhyUEJFN1M2MjJGWGY0dXk1V2RHanl3S1pWU3J0Rm5CRDdjRXVJN2c?oc=5"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/article/chips-are-crashing-like-its-2008-as-the-nasdaq-100-nears-a-bear-market-192805534.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-19/stock-market-today-dow-s-p-live-updates"}
+      ],
+      "published": "2026-11-21T01:30:00Z",
+      "tickers": ["NVDA", "AMD"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "AI trade's valuation reckoning spreads across chipmakers and megacaps",
+      "summary": "A broad swath of AI-linked stocks suffered a brutal week, with AMD and Nvidia both sliding more than 13% as investors questioned stretched valuations and capital-spending plans. Newly listed Anthropic gave back much of its IPO pop as part of the retreat, with commentators pointing to regulatory scrutiny, China-related export risk and momentum-driven selling as compounding factors.",
+      "sources": ["Google Finance", "Yahoo Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmRxSU1kdTl4dm94SzFXeVY5ZnhrNGpBZEI3OHZzZHhvQzBVRUpzakQxWEgyYmJSMVJMcDZKTk5va1pzRm1OQXlLTzU3NWNEcklOcHZXOW1Gc25iUVVrVHhmRDdlTzVmMEQ0R3FWOXQ5VXU5YWdETEJvRHo1N3NGaWMyejY?oc=5"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/article/7-reasons-why-tech-stocks-are-getting-hammered-again-183747857.html"}
+      ],
+      "published": "2026-11-21T10:00:00Z",
+      "tickers": ["NVDA", "AMD"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Anthropic shares slide 8.5%, erasing most of its IPO pop",
+      "summary": "Anthropic fell 8.5% Friday to $88.91 on heavy volume of over 400 million shares, giving back much of the gain from its record debut as the broader AI trade unraveled. Nvidia, Broadcom and Micron also slipped as investors repositioned around the newly public stock, with CEO Dario Amodei reported to be on vacation in Italy following the listing.",
+      "sources": ["Bloomberg", "Yahoo Finance"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-20/anthropic-share-slump-nearly-erases-ipo-pop-as-ai-trade-unravels"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/article/nvidia-broadcom-micron-stocks-decline-as-anthropic-goes-public-170845481.html"}
+      ],
+      "published": "2026-11-20T17:08:00Z",
+      "tickers": ["ANT", "NVDA", "AVGO", "MU"],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Bitcoin sinks below $56,000 to lowest level in over two years",
+      "summary": "Bitcoin dropped as low as roughly $55,100 before recovering to around $58,000, its weakest level since September 2024. The cryptocurrency has lost more than half its value since its October 2025 peak above $126,000, pressured by the tech sell-off, heavy spot-ETF outflows and expectations of higher rates.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ3l4RFFsS191QTB1b2VicGdIRlZESmozTURmT2NKbUFiMU5qVUZIcDdFM0ctV3p6Vmgwc2JoYi16WFh2dGxkTERLTHE5aW9jcmRHaF9uVGd4QXJFcHUyVzRndVRQTmZwcFZZbV9pWlFlNGZVNVNhWWp5MmQ3ckh0ZF8wTGRxeHZ0dUs0ZDN4SktpRVBCc1JqWEZsQVVJOXgzbFdBOUx1V011TEJGNENwbDIxNA?oc=5"}
+      ],
+      "published": "2026-11-21T04:34:00Z",
+      "tickers": [],
+      "category": "Crypto",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "CrowdStrike in talks to acquire Zscaler",
+      "summary": "CrowdStrike Holdings is in discussions to acquire fellow cybersecurity firm Zscaler, according to people familiar with the matter. A deal would combine two major players in the sector amid heightened investor focus on cybersecurity and AI-driven threats.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler"}
+      ],
+      "published": "2026-11-20T21:05:11Z",
+      "tickers": ["CRWD", "ZS"],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "AMD shares slide further on short-seller's export-control allegations",
+      "summary": "AMD fell 7.7% Thursday and another 6% in Friday premarket trading, a roughly $67 billion loss in market value, after Hunterbrook Media alleged that firmware used by a company tied to China's IEIT was \"virtually identical\" to firmware AMD supplied, raising concerns about possible circumvention of US export controls. AMD denied the allegations, saying it complies with applicable export-control laws and maintains rigorous compliance processes.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/article/amd-stock-gets-drilled-again-in-the-wake-of-surprise-short-seller-report-100450073.html"}
+      ],
+      "published": "2026-11-20T15:04:00Z",
+      "tickers": ["AMD"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Emerging-market stocks enter bear market as AI selloff goes global",
+      "summary": "The MSCI emerging-market index fell for a seventh straight session Friday, its longest losing streak since 2024, entering a bear market as the unwinding of the AI trade spread from US tech into global equities.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-20/emerging-market-stocks-set-for-bear-market-on-ai-led-tech-slide"}
+      ],
+      "published": "2026-11-20T01:05:34Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Goldman warns equity selloff has further to run as panic gauge nears max",
+      "summary": "Goldman Sachs said its panic index hit 9 out of 10, close to its ceiling, as systematic momentum traders sold $57 billion in equities over the past month and flipped to a $19 billion net short position in US stocks. The bank projects tens of billions more in mechanical selling depending on where markets move next, warning of a self-reinforcing downward spiral.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-says-stock-selloff-legs-212055157.html"}
+      ],
+      "published": "2026-11-19T21:20:00Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Gold and silver extend declines as risk-off selling broadens",
+      "summary": "Gold notched its biggest weekly drop since March and silver has lost more than 20% in November, as the selloff spread from stocks and crypto into precious metals. The simultaneous declines across equities, bitcoin and gold suggest broad deleveraging rather than a flight to traditional havens, with a hawkish Fed tone adding further pressure.",
+      "sources": ["Google Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://www.benzinga.com/watch/stock-market-selloff-why-stocks-bitcoin-and-gold-are-falling-together-63510918"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-19/gold-set-for-worst-week-since-march-on-hawkish-fed-ai-selloff"}
+      ],
+      "published": "2026-11-20T00:00:00Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Taiwan widens short-sale curbs to calm markets after AI-driven plunge",
+      "summary": "Taiwanese authorities widened restrictions on short sales of local stocks and said they have been buying shares directly, stepping up efforts to stabilize sentiment after a market plunge tied to global AI-trade concerns.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-21/taiwan-bans-short-sales-of-stocks-in-new-move-to-calm-markets"}
+      ],
+      "published": "2026-11-21T07:53:21Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "US credit-fear gauges hit eight-month high as tech angst spreads",
+      "summary": "Measures of perceived US credit risk climbed to their highest in nearly eight months, as volatility from the AI-driven equity selloff spilled over into credit markets and spurred a shift toward safe-haven positioning.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-20/ai-credit-risk-gauges-worsen-as-tech-selloff-roils-markets"}
+      ],
+      "published": "2026-11-20T15:38:52Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    }
+  ],
+  "watch_today": [
+    {"when": "08:30 ET", "event": "Chicago Fed National Activity Index (Oct)", "type": "economic"},
+    {"when": "10:00 ET", "event": "Richmond Fed Manufacturing Survey (Nov) / S&P Global Flash PMIs", "type": "economic"},
+    {"when": "10:00 ET", "event": "U. of Michigan Consumer Sentiment, Final (Nov)", "type": "economic"},
+    {"when": "TBD", "event": "Fed's Williams speaks", "type": "fed"},
+    {"when": "TBD", "event": "Hewlett Packard Enterprise earnings", "type": "earnings"}
+  ],
+  "desk_status": {"google": "ok", "yahoo": "ok", "bloomberg": "ok", "markets": "ok"}
+}

@@ -1,0 +1,97 @@
+{
+  "source": "Yahoo Finance",
+  "fetched_at": "2026-11-21T09:00:00-05:00",
+  "stories": [
+    {
+      "headline": "Nvidia's $2.7 trillion rout deepens as SEC reportedly probes accounting",
+      "summary": "Nvidia fell 14% on Friday, its worst day since January 2025, wiping out nearly $900 billion in market value over the week and roughly $2.7 trillion since its October peak - described as the biggest 45-day loss for any stock in history. Reuters and the Wall Street Journal reported the SEC is examining potential accounting issues and whether Nvidia's disclosures misled investors, including questions about $104 billion in Singapore-based revenue, a customer (Megaspeed) suspected of rerouting chips to China, and extended customer payment terms; California's AG also subpoenaed the company and Treasury Secretary Bessent demanded answers within 10 days. Nvidia has slipped to the fourth most valuable company behind Apple, Microsoft and Alphabet.",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-stock-extends-25-trillion-rout-as-sec-probe-reportedly-investigates-its-accounting-194945274.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-20T19:49:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Nasdaq nears bear market as chip stocks post worst week since 2001",
+      "summary": "The S&P 500 fell nearly 4% on Friday alone, losing $2.4 trillion and entering a correction (down 10% from its October record), while the Nasdaq Composite dropped over 5% and turned negative for the year. The semiconductor index fell 17% for the week and roughly a third since September 30, with Micron, Marvell and CoreWeave each dropping more than 20%; it was only the sixth time since WWII the S&P 500 fell every day in a week. The selloff came despite strong earnings from Nvidia and Anthropic's record IPO, underscoring a widening gap between AI-sector fundamentals and investor sentiment on valuations.",
+      "url": "https://finance.yahoo.com/markets/article/chips-are-crashing-like-its-2008-as-the-nasdaq-100-nears-a-bear-market-192805534.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-20T19:28:00-05:00",
+      "tickers": ["^IXIC", "^GSPC", "MU", "AVGO"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Goldman warns stock selloff has further to run as panic gauge nears max",
+      "summary": "Goldman Sachs said its panic index hit 9 out of 10, near its maximum, as systematic momentum traders (CTAs) sold $57 billion in equities over the past month and flipped net short by $19 billion on U.S. stocks. Goldman projects CTAs could sell another $65.8 billion in a flat market, or up to $80.6 billion if stocks keep falling, creating a self-reinforcing cycle of algorithmic selling. Investors had hoped Anthropic's IPO would spark a relief rally, but renewed worries about AI infrastructure spending and stretched valuations triggered broader panic instead.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-says-stock-selloff-legs-212055157.html",
+      "publisher": "Bloomberg",
+      "published": "2026-11-19T16:20:00-05:00",
+      "tickers": ["ANT"],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "AMD shares slide further after short-seller report alleges China export-control breaches",
+      "summary": "AMD fell 7.7% on Thursday and another 6% in Friday premarket trading - a roughly $67 billion market-value loss - after Hunterbrook Media published a report alleging firmware used by companies tied to China's IEIT was 'virtually identical' to firmware AMD supplied to IEIT, suggesting possible circumvention of US export controls. AMD denied the allegations, saying it complies with applicable export control laws and maintains rigorous compliance processes. The report added to broader market worries that China-related compliance risk is spreading across the AI trade just as the sector faces a sharp pullback.",
+      "url": "https://finance.yahoo.com/markets/stocks/article/amd-stock-gets-drilled-again-in-the-wake-of-surprise-short-seller-report-100450073.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-20T10:04:00-05:00",
+      "tickers": ["AMD"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Nvidia, Broadcom and Micron fall as Anthropic goes public",
+      "summary": "Major AI chip stocks declined as investors rotated into newly public Anthropic (ANT), with Nvidia, Broadcom and Micron all trading lower. The move reflects a broader reshuffling of AI-trade positioning as the long-anticipated IPO priced, even as the sector overall sold off sharply.",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-broadcom-micron-stocks-decline-as-anthropic-goes-public-170845481.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-20T12:08:00-05:00",
+      "tickers": ["NVDA", "AVGO", "MU", "ANT"],
+      "category": "Tech",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Nasdaq posts sixth correction in four years",
+      "summary": "The tech-heavy Nasdaq Composite closed down more than 10% from its recent peak, marking its sixth correction since 2022 as the AI-driven rally unwinds. The repeated boom-bust pattern highlights how volatile the tech sector has been through the current cycle, even as underlying AI spending has continued.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-just-had-6th-correction-201702945.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-20T15:17:00-05:00",
+      "tickers": ["^IXIC"],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Seven reasons tech stocks are getting hammered again",
+      "summary": "Yahoo Finance outlines the drivers behind the renewed tech selloff, including AI valuation concerns, regulatory scrutiny of major chipmakers, China export-control worries, and systematic/momentum-driven selling, calling the current slide a return of an 'ugly' sell-off after a brief reprieve.",
+      "url": "https://finance.yahoo.com/markets/article/7-reasons-why-tech-stocks-are-getting-hammered-again-183747857.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-20T13:37:00-05:00",
+      "tickers": ["ANT"],
+      "category": "Tech",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang's next move draws prediction-market bets on a surprise venture",
+      "summary": "As Nvidia stock slides amid the SEC-probe fallout, prediction markets are weighing bettors' views on Jensen Huang's future, with wagers favoring a surprise new venture over speculated moves to Intel or SpaceX. The story underscores how far sentiment around Nvidia leadership has shifted amid the stock's historic drawdown.",
+      "url": "https://finance.yahoo.com/markets/article/jensen-huangs-next-move-wall-street-floats-intel-and-spacex-but-bettors-are-banking-on-a-surprise-second-act-123015670.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-21T08:21:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 2,
+      "sentiment": "neutral"
+    }
+  ],
+  "calendar": [
+    {"when": "10:00 ET", "event": "U. of Michigan Consumer Sentiment, Final (Nov)", "type": "economic"}
+  ]
+}
