@@ -1,0 +1,189 @@
+{
+  "date": "2026-11-22",
+  "headline_of_day": "AI Selloff Drags Wall Street Into Correction",
+  "dek": "Nvidia's worst week since 2008 and spreading AI-spending doubts pushed the S&P 500 and Dow into correction territory.",
+  "big_picture": "Wall Street closed its worst week since 2020, with the S&P 500 down 3.70% to 6,910.39 and the Nasdaq off 5.28% on Friday, pushing both indices into correction territory as doubts deepen over AI-infrastructure spending. Nvidia bore the brunt, plunging 14% on the day and 47.5% from its October peak in its worst week since the 2008 financial crisis, a slide compounded by an expanding California probe into alleged illegal chip sales to China. The volatility spread globally: China cut margin requirements and South Korea activated a stabilization fund to calm Asian markets, while roughly $1.7 trillion in Chinese AI-stock gains unwound. Anthropic's record $81 billion IPO briefly cut against the gloom before shares slid on their second day, and the VIX spiked 26% to 35.89 as Goldman Sachs warned the selloff has further to run. Bitcoin and gold also retreated as investors scrambled for cash, even as data cited by Bloomberg Economics showed US consumers still spending heading into the holidays.",
+  "three_things": [
+    "Nvidia's worst week since 2008 erased its market-cap lead over Alphabet.",
+    "China, South Korea and Taiwan intervened to halt an AI-driven Asian stock slide.",
+    "Anthropic's record $81bn IPO couldn't escape the broader AI selloff."
+  ],
+  "market_pulse": "A sharp risk-off session: the S&P 500 fell 3.70% to 6,910.39, the Nasdaq 100 dropped 5.61% to 25,028.98, the Dow fell 1.93% to 48,147.33, and the Russell 2000 slid 2.76%, with breadth decisively negative at 124 advancers vs. 376 decliners of 503 names. Electronic Technology was the weakest sector (-7.75%), while Health Services, Communications and Consumer Non-Durables were the only sectors in the green. The VIX spiked 26.2% to 35.89, the 10-year yield eased to 4.95%, gold fell 2.42% to $3,538.31, and Bitcoin held up relatively well, up 0.71% to $60,507.63.",
+  "standouts": [
+    {"ticker": "NVDA", "note": "-14.01% to $125.53 on 630.3M shares, the heaviest volume on the tape"},
+    {"ticker": "MU", "note": "-13.89% to $594.51 amid a broad chip selloff"},
+    {"ticker": "AMD", "note": "-13.25% to $424.39 on 70.3M shares"},
+    {"ticker": "ANT", "note": "-8.50% to $88.91 in its second day of trading, on 400.5M shares"},
+    {"ticker": "IREN", "note": "-17.97% to $11.82, the day's biggest loser"},
+    {"ticker": "GAP", "note": "+11.44% to $20.94, the day's top gainer"}
+  ],
+  "stories": [
+    {
+      "headline": "S&P 500 and Dow enter correction as Nasdaq posts worst week since 2020",
+      "summary": "The S&P 500 fell 3.70% to 6,910.39 and the Dow dropped 1.93% to 48,147.33 on Friday, both closing more than 10% below their highs and officially in correction territory. The Nasdaq Composite slid 5.28% to 22,617.73, erasing its 2026 gains in its worst week since 2020, while the S&P logged a seventh straight losing session, the longest skid since February 2020. Doubts over the sustainability of AI infrastructure spending are driving the rout.",
+      "sources": ["Google Finance", "Yahoo Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://journalarta.com/en/2026/11/21/stock-market-today-nasdaq-plunges-5-28-and-sp-500-drops-3-7-in-tech-rout/"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-enter-correction-territory-driven-210818388.html"}
+      ],
+      "published": "2026-11-21T21:00:00-05:00",
+      "tickers": ["SPY", "DIA", "QQQ"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Nvidia posts worst week since 2008, falls behind Alphabet in market value",
+      "summary": "Nvidia shares fell 14% on Friday and roughly 23% for the week, its worst weekly performance since October 2008, leaving the stock about 47.5% below its October 6 record high of $239.24. The rout pushed the chipmaker's market capitalization behind Alphabet's and dragged AI-linked names including AMD (-20.5% weekly) and Oracle (-70% from peak) lower alongside it. Investors are increasingly questioning whether massive AI capital spending will generate adequate returns.",
+      "sources": ["Google Finance", "Yahoo Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://aistockwire.com/blog/ai-stock-selloff-timeline-nvidia-nvda-huang-midterms-november-2026"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/crypto/articles/nvidia-falls-48-peak-ai-225000738.html"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-falls-behind-alphabet-loses-155123392.html"}
+      ],
+      "published": "2026-11-21T14:50:00-08:00",
+      "tickers": ["NVDA", "AMD", "ORCL", "GOOGL"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "China eases margin rules as South Korea, Taiwan intervene to stem Asia stock slide",
+      "summary": "China cut its margin requirement to 80% to boost stock-market liquidity, while South Korea held an emergency meeting and activated a stock stabilization fund, and Taiwan rolled out its own intervention measures. The coordinated response follows a week of heavy losses across Asian equities tied to AI-stock weakness spilling over from Wall Street.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-22/s-korea-rolls-out-phased-measures-to-stabilize-volatile-markets"}
+      ],
+      "published": "2026-11-22T11:06:19Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Anthropic's record $81bn IPO stumbles into a second-day slide",
+      "summary": "Anthropic priced 980 million shares at $83 to raise about $81 billion in the largest IPO on record, with shares popping as much as 34% intraday before closing 17% above offer on debut day under ticker ANT. The stock fell roughly 9-10% on its second trading day as the broader AI-linked selloff intensified, while bankers questioned the deal's unusual structure even as employees holding equity became paper millionaires.",
+      "sources": ["Google Finance", "Yahoo Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://www.nbcnews.com/business/markets/live-blog/anthropic-ipo-live-updates-rcna610159"},
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5"},
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16bUU5S2ZDSlZ3aGZMNFFjajdWQlpJUWNNbFNDVkpzX3lrR3k1azQybWVNVTZnTlplVU9xTXlrTTR1bFlYOFhQbjhhNUpFSmNhdXUwa2NGaHdoZDFRRC1STmJUeWx0SkpmamkxN21iX1UwZHNVRUZtUFBXeno?oc=5"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-anthropic-mega-141513005.html"}
+      ],
+      "published": "2026-11-22T11:10:45Z",
+      "tickers": ["ANT", "NVDA"],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Goldman Sachs warns selloff has further to fall as VIX spikes to 35.89",
+      "summary": "Goldman Sachs flagged that the market downturn may not be over, with the VIX volatility index jumping 26.2% on the week to close at 35.89, levels last seen during prior sharp corrections. The warning underscores investor anxiety that further downside remains as AI-spending concerns continue to weigh on equities.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-says-stock-selloff-legs-212055157.html"}
+      ],
+      "published": "2026-11-20T21:20:55-05:00",
+      "tickers": ["^VIX"],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "S&P 500 slides below every Wall Street year-end 2026 target",
+      "summary": "The S&P 500's selloff has pushed the index below all twenty year-end 2026 price targets set by major Wall Street strategists last December. The breach underscores how sharply sentiment has reversed amid the AI-driven market rout.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://247wallst.com/investing/2026/11/21/the-sp-500-is-now-below-every-wall-street-year-end-target-for-2026/"}
+      ],
+      "published": "2026-11-21T00:00:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "China's $1.7 trillion AI stock rally unwinds into a losing trade",
+      "summary": "Chinese AI stocks that had rallied as the country's tech firms pursued parity with the US have reversed sharply, erasing roughly $1.7 trillion in value. What had been one of the hottest trades of the year has turned into a loser for investors caught in the broader AI selloff.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet"}
+      ],
+      "published": "2026-11-22T00:00:00Z",
+      "tickers": [],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Goldman Sachs and Apollo price $32bn of SpaceX bonds to fund AI chip purchases",
+      "summary": "Goldman Sachs and Apollo priced $32 billion in bonds tied to SpaceX, structured to help the company fund AI chip purchases without straining its balance sheet. The deal is being positioned as a template for financing the broader AI buildout through debt markets even as equity investors sour on AI spending.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly"}
+      ],
+      "published": "2026-11-21T15:31:22Z",
+      "tickers": ["GS", "NVDA"],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "California's Nvidia probe expands to cover potential criminal violations",
+      "summary": "California's investigation into whether Nvidia illegally sold advanced chips to China and misled investors now also examines potential criminal violations of state law. The expanded probe raises the legal stakes for the chipmaker as it weathers its worst stock slide since 2008.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations"}
+      ],
+      "published": "2026-11-21T17:11:23Z",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Bitcoin slumps toward 'extreme fear' as crypto market value halves from peak",
+      "summary": "Bitcoin ended the week near $58,895, down 9.8% and more than 50% below its 2025 high, pulling the total crypto market down to about $2.01 trillion, roughly half its peak value. The Crypto Fear and Greed Index fell to 9, denoting 'extreme fear,' as US spot Bitcoin ETFs saw $582.2 million in net outflows on Thursday alone.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/crypto/articles/nvidia-falls-48-peak-ai-225000738.html"}
+      ],
+      "published": "2026-11-21T14:50:00-08:00",
+      "tickers": ["BTC-USD"],
+      "category": "Crypto",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Short squeezes give way to meltdown in a volatile week for metals",
+      "summary": "Copper and broader metals markets swung from short squeezes early in the week to a sharp selloff by Friday. Sentiment at Shanghai industry gatherings turned bearish on the demand outlook, with traders weighing fresh short positions into next week.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-22/from-squeezes-to-meltdown-a-week-of-mayhem-rocks-metals-markets"}
+      ],
+      "published": "2026-11-22T11:00:00Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "US consumers keep spending into the holidays despite inflation worries",
+      "summary": "Anxiety about inflation has not yet curbed US consumer spending as the holiday shopping season approaches, according to Bloomberg Economics. The resilience offers a rare bright spot for household demand even as equity markets sell off sharply.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-21/us-consumers-are-holding-up-against-inflation-going-into-holiday-season"}
+      ],
+      "published": "2026-11-21T21:00:00Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 3,
+      "sentiment": "neutral"
+    }
+  ],
+  "watch_today": [
+    {"when": "10:00 ET (Nov 20)", "event": "University of Michigan Consumer Sentiment, Final (Nov): 51.5 actual vs 51 prior", "type": "economic"}
+  ],
+  "desk_status": {"google": "ok", "yahoo": "ok", "bloomberg": "ok", "markets": "ok"}
+}

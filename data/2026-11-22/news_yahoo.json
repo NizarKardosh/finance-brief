@@ -1,0 +1,97 @@
+{
+  "source": "Yahoo Finance",
+  "fetched_at": "2026-11-22T09:00:00-05:00",
+  "stories": [
+    {
+      "headline": "S&P 500 and Dow enter correction territory as Nasdaq posts worst week since 2020",
+      "summary": "The S&P 500 fell 3.70% to 6,910.39 and the Dow dropped 1.93% to 48,147.33 on Friday, both crossing the 10%-from-peak threshold that defines a correction. The Nasdaq Composite tumbled 5.28% to 22,617.73, its second-worst day of 2026 and worst week since 2020, erasing all of its yearly gains as the S&P logged its seventh straight losing day, the longest such streak since February 2020.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-enter-correction-territory-driven-210818388.html",
+      "publisher": "CBS News",
+      "published": "2026-11-20T18:25:00-08:00",
+      "tickers": ["SPY", "DIA", "QQQ"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Nvidia plunges 14%, down 47.5% from October peak, as AI trade selloff deepens",
+      "summary": "Nvidia closed Friday at $125.53, down 14% on the day and 47.5% below its October record high of $239.24, after seven straight sessions of losses. The decline dragged other chip and AI infrastructure names lower, with CoreWeave down nearly 80% from its 2025 peak, Oracle off about 70%, and AMD down 20.5%, as investors questioned whether massive AI capital spending will generate adequate returns.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/nvidia-falls-48-peak-ai-225000738.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-21T14:50:00-08:00",
+      "tickers": ["NVDA", "AMD", "ORCL"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Anthropic shares slide for second day after record $81 billion IPO",
+      "summary": "Anthropic (ANT), which priced the largest IPO on record and raised $81 billion, closed its debut day 17% above its $83 offering price before falling roughly 9-10% on its second trading day as the broader tech selloff intensified. Analyst Dan Ives argued the strong IPO demand shows underlying appetite for AI remains intact despite the panic, but the stock's reversal has become a flashpoint for concerns about AI valuations.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-anthropic-mega-141513005.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-20T06:15:00-08:00",
+      "tickers": ["ANT", "NVDA"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Bitcoin and crypto market slump as 'extreme fear' grips investors",
+      "summary": "Bitcoin ended the week near $58,895, down 9.8% for the week and more than 50% below its 2025 high, dragging total crypto market value down to about $2.01 trillion, roughly half its peak. The Crypto Fear and Greed Index fell to 9 ('extreme fear'), and U.S. spot Bitcoin ETFs saw $582.2 million in net outflows on Thursday alone as the AI-driven selloff spread into digital assets.",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/nvidia-falls-48-peak-ai-225000738.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-21T14:50:00-08:00",
+      "tickers": ["BTC-USD"],
+      "category": "Crypto",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Goldman Sachs warns stock selloff has further room to run",
+      "summary": "Goldman Sachs research flagged that the current market downturn may not be over, noting the VIX volatility index is approaching elevated 'panic' levels last seen in prior sharp corrections. The VIX closed the week at 35.89, up 26.2%, underscoring investor anxiety about further downside in equities tied to AI spending concerns.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-says-stock-selloff-legs-212055157.html",
+      "publisher": "Bloomberg",
+      "published": "2026-11-20T21:20:55-05:00",
+      "tickers": ["^VIX"],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Nvidia falls behind Alphabet in market capitalization after $2.3 trillion value wipeout",
+      "summary": "Nvidia's market value has fallen enough that the chipmaker has slipped behind Alphabet in market capitalization, having shed roughly $2.3 trillion in value since its October peak. The reversal highlights a broader reassessment of AI-sector leadership as megacap tech valuations compress amid the selloff.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-falls-behind-alphabet-loses-155123392.html",
+      "publisher": "Stocktwits",
+      "published": "2026-11-21T00:00:00-05:00",
+      "tickers": ["NVDA", "GOOGL"],
+      "category": "Tech",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Gold and silver tumble as investors scramble for cash; Goldman sees more pain",
+      "summary": "Gold futures fell 4.62% as investors liquidated holdings across asset classes to raise cash amid the broader market rout, with Goldman Sachs warning of further downside. Bitcoin notably bucked the metals selloff with a modest intraday gain even as the broader crypto market remained under pressure for the week.",
+      "url": "https://finance.yahoo.com/",
+      "publisher": "Stocktwits",
+      "published": "2026-11-21T00:00:00-05:00",
+      "tickers": ["GC=F", "SI=F"],
+      "category": "Markets",
+      "importance": 2,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Mortgage rates surge, pushing homeownership further out of reach",
+      "summary": "Rising mortgage rates are squeezing housing affordability further, with the Financial Times reporting that the climb in borrowing costs is pricing more prospective buyers out of the market. The pressure compounds concerns about consumer spending power as broader financial conditions tighten amid the equity selloff.",
+      "url": "https://finance.yahoo.com/",
+      "publisher": "Financial Times",
+      "published": "2026-11-21T00:00:00-05:00",
+      "tickers": [],
+      "category": "Consumer",
+      "importance": 2,
+      "sentiment": "bearish"
+    }
+  ],
+  "calendar": [
+    {"when": "10:00 ET (Nov 20)", "event": "University of Michigan Consumer Sentiment, Final (Nov): 51.5 actual vs 51 prior", "type": "economic"}
+  ]
+}

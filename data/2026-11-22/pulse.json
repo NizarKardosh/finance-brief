@@ -1,0 +1,11 @@
+{
+  "pulse": "A sharp risk-off session: the S&P 500 fell 3.70% to 6910.39, the Nasdaq 100 dropped 5.61% to 25028.98, the Dow was the relative laggard-to-the-downside at -1.93% (48147.33), and the Russell 2000 slid 2.76% to 2581.79, with breadth decisively negative at 124 advancers vs. 376 decliners of 503 names. Electronic Technology was by far the weakest sector (-7.75%, zero advancers), dragged down by chip and hardware names, with Consumer Durables (-6.52%) and Producer Manufacturing (-5.40%) also hit hard, while Health Services (+1.75%), Communications (+1.40%) and Consumer Non-Durables (+0.42%) were the only sectors in the green. The VIX spiked 26.20% to 35.89 signaling a volatility shock, the 10-year yield eased 1.98% to 4.95%, the dollar (DXY) was roughly flat at 103.84 (-0.08%), WTI crude rose 1.18% to $83.41, gold fell 2.42% to $3538.31, and Bitcoin held up relatively well at $60507.63 (+0.71%). Among the most active names, NVIDIA led the heavy-volume selling at -14.01% (630.3M shares) on top of Micron's -13.89% and AMD's -13.25%, while Anthropic (ANT) was also a volume leader at -8.50%; decliners such as IREN (-17.97%), APLD (-17.81%) and HUT (-17.65%) topped the losers list, in contrast to standout gainers Gap (+11.44%) and Global Payments (+9.95%).",
+  "standouts": [
+    {"ticker": "NVDA", "note": "-14.01% to $125.53 on 630.31M shares, top of the most-active list"},
+    {"ticker": "MU", "note": "-13.89% to $594.51 on 59.42M shares amid a broad chip selloff"},
+    {"ticker": "AMD", "note": "-13.25% to $424.39 on 70.26M shares"},
+    {"ticker": "ANT", "note": "-8.50% to $88.91 on 400.46M shares, second-heaviest most-active volume"},
+    {"ticker": "IREN", "note": "-17.97% to $11.82, the day's biggest loser"},
+    {"ticker": "GAP", "note": "+11.44% to $20.94, the day's top gainer"}
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "source": "Bloomberg",
+  "fetched_at": "2026-11-22T12:30:00Z",
+  "stories": [
+    {
+      "headline": "Asian governments move to stem stock slide after Wall Street plunge",
+      "summary": "China eased margin requirements to 80% to boost stock liquidity, while Taiwan and South Korea rolled out intervention measures including activation of a stock stabilization fund, after a sharp Wall Street selloff rattled global markets. The coordinated response follows a week of heavy losses in Asian equities tied to AI-stock weakness.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-lowers-margin-requirement-to-80-to-boost-stock-liquidity",
+      "published": "2026-11-22T11:06:19Z",
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "South Korea unveils phased market stabilization measures",
+      "summary": "South Korean financial officials held an emergency meeting and announced staged measures, including activation of a stock stabilization fund, to calm volatile markets amid the broader Asia selloff.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/s-korea-rolls-out-phased-measures-to-stabilize-volatile-markets",
+      "published": "2026-11-22T10:16:45Z",
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "China's $1.7 trillion AI stock rally turns into a losing trade",
+      "summary": "Chinese AI stocks that rallied as the nation's tech firms pursued parity with the US have reversed sharply, erasing roughly $1.7 trillion in value and turning what had been a hot trade into a loser for investors.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/china-s-1-7-trillion-ai-rout-turns-hot-trade-into-losing-bet",
+      "published": "2026-11-22T00:00:00Z",
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Metals markets rocked by a week of short squeezes and meltdown",
+      "summary": "Copper and broader metals markets saw a volatile week featuring short squeezes followed by a sharp selloff. Sentiment at Shanghai industry gatherings turned bearish on the demand outlook, with traders weighing fresh short positions.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/from-squeezes-to-meltdown-a-week-of-mayhem-rocks-metals-markets",
+      "published": "2026-11-22T11:00:00Z",
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Goldman Sachs, Apollo price $32 billion in SpaceX bonds to fund AI chip purchases",
+      "summary": "Goldman Sachs and Apollo priced $32 billion of bonds tied to SpaceX, structured to help finance the company's purchases of AI chips without straining its balance sheet. The deal is being framed as a template for financing the broader AI buildout via debt markets.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/goldman-s-spacex-pitch-helps-solve-ai-debt-puzzle-credit-weekly",
+      "published": "2026-11-21T15:31:22Z",
+      "tickers": ["GS", "NVDA"],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "California Nvidia probe expands to cover potential criminal violations",
+      "summary": "California's investigation into whether Nvidia illegally sold advanced chips to China and misled investors is now also examining potential criminal violations of state law, raising the legal stakes for the chipmaker.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/california-nvidia-probe-covers-potential-criminal-law-violations",
+      "published": "2026-11-21T17:11:23Z",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "CrowdStrike-Zscaler talks highlight AI-driven cybersecurity consolidation",
+      "summary": "Reported talks between CrowdStrike and Zscaler point to a wave of multibillion-dollar takeovers reshaping cybersecurity, as the largest firms race to bolster defenses against increasingly sophisticated AI-powered attacks.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/crowdstrike-s-talks-with-zscaler-show-ai-led-cyber-consolidation",
+      "published": "2026-11-21T19:02:24Z",
+      "tickers": ["CRWD", "ZS"],
+      "category": "Deals",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "US consumers keep spending heading into holiday season despite inflation worries",
+      "summary": "Anxiety about inflation has not yet curbed US consumer spending as the holiday shopping season approaches, according to Bloomberg Economics, a signal that household demand remains resilient despite price pressures.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-21/us-consumers-are-holding-up-against-inflation-going-into-holiday-season",
+      "published": "2026-11-21T21:00:00Z",
+      "category": "Macro",
+      "importance": 3,
+      "sentiment": "neutral"
+    }
+  ],
+  "calendar": []
+}

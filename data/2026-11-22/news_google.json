@@ -1,0 +1,95 @@
+{
+  "source": "Google Finance",
+  "fetched_at": "2026-11-22T12:00:00Z",
+  "stories": [
+    {
+      "headline": "Wall Street posts worst week since 2020 as AI-led selloff deepens",
+      "summary": "The S&P 500 fell 3.70% on Friday to 6,910.42, capping a weekly decline of 6.82% (down from 7,416.59 the prior week). The Dow dropped 1.93% to 48,147.33 and the Nasdaq Composite plunged 5.28% to 22,617.73 for the week, pushing the Nasdaq negative for 2026 as doubts mount over AI spending sustainability and semiconductor valuations.",
+      "url": "https://journalarta.com/en/2026/11/21/stock-market-today-nasdaq-plunges-5-28-and-sp-500-drops-3-7-in-tech-rout/",
+      "publisher": "JournalArta",
+      "published": "2026-11-21T21:00:00-05:00",
+      "tickers": ["NVDA", "UNH", "HD", "MCD"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Nvidia shares post worst week since 2008 financial crisis amid AI spending doubts",
+      "summary": "Nvidia stock fell roughly 14% on Friday and about 23% for the week, its worst weekly performance since October 2008, leaving shares down roughly 47.5% from their October 6 high. The decline reflects intensifying investor concern about the sustainability of AI infrastructure spending and broader chip-sector weakness.",
+      "url": "https://aistockwire.com/blog/ai-stock-selloff-timeline-nvidia-nvda-huang-midterms-november-2026",
+      "publisher": "AI Stock Wire",
+      "published": "2026-11-21T16:00:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Every Wall Street firm's 2026 S&P 500 target now out of reach after selloff",
+      "summary": "The S&P 500's slide has pushed the index below all twenty year-end 2026 targets set by major Wall Street firms last December, underscoring how sharply sentiment has turned amid the AI-driven market rout.",
+      "url": "https://247wallst.com/investing/2026/11/21/the-sp-500-is-now-below-every-wall-street-year-end-target-for-2026/",
+      "publisher": "24/7 Wall St.",
+      "published": "2026-11-21T00:00:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Anthropic's record-setting IPO fails to halt broader market slide",
+      "summary": "Anthropic priced 980 million Class A shares at $83 on November 18 and began trading on Nasdaq under ticker ANT, opening at $111.50 before closing around $97 after popping as much as 34% intraday. The roughly $81 billion raise ranks among the largest IPOs in history, but the debut could not offset a broader AI-linked selloff that dragged down Nvidia and other chip and cloud names the same week.",
+      "url": "https://www.nbcnews.com/business/markets/live-blog/anthropic-ipo-live-updates-rcna610159",
+      "publisher": "NBC News",
+      "published": "2026-11-20T00:00:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Anthropic's IPO process draws criticism from bankers over structure",
+      "summary": "Reuters reports that the unusual process behind Anthropic's IPO has drawn criticism from bankers, as the AI company's record-breaking Nasdaq debut coincided with a roughly $4 trillion decline in AI-related market value across the sector.",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1RsTFBlMWZGejNqWjVvdVlYX2lRTGpZZXhoYXFXN2RuV3lHZ09ra0ctdnZqc3hiVENXSlc2ZTBIbDRyTmpTS1Nhdk1kdU5HLW5FNGdNRTNoeXVBeEc5cDl5VGx3c3dUSzNDYkVVTHVfenVQbHFUQ0hQS2NfalhuNDczWFdUS0FWQS1iZ1ZhVnNYMy1FOHVSUmlBMmI3NTdVTGY1X0JxTFRmYnptV3huQQ?oc=5",
+      "publisher": "Reuters",
+      "published": "2026-11-22T11:10:45Z",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Anthropic IPO mints paper millionaires among employees",
+      "summary": "CNN reports that Anthropic employees holding equity became millionaires on paper following the company's blockbuster Nasdaq debut, even as the stock pulled back from its first-day highs amid the broader AI market downturn.",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE16bUU5S2ZDSlZ3aGZMNFFjajdWQlpJUWNNbFNDVkpzX3lrR3k1azQybWVNVTZnTlplVU9xTXlrTTR1bFlYOFhQbjhhNUpFSmNhdXUwa2NGaHdoZDFRRC1STmJUeWx0SkpmamkxN21iX1UwZHNVRUZtUFBXeno?oc=5",
+      "publisher": "CNN",
+      "published": "2026-11-21T00:00:00Z",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 2,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "AI and tech sector face severe market turmoil heading into the weekend",
+      "summary": "Business Insider reports the tech and AI sector endured severe turmoil as the market rout intensified, with chip curbs, rate fears, and valuation concerns weighing on oil, gold, and crypto prices alongside equities.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYWh6YUdkVkxHaVNudVdOOWlBM2ZjY3lMTS1rNEhfeVFETnRNVjBlMUt0ODVzRE1HQUxUdU85MXhJdWVfTnUtUnV1YS1mQjZ3QnNPc3RmZzk3RlNKRjNDdVByMUgwcEI1TFY1WUk4cVlXVWlwOE5WMWZSUUc1Q3FnMjVNRUNZMUVjRE5FMmZtbng1ekVZ",
+      "publisher": "Business Insider",
+      "published": "2026-11-21T17:23:00Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Nasdaq's 5.2% drop deepens AI stock selloff tied to Nvidia and Anthropic volatility",
+      "summary": "The Nasdaq fell 5.2% as the AI stock selloff deepened, with Nvidia's sharp decline and the volatile aftermath of Anthropic's IPO debut cited as key drags on sentiment across AI-linked equities.",
+      "url": "https://journalarta.com/en/2026/11/22/nasdaq-falls-ai-stock-selloff-nvidia-anthropic/",
+      "publisher": "JournalArta",
+      "published": "2026-11-22T00:00:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    }
+  ],
+  "calendar": []
+}
