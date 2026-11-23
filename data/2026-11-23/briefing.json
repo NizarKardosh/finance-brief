@@ -1,0 +1,191 @@
+{
+  "date": "2026-11-23",
+  "headline_of_day": "Huang's Return as Nvidia CEO Ignites a Historic Market Rally",
+  "dek": "Nvidia surged 30% and the Nasdaq jumped 6% as Jensen Huang's reinstatement reversed last week's AI-led selloff.",
+  "big_picture": "Nvidia's board reinstated Jensen Huang as chief executive on Monday, less than two weeks after his ouster amid a personal-conduct investigation, after receiving input from senior US officials who found no national security concern; shares surged roughly 29-30%. The reinstatement, which President Trump had publicly urged, triggered a broad risk-on rally that reversed much of last week's AI-driven rout: the Nasdaq 100 gained 6.1%, the S&P 500 rose 4.3% and the Dow added 2.5%, with breadth strongly positive at 408 advancers against 93 decliners. Electronic Technology (+10.6%) and Consumer Durables (+10.0%) led sector gains as chip names roared back, while the VIX plunged 21% to 28.45 and gold still rose 3.7% to $3,668.81 on residual caution. Elsewhere, CrowdStrike agreed to buy Zscaler for $43.9bn and Amazon struck a roughly $7.5bn deal for AI startup Decart's technology, even as strategists stayed split: JPMorgan's trading desk abandoned its bullish call while Morgan Stanley's Mike Wilson called the pullback a buying opportunity. Not everyone is convinced the turbulence is over — Ed Yardeni cut his S&P 500 year-end target to 7,500, and Asian regulators moved to shore up their own markets against the AI-linked volatility.",
+  "three_things": [
+    "Nvidia's Huang is back, and so is risk appetite",
+    "Nasdaq's 6% surge is the flip side of last week's worst selloff since 2020",
+    "CrowdStrike's $43.9bn bid for Zscaler shows cybersecurity consolidation isn't slowing down"
+  ],
+  "market_pulse": "A broad risk-on rally lifted US equities, with the Nasdaq 100 up 6.10%, the S&P 500 up 4.27%, the Dow up 2.49%, and the Russell 2000 up 2.79%; breadth was strongly positive at 408 advancers versus 93 decliners out of 503 S&P names. Electronic Technology (+10.60%) and Consumer Durables (+10.02%) led sectors on the back of a chip-stock surge, while Producer Manufacturing (+6.82%) also outperformed; Health Services (-1.73%) and Energy Minerals (-0.65%) lagged as the only meaningfully negative groups. The VIX plunged 20.73% to 28.45 as fear unwound, the 10Y yield slipped to 4.948%, the dollar (DXY) rose to 104.20, WTI crude fell to $81.87, gold jumped 3.69% to $3,668.81, and bitcoin gained 2.99% to $63,008.32.",
+  "standouts": [
+    {"ticker": "NVDA", "note": "+29.29% to $162.30 on 200.0M shares, top of most-active and gainers list"},
+    {"ticker": "SNDK", "note": "+17.85% to $93.39 on heavy volume of 31.7M shares"},
+    {"ticker": "MU", "note": "+14.25% to $679.24 on volume of 10.3M shares"},
+    {"ticker": "TSLA", "note": "+11.56% to $385.80, led the Consumer Durables sector's +10.02% move"},
+    {"ticker": "AMD", "note": "+6.57% to $452.26 on volume of 9.0M shares among most-active names"},
+    {"ticker": "CRWD", "note": "-8.80% to $209.26, second-biggest loser despite the broad market rally"}
+  ],
+  "stories": [
+    {
+      "headline": "Nvidia reinstates Jensen Huang as CEO after US government review; shares surge 30%",
+      "summary": "Nvidia's board voted to reinstate Jensen Huang as chief executive, less than two weeks after his ouster amid a probe into his personal conduct, saying it acted after input from senior US officials who found no national security concern. President Trump had publicly urged Huang's return days earlier. Nvidia shares jumped roughly 29-30% on the news, lifting AMD, Broadcom, TSMC and ASML alongside cloud providers CoreWeave and Nebius.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/article/nvidia-soars-25-as-board-reinstates-jensen-huang-as-ceo-chip-stocks-jump-142353537.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-reinstates-jensen-huang-as-ceo-with-government-input"}
+      ],
+      "published": "2026-11-23T14:08:01Z",
+      "tickers": ["NVDA", "AMD", "AVGO", "TSM", "ASML"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "US stocks post sharpest rally in years as Huang's return reverses AI-led rout",
+      "summary": "US equities staged their sharpest rally in years Monday, with the Nasdaq 100 up roughly 6.1-6.8% and the S&P 500 up about 4.3-4.7%, after Nvidia's board reinstated Jensen Huang as chief executive. The rebound followed the Nasdaq's worst weekly decline since the March 2020 pandemic selloff, which had pushed the S&P 500 into correction territory. Traders cautioned that volatility could persist even as chip and AI-infrastructure names led the bounce.",
+      "sources": ["Yahoo Finance", "Bloomberg", "Google Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout"},
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeURSVWpyQXZjLW5UcndZVDJPQnE0NDU2UllUMUI5S29qcFJlWDg1empEbThycVphd2p3dmxJTUJJckZVQXBhaGlmT0JaNkh3SFZHRG5HNHl5ckpheVAzU3JHQldJVGQ2cl9RVWw4Wk96RXNiN0d1dW5iQ1RETTMxRnJVS2tnNFRwOVJkdjhxRHd5ZmJRNkoxaEtUcGNiSmdXRWxtYjRrM2RVcVREUXJneFZMcw?oc=5"}
+      ],
+      "published": "2026-11-22T23:04:42Z",
+      "tickers": ["^GSPC", "^IXIC", "^DJI", "NVDA"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "CrowdStrike to buy Zscaler for $43.9bn in all-stock cybersecurity deal",
+      "summary": "CrowdStrike agreed to acquire Zscaler for about $43.9bn in an all-stock deal expected to close in mid-2027, with CrowdStrike CEO George Kurtz leading the combined company and Zscaler founder Jay Chaudhry joining the board. CrowdStrike projects roughly $1bn in annual revenue synergies within 30 months and $500m of cost savings within 18-24 months. Zscaler shares jumped 17% on the news while CrowdStrike fell about 8-9%, making it the session's biggest decliner despite the broader rally.",
+      "sources": ["Yahoo Finance", "Google Finance", "Bloomberg"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/technology/article/crowdstrike-is-spending-439-billion-to-buy-zscaler-in-a-huge-cybersecurity-deal-as-tech-outages-spread-110645119.html"},
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU2U0YkM4bXY0M3RNUzhqbHMzemFXQVhwb2dVRmlEdmgtUHR5YWwyNVdHQ3BlVjFTODVOVEhhWmdfVHlkTHoxUnhhWV9haEtGcVp1anJXWW1jYUNfRGUzWkRrRzNEY3IzR1JWZHNuN2ExY1BuOE95aklEUVRIT1Y3bndHUlJTSFhtbVE?oc=5"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler"}
+      ],
+      "published": "2026-11-23T10:38:04Z",
+      "tickers": ["CRWD", "ZS"],
+      "category": "Deals",
+      "importance": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Asian regulators intervene to calm AI-driven selloff as US futures rally",
+      "summary": "Nasdaq 100 futures climbed 3.5% and S&P 500 futures rose 2.8% as markets stabilized following a selloff tied to doubts over AI data-centre spending and tighter Fed policy expectations. Regulators across Asia intervened to calm trading: Taiwan tightened short-selling rules and saw its index rebound 2.4% with government backing, while China eased margin-financing rules. The VIX fell about 21% to roughly 28.5, though South Korea's KOSPI still traded near 10-month lows.",
+      "sources": ["Yahoo Finance", "Google Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/us-futures-bounce-while-asia-234419517.html"},
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVWwwVkFzZGc1OHVKeHlYQk9la3VVenZPeElyOHcxZ1dQZjJsZl95Q1ZaMG5rYnh2YnM1QlcxSDlES1FxQS12ZXN2UWFkbUtJeWNXemk3WXdLblVGTVdNc3ZuakN5ZTY4eXV3WFo4M0l5V19peEZjejN4X2lLYjcwbjFMeHl3dmg5SU94UV8wOUtyV2hpb1luWWtTN05Wc3dVSEhMZ3BaQ1ZieGZUakE?oc=5"}
+      ],
+      "published": "2026-11-23T04:55:00Z",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Yardeni cuts S&P 500 year-end target to 7,500 after selloff",
+      "summary": "Strategist Ed Yardeni lowered his year-end S&P 500 target to 7,500 following the market turbulence that pushed the index into correction territory. The cut reflects growing caution on valuations and the durability of the AI trade, even as stocks staged a sharp rebound Monday.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/videos/2026-11-23/yardeni-cuts-s-p-500-target-after-stock-selloff-video"}
+      ],
+      "published": "2026-11-23T13:23:38Z",
+      "tickers": ["^GSPC"],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Amazon to pay $7.5bn for AI startup Decart's technology",
+      "summary": "Amazon has agreed to acquire much of AI startup Decart's technology for roughly $7.5bn, adding tools to bolster its cloud unit's artificial-intelligence infrastructure. The deal extends a wave of large AI-infrastructure acquisitions by major cloud providers this year.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech"}
+      ],
+      "published": "2026-11-23T13:48:51Z",
+      "tickers": ["AMZN"],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "US business activity expands at slowest pace in four months",
+      "summary": "US business activity expanded at its slowest pace in four months, as high prices, shipping delays and capacity constraints weighed on both manufacturers and service providers. The data adds to signs of cooling economic momentum heading into the Federal Reserve's December decision.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-23/us-business-activity-expands-at-slowest-pace-in-four-months"}
+      ],
+      "published": "2026-11-23T14:45:00Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Wall Street divided on whether AI selloff is a correction or a deeper reckoning",
+      "summary": "Analysts are split on whether last week's sharp selloff, which pushed the S&P 500 into correction territory, marks a routine pullback or a deeper reassessment of AI valuations. Growing concern centres on whether capital spending on AI data centres is accumulating debt faster than it generates profit. Strategists are watching volatility, credit spreads and earnings guidance for signs the selling pressure has run its course.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/ais-honeymoon-ended-wall-street-004604807.html"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-correction-deeper-reckoning-investors-120338529.html"}
+      ],
+      "published": "2026-11-22T19:03:00Z",
+      "tickers": ["NVDA", "MSFT", "GOOGL", "AMZN", "^GSPC"],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "JPMorgan trading desk abandons bullish equity call after AI selloff",
+      "summary": "JPMorgan's trading desk, led by Andrew Tyler, reversed its tactically bullish equity stance after the S&P 500 fell more than 10% from its October record and the Nasdaq 100 posted its worst week since March 2020. Tyler said the desk had wrongly treated Nvidia and capital-markets activity as sufficient support for tech to bottom, flagging lingering uncertainty over interest rates and 2027-2028 earnings forecasts.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-traders-drop-bullish-view-114704931.html"}
+      ],
+      "published": "2026-11-23T11:47:00Z",
+      "tickers": ["^GSPC", "^NDX", "NVDA"],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Morgan Stanley's Mike Wilson calls the selloff a buying opportunity",
+      "summary": "Morgan Stanley strategist Mike Wilson argued the recent market pullback was too good a buying opportunity to pass up, pushing back on bearish sentiment following the tech-led rout. His view contrasts with other strategists, including JPMorgan's trading desk, who have warned of further downside risk.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPajdKUjNXaTVpOHJlM0xZR0ptb1czVllHN2V6UzR0bG94dEFsYUpCLU82NHRma1lWWFhtQVV2SUc3M1RlbmFLY3J6QTRkcXFKRlhtM2NxQjg3bDNXc0xoRGVLeExnOUxGVUs1aVhhNVMald4dF9lWE5veV9OX2hjVjJZenlaT0FMeDV1VG1Ca0VBMjh4MjRtaWxDLXdILWpSalZ6VS1jOWt6VW9RWThXU3FQMThHdw?oc=5"}
+      ],
+      "published": "2026-11-23T10:02:24Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Selloff revives debate over a Fed 'put' under incoming chair Warsh",
+      "summary": "The recent market rout has revived debate over whether the Federal Reserve will step in to support markets under incoming chair Warsh ahead of a looming December rate decision. JPMorgan Asset Management separately said an AI-related borrowing binge is holding back a bigger rally in bonds.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/newsletters/2026-11-23/us-stock-selloff-revives-question-of-a-fed-put-this-time-under-warsh"}
+      ],
+      "published": "2026-11-23T12:00:01Z",
+      "tickers": [],
+      "category": "Policy",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Anthropic's public market debut adds to AI-sector volatility",
+      "summary": "Anthropic became the first pure-play generative-AI lab to list on US public markets, a debut that coincided with heightened volatility across AI-related stocks. The listing adds a closely watched new bellwether for gauging investor appetite for AI business models as the sector weighs spending against profitability.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-dow-p-141517672.html"}
+      ],
+      "published": "2026-11-23T14:15:00Z",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 3,
+      "sentiment": "neutral"
+    }
+  ],
+  "watch_today": [
+    {"when": "Nov 26 (Thu)", "event": "US stock markets closed for Thanksgiving holiday", "type": "other"},
+    {"when": "Nov 27 (Fri)", "event": "US stock markets close early (Black Friday)", "type": "other"}
+  ],
+  "desk_status": {"google": "ok", "yahoo": "ok", "bloomberg": "ok", "markets": "ok"}
+}

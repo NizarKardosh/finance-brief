@@ -1,0 +1,95 @@
+{
+  "source": "Bloomberg",
+  "fetched_at": "2026-11-23T15:10:00Z",
+  "stories": [
+    {
+      "headline": "Nvidia Reinstates Jensen Huang as CEO After Government Input, Sparks Market Rally",
+      "summary": "Nvidia's board reinstated Jensen Huang as president and CEO less than two weeks after his ouster, following support from the US government, with President Trump saying the move poses no risk to national security. The reinstatement triggered a broad risk-on rally, lifting AI-linked stocks and US equity futures after a tech-led selloff that had pushed the S&P 500 into correction territory.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/nvidia-reinstates-jensen-huang-as-ceo-with-government-input",
+      "publisher": "Bloomberg",
+      "published": "2026-11-23T14:08:01Z",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "US Stocks Jump as Huang's Nvidia Return Stokes Buying After Tech Rout",
+      "summary": "US stocks rallied sharply, rebounding from a brutal technology-led selloff as dip buyers emerged following Nvidia's announcement that Jensen Huang would return as CEO. AI-linked names led gains across the market as the broader risk-on move extended into Treasuries, gold and emerging markets.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-22/stock-traders-brace-for-more-volatility-after-tech-driven-rout",
+      "publisher": "Bloomberg",
+      "published": "2026-11-22T23:04:42Z",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "CrowdStrike to Acquire Zscaler for About $43.9 Billion in All-Stock Deal",
+      "summary": "CrowdStrike Holdings has agreed to acquire cybersecurity provider Zscaler in an all-stock transaction valuing the company at roughly $43.9 billion, one of the largest-ever deals in the cybersecurity sector. The deal underscores continued consolidation among cybersecurity vendors as companies seek scale in AI-era threat protection.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler",
+      "publisher": "Bloomberg",
+      "published": "2026-11-23T10:38:04Z",
+      "tickers": ["CRWD", "ZS"],
+      "category": "Deals",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Yardeni Cuts S&P 500 Year-End Target to 7,500 After Selloff",
+      "summary": "Strategist Ed Yardeni reduced his year-end S&P 500 forecast to 7,500 points following the market turbulence that pushed the index into correction territory. The cut reflects growing caution on valuations and the sustainability of the AI trade even as stocks staged a rebound.",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-23/yardeni-cuts-s-p-500-target-after-stock-selloff-video",
+      "publisher": "Bloomberg",
+      "published": "2026-11-23T13:23:38Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Amazon to Pay $7.5 Billion for AI Startup Decart's Technology",
+      "summary": "Amazon.com has agreed to acquire much of AI startup Decart's technology for about $7.5 billion, buying tools to bolster its cloud-computing unit's artificial-intelligence infrastructure. The deal adds to a wave of large AI infrastructure acquisitions by major cloud providers.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/amazon-is-said-to-pay-7-5-billion-for-ai-startup-decart-s-tech",
+      "publisher": "Bloomberg",
+      "published": "2026-11-23T13:48:51Z",
+      "tickers": ["AMZN"],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "US Business Activity Expands at Slowest Pace in Four Months",
+      "summary": "US business activity (PMI) expanded at its slowest pace in four months as high prices, shipping delays and capacity constraints weighed on both factory owners and service providers. The data adds to signs of cooling momentum in the economy heading toward the Fed's December decision.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/us-business-activity-expands-at-slowest-pace-in-four-months",
+      "publisher": "Bloomberg",
+      "published": "2026-11-23T14:45:00Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Emerging-Market Stocks Close to Erasing 2026 Gains on AI Selloff",
+      "summary": "Emerging-market stocks are close to wiping out their entire 2026 gains as mounting concerns over the sustainability of the AI trade fuel a global selloff. The move highlights how closely EM equity performance has become tied to swings in US AI-related mega-cap stocks.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/emerging-market-stocks-set-to-erase-2026-gains-on-ai-selloff",
+      "publisher": "Bloomberg",
+      "published": "2026-11-23T01:02:47Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "US Stock Selloff Revives Question of a Fed 'Put' Under Chair Warsh",
+      "summary": "The recent market rout raises the stakes for the US central bank as a potential December rate decision looms, reviving debate over whether the Fed will step in to support markets under its newer leadership. JPMorgan Asset Management separately said an AI-related borrowing binge is holding back a bigger bond rally.",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-23/us-stock-selloff-revives-question-of-a-fed-put-this-time-under-warsh",
+      "publisher": "Bloomberg",
+      "published": "2026-11-23T12:00:01Z",
+      "tickers": [],
+      "category": "Policy",
+      "importance": 3,
+      "sentiment": "neutral"
+    }
+  ],
+  "calendar": []
+}

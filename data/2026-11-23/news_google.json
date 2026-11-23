@@ -1,0 +1,95 @@
+{
+  "source": "Google Finance",
+  "fetched_at": "2026-11-23T15:00:00Z",
+  "stories": [
+    {
+      "headline": "Nvidia board reinstates Jensen Huang as CEO amid pressure from Trump, investors",
+      "summary": "Nvidia's board reversed course and reinstated Jensen Huang as CEO following pressure from President Trump and major investors. The move comes after a turbulent period for the chipmaker that had rattled markets.",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd19EYmc4X2wzaW5zXzZ5VXZ1cUFJbS1OYzJsZ2VSTVRnMkQteWdiN3Z0dTBlNmltdll6Vy1RWnpxVUthOF9XX3g0YmVvNWdXODJUMGpSeXdldVdYQWE3N2hCQXU3RExXSDViSWI3S2xHNVZFc0NUVmh5bGRhem5aUzdDa29xb1hH?oc=5",
+      "publisher": "Reuters",
+      "published": "2026-11-23T14:31:21Z",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Nvidia shares soar 30% after board reinstates Jensen Huang",
+      "summary": "Nvidia shares jumped roughly 30% following the board's decision to reinstate Jensen Huang as CEO, marking one of the stock's sharpest single-period moves. The rally reversed much of the recent AI-trade-driven selloff in the stock.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeXhpd01xVDBQSlFMWUJzZktLSGh3WXZ0b3JfRTdwSEV4Rll0bjlIc3FfM3MwemllQlRidmpiOEpUbHJBQzZ4YU1ZOFNhMmVpMjBWc3RULWppdmxLZVdERHFTLXJHSjU3aTFWcmFrakkzS3VpTDFkSE45Vk1TbmszWUhzcVM?oc=5",
+      "publisher": "Financial Times",
+      "published": "2026-11-23T09:54:50Z",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Traders brace for more volatility after tech-driven market rout",
+      "summary": "Stock traders are preparing for continued swings after a sharp tech-led selloff rattled markets, with AI-sector jitters a key driver. Analysts warn the volatility could persist even after Nvidia's rebound.",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeURSVWpyQXZjLW5UcndZVDJPQnE0NDU2UllUMUI5S29qcFJlWDg1empEbThycVphd2p3dmxJTUJJckZVQXBhaGlmT0JaNkh3SFZHRG5HNHl5ckpheVAzU3JHQldJVGQ2cl9RVWw4Wk96RXNiN0d1dW5iQ1RETTMxRnJVS2tnNFRwOVJkdjhxRHd5ZmJRNkoxaEtUcGNiSmdXRWxtYjRrM2RVcVREUXJneFZMcw?oc=5",
+      "publisher": "Bloomberg",
+      "published": "2026-11-23T14:18:18Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Chip stocks rally broadly as Nvidia, Intel, Micron, AMD rip higher",
+      "summary": "NVDA, INTC, MU, and AMD all rallied sharply, with analyst Dan Ives arguing that despite bears feeling 'validated' by recent volatility, the AI investment wave shows no signs of stopping. The rally lifted sentiment across the broader semiconductor sector.",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLWVsV09aaUtCWVhraDVzNVlWQlRILTEtMEN0ZDdpVXFBZ2s5b3hnZTlxRFFvYmhZVzNlVnpqa2JwY3A4RDBMT3V6cnd5YXVuZW9RMFh1Zk55OXVXNlBpQ1NvREg1bjJ2dUtPZ3gxZnhQVVg4TDBmcGpDd0pSZHVVSV9lYmdha09yOFRGb0tLOA?oc=5",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-23T02:24:00Z",
+      "tickers": ["NVDA", "INTC", "MU", "AMD"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Two major cybersecurity firms to combine in $44 billion deal",
+      "summary": "Two large cybersecurity companies have agreed to merge in a deal valued at $44 billion, one of the largest tech combinations of the year. The deal underscores continued consolidation in the cybersecurity sector.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNU2U0YkM4bXY0M3RNUzhqbHMzemFXQVhwb2dVRmlEdmgtUHR5YWwyNVdHQ3BlVjFTODVOVEhhWmdfVHlkTHoxUnhhWV9haEtGcVp1anJXWW1jYUNfRGUzWkRrRzNEY3IzR1JWZHNuN2ExY1BuOE95aklEUVRIT1Y3bndHUlJTSFhtbVE?oc=5",
+      "publisher": "The New York Times",
+      "published": "2026-11-23T13:08:05Z",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Morgan Stanley's Mike Wilson says current selloff is a buying opportunity",
+      "summary": "Morgan Stanley strategist Mike Wilson argued the recent market pullback presents a buying opportunity too good to pass up, pushing back against bearish sentiment following the tech-driven rout. His view contrasts with warnings from other strategists about further downside risk.",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPajdKUjNXaTVpOHJlM0xZR0ptb1czVllHN2V6UzR0bG94dEFsYUpCLU82NHRma1lWWFhtQVV2SUc3M1RlbmFLY3J6QTRkcXFKRlhtM2NxQjg3bDNXc0xoRGVLeExnOUxGVUs1aVhhNVMald4dF9lWE5veV9OX2hjVjJZenlaT0FMeDV1VG1Ca0VBMjh4MjRtaWxDLXdILWpSalZ6VS1jOWt6VW9RWThXU3FQMThHdw?oc=5",
+      "publisher": "Bloomberg",
+      "published": "2026-11-23T10:02:24Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Gold rebounds as traders pare bets on near-term Fed rate hikes",
+      "summary": "Gold prices rebounded as traders reduced expectations for near-term Fed rate hikes, supporting demand for the metal as a hedge. The move comes amid broader uncertainty in rates and equity markets.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSWM0VXgxUVd2OWtSdm5zTWZEVmc1X3FwODlVQ0l3UmRDeWZ1NTlQWlBuNV9ZUzk4NEVkRVZHRE1IQThDQThUX0QzNnRWallXeTJFVnBQQzM1QVFWUWJEZ2ZhSXpjbmRlQXBmdER2aHg2d0daWFhEa2JoaVRSMm5KVG1QcVc3WURzUmplbHFjaHJDeDNMVXlZVUV2Z1RGOGhCc1dN?oc=5",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-23T10:38:39Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Asian regulators step up efforts to calm AI-driven market turmoil",
+      "summary": "Regulators across Asian markets intensified efforts to stabilize trading as AI-sector volatility spread through global equities. The intervention reflects growing concern that AI-related swings are spilling into broader financial stability.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVWwwVkFzZGc1OHVKeHlYQk9la3VVenZPeElyOHcxZ1dQZjJsZl95Q1ZaMG5rYnh2YnM1QlcxSDlES1FxQS12ZXN2UWFkbUtJeWNXemk3WXdLblVGTVdNc3ZuakN5ZTY4eXV3WFo4M0l5V19peEZjejN4X2lLYjcwbjFMeHl3dmg5SU94UV8wOUtyV2hpb1luWWtTN05Wc3dVSEhMZ3BaQ1ZieGZUakE?oc=5",
+      "publisher": "WSJ",
+      "published": "2026-11-23T04:55:00Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    }
+  ],
+  "calendar": []
+}

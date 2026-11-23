@@ -1,0 +1,98 @@
+{
+  "source": "Yahoo Finance",
+  "fetched_at": "2026-11-23T15:10:00Z",
+  "stories": [
+    {
+      "headline": "Nvidia stock jumps 30% as board reinstates Jensen Huang as CEO",
+      "summary": "Nvidia's board unanimously voted to reinstate Jensen Huang as CEO after his resignation earlier this month amid an investigation into his personal relationships, saying it received input from senior U.S. government officials and found no national security risk. The news sent Nvidia shares up roughly 30%, with AMD and Broadcom up about 4%, TSMC up 13%, ASML up 9%, and cloud providers CoreWeave and Nebius up as much as 30%. President Trump had publicly called for Huang's reinstatement on Sunday.",
+      "url": "https://finance.yahoo.com/markets/article/nvidia-soars-25-as-board-reinstates-jensen-huang-as-ceo-chip-stocks-jump-142353537.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-23T07:49:00-07:00",
+      "tickers": ["NVDA", "AMD", "AVGO", "TSM", "ASML", "MU"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Dow, S&P 500 and Nasdaq surge as Nvidia leads broad AI-sector rebound",
+      "summary": "U.S. stock futures and indexes rallied Monday, with the S&P 500 up roughly 4.7% and the Nasdaq up around 6.6-6.8%, reversing part of last week's steep AI-driven selloff. The rebound was led by chip and AI-infrastructure names following Jensen Huang's reinstatement as Nvidia CEO, after the Nasdaq had posted its worst weekly decline since the March 2020 pandemic selloff.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-nvidia-reinstates-jensen-huang-141511975.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-23T08:11:00-07:00",
+      "tickers": ["NVDA", "^DJI", "^GSPC", "^IXIC"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "CrowdStrike to buy Zscaler for $43.9 billion in all-stock cybersecurity deal",
+      "summary": "CrowdStrike agreed to acquire Zscaler for $43.9 billion in an all-stock transaction expected to close in mid-2027, with CrowdStrike CEO George Kurtz continuing to lead the combined company and Zscaler founder Jay Chaudhry joining its board. CrowdStrike projects about $1 billion in annualized revenue synergies within 30 months and $500 million in cost savings within 18-24 months; CrowdStrike shares fell about 8% while Zscaler jumped 17% on the news.",
+      "url": "https://finance.yahoo.com/technology/article/crowdstrike-is-spending-439-billion-to-buy-zscaler-in-a-huge-cybersecurity-deal-as-tech-outages-spread-110645119.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-23T04:06:00-07:00",
+      "tickers": ["CRWD", "ZS"],
+      "category": "Deals",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "US futures rally as AI selloff pauses, Asian authorities act to support stocks",
+      "summary": "Nasdaq 100 futures climbed 3.5% and S&P 500 futures rose 2.8% Monday morning as markets stabilized after a selloff tied to doubts about AI data-center spending returns and tighter Fed policy expectations. Asian regulators intervened to calm markets: Taiwan tightened short-selling rules and its index rebounded 2.4% with government backing, while China eased margin financing rules; the VIX fell about 20% to 28.72, though South Korea's KOSPI still traded near 10-month lows.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/us-futures-bounce-while-asia-234419517.html",
+      "publisher": "Reuters",
+      "published": "2026-11-23T05:26:00-07:00",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "JPMorgan traders abandon bullish stock call after AI-driven selloff",
+      "summary": "JPMorgan's trading desk, led by Andrew Tyler, reversed its tactically bullish stance on equities after the S&P 500 fell more than 10% from its October record and the Nasdaq 100 dropped 5.6% in its worst week since March 2020. Tyler said the desk had wrongly viewed Nvidia and capital-markets activity as the support needed for tech to bottom, and flagged lingering uncertainty over interest rates and 2027-2028 earnings forecasts.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-traders-drop-bullish-view-114704931.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-23T04:47:00-07:00",
+      "tickers": ["^GSPC", "^NDX", "NVDA"],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Has AI's honeymoon ended on Wall Street?",
+      "summary": "A review of the recent AI-stock rout highlights growing investor concern that massive capital spending on AI data centers is accumulating debt faster than it is generating profit. The piece frames last week's selloff as a test of whether the AI trade's multi-year run has permanently cooled or is merely pausing.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ais-honeymoon-ended-wall-street-004604807.html",
+      "publisher": "AFP",
+      "published": "2026-11-21T00:46:00-07:00",
+      "tickers": ["NVDA", "MSFT", "GOOGL", "AMZN"],
+      "category": "Tech",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Investors debate whether stock selloff is a correction or a deeper reckoning",
+      "summary": "A Reuters analysis examines whether last week's sharp U.S. stock decline, which pushed the S&P 500 into correction territory, represents a routine pullback or signals a more lasting reassessment of AI valuations and Fed policy risk. Strategists are watching volatility, credit spreads, and earnings guidance for signs that selling pressure is abating.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-correction-deeper-reckoning-investors-120338529.html",
+      "publisher": "Reuters",
+      "published": "2026-11-22T12:03:00-07:00",
+      "tickers": ["^GSPC"],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Anthropic's public market debut adds to AI-sector volatility",
+      "summary": "Anthropic became the first pure-play generative-AI lab to list on U.S. public markets, a listing that coincided with heightened volatility across AI-related stocks as investors weighed the sector's spending-versus-profit tradeoffs. The debut added a new, closely watched bellwether for gauging investor appetite for AI business models.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-dow-p-141517672.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-23T07:15:00-07:00",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 3,
+      "sentiment": "neutral"
+    }
+  ],
+  "calendar": [
+    {"when": "Nov 26 (Thu)", "event": "US stock markets closed for Thanksgiving holiday", "type": "other"},
+    {"when": "Nov 27 (Fri)", "event": "US stock markets close early (Black Friday)", "type": "other"}
+  ]
+}

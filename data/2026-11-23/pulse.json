@@ -1,0 +1,11 @@
+{
+  "pulse": "A broad risk-on rally lifted US equities, with the Nasdaq 100 up 6.10%, the S&P 500 up 4.27%, the Dow up 2.49%, and the Russell 2000 up 2.79%; breadth was strongly positive at 408 advancers versus 93 decliners out of 503 S&P names. Electronic Technology (+10.60%) and Consumer Durables (+10.02%) led sectors on the back of a chip-stock surge, while Producer Manufacturing (+6.82%) also outperformed; Health Services (-1.73%) and Energy Minerals (-0.65%) lagged as the only meaningfully negative groups. The VIX plunged 20.73% to 28.45 as fear unwound, the 10Y yield slipped 0.04% to 4.948%, the dollar (DXY) rose 0.35% to 104.20, WTI crude fell 1.85% to $81.87, gold jumped 3.69% to $3668.81, and bitcoin gained 2.99% to $63,008.32. Among the most active names, NVIDIA led with a 29.29% surge on 200.0M shares traded, Micron rose 14.25%, Sandisk jumped 17.85%, Tesla climbed 11.56%, and AMD added 6.57%, while CrowdStrike was the standout decliner, falling 8.80% even as the broader market rallied.",
+  "standouts": [
+    {"ticker": "NVDA", "note": "+29.29% to $162.30 on 200.0M shares, top of most-active and gainers list"},
+    {"ticker": "SNDK", "note": "+17.85% to $93.39 on heavy volume of 31.7M shares"},
+    {"ticker": "MU", "note": "+14.25% to $679.24 on volume of 10.3M shares"},
+    {"ticker": "TSLA", "note": "+11.56% to $385.80, led the Consumer Durables sector's +10.02% move"},
+    {"ticker": "AMD", "note": "+6.57% to $452.26 on volume of 9.0M shares among most-active names"},
+    {"ticker": "CRWD", "note": "-8.80% to $209.26, second-biggest loser despite the broad market rally"}
+  ]
+}
