@@ -1,0 +1,90 @@
+{
+  "source": "Bloomberg",
+  "fetched_at": "2026-11-24T15:10:00Z",
+  "stories": [
+    {
+      "headline": "Stocks fall as Nvidia rally fades and trade fears return",
+      "summary": "US equity futures and the broader market slipped as an initial rally tied to Jensen Huang's reinstatement as Nvidia CEO cooled, with Citadel warning on the AI growth outlook. The pullback coincided with the Trump administration adding Megaspeed and an Alibaba unit to a trade blacklist, reviving tariff and trade-war concerns.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates",
+      "published": "2026-11-23T22:06:46Z",
+      "tickers": ["NVDA", "BABA"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Jensen Huang's Nvidia return triggers bipartisan Capitol Hill scrutiny",
+      "summary": "Nvidia CEO Jensen Huang is scheduled to testify before the Senate on Dec. 3 and face House committee interviews on Dec. 1 after his reinstatement, with Senator McCormick seeking answers on government intervention and export-control policy. Analysts say the episode exposes unresolved governance fragilities and ties Nvidia's fate more closely to Washington policy.",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/jensen-huang-s-return-exposes-nvidia-s-unresolved-fragilities",
+      "published": "2026-11-24T11:39:00Z",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Anthropic shares sink below $83 IPO price less than a week after debut",
+      "summary": "Anthropic PBC shares fell below their $83 initial public offering price in premarket trading, a swift reversal just days after its stock market debut. The move adds to signs of fragility in AI-linked valuations even as broader AI trade sentiment whipsaws.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading",
+      "published": "2026-11-24T11:19:24Z",
+      "tickers": [],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "OPEC+ faces its most consequential supply decision of the year",
+      "summary": "Oil ministers are set to decide crude supply allocations at a month-end gathering, a decision seen as pivotal for prices given resilient Persian Gulf exports and booming production elsewhere. Separately, Bloomberg notes the oil market is talking about a surplus again amid ample supply.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/opec-faces-its-most-consequential-supply-decision-of-the-year",
+      "published": "2026-11-24T14:43:44Z",
+      "tickers": [],
+      "category": "Energy",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "China halts critical minerals export ban to maintain US trade truce",
+      "summary": "Beijing signaled it will keep complying with its trade agreement with Washington despite recent tensions following the Nvidia chip controversy, pausing a critical minerals export ban. The move suggests Xi is playing a longer game on chip retaliation rather than escalating immediately.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/china-halts-critical-minerals-ban-to-maintain-truce-with-us",
+      "published": "2026-11-24T08:56:34Z",
+      "tickers": ["NVDA"],
+      "category": "Policy",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Pimco's Ivascyn says AI disruption risk boosts appeal of bonds",
+      "summary": "Pimco's Dan Ivascyn argues that volatility around AI, including recent swings in Nvidia and related stocks, is strengthening the investment case for Treasuries and other quality bonds as a hedge. The view reflects a broader institutional debate about rotating out of richly valued AI equities.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/pimco-s-ivascyn-says-ai-disruption-risk-boosts-appeal-of-bonds",
+      "published": "2026-11-24T10:30:00Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "DRC reinstates cobalt export ban, tightening battery metal supply",
+      "summary": "The Democratic Republic of Congo, the world's top producer of cobalt, said it will reinstate an export ban on the battery metal beginning soon, a move that could tighten global supply for EV and battery makers. Separately, Codelco is offering lower copper premiums to revive sales to China amid a broader shift in metals trade flows.",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-24/drc-reinstates-cobalt-export-ban-video",
+      "published": "2026-11-24T13:00:53Z",
+      "tickers": [],
+      "category": "Energy",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Xiaomi sales fall for third straight quarter on memory chip shortage",
+      "summary": "Xiaomi reported a third consecutive quarterly revenue decline as a global memory chip shortage squeezes smartphone makers' costs and output. The result underscores how semiconductor supply constraints are spreading beyond AI hardware into consumer electronics.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/xiaomi-s-sales-slip-after-memory-shortages-weigh-on-smartphones",
+      "published": "2026-11-24T09:35:00Z",
+      "tickers": [],
+      "category": "Earnings",
+      "importance": 3,
+      "sentiment": "bearish"
+    }
+  ],
+  "calendar": [
+    {"when": "Dec 1", "event": "Jensen Huang House committee interviews", "type": "other"},
+    {"when": "Dec 3", "event": "Jensen Huang Senate testimony on Nvidia export controls", "type": "other"}
+  ]
+}

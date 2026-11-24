@@ -1,0 +1,11 @@
+{
+  "pulse": "The tape was split on 2026-11-24: the S&P 500 slipped -0.34% to 7212.55 and the Nasdaq 100 dropped -1.33% to 26389.92 on a chip-led selloff, while the Dow Jones rose +0.47% to 49826.19 and the Russell 2000 gained +0.44%, helped by broad breadth of 348 advancers versus 153 decliners. Health Technology led sectors at +2.25% (Eli Lilly +2.96%, AbbVie +2.02%) while Electronic Technology was the weakest sector at -2.83%, dragged by NVIDIA -5.56% and Broadcom -3.62%. Volatility spiked with the VIX up +3.61% to 27.58 even as the 10Y yield fell -0.61% to 4.91%, the Dollar Index (DXY) slid -0.49% to 103.80, and WTI Crude climbed +1.52% to $81.39 while Gold eased -0.50%. Among the most-active names, Anthropic (-7.26%), AMD (-7.60%), Micron (-6.96%) and Sandisk (-6.78%) were hit hardest alongside NVIDIA, while Insmed bucked the trend with a +14.34% surge on very heavy relative volume (6.87x).",
+  "standouts": [
+    {"ticker": "NVDA", "note": "-5.56% to $155.87 on heavy volume (68.55M shares, $10.68B traded), top of most-active and biggest drag on Electronic Technology"},
+    {"ticker": "AMD", "note": "-7.60% to $419.01, among most-active with $3.19B traded"},
+    {"ticker": "ANT", "note": "-7.26% to $81.28 (Anthropic), second most-active by volume at 58.79M shares"},
+    {"ticker": "MU", "note": "-6.96% to $658.46 (Micron), most-active with $4.36B traded"},
+    {"ticker": "INSM", "note": "+14.34% to $170.47 (Insmed), top gainer with 6.87x relative volume"},
+    {"ticker": "ANF", "note": "+22.29% to $171.75 (Abercrombie & Fitch), biggest gainer in the index"}
+  ]
+}

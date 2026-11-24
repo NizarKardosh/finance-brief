@@ -1,0 +1,95 @@
+{
+  "source": "Google Finance",
+  "fetched_at": "2026-11-24T14:45:00Z",
+  "stories": [
+    {
+      "headline": "CrowdStrike to acquire Zscaler in $44 billion all-stock deal",
+      "summary": "CrowdStrike announced an agreement to buy cybersecurity rival Zscaler in a $44 billion stock swap, one of the largest tech deals of the year. The combination would merge endpoint security with cloud/network security offerings, consolidating two major players in the sector.",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNEJZUE0yX0liZUI4VjVDVEtUMHUyR19DWXI5d01LNmVETUlnamxKODBRelNLaFE1TGdmNlRBbVR3eXVZQkxEbFdPYzFDWmJNVUVXZDlTaGd3TDFuYWNYQWkwNG9BVVdIcm5JYzdqVDR2Z2loN1AyVGVwemtxN09xalc1dkVUTWsyWmdzRll3TTJzMkVfZ1VURXQ0UDJNbnF1eTh5NGhmUzlDeG9Rd1Bud1JqUHJ3N29VQ2tscGtmR0o?oc=5",
+      "publisher": "WSJ",
+      "published": "2026-11-23T10:30:30Z",
+      "tickers": ["CRWD", "ZS"],
+      "category": "Deals",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Nvidia shares pull back after rally fueled by Jensen Huang's return as CEO",
+      "summary": "Nvidia stock fell after a strong rally tied to renewed confidence in Jensen Huang's leadership as CEO. The pullback comes amid broader volatility in AI-linked names after a sharp run-up earlier in the week.",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2VuMWM0TmxDX1JHckNONUktS3M3eFVSbDVJeWQ0bWZsUFlhWTZ6dkZWSi1lUTlZUjVnamk5OTQ4bTBBc2ViWHJzekF0cTlWSlo0blR1ZkU2RDNYVU5QbnJOaDcwZVlmWlljTHEwRV9wQ2pfdG9nNG1icTZvcnBwalZFZGRCa3Q0dTNvQ2dWcVdzTnlGcHZEajN4ME5URDNTTV9RODhxSWQzdlBTZUZDZTF1ZkExektQMVhibk5PdFoyMEJfMmtIYnZR?oc=5",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-24T09:45:35Z",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Anthropic stock drops below $83 IPO price in premarket trading",
+      "summary": "Shares of Anthropic fell below their $83 IPO price in premarket trading as Monday's broader tech rally faded. The decline follows reports that CEO Dario Amodei and his sister sold $561 million in stock during the IPO, raising investor scrutiny of insider selling.",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0hkbFdEeDFKTWo1UXlkenJzS3l0QWpGSDdIWGxpbTdiMkpzVkl0bFN0d2RUSGxJS3FxNFNjeEVOeE9qUlB6X1ZKNldQdFA5b2NUam1pZjQzXzFZSFZYQ21mUXJlSzVvOWs5dS1lc3A2NG5zeGQ1RXlQR0c4QkxOUVNQUzNyYzBMT1A5emhvX2VNc2thcUJoSjhqYzZjM0Y2ZmdQellESkczaXc?oc=5",
+      "publisher": "Bloomberg",
+      "published": "2026-11-24T13:58:08Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "US prepares to raise tariffs on China and other countries",
+      "summary": "The Trump administration is preparing a new round of tariff increases targeting China and other trading partners. The move could escalate trade tensions and add fresh uncertainty for multinational companies and global supply chains.",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5",
+      "publisher": "WSJ",
+      "published": "2026-11-24T13:08:00Z",
+      "tickers": [],
+      "category": "Policy",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Sanofi strikes $41 billion deal as patent cliff looms",
+      "summary": "French drugmaker Sanofi agreed to a $41 billion acquisition as it seeks to offset upcoming patent expirations on key products. The deal is one of the largest pharma transactions of the year and underscores the industry's push to refill pipelines ahead of a wave of patent cliffs.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYTNRampBR19XOHhYbVAyU3dfbDF1UDF1OWl4QUZyUVJvUTZoXzVaOUFwV2hsb2V3YjVKTlVTa1E5b3oxUXlPWDE4WDFpdzB5c21vS1Q3aFdLLVpVTUl5RXdueUNBcVJiOVZjcUNUR0dVTm8xa2hhQVFrYTk0d09Na1Q3TzI?oc=5",
+      "publisher": "Financial Times",
+      "published": "2026-11-24T11:17:47Z",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Best Buy posts comparable sales growth of 6.1%, highest in five years",
+      "summary": "Best Buy reported quarterly comparable sales growth of 6.1%, its strongest performance in five years, signaling resilient consumer electronics demand heading into the holiday shopping season. The results beat expectations and point to steady discretionary spending.",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsMENfR2tOY1lmMDB4VC1ySEJXR0xDbnozRGZMNUc2VXhIelg2ZlpTRFVkZXRtem1yLU9LY29IUG1Ka0FuSlgzcXBnWm5qZlA1ZmU1RzRsaWZFQVFoSjJ2NFhRZEtMellvdmJHRlZTMTJSZzlq0gF6QVVfeXFMT1NIQVlRWlIwcjhtbS1GbUhNeVo3dXFBSmpieGlGdzJKSWpCdkJLdmhGTXZfV0tWbVVGd2U1aFRKUXVxMU5hVWg0azFSQ0RLS3RINDVjM2tUMlVVeWVJX0trb3BJLUdfOFE3LUV5LWhfcTZnYjIyUFNyaWc?oc=5",
+      "publisher": "CNBC",
+      "published": "2026-11-24T12:00:41Z",
+      "tickers": ["BBY"],
+      "category": "Earnings",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "US sanctions Megaspeed, Singaporean firm at center of Nvidia chip-diversion scandal",
+      "summary": "The Trump administration imposed sanctions on Megaspeed, a Singapore-based firm accused of facilitating unauthorized diversion of Nvidia chips, likely to China. The action adds regulatory pressure on Nvidia's supply chain and highlights ongoing enforcement around AI chip export controls.",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5",
+      "publisher": "The New York Times",
+      "published": "2026-11-24T14:17:00Z",
+      "tickers": ["NVDA"],
+      "category": "Policy",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Asian regulators step up efforts to calm AI-driven market turmoil",
+      "summary": "Regulators across Asian markets took steps to stabilize trading as volatility tied to AI stock swings rippled through regional exchanges. The intervention reflects growing concern that AI-sector valuation swings are spilling over into broader market stability.",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVWwwVkFzZGc1OHVKeHlYQk9la3VVenZPeElyOHcxZ1dQZjJsZl95Q1ZaMG5rYnh2YnM1QlcxSDlES1FxQS12ZXN2UWFkbUtJeWNXemk3WXdLblVGTVdNc3ZuakN5ZTY4eXV3WFo4M0l5V19peEZjejN4X2lLYjcwbjFMeHl3dmg5SU94UV8wOUtyV2hpb1luWWtTN05Wc3dVSEhMZ3BaQ1ZieGZUakE?oc=5",
+      "publisher": "WSJ",
+      "published": "2026-11-23T04:55:00Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    }
+  ],
+  "calendar": []
+}

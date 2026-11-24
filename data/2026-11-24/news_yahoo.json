@@ -1,0 +1,98 @@
+{
+  "source": "Yahoo Finance",
+  "fetched_at": "2026-11-24T15:00:00-05:00",
+  "stories": [
+    {
+      "headline": "Nvidia shares fall 5% as 'exuberance fades' after Jensen Huang's return as CEO",
+      "summary": "Nvidia stock dropped about 5% on Tuesday, reversing much of Monday's roughly 31% surge that followed the board's reinstatement of Jensen Huang as CEO after a 12-day absence. Huang had stepped down amid revelations about personal conduct issues before being reinstated with input from U.S. government officials; he faces congressional testimony on December 3 over export controls. Other chip stocks including AMD, Micron, and Broadcom fell alongside Nvidia as investors reassessed the AI rally.",
+      "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-nvidia-stock-falls-as-exuberance-fades-after-jensen-huangs-return-as-ceo-142100906.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-24T09:21:00-05:00",
+      "tickers": ["NVDA", "AMD", "MU", "AVGO"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Dow, S&P 500, Nasdaq fall as investors test Nvidia-fueled rally",
+      "summary": "The S&P 500 fell 1.2% to 7,210.81, the Nasdaq dropped 1.8% to 23,814.99, and the Dow slipped 0.4% to 49,872.96 as Monday's rally cooled. The pullback followed renewed inflation concerns, with traders now pricing a 95% probability of a 25-basis-point Fed rate hike in December and a 5% chance of a 50-basis-point move. Best Buy was a bright spot, rising about 5% premarket after posting 6.1% same-store sales growth, its strongest quarter in five years, and raising guidance.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-24T09:06:00-05:00",
+      "tickers": ["NVDA", "AMD", "MU", "BBY"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Tesla and SpaceX assemble deal teams for a potential ~$3.5 trillion merger that could give Musk majority control",
+      "summary": "Tesla and SpaceX have formed special committees and hired investment banks (Morgan Stanley and Goldman Sachs for SpaceX, Evercore for Tesla) to negotiate a possible all-stock merger valued at roughly $3.5 trillion, with a deal potentially finalized by year-end. Because Musk holds about 20% of Tesla's voting power versus 84% at SpaceX via supervoting shares, the combination could hand him majority voting control of the merged entity, depending on the exchange ratio and governance structure still under negotiation.",
+      "url": "https://finance.yahoo.com/technology/article/tesla-and-spacex-assemble-deal-teams-for-a-merger-that-could-give-musk-majority-control-144555932.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-24T09:45:00-05:00",
+      "tickers": ["TSLA"],
+      "category": "Deals",
+      "importance": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Anthropic stock sinks below its $83 IPO price as day-one pop vanishes",
+      "summary": "Anthropic (ANT), which priced its IPO at $83 and closed its debut day at $97.17 after opening up 34%, fell below $80 on Tuesday, breaking its IPO price just days after listing. Analysts cite upcoming insider selling pressure (filings allow insiders to sell up to 316 million shares) and note that historically, large IPOs that quickly break their offer price tend to underperform for years; only Uber and Meta broke their IPO prices faster among major U.S. listings since 2008. Retail investors have remained net buyers of the stock.",
+      "url": "https://finance.yahoo.com/markets/article/anthropic-stock-drops-below-83-ipo-price-as-day-one-pop-vanishes-143438983.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-24T09:34:00-05:00",
+      "tickers": ["ANT"],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "HPE stock drops 13% despite raised 2027 guidance as margin outlook disappoints",
+      "summary": "Hewlett Packard Enterprise shares fell about 13% in premarket trading even after the company reported Cloud & AI revenue growth of 68.6% year-over-year and issued better-than-expected fiscal 2027 revenue guidance. Investors focused instead on HPE's forecast that Cloud & AI operating margins will shrink to roughly 14% in fiscal 2027 from 18.4% currently, signaling fading AI server pricing tailwinds. HPE also approved an additional $5 billion buyback and a $0.17 quarterly dividend; the stock is still up about 100% year-to-date. Dell shares fell 7% in sympathy.",
+      "url": "https://finance.yahoo.com/markets/article/hpe-stock-declines-as-margin-outlook-disappoints-134420648.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-24T08:44:00-05:00",
+      "tickers": ["HPE", "DELL"],
+      "category": "Earnings",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Stocks had their best Monday since 2020 as AI trade roars back",
+      "summary": "Major indexes staged a sharp rebound Monday, with the Nasdaq-100 tracking ETF posting its biggest opening jump on record after a rough prior week for AI-related stocks. The rally was led by Nvidia's reinstatement-driven surge and spread broadly across chip and AI-adjacent names before cooling Tuesday.",
+      "url": "https://finance.yahoo.com/markets/article/why-stocks-are-having-their-wildest-morning-since-2008-184837610.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-23T13:48:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Has the AI bubble finally burst? Analysts debate after wild swings",
+      "summary": "Yahoo Finance analysis examines whether the past week's sharp AI-stock volatility, including steep drops followed by record rebounds, marks the beginning of a broader unwind in AI-related valuations or just a short-term shakeout. The piece weighs elevated valuations against still-strong underlying demand trends in cloud and AI infrastructure spending.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-tumbling-ai-bubble-finally-101003873.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-24T05:10:00-05:00",
+      "tickers": ["NVDA", "MSFT", "AMD"],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Week ahead: Wall Street looks for Thanksgiving lift as Nvidia rebound puts AI trade back in focus",
+      "summary": "Yahoo Finance's weekly outlook previews a holiday-shortened trading week, noting investors will watch whether Nvidia's volatile swings stabilize and whether the broader AI trade can hold its footing into the Thanksgiving break, alongside any incremental Fed commentary on rate-hike odds.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/week-ahead-wall-street-looks-163000773.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-23T11:30:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 2,
+      "sentiment": "neutral"
+    }
+  ],
+  "calendar": [
+    {"when": "N/A", "event": "No major US economic releases scheduled for November 24, 2026 per Yahoo Finance calendar", "type": "economic"},
+    {"when": "Dec 3", "event": "Jensen Huang congressional testimony on export controls/national security", "type": "other"}
+  ]
+}

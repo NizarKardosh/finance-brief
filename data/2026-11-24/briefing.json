@@ -1,0 +1,191 @@
+{
+  "date": "2026-11-24",
+  "headline_of_day": "Nvidia-Led Selloff Tests Wall Street's AI Rally",
+  "dek": "Nvidia fell roughly 5% and Anthropic broke its IPO price as Tesla-SpaceX merger talks and fresh deals jolted markets.",
+  "big_picture": "Wall Street's AI-fueled rally cooled on Tuesday as Nvidia dropped about 5%, reversing much of Monday's 31% surge tied to Jensen Huang's reinstatement as chief executive, dragging AMD, Micron and Broadcom lower with it. The S&P 500 fell 1.2% to 7,210.81 and the Nasdaq slid 1.8% to 23,814.99, while the VIX jumped 3.6% to 27.58 as traders weighed a Citadel warning on AI growth and a fresh US-China trade blacklist targeting Megaspeed and an Alibaba unit. Anthropic shares broke below their $83 IPO price just days after debuting, compounding concerns about frothy AI-linked valuations, while Tesla and SpaceX quietly began assembling deal teams for a roughly $3.5 trillion merger that could hand Elon Musk majority control of the combined company. Elsewhere, CrowdStrike agreed to buy Zscaler for $44 billion and Sanofi struck a $41 billion deal ahead of a patent cliff, underscoring a busy backdrop of consolidation even as fresh US tariff plans and an OPEC+ supply decision loom. Best Buy and HPE delivered a mixed earnings picture: strong comparable sales at the former, a disappointing AI-server margin outlook at the latter.",
+  "three_things": [
+    "Nvidia's Huang-reinstatement rally reversed hard, pulling the whole AI trade down with it",
+    "Anthropic broke its IPO price within days of debuting, fueling insider-selling scrutiny",
+    "Tesla and SpaceX are quietly laying groundwork for a roughly $3.5tn merger"
+  ],
+  "market_pulse": "The S&P 500 slipped 0.34% to 7,212.55 and the Nasdaq 100 dropped 1.33% to 26,389.92 on a chip-led selloff, while the Dow rose 0.47% to 49,826.19 and the Russell 2000 gained 0.44% on broad breadth (348 advancers vs. 153 decliners). Health Technology led sectors (+2.25%, Eli Lilly +2.96%, AbbVie +2.02%) while Electronic Technology lagged (-2.83%) as Nvidia fell 5.56% and Broadcom dropped 3.62%. The VIX jumped 3.61% to 27.58 even as the 10-year yield fell 0.61% to 4.91%, the dollar index slid 0.49% to 103.80, WTI crude rose 1.52% to $81.39 and gold eased 0.50%. Among the most-active names, Anthropic (-7.26%), AMD (-7.60%), Micron (-6.96%) and Sandisk (-6.78%) led declines, while Insmed surged 14.34% on heavy volume.",
+  "standouts": [
+    {"ticker": "NVDA", "note": "-5.56% to $155.87 on heavy volume ($10.68B traded), top of most-active and biggest drag on Electronic Technology"},
+    {"ticker": "AMD", "note": "-7.60% to $419.01, among most-active with $3.19B traded"},
+    {"ticker": "ANT", "note": "-7.26% to $81.28 (Anthropic), second most-active by volume"},
+    {"ticker": "MU", "note": "-6.96% to $658.46 (Micron), most-active with $4.36B traded"},
+    {"ticker": "INSM", "note": "+14.34% to $170.47 (Insmed), top gainer with 6.87x relative volume"},
+    {"ticker": "ANF", "note": "+22.29% to $171.75 (Abercrombie & Fitch), biggest gainer in the index"}
+  ],
+  "stories": [
+    {
+      "headline": "Nvidia-led selloff drags Wall Street lower as Huang rally unwinds",
+      "summary": "Nvidia shares fell about 5%, reversing much of Monday's 31% surge that followed Jensen Huang's reinstatement as CEO after a 12-day absence, pulling AMD, Micron and Broadcom lower in sympathy. The S&P 500 dropped 1.2% to 7,210.81 and the Nasdaq fell 1.8% to 23,814.99, while Citadel warned on the AI growth outlook and the Trump administration added Megaspeed and an Alibaba unit to a trade blacklist. The VIX jumped 3.6% to 27.58 as investors tested the durability of the AI trade a day after its sharpest rally since 2020.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQ2VuMWM0TmxDX1JHckNONUktS3M3eFVSbDVJeWQ0bWZsUFlhWTZ6dkZWSi1lUTlZUjVnamk5OTQ4bTBBc2ViWHJzekF0cTlWSlo0blR1ZkU2RDNYVU5QbnJOaDcwZVlmWlljTHEwRV9wQ2pfdG9nNG1icTZvcnBwalZFZGRCa3Q0dTNvQ2dWcVdzTnlGcHZEajN4ME5URDNTTV9RODhxSWQzdlBTZUZDZTF1ZkExektQMVhibk5PdFoyMEJfMmtIYnZR?oc=5"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-nvidia-stock-falls-as-exuberance-fades-after-jensen-huangs-return-as-ceo-142100906.html"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates"}
+      ],
+      "published": "2026-11-24T09:45:35Z",
+      "tickers": ["NVDA", "AMD", "MU", "AVGO", "BABA"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Anthropic shares break below $83 IPO price days after debut",
+      "summary": "Anthropic shares fell below their $83 initial public offering price on Tuesday, erasing the roughly 34% opening-day pop that had taken the stock to a $97.17 close last week. Reports that chief executive Dario Amodei and his sister sold $561 million of stock in the IPO have intensified scrutiny of insider selling, with filings permitting insiders to offload up to 316 million additional shares. Historically, only Uber and Meta have broken their IPO price faster among major US listings since 2008.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT0hkbFdEeDFKTWo1UXlkenJzS3l0QWpGSDdIWGxpbTdiMkpzVkl0bFN0d2RUSGxJS3FxNFNjeEVOeE9qUlB6X1ZKNldQdFA5b2NUam1pZjQzXzFZSFZYQ21mUXJlSzVvOWs5dS1lc3A2NG5zeGQ1RXlQR0c4QkxOUVNQUzNyYzBMT1A5emhvX2VNc2thcUJoSjhqYzZjM0Y2ZmdQellESkczaXc?oc=5"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/article/anthropic-stock-drops-below-83-ipo-price-as-day-one-pop-vanishes-143438983.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading"}
+      ],
+      "published": "2026-11-24T13:58:08Z",
+      "tickers": ["ANT"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Tesla and SpaceX assemble deal teams for ~$3.5tn merger talks",
+      "summary": "Tesla and SpaceX have formed special committees and hired investment banks — Morgan Stanley and Goldman Sachs for SpaceX, Evercore for Tesla — to negotiate a potential all-stock merger valued at roughly $3.5 trillion, with a deal possibly finalised by year-end. Because Elon Musk holds about 20% of Tesla's voting power versus 84% at SpaceX through supervoting shares, the combination could hand him majority control of the merged entity depending on the final exchange ratio and governance terms.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/technology/article/tesla-and-spacex-assemble-deal-teams-for-a-merger-that-could-give-musk-majority-control-144555932.html"}
+      ],
+      "published": "2026-11-24T09:45:00-05:00",
+      "tickers": ["TSLA"],
+      "category": "Deals",
+      "importance": 5,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "CrowdStrike to buy Zscaler in $44bn all-stock cybersecurity deal",
+      "summary": "CrowdStrike agreed to acquire rival Zscaler in an all-stock transaction valued at $44 billion, one of the largest technology deals of the year. The combination would merge endpoint security with cloud and network security, consolidating two of the sector's biggest platforms.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNEJZUE0yX0liZUI4VjVDVEtUMHUyR19DWXI5d01LNmVETUlnamxKODBRelNLaFE1TGdmNlRBbVR3eXVZQkxEbFdPYzFDWmJNVUVXZDlTaGd3TDFuYWNYQWkwNG9BVVdIcm5JYzdqVDR2Z2loN1AyVGVwemtxN09xalc1dkVUTWsyWmdzRll3TTJzMkVfZ1VURXQ0UDJNbnF1eTh5NGhmUzlDeG9Rd1Bud1JqUHJ3N29VQ2tscGtmR0o?oc=5"}
+      ],
+      "published": "2026-11-23T10:30:30Z",
+      "tickers": ["CRWD", "ZS"],
+      "category": "Deals",
+      "importance": 5,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "US sanctions Singapore's Megaspeed over Nvidia chip diversion",
+      "summary": "Washington imposed sanctions on Megaspeed, a Singapore-based firm accused of facilitating unauthorised diversion of Nvidia chips, likely to China. The Trump administration added the firm, along with an Alibaba unit, to a trade blacklist, adding regulatory pressure on Nvidia's supply chain as AI export-control enforcement intensifies.",
+      "sources": ["Google Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-23/stock-market-today-dow-s-p-live-updates"}
+      ],
+      "published": "2026-11-24T14:17:00Z",
+      "tickers": ["NVDA", "BABA"],
+      "category": "Policy",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Best Buy posts best same-store sales growth in five years",
+      "summary": "Best Buy reported comparable sales growth of 6.1%, its strongest performance in five years, beating expectations and signalling resilient consumer electronics demand heading into the holiday season. Shares rose about 5% in premarket trading after the retailer also raised its guidance.",
+      "sources": ["Google Finance", "Yahoo Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBsMENfR2tOY1lmMDB4VC1ySEJXR0xDbnozRGZMNUc2VXhIelg2ZlpTRFVkZXRtem1yLU9LY29IUG1Ka0FuSlgzcXBnWm5qZlA1ZmU1RzRsaWZFQVFoSjJ2NFhRZEtMellvdmJHRlZTMTJSZzlq0gF6QVVfeXFMT1NIQVlRWlIwcjhtbS1GbUhNeVo3dXFBSmpieGlGdzJKSWpCdkJLdmhGTXZfV0tWbVVGd2U1aFRKUXVxMU5hVWg0azFSQ0RLS3RINDVjM2tUMlVVeWVJX0trb3BJLUdfOFE3LUV5LWhfcTZnYjIyUFNyaWc?oc=5"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html"}
+      ],
+      "published": "2026-11-24T12:00:41Z",
+      "tickers": ["BBY"],
+      "category": "Earnings",
+      "importance": 4,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Huang's Nvidia return draws bipartisan Capitol Hill scrutiny",
+      "summary": "Nvidia chief executive Jensen Huang is set to testify before the Senate on December 3 and face House committee interviews on December 1 following his reinstatement after a 12-day absence. Senator McCormick is seeking answers on the government's role in his return and on export-control policy, with analysts saying the episode exposes unresolved governance fragilities at the chipmaker.",
+      "sources": ["Bloomberg", "Yahoo Finance"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/newsletters/2026-11-24/jensen-huang-s-return-exposes-nvidia-s-unresolved-fragilities"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-nvidia-stock-falls-as-exuberance-fades-after-jensen-huangs-return-as-ceo-142100906.html"}
+      ],
+      "published": "2026-11-24T11:39:00Z",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "OPEC+ faces pivotal supply decision amid surplus concerns",
+      "summary": "Oil ministers are set to decide crude supply allocations at a month-end meeting, a decision seen as pivotal for prices given resilient Gulf exports and booming production elsewhere. Traders are once again discussing a potential surplus amid ample global supply.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-24/opec-faces-its-most-consequential-supply-decision-of-the-year"}
+      ],
+      "published": "2026-11-24T14:43:44Z",
+      "tickers": [],
+      "category": "Energy",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "US prepares fresh round of tariffs on China and other partners",
+      "summary": "The Trump administration is preparing to raise tariffs on China and other trading partners, a move that could escalate trade tensions and add fresh uncertainty for multinational companies and global supply chains.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPblRKZFY1SDBYYTNwNWlxcjFqNFdGMmpQdXc3RzEyb0NoWHE3MmZoX3hBMmdnR0doa3JUUmhoN2xaUTR6dUVuajlkX19tZmN3ZHFOTUNkWnJmV3RVaThzRXVWbXZlNWVpb3k1WmNzOFRYUDRCTjg1S1g3YTRaMDZMT3lhVm8wM3VHdG1BaWlvTTZNY2JNMlR1aHNzV3RyQVk5MW44?oc=5"}
+      ],
+      "published": "2026-11-24T13:08:00Z",
+      "tickers": [],
+      "category": "Policy",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "China pauses critical-minerals export ban to preserve US trade truce",
+      "summary": "Beijing signalled it will keep complying with its trade agreement with Washington despite tensions following the Nvidia chip-diversion controversy, pausing a planned critical-minerals export ban. The move suggests Xi is playing a longer game on chip retaliation rather than escalating immediately.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-24/china-halts-critical-minerals-ban-to-maintain-truce-with-us"}
+      ],
+      "published": "2026-11-24T08:56:34Z",
+      "tickers": ["NVDA"],
+      "category": "Policy",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "HPE drops 13% as AI-server margin outlook overshadows raised guidance",
+      "summary": "Hewlett Packard Enterprise shares fell about 13% in premarket trading despite Cloud & AI revenue growth of 68.6% year-over-year and better-than-expected fiscal 2027 revenue guidance. Investors focused on HPE's forecast that Cloud & AI operating margins will shrink to roughly 14% in fiscal 2027 from 18.4% currently; Dell shares fell 7% in sympathy, while HPE approved an additional $5 billion buyback and remains up about 100% year-to-date.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/article/hpe-stock-declines-as-margin-outlook-disappoints-134420648.html"}
+      ],
+      "published": "2026-11-24T08:44:00-05:00",
+      "tickers": ["HPE", "DELL"],
+      "category": "Earnings",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Sanofi strikes $41bn deal to counter looming patent cliff",
+      "summary": "French drugmaker Sanofi agreed to a $41 billion acquisition as it seeks to offset upcoming patent expirations on key products. The deal is one of the largest pharmaceutical transactions of the year and underscores the industry's push to refill pipelines ahead of a wave of patent cliffs.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYTNRampBR19XOHhYbVAyU3dfbDF1UDF1OWl4QUZyUVJvUTZoXzVaOUFwV2hsb2V3YjVKTlVTa1E5b3oxUXlPWDE4WDFpdzB5c21vS1Q3aFdLLVpVTUl5RXdueUNBcVJiOVZjcUNUR0dVTm8xa2hhQVFrYTk0d09Na1Q3TzI?oc=5"}
+      ],
+      "published": "2026-11-24T11:17:47Z",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 3,
+      "sentiment": "neutral"
+    }
+  ],
+  "watch_today": [
+    {"when": "Dec 1", "event": "Jensen Huang House committee interviews on Nvidia's reinstatement", "type": "other"},
+    {"when": "Dec 3", "event": "Jensen Huang Senate testimony on Nvidia export controls", "type": "other"}
+  ],
+  "desk_status": {"google": "ok", "yahoo": "ok", "bloomberg": "ok", "markets": "ok"}
+}
