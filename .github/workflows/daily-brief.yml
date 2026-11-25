@@ -1,9 +1,10 @@
 name: Daily Morning Brief
 
 on:
-  schedule:
-    # 04:30 UTC = 06:30 Israel (winter) / 07:30 (summer). GitHub may start scheduled runs 5-30 min late.
-    - cron: "30 4 * * *"
+  # PAUSED: the daily brief now runs on the PC (Windows Task Scheduler).
+  # To resume the cloud schedule, remove the "#" from the two lines below and push.
+  # schedule:
+  #   - cron: "30 4 * * *"   # 04:30 UTC = 06:30 Israel (winter) / 07:30 (summer)
   workflow_dispatch: {}
 
 permissions:
