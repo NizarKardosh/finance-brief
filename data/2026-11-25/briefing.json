@@ -1,0 +1,194 @@
+{
+  "date": "2026-11-25",
+  "headline_of_day": "AI Doubts and Hot Inflation Trigger Broad Market Selloff",
+  "dek": "S&P 500 sheds 2.5% as Nvidia's $2 trillion drawdown deepens and new US tariffs compound hot PCE inflation data.",
+  "big_picture": "US equities suffered their sharpest selloff in months on Wednesday, with the S&P 500 down 2.5% to 7,021.38, the Nasdaq Composite off 3.3%, and the Dow slipping 1.6%, after October core PCE inflation came in at 3.3% year-on-year — the fastest pace since 2023 — and the Trump administration unveiled fresh 20% tariffs on China, the EU and other trading partners. Semiconductor stocks bore the brunt of a two-day AI-valuation rout: Nvidia fell roughly 6% and has now shed close to $2 trillion in market value since its highs, while Micron dropped 11% and AMD nearly 9%. Investors fled into Treasuries as the VIX jumped 20% to 31.72, the 10-year yield eased to 4.82%, gold slid 2.75% to $3,458.51, and Bitcoin fell almost 4% to $57,513. Despite the rout, market breadth stayed positive (345 advancers versus 157 decliners), and a Reuters poll still has strategists projecting a 12%-plus S&P 500 gain by the end of 2027. US markets close Thursday for Thanksgiving and reopen for a half-day session Friday.",
+  "three_things": [
+    "AI-valuation doubts have erased roughly $2 trillion from Nvidia and dragged the Nasdaq down 3.3%.",
+    "Hot core PCE inflation (+3.3% y/y) and new 20% Trump tariffs on China and the EU doubled up the selling pressure.",
+    "Money rotated into Treasuries and cash — the VIX jumped 20% to 31.72 — even as market breadth stayed positive."
+  ],
+  "market_pulse": "A broad risk-off tape saw the S&P 500 drop 2.50% to 7021.38, the Nasdaq 100 fall 1.99%, the Dow slide 1.57%, and the Russell 2000 lose 2.13%, even as breadth stayed positive with 345 advancers versus 157 decliners among S&P 500 names. The VIX spiked 20.33% to 31.72, the 10-year yield eased to 4.82%, the dollar (DXY) was roughly flat at 103.95, WTI crude firmed to $82.59, while gold slumped 2.75% to $3458.51 and Bitcoin dropped 3.72% to $57,513. Health Technology (+3.08%) and Health Services (+1.85%) led sector gains while Electronic Technology (-3.50%) and Producer Manufacturing (-2.78%) lagged, dragged down by chip names. Among the most-active stocks, Micron (-11.01%), AMD (-8.86%), NVIDIA (-5.86%) and Anthropic (NASDAQ:ANT, -6.54%) were hit hard on heavy volume, while Apple (+1.43%) and Insmed (+14.13%, on 19x relative volume) stood out as rare bright spots.",
+  "standouts": [
+    {"ticker": "MU", "note": "-11.01% on heavy volume ($24.65B traded), the chip-sector laggard"},
+    {"ticker": "AMD", "note": "-8.86% on $19.11B traded, top of the most-active list amid the semiconductor selloff"},
+    {"ticker": "NVDA", "note": "-5.86% on $60.01B traded, the largest value traded of any stock"},
+    {"ticker": "ANT", "note": "-6.54% on $25.64B traded, among the most-active names"},
+    {"ticker": "INSM", "note": "+14.13% on 19.44x relative volume, the standout gainer among most-actives"},
+    {"ticker": "ADI", "note": "-17.37% as the day's second-largest single-stock loser, dragging the Electronic Technology sector"}
+  ],
+  "stories": [
+    {
+      "headline": "Wall Street Sinks as Hot Inflation and New Tariffs Compound AI-Stock Rout",
+      "summary": "The S&P 500 fell 2.5% to 7,021, the Nasdaq Composite dropped 3.3%, and the Dow lost 1.6% after October core PCE inflation came in at 3.3% year-on-year — the fastest pace since 2023 — and the Trump administration unveiled fresh 20% tariffs on China, the EU and other partners. The selloff extended a two-day rout driven by mounting doubts over AI-related spending, with investors rotating into Treasuries as a haven.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUEhyLTdac1NBTVdPT1QyLUJKck4wUUJkNjlXQWFHTG1peDJyeDRqNklFSkVpek9JbmEyQ0gya1R6dGZicmpfbkFIS1BjR3lDeGhFMmpIYU90ajhxZ2lwYW5sLW93TmdZcXR3Q2p3akUxc1JBRVRmbEpVQW5LM3pDaXhNZWx6a0txT19rUTQ3R2xVejJWQkh0TzdSRmlOY0lDa05oNklJOE1fVV9CY1FuRXJMNHJrVG8zQzdTX0pjYmNwanNhd0VJcTVkRQ?oc=5"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses"}
+      ],
+      "published": "2026-11-25T14:32:57Z",
+      "tickers": ["^GSPC", "^DJI", "^IXIC"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Chip Stocks Lead Rout as Nvidia's Market-Value Losses Approach $2 Trillion",
+      "summary": "Nvidia shares fell sharply, extending a slide that has erased roughly $2 trillion in market value since the chipmaker's highs, as enthusiasm faded following Jensen Huang's return as CEO. Micron dropped 7-11% on a weaker DRAM outlook and SoftBank fell 15%, dragging the broader semiconductor complex lower alongside AMD and Broadcom on renewed AI-profitability concerns.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX3MzSVpVUmVHWUZvX0hLbENVM1oyN3VDUzhqcFRrRTg0TlZEQTNjeEtKektuOTJQM0RxT1EybW03MXJZRHhtZEg1bUtZTXN3Z0g1RUp2cHJTRmxjQW9GSjhIQnE1dVpBUzgtUkhaTFNOY0ppbDJPSXBFRmtxZVhyajlDZnE4UVViaFZKQXFCVXZCZXhz0gGaAUFVX3lxTE1OZTBPc2FtSElJNmVpYTZOTTJfRWUxVExZN1NSajNvbk1ORnRNSHg5RWxXQTVpVXJSVGhjZW8xdkRWQ25XSmwtdXhsV0Q0MGtyaTFzbXhfOC1WVHQ2M0lwdURjUm9QcDk4U1VvTV9oMHRBQ0JiMlJ1TFdJZWluWFdIbHRxeW05aVRYYWZlWGM5bW41Z0hmTThTV1E?oc=5"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-nvidia-stock-falls-as-exuberance-fades-after-jensen-huangs-return-as-ceo-142100906.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-25/nvidia-still-faces-issues-that-cost-2-trillion-in-market-value"}
+      ],
+      "published": "2026-11-25T19:21:00Z",
+      "tickers": ["NVDA", "MU", "SFTBY", "AMD"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Core PCE Inflation Hits 3.3%, Fastest Since 2023, Clouding Fed's Path",
+      "summary": "October's core PCE price index rose 0.3% on the month and 3.3% year-on-year — its third straight month at that pace and the fastest annual rate since 2023 — while headline PCE climbed 3.8%. The data complicates the Federal Reserve's calculus heading into December, even as futures markets still price a high probability of a quarter-point rate cut.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmt0OG9famdFX2l1SjBPc1A0aWZYc3Aza2tac0ZTYWk0bWplX2xRWVBUdjh3ZEtOQ1RQbFdhaUc0Wl8zZkpKaGV5c3Q1R3AxZHF0VjBqZ0RicnRRNVZ6X2RfYmNQUnBtTXBfbmNQUWRuZXpVcXFGa2pyRXhJZmhIWUxjXzc5cm1RTG1HSm1n?oc=5"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-consumer-spending-stalls-core-pce-rises-0-3-for-third-month"}
+      ],
+      "published": "2026-11-25T13:33:38Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Trump Unveils New 20% Tariffs on China, EU as Trade War Escalates",
+      "summary": "The administration announced additional 20% tariffs on China, the European Union and roughly a dozen other trading partners, stacking atop existing duties and potentially pushing some Chinese import rates above 40% when they take effect in January. The move is already hitting individual exporters — Brazil's Embraer sank almost 10% on a proposed 10% US tariff on its aircraft — and added to the day's broader risk-off tone.",
+      "sources": ["Google Finance", "Yahoo Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFdBa09BUFRidnFKcTFWQkJCb1R2Smh3ZjJ0NkdvMFE1WkdEUklRdzUyZmhFWHgyUHRIS3prWmJQRFlYNGpLSHJ6OThoZVEyWmVDV0NxRTZHblh2cXc4Q0l4MkZXRm83amRNc1l3Qk95UHZJeFpfUENWNTdlLW9sakhBV013cGJicjYxU0pkMlQ4M0tWcTh3dVg5dVJhMzlF?oc=5"},
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-25/embraer-sinks-most-since-may-as-us-proposes-brazil-aircraft-levy"}
+      ],
+      "published": "2026-11-25T12:40:23Z",
+      "tickers": ["ERJ"],
+      "category": "Policy",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Trump Held Millions in Nvidia Stock While Pushing for Huang's Reinstatement",
+      "summary": "A report revealed President Trump owned millions of dollars in Nvidia shares at the same time he was pressuring the company to reinstate Jensen Huang as CEO, raising conflict-of-interest questions. The disclosure adds a political dimension to the scrutiny already facing Nvidia in Washington.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95MDQ2enUzdlIwVHpBQTRKRG9Gek5jcTVtdGNaclcyRVpzSVVnWUIxRl90OFZoSGpaNS1HZ0N1bGw3TFNqazVDS1JMVVNvOEpRVWgzbnFPZUNfUm8ydVl6cnlkLWJ1M2wxWkNTQk5n?oc=5"}
+      ],
+      "published": "2026-11-25T11:00:00Z",
+      "tickers": ["NVDA"],
+      "category": "Policy",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Goldman Strategist Warns It's Too Early to Buy the AI Selloff",
+      "summary": "A Goldman Sachs strategist cautioned that investors should wait for tangible profits from AI infrastructure spending before calling a bottom in the current selloff. The comment reflects a cautious Wall Street posture as the tech rout extends into a second day.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-25/goldman-strategist-says-it-s-too-early-to-buy-the-ai-selloff"}
+      ],
+      "published": "2026-11-25T00:00:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Gold Slides Below $3,500 as Dollar Firms and Rate-Hike Bets Build",
+      "summary": "Gold fell 2.75% to around $3,458 an ounce, breaking below $3,500 as the dollar strengthened and hot inflation data reinforced bets that the Fed may need to hold rates higher for longer. The decline came alongside broader weakness in metals, with copper, aluminum and tin also sliding toward bear-market territory.",
+      "sources": ["Google Finance", "Bloomberg"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpcXRzdlI2OHBPUHRVRTFuTzVzYzc3N092aERUaG5YcW9BWTAzQUgxUEtaeVRJVlRBM1hVYUoxVEJ4bnVxbjFialMwSFZReUZZSnVlMm9nR0Q5ZjUteXVtMlIwVXpxTjhUSEtFUFYyekgybkhpWXdyZXRUTzRfem_SAYQBQVVfeXFMTjVXb2YzM0szVk81WmZKaTdDZUJhZ2lrUktxbjhFX2lZZGlCODNJLWdicEM3RU5YNDVrWUxNTHFPZlhubVdnUU14N3lZNjh1eEgybTVvSENYaVNveTJfZ2NMUVRjMjdJNXczMzlJWEdpV3pMRlI5OUVXaEg1bnBVZnM3NVdM?oc=5"},
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets"}
+      ],
+      "published": "2026-11-25T05:08:05Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Dell Beats Estimates but Shares Fall Amid Broader Tech Selloff",
+      "summary": "Dell reported better-than-expected quarterly results, yet its shares declined as the report landed amid a sector-wide rout in technology and AI-adjacent names. The disconnect underscores how macro and sector pressure is currently overshadowing individual company fundamentals.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55MEZwd3dvejJKRkJhZjk0SkJuUDBNTTJudWNnMHdmVWE5Qk1MUUVpZ3pmQi10WG80M3NqRWZEN1kzWWlTUWVZNU95MWRjVVRacHNQcWp1SFFNLWl6MEp2YkFqMFpza1hpM1NiUU5hS2hWWXZNZmc?oc=5"}
+      ],
+      "published": "2026-11-25T11:06:00Z",
+      "tickers": ["DELL"],
+      "category": "Earnings",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Equity Meltdown Spills Into Currency Carry Trade",
+      "summary": "The stock selloff is spreading into currency carry trades, one of Wall Street's most consistently profitable strategies in 2026. The spillover signals that AI-driven risk aversion is broadening beyond equities into other asset classes.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/articles/2026-11-25/stocks-meltdown-spills-into-unlikely-market-sinking-carry-trade"}
+      ],
+      "published": "2026-11-25T00:00:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Strategists Still See S&P 500 Gaining Over 12% by End-2027",
+      "summary": "A Reuters poll of Wall Street strategists projects the S&P 500 will rise more than 12% by the end of 2027, even after the index's recent pullback. The forecast suggests professional investors remain broadly constructive on equities over a multi-year horizon despite near-term volatility.",
+      "sources": ["Google Finance"],
+      "links": [
+        {"source": "Google Finance", "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWDhDOWgxS1ZTNEd0eHJXVXI3RjZ4MTJJM0Y5cHUzNDE3ZWM3YllDV3lFeTdWZHVjNVNHSU5pZU53V1ZJV1ZHRVhScFVOMXhzMk1ySzZZN2JtWmlSOE5TbThBM2RXcVliNVAwOElhSHhuaWpiNE5TRXotcE1VZmxONGJWdzBkVWpPRm1LM0NFb2xMQTJFYUM5ZVpB?oc=5"}
+      ],
+      "published": "2026-11-24T18:50:19Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Dangote Refinery Set to List in Lagos Dec. 1 in Africa's Largest IPO",
+      "summary": "Aliko Dangote's oil refinery is expected to begin trading in Lagos as soon as next week, in an offering valued at roughly $48 billion. The listing would be the largest primary share offering in Africa's history.",
+      "sources": ["Bloomberg"],
+      "links": [
+        {"source": "Bloomberg", "url": "https://www.bloomberg.com/news/videos/2026-11-25/dangote-refinery-set-to-start-trading-in-lagos-on-dec-1-video"}
+      ],
+      "published": "2026-11-25T00:00:00-05:00",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Q3 GDP Revised Up to 4.3% Annualized Growth",
+      "summary": "Third-quarter US GDP growth was revised up to 4.3% annualized, boosted by strong investment and consumer spending. The robust figure contrasts with the same day's hot inflation data, complicating the Fed's policy calculus ahead of its December decision.",
+      "sources": ["Yahoo Finance"],
+      "links": [
+        {"source": "Yahoo Finance", "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html"}
+      ],
+      "published": "2026-11-25T09:14:00-05:00",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 3,
+      "sentiment": "neutral"
+    }
+  ],
+  "watch_today": [
+    {"when": "08:30 ET", "event": "Core PCE Price Index (Oct): +0.3% m/m, +3.3% y/y — fastest pace since 2023", "type": "economic"},
+    {"when": "08:30 ET", "event": "Headline PCE: +3.8% y/y, highest since 2023", "type": "economic"},
+    {"when": "Today", "event": "Q3 GDP (third estimate) revised up to 4.3% annualized", "type": "economic"},
+    {"when": "Thu-Fri", "event": "US markets closed Thursday for Thanksgiving; half-day session Friday", "type": "other"}
+  ],
+  "desk_status": {"google": "ok", "yahoo": "ok", "bloomberg": "ok", "markets": "ok"}
+}

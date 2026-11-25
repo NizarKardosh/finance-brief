@@ -1,0 +1,89 @@
+{
+  "source": "Bloomberg",
+  "fetched_at": "2026-11-25T15:00:00Z",
+  "stories": [
+    {
+      "headline": "Tech selloff deepens as AI doubts drive rush into Treasuries",
+      "summary": "A renewed rout in technology shares showed no sign of letting up as investors questioned the artificial-intelligence growth outlook, pushing US stock futures sharply lower for a second day. The flight from risk sent money into US Treasuries, which rallied across the curve as haven demand surged.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-stock-index-futures-slide-as-ai-worries-fuel-tech-losses",
+      "published": "2026-11-25T00:00:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Core PCE inflation rises 0.3% for third straight month, complicating Fed outlook",
+      "summary": "US consumer spending stalled in October after a strong surge earlier in the year, while core PCE inflation rose 0.3% for a third consecutive month, up 3.3% year-over-year, the fastest pace since 2023. The data reinforces expectations that the Fed may need to keep rates higher for longer, and comes as gold and risk assets sell off.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/us-consumer-spending-stalls-core-pce-rises-0-3-for-third-month",
+      "published": "2026-11-25T08:33:38-05:00",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Nvidia still faces issues that have cost $2 trillion in market value",
+      "summary": "Despite CEO Jensen Huang's active leadership, Nvidia investors continue to grapple with concerns that have wiped roughly $2 trillion off the chipmaker's market value. The stock remains at the center of the broader AI-trade anxiety roiling tech markets.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/nvidia-still-faces-issues-that-cost-2-trillion-in-market-value",
+      "published": "2026-11-25T00:00:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Goldman strategist says it's too early to buy the AI selloff",
+      "summary": "A Goldman Sachs strategist cautioned that investors need to see real profits from the billions being spent building AI infrastructure before calling a bottom in the selloff. The comment reflects a cautious Wall Street stance as the tech rout extends into a second day.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/goldman-strategist-says-it-s-too-early-to-buy-the-ai-selloff",
+      "published": "2026-11-25T00:00:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Gold slumps below $3,500 on rate-hike outlook and AI stock selloff",
+      "summary": "Gold fell below $3,500 an ounce as the equity selloff continued and the latest inflation print reinforced expectations the Fed could keep raising or holding rates higher. The move came alongside broader risk-off trading across metals, with copper, aluminum and tin also sliding toward bear-market territory.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-24/gold-holds-decline-as-us-tariff-plans-reinforce-rate-hike-bets",
+      "published": "2026-11-24T00:00:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Equity meltdown spreads to carry trade, denting one of 2026's reliable wagers",
+      "summary": "The stock market selloff is spilling into currency carry trades, which have been one of Wall Street's most consistent winning strategies in 2026. The spillover signals that AI-driven risk aversion is broadening beyond equities into other asset classes.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/stocks-meltdown-spills-into-unlikely-market-sinking-carry-trade",
+      "published": "2026-11-25T00:00:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Embraer shares sink almost 10% after US proposes Brazil aircraft tariff",
+      "summary": "Embraer SA shares fell nearly 10% in Sao Paulo, their worst drop since May, after the US proposed an additional 10% tariff on Brazilian aircraft. The move adds to trade-policy pressure on Brazilian exporters and comes as the US prepares broader tariff hikes.",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-25/embraer-sinks-most-since-may-as-us-proposes-brazil-aircraft-levy",
+      "published": "2026-11-25T00:00:00-05:00",
+      "tickers": ["ERJ"],
+      "category": "Deals",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Dangote Refinery set to list in Lagos on December 1 in Africa's largest IPO",
+      "summary": "Billionaire Aliko Dangote's oil refinery is expected to start trading in Lagos as soon as next week, in an operation valued at roughly $48 billion through its IPO. The listing would be the largest primary offering in Africa's history.",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-25/dangote-refinery-set-to-start-trading-in-lagos-on-dec-1-video",
+      "published": "2026-11-25T00:00:00-05:00",
+      "tickers": [],
+      "category": "Deals",
+      "importance": 3,
+      "sentiment": "neutral"
+    }
+  ],
+  "calendar": [
+    {"when": "08:30 ET", "event": "Core PCE Price Index (Oct) - released, +0.3% m/m, +3.3% y/y", "type": "economic"}
+  ]
+}

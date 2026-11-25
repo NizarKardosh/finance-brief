@@ -1,0 +1,100 @@
+{
+  "source": "Yahoo Finance",
+  "fetched_at": "2026-11-25T14:30:00-05:00",
+  "stories": [
+    {
+      "headline": "Stocks sink as hot PCE inflation and new Trump tariffs hit markets",
+      "summary": "The Dow fell about 1.5% to roughly 49,059, the S&P 500 dropped 2.3% to about 6,993, and the Nasdaq slid 3.3% to around 22,719 as hotter-than-expected inflation data and new tariff announcements rattled investors. Core PCE rose 0.3% month-over-month and 3.3% year-over-year (vs. 3.2% expected), while headline PCE climbed 3.8% annually, the highest since 2023. Traders now price a 98% probability of a 25-basis-point Fed rate cut in December.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-25T09:14:00-05:00",
+      "tickers": ["^GSPC", "^DJI", "^IXIC"],
+      "category": "Macro",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Trump administration unveils new 20% tariffs on China, EU and other trading partners",
+      "summary": "The administration announced new 20% tariffs targeting China, the European Union, and roughly a dozen other trading partners, stacking atop existing duties and potentially pushing rates on some Chinese goods above 40%. Implementation is expected in January following a public comment period. The move added to market unease already stirred by hot inflation data.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-25T09:14:00-05:00",
+      "tickers": [],
+      "category": "Policy",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Micron falls 7% as weaker DRAM outlook and new tariffs hit memory chip stocks",
+      "summary": "Micron Technology shares dropped 7% to about $585, extending a 33% decline over the past month, after TrendForce cut its DRAM outlook citing reduced 2027 memory orders from Chinese cloud providers. SanDisk fell 7% (down 53% over the month) on a NAND pricing downturn, while SK Hynix dropped 6% on similar DRAM weakness and South Korean tariff exposure. Micron trades at roughly 8.5x trailing earnings, which some analysts warn could become a value trap if memory pricing has peaked.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-falls-7-weaker-dram-141311449.html",
+      "publisher": "24/7 Wall St.",
+      "published": "2026-11-25T14:02:00-05:00",
+      "tickers": ["MU", "SNDK"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Nvidia stock falls as exuberance fades following Jensen Huang's return as CEO",
+      "summary": "Nvidia shares dropped about 8% in early trading, giving back a chunk of a prior sharp rally, as investor enthusiasm cooled following Jensen Huang's return as CEO. The decline came amid a broader semiconductor selloff tied to growing concerns about AI profitability and demand sustainability.",
+      "url": "https://finance.yahoo.com/markets/stocks/live/nvidia-live-updates-nvidia-stock-falls-as-exuberance-fades-after-jensen-huangs-return-as-ceo-142100906.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-25T14:21:00-05:00",
+      "tickers": ["NVDA"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Chip sector selloff deepens amid AI profitability concerns",
+      "summary": "Semiconductor stocks extended losses as investors grew more cautious about the sustainability of AI-related spending and profitability. The Nasdaq's 3.3% drop was driven largely by chip names, continuing a rout that began earlier in the week.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-24T14:06:00-05:00",
+      "tickers": ["NVDA", "AMD", "MU"],
+      "category": "Tech",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Q3 GDP revised up to 4.3% annualized growth",
+      "summary": "Third-quarter U.S. GDP growth was reported at 4.3% annualized, accelerated by strong investment and consumer spending. The robust growth figure contrasts with hotter inflation data released the same day, complicating the Fed's policy calculus heading into December.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-25T09:14:00-05:00",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 3,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "This happens to the S&P 500 about twice a year, here's what history says comes next",
+      "summary": "A Motley Fool analysis examines a recurring S&P 500 pattern that has historically occurred roughly twice annually, looking at what has followed similar occurrences in the past as investors try to gauge the index's next move amid the current selloff.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/happens-p-500-twice-heres-142802372.html",
+      "publisher": "Motley Fool",
+      "published": "2026-11-25T14:28:00-05:00",
+      "tickers": ["^GSPC"],
+      "category": "Markets",
+      "importance": 2,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Stock and bond markets to close for Thanksgiving, half-day trading Friday",
+      "summary": "U.S. stock and bond markets will be closed Thursday for the Thanksgiving holiday and will reopen Friday for an abbreviated half-day session, a scheduling note relevant for traders ahead of the holiday week.",
+      "url": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-november-25-dow-sp-500-nasdaq-pce-inflation-data-091428237.html",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-25T09:14:00-05:00",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 1,
+      "sentiment": "neutral"
+    }
+  ],
+  "calendar": [
+    {"when": "08:30 ET", "event": "Core PCE Price Index (Oct) - MM 0.3%, YY 3.3%", "type": "economic"},
+    {"when": "08:30 ET", "event": "Headline PCE YY 3.8% (highest since 2023)", "type": "economic"},
+    {"when": "Today", "event": "Q3 GDP (third estimate) - 4.3% annualized", "type": "economic"},
+    {"when": "Thu-Fri", "event": "Markets closed Thursday for Thanksgiving; half-day Friday", "type": "other"}
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "source": "Google Finance",
+  "fetched_at": "2026-11-25T15:30:00Z",
+  "stories": [
+    {
+      "headline": "Dow, S&P 500, and Nasdaq fall as hot inflation data and new Trump tariffs deepen chip-sector rout",
+      "summary": "US stocks sold off as a hotter-than-expected inflation reading reinforced bets the Fed may raise rates again, while new Trump tariffs added pressure. The decline extended a global tech and chip-stock selloff, with Nvidia and other semiconductor names leading losses.",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUEhyLTdac1NBTVdPT1QyLUJKck4wUUJkNjlXQWFHTG1peDJyeDRqNklFSkVpek9JbmEyQ0gya1R6dGZicmpfbkFIS1BjR3lDeGhFMmpIYU90ajhxZ2lwYW5sLW93TmdZcXR3Q2p3akUxc1JBRVRmbEpVQW5LM3pDaXhNZWx6a0txT19rUTQ3R2xVejJWQkh0TzdSRmlOY0lDa05oNklJOE1fVV9CY1FuRXJMNHJrVG8zQzdTX0pjYmNwanNhd0VJcTVkRQ?oc=5",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-25T14:32:57Z",
+      "tickers": ["NVDA"],
+      "category": "Markets",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Another hot inflation reading keeps Fed on track to consider another rate hike",
+      "summary": "A fresh inflation report came in above expectations, strengthening the case for the Federal Reserve to raise interest rates again rather than cut. The data raises the odds of continued monetary tightening into next year, pressuring equity valuations.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVmt0OG9famdFX2l1SjBPc1A0aWZYc3Aza2tac0ZTYWk0bWplX2xRWVBUdjh3ZEtOQ1RQbFdhaUc0Wl8zZkpKaGV5c3Q1R3AxZHF0VjBqZ0RicnRRNVZ6X2RfYmNQUnBtTXBfbmNQUWRuZXpVcXFGa2pyRXhJZmhIWUxjXzc5cm1RTG1HSm1n?oc=5",
+      "publisher": "The New York Times",
+      "published": "2026-11-25T13:53:24Z",
+      "tickers": [],
+      "category": "Macro",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Tech rout deepens globally; SoftBank falls 15%, Nvidia down 4.5% premarket",
+      "summary": "A global technology selloff intensified overnight, with SoftBank shares dropping 15% and Nvidia falling about 4.5% in premarket trading. The rout reflects renewed investor concern over AI-related valuations and chip-sector exposure.",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX3MzSVpVUmVHWUZvX0hLbENVM1oyN3VDUzhqcFRrRTg0TlZEQTNjeEtKektuOTJQM0RxT1EybW03MXJZRHhtZEg1bUtZTXN3Z0g1RUp2cHJTRmxjQW9GSjhIQnE1dVpBUzgtUkhaTFNOY0ppbDJPSXBFRmtxZVhyajlDZnE4UVViaFZKQXFCVXZCZXhz0gGaAUFVX3lxTE1OZTBPc2FtSElJNmVpYTZOTTJfRWUxVExZN1NSajNvbk1ORnRNSHg5RWxXQTVpVXJSVGhjZW8xdkRWQ25XSmwtdXhsV0Q0MGtyaTFzbXhfOC1WVHQ2M0lwdURjUm9QcDk4U1VvTV9oMHRBQ0JiMlJ1TFdJZWluWFdIbHRxeW05aVRYYWZlWGM5bW41Z0hmTThTV1E?oc=5",
+      "publisher": "CNBC",
+      "published": "2026-11-25T00:52:00Z",
+      "tickers": ["NVDA", "SFTBY"],
+      "category": "Tech",
+      "importance": 5,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "World stocks fall as new US tariffs loom and AI rebound fizzles",
+      "summary": "Global equity markets declined as investors priced in new US tariff measures and a short-lived rebound in AI-related stocks reversed. The combination of trade policy uncertainty and fading AI enthusiasm weighed on risk sentiment worldwide.",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFdBa09BUFRidnFKcTFWQkJCb1R2Smh3ZjJ0NkdvMFE1WkdEUklRdzUyZmhFWHgyUHRIS3prWmJQRFlYNGpLSHJ6OThoZVEyWmVDV0NxRTZHblh2cXc4Q0l4MkZXRm83amRNc1l3Qk95UHZJeFpfUENWNTdlLW9sakhBV013cGJicjYxU0pkMlQ4M0tWcTh3dVg5dVJhMzlF?oc=5",
+      "publisher": "Yahoo Finance",
+      "published": "2026-11-25T12:40:23Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 4,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Trump owned millions in Nvidia stock while pressing company to reinstate Jensen Huang",
+      "summary": "A report revealed that President Trump held millions of dollars in Nvidia shares at the same time he was pushing the chipmaker to reinstate CEO Jensen Huang, raising potential conflict-of-interest questions. The disclosure adds a political dimension to Nvidia's ongoing scrutiny in Washington.",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95MDQ2enUzdlIwVHpBQTRKRG9Gek5jcTVtdGNaclcyRVpzSVVnWUIxRl90OFZoSGpaNS1HZ0N1bGw3TFNqazVDS1JMVVNvOEpRVWgzbnFPZUNfUm8ydVl6cnlkLWJ1M2wxWkNTQk5n?oc=5",
+      "publisher": "CBS News",
+      "published": "2026-11-25T11:00:00Z",
+      "tickers": ["NVDA"],
+      "category": "Policy",
+      "importance": 4,
+      "sentiment": "neutral"
+    },
+    {
+      "headline": "Dell delivers strong earnings but stock falls amid broader tech selloff",
+      "summary": "Dell reported better-than-expected quarterly results, but shares declined as the report landed amid a broad rout in technology and AI-adjacent stocks. The mismatch highlights how macro and sector-wide pressure is currently overshadowing individual company fundamentals.",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE55MEZwd3dvejJKRkJhZjk0SkJuUDBNTTJudWNnMHdmVWE5Qk1MUUVpZ3pmQi10WG80M3NqRWZEN1kzWWlTUWVZNU95MWRjVVRacHNQcWp1SFFNLWl6MEp2YkFqMFpza1hpM1NiUU5hS2hWWXZNZmc?oc=5",
+      "publisher": "Barron's",
+      "published": "2026-11-25T11:06:00Z",
+      "tickers": ["DELL"],
+      "category": "Earnings",
+      "importance": 3,
+      "sentiment": "bearish"
+    },
+    {
+      "headline": "Reuters poll: S&P 500 seen gaining more than 12% by end-2027 despite recent bruising",
+      "summary": "A Reuters poll of strategists projects the S&P 500 will rise more than 12% by the end of 2027, even after the index's recent pullback. The forecast suggests Wall Street professionals remain broadly constructive on equities over a multi-year horizon despite near-term volatility.",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWDhDOWgxS1ZTNEd0eHJXVXI3RjZ4MTJJM0Y5cHUzNDE3ZWM3YllDV3lFeTdWZHVjNVNHSU5pZU53V1ZJV1ZHRVhScFVOMXhzMk1ySzZZN2JtWmlSOE5TbThBM2RXcVliNVAwOElhSHhuaWpiNE5TRXotcE1VZmxONGJWdzBkVWpPRm1LM0NFb2xMQTJFYUM5ZVpB?oc=5",
+      "publisher": "Reuters",
+      "published": "2026-11-24T18:50:19Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 3,
+      "sentiment": "bullish"
+    },
+    {
+      "headline": "Gold slips as dollar strengthens and investors focus on US inflation data",
+      "summary": "Gold prices eased as the US dollar firmed ahead of and following the latest inflation report. Traders are weighing the implications of persistent inflation for the Fed's rate path, which has pressured non-yielding assets like gold.",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpcXRzdlI2OHBPUHRVRTFuTzVzYzc3N092aERUaG5YcW9BWTAzQUgxUEtaeVRJVlRBM1hVYUoxVEJ4bnVxbjFialMwSFZReUZZSnVlMm9nR0Q5ZjUteXVtMlIwVXpxTjhUSEtFUFYyekgybkhpWXdyZXRUTzRfem_SAYQBQVVfeXFMTjVXb2YzM0szVk81WmZKaTdDZUJhZ2lrUktxbjhFX2lZZGlCODNJLWdicEM3RU5YNDVrWUxNTHFPZlhubVdnUU14N3lZNjh1eEgybTVvSENYaVNveTJfZ2NMUVRjMjdJNXczMzlJWEdpV3pMRlI5OUVXaEg1bnBVZnM3NVdM?oc=5",
+      "publisher": "CNBC",
+      "published": "2026-11-25T05:08:05Z",
+      "tickers": [],
+      "category": "Markets",
+      "importance": 2,
+      "sentiment": "bearish"
+    }
+  ],
+  "calendar": []
+}

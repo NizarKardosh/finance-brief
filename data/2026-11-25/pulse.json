@@ -1,0 +1,12 @@
+{
+  "pulse": "A broad risk-off tape saw the S&P 500 drop 2.50% to 7021.38, the Nasdaq 100 fall 1.99%, the Dow slide 1.57%, and the Russell 2000 lose 2.13%, even as breadth stayed positive with 345 advancers versus 157 decliners among S&P 500 names. The VIX spiked 20.33% to 31.72 signaling a jump in hedging demand, the 10-year yield eased 2.15% to 4.82%, the dollar (DXY) was roughly flat at +0.10% to 103.95, WTI crude firmed 0.66% to $82.59, while gold slumped 2.75% to $3458.51 and Bitcoin dropped 3.72% to $57,513. Health Technology (+3.08%) and Health Services (+1.85%) led sector gains while Electronic Technology (-3.50%) and Producer Manufacturing (-2.78%) lagged badly, dragged down by chip names. Among the most-active stocks, Micron (-11.01%), AMD (-8.86%), NVIDIA (-5.86%) and Anthropic (NASDAQ:ANT, -6.54%) were hit hard on heavy volume, while Apple (+1.43%) and Insmed (+14.13%, on 19x relative volume) stood out as rare bright spots."
+  ,
+  "standouts": [
+    {"ticker": "MU", "note": "-11.01% on heavy volume ($24.65B traded), among the day's most active and the chip-sector laggard"},
+    {"ticker": "AMD", "note": "-8.86% on $19.11B traded, top of most-active list amid semiconductor selloff"},
+    {"ticker": "NVDA", "note": "-5.86% on $60.01B traded (largest value traded of any stock), most-active leader"},
+    {"ticker": "ANT", "note": "-6.54% on $25.64B traded, among the most-active names in its Technology Services debut-era trading"},
+    {"ticker": "INSM", "note": "+14.13% on 19.44x relative volume, the standout gainer among most-actives"},
+    {"ticker": "ADI", "note": "-17.37% as the day's second-largest single-stock loser, dragging Electronic Technology sector"}
+  ]
+}
